@@ -1,10 +1,158 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-22T18:10:51.676Z</id>
+    <id>urn:2026-10-23T04:00:00.934Z</id>
     <title>CatRssFeeds</title>
-    <updated>2026-10-22T18:10:51.676Z</updated>
+    <updated>2026-10-23T04:00:00.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Steam Beta Client Update: October 22nd]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244201</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244201"/>
+        <updated>2026-10-23T00:35:45.000Z</updated>
+        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
+
+Remote Play
+
+Big revamp of HDR support:
+
+Added an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.
+
+In addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.
+
+HDR is enabled again on Steam Deck OLED.
+
+HDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Beta Client Update: October 22nd]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244201</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244201"/>
+        <updated>2026-10-23T00:35:45.000Z</updated>
+        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
+
+Remote Play
+
+Big revamp of HDR support:
+
+Added an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.
+
+In addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.
+
+HDR is enabled again on Steam Deck OLED.
+
+HDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)]]></summary>
+        <author>
+            <name>1675200 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - October 22nd]]></title>
+        <id>https://store.steampowered.com/news/group/4397053/view/712290127331726184</id>
+        <link href="https://store.steampowered.com/news/group/4397053/view/712290127331726184"/>
+        <updated>2026-10-23T00:34:33.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+Remote Play
+
+Big revamp of HDR support:
+
+Added an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.
+
+Added a brightness slider to the streaming overlay.
+
+In addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.
+
+HDR is enabled again on Steam Deck OLED.
+
+HDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade]]></title>
+        <id>https://9to5google.com/?p=734397</id>
+        <link href="https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/"/>
+        <updated>2026-10-22T22:05:06.000Z</updated>
+        <summary type="html"><![CDATA[YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds, including moving Subscriptions out of the bottom bar.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung reiterates that Galaxy Z Fold 8 is a hit, and that iPhone Duo puts a spotlight on it]]></title>
+        <id>https://9to5google.com/?p=734388</id>
+        <link href="https://9to5google.com/2026/10/22/galaxy-z-fold-8-hit-iphone-duo-boost/"/>
+        <updated>2026-10-22T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[In a post in its UK Newsroom, Samsung reiterates that the Galaxy Z Fold 8 series has been a huge hit, including in Europe.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google explains how to fix time zones on Android amid changes in Canada]]></title>
+        <id>https://9to5google.com/?p=734387</id>
+        <link href="https://9to5google.com/2026/10/22/google-explains-how-to-fix-time-zones-on-android-amid-changes-in-canada/"/>
+        <updated>2026-10-22T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[As Canada makes changes around Daylight Savings, Google is explaining how to deal wiith the time zone change on your Android phone.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Galaxy S24, S25 owners say Samsung’s latest update is wrecking battery life]]></title>
+        <id>https://9to5google.com/?p=734377</id>
+        <link href="https://9to5google.com/2026/10/22/samsung-galaxy-s24-battery-life-one-ui-9/"/>
+        <updated>2026-10-22T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung’s latest Android 17-based One UI 9 update seems to be causing headaches for some Galaxy S24 and S25 owners, as battery life has gotten considerably worse following the “upgrade.”
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini app expands Google Maps Personal Intelligence, replacing Deep Think]]></title>
+        <id>https://9to5google.com/?p=734380</id>
+        <link href="https://9to5google.com/2026/10/22/gemini-personal-intelligence-maps/"/>
+        <updated>2026-10-22T19:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Besides coming to Android Auto this week, Personal Intelligence in the Gemini app is also expanding its Google Maps integration.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Cat Distribution System chose my yard 3 times’: Woman’s five-cat household grows to eight over two years, and every new arrival opens the family's heart a little more]]></title>
+        <id>https://cheezburger.com/47178757/the-cat-distribution-system-chose-my-yard-3-times-womans-five-cat-household-grows-to-eight-over-two</id>
+        <link href="https://cheezburger.com/47178757/the-cat-distribution-system-chose-my-yard-3-times-womans-five-cat-household-grows-to-eight-over-two"/>
+        <updated>2026-10-22T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Watching the Cat Distribution System work its magic is like looking at the most heartwarming magic show in the world.
+Nobody knows how the Cat Distribution System actually works. Not even we here at the I Can Has Cheezburger HQ. But they (it?) have three parts to their name, so I'll try my best to explore and explain what the CDS actually is in three parts - just like the three cats it sent to this one woman below.
+Firstly, cat. When you talk about the CDS, you talk about cats. There are plenty of cats in need out there on the streets - some are hungry, others are suffering extreme weather conditions, and other cats deal with all of these while also giving birth to kittens outside. That's a crazy thought to hold, especially if you're a cat lover. For me at least, it's hard thinking there are cats outside right now that might need help that I can't give them at the moment. It breaks my heart a little.
+Secondly, distribution. The CDS doesn't just deal with cats - it sends them where they need to go. Or, you know, it distributes them. Somewhere out there, there's a human who will give a cat a forever home, and that might just be this specific human and that specific cat. And that distribution part is what makes this matchmaking take place. But how do they know to match the right cat to the right person, and vice versa?
+That's where the third part comes in, the system. It's not random, despite it being seen as such. Take this one woman who tells her CDS story below - it seems like such a coincidence that she'd be chosen for a match three times, but that's not a random chance at all. This is the CDS at work. You see, she already had five cats, which immediately flagged her as a safe space for cats on the CDS side. They didn't wander into her yard "just because" - they went there to meet their forever home. It's exactly where and when they should've been.]]></summary>
+        <author>
+            <name>Ayala Sorotsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today’s Android app deals and freebies: Pixel Golf, Lantern Mail, Through the Darkest of Times, more]]></title>
+        <id>https://9to5toys.com/2026/10/22/todays-highlight-google-play-deals-34/</id>
+        <link href="https://9to5toys.com/2026/10/22/todays-highlight-google-play-deals-34/"/>
+        <updated>2026-10-22T18:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Today’s best Google Play app and game deals are ready, including Pixel Golf, Lantern Mail, Through the Darkest of Times, Ryan World – Challenge, WindWings: Galaxy Attack, 1942 Pacific Front Premium, Save the Puppies Premium, and more. Just be sure to check out Google’s latest Pixel 11 Pro Fold at up to $419 off, this brand new condition Galaxy S26 Ultra model at $420 off, and the ongoing FREE gift card offers on the new Galaxy Tab S12 while you still can. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[31 Feline Funnies for People Raising Ruckus Cat Children]]></title>
         <id>https://cheezburger.com/47179269/31-feline-funnies-for-people-raising-ruckus-cat-children</id>
@@ -98,7 +246,7 @@ But one thing about cats that I thought was obvious that ended up taking me by s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CMF Clip Pro are perfect for runners, especially with this $69 deal]]></title>
+        <title type="html"><![CDATA[This $69 CMF Clip Pro earbuds deal makes it the lowest price of all time]]></title>
         <id>https://9to5google.com/?p=734326</id>
         <link href="https://9to5google.com/2026/10/22/cmf-clip-pro-october-deal/"/>
         <updated>2026-10-22T14:55:00.000Z</updated>
@@ -369,59 +517,7 @@ Desktop Mode
 
 Fixed Vulkan games hanging after alt-tab.]]></summary>
         <author>
-            <name>steam RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Client Update: October 21st]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/687519694976978185</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/687519694976978185"/>
-        <updated>2026-10-21T22:12:40.000Z</updated>
-        <summary type="html"><![CDATA[We have just shipped an updated Steam Client update to the Stable channel.
-
-General
-
-Fixed an error displaying dates for users in British Columbia.
-
-Updated certificate revocation lists.
-
-Desktop Mode
-
-Fixed Vulkan games hanging after alt-tab.]]></summary>
-        <author>
             <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Client Update - October 21st]]></title>
-        <id>https://store.steampowered.com/news/app/593110/view/678512495722237047</id>
-        <link href="https://store.steampowered.com/news/app/593110/view/678512495722237047"/>
-        <updated>2026-10-21T22:10:25.000Z</updated>
-        <summary type="html"><![CDATA[A new Steam Client update has been released and will be automatically downloaded.
-
-General
-
-Fixed some cases the Steam Service Error dialog was showing incorrectly if you quit/restarted Steam quickly.
-
-Fixed an error displaying dates for users in British Columbia.
-
-Updated certificate revocation lists.
-
-Remote Play
-
-Fixed a memory leak using NVENC to stream H.264 using unlimited bandwidth from Windows computers.
-
-Linux
-
-Fixed Vulkan games hanging after alt-tab.
-
-Fixed a case where Steam updater UI would fail to show for some users.
-
-MacOS
-
-Fixed client crash when opening some browser windows.]]></summary>
-        <author>
-            <name>steam RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -1880,20 +1976,6 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kitty falls down from the docks, swims struggling to go back to shore, and kind hoomans go out of their way to rescue him and bring it back to firm land]]></title>
-        <id>https://cheezburger.com/47137797/kitty-falls-down-from-the-docks-swims-struggling-to-go-back-to-shore-and-kind-hoomans-go-out-of</id>
-        <link href="https://cheezburger.com/47137797/kitty-falls-down-from-the-docks-swims-struggling-to-go-back-to-shore-and-kind-hoomans-go-out-of"/>
-        <updated>2026-10-16T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Everybody knows that cats don't usually like water, but sometimes they can't get away from it, no matter how hard they try… 
-We've all seen those videos of dogs in summer, swimming happily in their hooman's pools. They look like they're having the time of their life, and we're rooting for them! But with cats, that is rarely ever the case. There's a reason why most people don't give baths to their cats on a regular basis, and that's mainly because they don't react well. The cat can end up getting stressed out, and we can get a few bites and scratches as our war scars. 
-This doesn't necessarily mean that all cats hate water, or that you'll never be able to give your furbaby a bath even if they come home completely dirty. It just means that we need to be more careful with the way we approach the whole cat-water issue, since some of them might be scared of what water means. 
-I've mentioned before that my cat is a rescue, and the first time they brought her home, she was covered in dirt from head to toe. She needed to get a bath, since she couldn't be in the house all dirty. At first we thought she was just a grey cat, but after the bath, we found out that she was actually black and white! A bath was definitely necessary after all. That first time, she reacted well. She seemed to be too scared to try to do anything, but now, I can't be sure how she would react. Mind you, she's getting dangerously close to needing another bath. She spends a lot of time running around and hiding behind and under furniture, so yes, she comes out all covered in dust quite often, and although I get her clean as best as I can, I might find myself in need of scheduling another bath soon. 
-In this case, it wasn't that the cat was escaping from bath time; nope: the poor thing fell out of the docks and into the sea, and was desperately trying to swim back to shore.]]></summary>
-        <author>
-            <name>Giuliana Tiscioni</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iPhone Duo orders are delayed into 2027; here are the Android foldables you should try instead]]></title>
         <id>https://9to5google.com/?p=733529</id>
         <link href="https://9to5google.com/2026/10/16/iphone-duo-pre-order-delay-android-foldable-alternatives/"/>
@@ -2115,72 +2197,6 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon launches two Bee AI recorders to remember everything you say]]></title>
-        <id>https://9to5google.com/?p=733479</id>
-        <link href="https://9to5google.com/2026/10/15/amazon-launches-bee-ai-wearables/"/>
-        <updated>2026-10-15T17:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Just over a year after acquiring the AI company, Bee, Amazon has officially unveiled two of its first AI wearables, so you never forget what was said.
-more…]]></summary>
-        <author>
-            <name>Andrew Romero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google AI Mode and AI Overview updates work to elevate links]]></title>
-        <id>https://9to5google.com/?p=733411</id>
-        <link href="https://9to5google.com/2026/10/15/google-ai-mode-overviews-links/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google is continuing its work to make links more prominent in AI Mode and AI Overviews.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deals: Samsung Week 2026 now live, Galaxy Book 6 $500 off, Moto Tag 2 trackers from $17.50 each, OLED Chromebook, more]]></title>
-        <id>https://9to5google.com/?p=733474</id>
-        <link href="https://9to5google.com/2026/10/15/deals-samsung-week-now-live-galaxy-book-6-moto-tag-2/"/>
-        <updated>2026-10-15T15:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Alongside the return of the latest Moto Tag 2 Android Find Hub trackers in-stock again at $17.50 each on Amazon, today’s 9to5Toys Lunch Break is headlined by the now live Samsung Week 2026 sale – save hundreds on new Tab S12, Fold 8, and the latest Galaxy Book6 Copilot+ PCs at up to $500 off. For today only, we also have Lenovo’s 14-inch touchscreen OLED Chromebook with the Kompanio Ultra chip and Google AI features at $320 off alongside a host of charger and headphone deals to scope out below. 
-more…]]></summary>
-        <author>
-            <name>Justin Kahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube reportedly ‘looking’ into adding audiobooks to Premium]]></title>
-        <id>https://9to5google.com/?p=733471</id>
-        <link href="https://9to5google.com/2026/10/15/youtube-may-add-audiobooks-to-app/"/>
-        <updated>2026-10-15T15:33:59.000Z</updated>
-        <summary type="html"><![CDATA[Based on a recent report, YouTube is apparently considering adding audiobooks as a new medium alongside music and video.
-more…]]></summary>
-        <author>
-            <name>Andrew Romero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google rolling out Universal Cart that lets you shop the web and find deals with Gemini, Search]]></title>
-        <id>https://9to5google.com/?p=733465</id>
-        <link href="https://9to5google.com/2026/10/15/google-rolling-out-universal-cart-that-lets-you-shop-the-web-and-find-deals-with-gemini-search/"/>
-        <updated>2026-10-15T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Following its announcement at Google I/O earlier this year, Google’s new Universal Cart is now rolling out in the US, giving you the ability to shop the web and watch for deals using Search, Gemini, and more.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung says the Galaxy Z Fold 8 is more popular than ever thanks to iPhone Duo]]></title>
-        <id>https://9to5google.com/?p=733462</id>
-        <link href="https://9to5google.com/2026/10/15/samsung-galaxy-z-fold-8-popularity-iphone-duo/"/>
-        <updated>2026-10-15T14:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple’s debut in the foldable market was always going to have an impact on Android foldables, with many brands having been optimistic that it would have a positive ripple effect. For Samsung, that appears to be true, as the company says that interest in its Galaxy Z Fold 8 remains significantly higher following the iPhone Duo’s announcement.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Steam Client Update: October 13th]]></title>
         <id>https://store.steampowered.com/news/app/1675200/view/675134162359815513</id>
         <link href="https://store.steampowered.com/news/app/1675200/view/675134162359815513"/>
@@ -2231,16 +2247,6 @@ Fixed extremely low bitrates streaming to Android devices.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GooglebookOS ISO: Does It Exist and How to Run It]]></title>
-        <id>https://aluminium-os.com/?p=280748</id>
-        <link href="https://aluminium-os.com/googlebookos-iso-and-how-to-run-it/"/>
-        <updated>2026-10-13T17:49:56.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve gone looking for a GooglebookOS ISO, you’ve probably noticed something odd: there isn’t one. Google doesn’t publish an installable Googlebook OS image for PCs. The only official downloads ... Read more]]></summary>
-        <author>
-            <name>ALOS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Steam Beta Client Update: October 12th]]></title>
         <id>https://store.steampowered.com/news/app/1675200/view/675134162359815374</id>
         <link href="https://store.steampowered.com/news/app/1675200/view/675134162359815374"/>
@@ -2252,24 +2258,6 @@ Remote Play
 Fixed a crash changing the hardware encoding setting while not streaming.
 
 Fixed HEVC hardware encoding on Steam Deck.]]></summary>
-        <author>
-            <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Beta Client Update: October 10th]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/675134162359815102</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/675134162359815102"/>
-        <updated>2026-10-11T03:08:11.000Z</updated>
-        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
-
-Remote Play
-
-Fixed crashes when using the controller to interact with streaming dialogs.
-
-Screenshots
-
-Fixed an issue where deleting an uploaded screenshot would only delete the local copy.]]></summary>
         <author>
             <name>1675200 RSS Feed</name>
         </author>
@@ -2466,16 +2454,6 @@ Improved user proximity detection
 This OS release includes SteamVR (2.18.1)]]></summary>
         <author>
             <name>4165890 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChromeOS End of Life Set for Mid-2034, Google Confirms]]></title>
-        <id>https://aluminium-os.com/?p=280744</id>
-        <link href="https://aluminium-os.com/chromeos-end-of-life-set-for-mid-2034-google-confirms/"/>
-        <updated>2026-09-28T18:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Chromebooks sold today with a 10-year update promise will need Googlebook OS to get updates after 2034, and Google hasn't said which models qualify.]]></summary>
-        <author>
-            <name>ALOS</name>
         </author>
     </entry>
     <entry>
