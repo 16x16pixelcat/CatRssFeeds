@@ -1,10 +1,483 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-23T04:00:00.934Z</id>
+    <id>urn:2026-10-24T03:53:53.203Z</id>
     <title>CatRssFeeds</title>
-    <updated>2026-10-23T04:00:00.934Z</updated>
+    <updated>2026-10-24T03:53:53.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.9]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244963</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244963"/>
+        <updated>2026-10-23T22:04:26.000Z</updated>
+        <summary type="html"><![CDATA[SteamOS 3.9.5 has just been released for all users with the following changes
+
+These notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release
+
+SteamOS 3.9
+General
+
+Updated Arch Linux base
+
+Updated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3
+
+For more information, see
+https://kde.org/announcements/plasma/6/6.7.0/
+https://kde.org/announcements/plasma/6/6.6.0/
+https://kde.org/announcements/plasma/6/6.5.0/
+
+
+Improved support for Steam Frame wireless adapter
+
+Improved idle power consumption on Steam Deck when no audio is playing
+
+Fixed a bug causing hidden WiFi networks to fail to connect on the first attempt
+
+Fixed Steam Remote Play not working on Steam Machine when booting with no external display connected
+…]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.9]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244963</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244963"/>
+        <updated>2026-10-23T22:04:26.000Z</updated>
+        <summary type="html"><![CDATA[SteamOS 3.9.5 has just been released for all users with the following changes
+
+These notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release
+
+SteamOS 3.9
+General
+
+Updated Arch Linux base
+
+Updated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3
+
+For more information, see
+https://kde.org/announcements/plasma/6/6.7.0/
+https://kde.org/announcements/plasma/6/6.6.0/
+https://kde.org/announcements/plasma/6/6.5.0/
+
+
+Improved support for Steam Frame wireless adapter
+
+Improved idle power consumption on Steam Deck when no audio is playing
+
+Fixed a bug causing hidden WiFi networks to fail to connect on the first attempt
+
+Fixed Steam Remote Play not working on Steam Machine when booting with no external display connected
+…]]></summary>
+        <author>
+            <name>1675200 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.9.5 Beta]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244961</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244961"/>
+        <updated>2026-10-23T22:04:14.000Z</updated>
+        <summary type="html"><![CDATA[This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+
+These notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below
+
+New in SteamOS 3.9.5
+General
+
+Security and stability updates
+
+Improved idle power consumption on Steam Deck when no audio is playing
+
+Developer
+
+ Actually reintroduced support for Android binder IPC for real this time
+
+
+SteamOS 3.9
+General
+
+Updated Arch Linux base
+
+Updated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3
+
+For more information, see
+https://kde.org/announcements/plasma/6/6.7.0/
+https://kde.org/announcements/plasma/6/6.6.0/
+https://kde.org/announce…]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.9.5 Beta]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244961</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244961"/>
+        <updated>2026-10-23T22:04:14.000Z</updated>
+        <summary type="html"><![CDATA[This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+
+These notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below
+
+New in SteamOS 3.9.5
+General
+
+Security and stability updates
+
+Improved idle power consumption on Steam Deck when no audio is playing
+
+Developer
+
+ Actually reintroduced support for Android binder IPC for real this time
+
+
+SteamOS 3.9
+General
+
+Updated Arch Linux base
+
+Updated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3
+
+For more information, see
+https://kde.org/announcements/plasma/6/6.7.0/
+https://kde.org/announcements/plasma/6/6.6.0/
+https://kde.org/announce…]]></summary>
+        <author>
+            <name>1675200 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini for Android rolls out side panel and settings redesign]]></title>
+        <id>https://9to5google.com/?p=733865</id>
+        <link href="https://9to5google.com/2026/10/23/gemini-settings-redesign-android/"/>
+        <updated>2026-10-23T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Following the Spark-to-Task update, the Gemini app has now rolled out redesigns of the side panel and settings on Android.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, & more]]></title>
+        <id>https://9to5google.com/?p=734525</id>
+        <link href="https://9to5google.com/2026/10/23/google-health-5-11-release-notes/"/>
+        <updated>2026-10-23T21:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Google Health 5.11 is rolling out this week as a rather big update for Fitbit trackers and the Pixel Watch.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Messages rolling out Enhanced Protection mode against spam and scams]]></title>
+        <id>https://9to5google.com/?p=734448</id>
+        <link href="https://9to5google.com/2026/10/23/google-messages-enhanced-protection/"/>
+        <updated>2026-10-23T20:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Following the announcement earlier this month, Google Messages for Android is rolling out an Enhanced Protection mode to counter spam and scams.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixelated 122: Seven years late, same foldable problems]]></title>
+        <id>https://9to5google.com/?p=734459</id>
+        <link href="https://9to5google.com/2026/10/23/pixelated-122-seven-years-late-same-foldable-problems/"/>
+        <updated>2026-10-23T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Pixelated episode 122. This week, Abner, Damien, and Will discuss the first slate of iPhone Duo reviews, as Apple dives headfirst into a crowded foldable field for thee very first time. What should Android OEMs learn from the iPhone Duo, and what did Apple fail to catch up to the competition on? As always, there’s plenty to discuss.
+Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode.
+Sponsored by Proton Unlimited: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link. Thanks to Proton Unlimited for sponsoring the podcast.
+
+
+
+
+Subscribe
+YouTube Podcasts
+Pocket Casts
+Spotify
+Amazon Music
+Apple Podcasts
+Overcast
+more…]]></summary>
+        <author>
+            <name>Will Sattelberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Notebook now available as Connected App for deeper integration]]></title>
+        <id>https://9to5google.com/?p=734515</id>
+        <link href="https://9to5google.com/2026/10/23/gemini-notebook-connected-app/"/>
+        <updated>2026-10-23T20:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Gemini Notebooks are already available in the Gemini app side panel, but Google is now adding deeper Connected App integration.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam's Personal Calendar Full Release]]></title>
+        <id>https://store.steampowered.com/news/app/593110/view/710037059469839718</id>
+        <link href="https://store.steampowered.com/news/app/593110/view/710037059469839718"/>
+        <updated>2026-10-23T20:10:32.000Z</updated>
+        <summary type="html"><![CDATA[With today's Steam update, the Personal Calendar feature officially graduates from Steam Labs and is considered a full feature of the Steam Store. You can find it right on your Steam store homepage, or by visiting https://store.steampowered.com/personalcalendar
+
+About the Personal Calendar
+The Steam Personal Calendar is another way to see recommended games for you, showing both recently released and upcoming games filtered down to the the set of games we think you are most likely to be interested in. It uses your recently played games to find people with similar playtime profiles to you, and then looks at the games those players have been adding to their wishlist or playing.
+
+Based on games you play a lot: The system focuses on your playtime for games that you play the most. So, a few minu…]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more]]></title>
+        <id>https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/</id>
+        <link href="https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/"/>
+        <updated>2026-10-23T19:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Friday’s best Google Play app and game deals are ready, including DREDGE, Slaps And Beans, Argo’s Choice: Offline Game, The Ancestral Legacy, Ticket to Ride, Thronefall, Demon Castle Story, Lumino City, and more. Just be sure to dive into Pixel Watch 5 at up to $150 off, the most affordable Galaxy Z Fold 8 at over $400 off, and a new all-time low on Lenovo’s latest Tab Plus Gen 2. The apps await below. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google will target ads based on Gmail, Photos data if Personal Intelligence is enabled]]></title>
+        <id>https://9to5google.com/?p=734508</id>
+        <link href="https://9to5google.com/2026/10/23/google-will-target-ads-based-on-gmail-photos-data-if-personal-intelligence-is-enabled/"/>
+        <updated>2026-10-23T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re an Android user, you’ve probably trusted Google with mountains of your own personal data over the last couple of decades. Now, a new privacy policy update suggests that the company is finally dipping into that data to target personalized ads, and you can’t opt out with disabling Personal Intelligence.
+more…]]></summary>
+        <author>
+            <name>Will Sattelberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Furiday Night And These Cool Cats Are Meowt On The Town]]></title>
+        <id>https://cheezburger.com/47197189/its-furiday-night-and-these-cool-cats-are-meowt-on-the-town</id>
+        <link href="https://cheezburger.com/47197189/its-furiday-night-and-these-cool-cats-are-meowt-on-the-town"/>
+        <updated>2026-10-23T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's Furiday night, and we're going out! We've spent all week looking forward to seeing our friends, getting out of the house, and having some fun. But as we're getting ready to leave, our cat is sitting by the door, looking suspiciously interested in coming along.
+Now, most cats would probably hate the idea of a night out. They're perfectly happy staying home, sleeping on the couch, and enjoying having the entire house to themselves. But some kitties are surprisingly social. They love meeting new people, exploring new places, and getting involved in whatever their humans are doing.
+And we have to admit, bringing your cat along on a Furiday night sounds pretty entertaining.
+For starters, you'd immediately become the most popular person in your friend group. Nobody would care what you've be…]]></summary>
+        <author>
+            <name>Sarah Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch]]></title>
+        <id>https://9to5google.com/?p=734460</id>
+        <link href="https://9to5google.com/2026/10/23/google-health-expanded-activity-detection/"/>
+        <updated>2026-10-23T18:36:47.000Z</updated>
+        <summary type="html"><![CDATA[With the Fitbit Edge announcement, Google Health previewed improved automatic activity tracking, and it’s now beginning to roll out with version 5.11 of the app.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Box of 23 Cardboard-Loving Cat Memes That Fit & Sit in Your Heart]]></title>
+        <id>https://cheezburger.com/47190277/a-box-of-23-cardboard-loving-cat-memes-that-fit-sit-in-your-heart</id>
+        <link href="https://cheezburger.com/47190277/a-box-of-23-cardboard-loving-cat-memes-that-fit-sit-in-your-heart"/>
+        <updated>2026-10-23T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Cats never miss an opportunity to jump into every space, no matter its size or availability status.
+I don't need to iterate on how cats enter every cardboard box they see, or literally any other small space they locate. But first - why do they even do that? In short, cats simply feel safe inside. Having an enclosed space around them, like a cardboard box, gives them a sense of security - however real or not. They also view these spaces as strategic vantage points to pounce on prey from - so basically a place to cosplay big cats. So basically it's just another proof that cats make no sense at all. Their logic is not logicing. But this is why we love them so much.
+My cat found herself in the most ridiculous situations because of this internal drive she has to enter literally anywhere. To do the fits and sits even if she doesn't fit and cannot sit. She once got herself stuck behind the washing machine because she absolutely insisted this nook must be explored - she just had no idea how to get herself out. At another time, she got locked inside the pots and pans cabinet, which is protected by a child lock. It was open for one second, and she still managed to get herself inside.
+But all of that doesn't make her experience with classic cardboard boxes any easier. That child lock I've mentioned? It's there for a reason. The reason being a 1-year-old roaming free in the house because she's been walking since she was 10 months old. That kid sees the cat entering a cardboard box I left on the floor for her and thinks, "I'm going to get inside to cuddle the cat." My cat bolts away every single time. Raising cats and kids together is not a simple task.
+But cats will always cat, and that means they'll fit, sit, and be absolutely smug about it. And honestly? It makes them even more special than they already are.]]></summary>
+        <author>
+            <name>Ayala Sorotsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strict vegan adopts very first kitten, then realizes that her tiny carnivore needs meat for life, and cat owners have a tough message for her: 'Their wellbeing comes first']]></title>
+        <id>https://cheezburger.com/47179781/strict-vegan-adopts-very-first-kitten-then-realizes-that-her-tiny-carnivore-needs-meat-for-life-and</id>
+        <link href="https://cheezburger.com/47179781/strict-vegan-adopts-very-first-kitten-then-realizes-that-her-tiny-carnivore-needs-meat-for-life-and"/>
+        <updated>2026-10-23T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What happens when our purrsonal ethics conflict with the biological needs of an animal we chose to care for?
+There are a lot of things about cat ownership that become so normal you quickly furrget how objectively weird they are. You scoop their bathroom business into a plastic bag multiple times per day, you spend money on furniture specifically designed to be destroyed, and you quickly learn the difference between their different kinds of meows. One can mean "I'm hungry" and another can mean "I saw a bug a few hours ago and you must know about it." You fellow cat pawrents know what I'm talking about.
+And then there is feeding them meat. I don't think anyone likes it. All the wet foods have this weird smell that, even after 12 years of owning cats, I still can't get over. Don't even get me started on the ingredients.
+Most longtime cat pawrents probably do not think very deeply about it every time they crack open a can. Cats eat meat, that is simply part of the deal. For one brand-new kitten owner, though, that realization caused something of a moral meat crisis.
+They eagerly went out and bought them high-quality kitten food while focusing on giving their baby the best pawssible start. Then, as a strict vegan, they realized that every can of cat food represented an ethical equation they had spent years trying to remove themselves from. Smartly, they did want to force their beliefs onto their kitten, but they also wondered whether there was another way to make it work.
+And this is where I think the story gets really interesting, because this is something a lot of vegans deal with. And, we all know that people have a lot of feelings about veganism, whether it's for or against.]]></summary>
+        <author>
+            <name>Blake Seidel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cozy Corner of Sleepy Kitty Memes Ready for a Cat Nap]]></title>
+        <id>https://cheezburger.com/47198469/a-cozy-corner-of-sleepy-kitty-memes-ready-for-a-cat-nap</id>
+        <link href="https://cheezburger.com/47198469/a-cozy-corner-of-sleepy-kitty-memes-ready-for-a-cat-nap"/>
+        <updated>2026-10-23T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[You are getting eepy, very eepy. Now, quick, grab your closest feline friend and take a nap! Do you feel better?
+Of course you do! There is nothing better than taking a quick snooze with your favorite fur buddy. Not all cats are cuddlers, but all are definitely nappers. Cats can sleep anywhere from 12 to 16 hours a day! Talk about a cat nap… I wonder where that saying came from: "cat nap." Was it something more profound, or was it because humans saw that cats napped all day? Either way, it makes total sense. Cats like to nap! They are the ultimate bestie to get comfy cozy with. Watching a movie on a rainy night? That's pretty good, but now imagine that with a warm, purring kitten on your lap! See? So much better. Just got home from a long, stressful day of work and want to go brain silent for a bit and doomscroll? Well, do that guilt-free when there is a cat by your side just enjoying their cozy time with you. It's different with dogs. Canine companions are great because when you get home, they straight up run laps around the room because they are so happy to see you! But some people aren't at that level of energy, like some cat people. Some pet parents just want to come home and curl up in a blanket and chill. That's purrrrfect for a cozy kitty! And so are these memes.]]></summary>
+        <author>
+            <name>Elna McHilderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wallet rolling out notifications feed, support for more digital passports [U]]]></title>
+        <id>https://9to5google.com/?p=734232</id>
+        <link href="https://9to5google.com/2026/10/23/google-wallet-notifications-passports/"/>
+        <updated>2026-10-23T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[After the stacked card list redesign, Google Wallet for Android is gaining a notifications feed and support for more passports.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring’s 2026 Doorbell at $45, more]]></title>
+        <id>https://9to5google.com/?p=734429</id>
+        <link href="https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/"/>
+        <updated>2026-10-23T15:54:03.000Z</updated>
+        <summary type="html"><![CDATA[Alongside the ongoing 50% price drop on the new new Amazon Fire TV Stick 4K and the LG 55-inch OLED evo AI C6 4K Smart TV at $1,000 off the launch price, today’s 9to5Toys Lunch Break is headlined by Pixel Watch 5 at up to $150 off, Google’s Pixel 11 Pro Fold at up to $420 off, and Lenovo’s latest Tab Plus Gen 2 hitting a new $256 all-time low. We also have Amazon’s latest Ring smart doorbells now starting down at $45 (Up to 55% off), loads of charging and accessory discounts, and more waiting down below. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I needed a dashcam while out running. Meta glasses turned out to be the answer]]></title>
+        <id>https://9to5google.com/?p=734393</id>
+        <link href="https://9to5google.com/2026/10/23/i-needed-a-dashcam-while-out-running-meta-glasses-turned-out-to-be-the-answer/"/>
+        <updated>2026-10-23T15:45:44.000Z</updated>
+        <summary type="html"><![CDATA[I already love to use all of Meta’s AI glasses when I leave the house, and now I’ve got a new reason to love the camera that comes on (almost) every pair.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone Duo’s software restricts an already-small display; Galaxy Z Fold 8 doesn’t]]></title>
+        <id>https://9to5google.com/?p=734418</id>
+        <link href="https://9to5google.com/2026/10/23/iphone-duo-software-restricts-small-display-galaxy-z-fold-8-doesnt/"/>
+        <updated>2026-10-23T15:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s take on a wide foldable isn’t being received without some criticism as it makes its way into the hands of users. The biggest limitation might not even be the hardware.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Person adopts the most terrified kitten in the shelter, and after months of careful trustbuilding, she finally lets herself be petted and purrs: '[She was] trying to make herself as small as possible']]></title>
+        <id>https://cheezburger.com/47169797/person-adopts-the-most-terrified-kitten-in-the-shelter-and-after-months-of-careful-trustbuilding-she</id>
+        <link href="https://cheezburger.com/47169797/person-adopts-the-most-terrified-kitten-in-the-shelter-and-after-months-of-careful-trustbuilding-she"/>
+        <updated>2026-10-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With shy cats, patience pays off more than anything else.
+We, as humans, have a certain understanding of what love looks like. And whether we do it on purpose or not, we apply that understanding to our cats as well. Now, with dogs, it's simpler. Their way of showing affection is very obvious, it's very in your face. With cats, it's not quite that easy. Some cats are total velcro cats. They are all about physical contact. They will cuddle with you and climb up on you, and if you don't pet them at least 116 times a day, they will riot and directly on your face. But most cats are not like that. 
+Cats have their own love language. Cats show affection by slowly blinking at you. They show affection by turning their back on you, by sleeping next to you, by spending long stretches of time in the same room as you. And we know- that's not the same as cuddling your cat. Of course it's not. But their expression of love is no less valid than yours. 
+And then, there are shy cats. And shy cats, ones who are a little scared of humans, a little wary of letting their guard down, they show affection in their own ways as well. They do it in small ways, slowly warming up to you. We can't tell you the exact way. It's up to you to pay attention to them and learn how they show love. And you have to appreciate those little things just as much as you would a cuddle session. Maybe once you do that, once they feel comfortable enough with you, they will learn a little about your love language as well.]]></summary>
+        <author>
+            <name>Mariel Ruvinsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 Peaceful Cat Memes of Sunbeam Soaking and Purrfect Serenity]]></title>
+        <id>https://cheezburger.com/47153669/25-peaceful-cat-memes-of-sunbeam-soaking-and-purrfect-serenity</id>
+        <link href="https://cheezburger.com/47153669/25-peaceful-cat-memes-of-sunbeam-soaking-and-purrfect-serenity"/>
+        <updated>2026-10-23T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Fall is the purrfect time to sit back with a hot cocoa and soak up the silence. 
+Fall is different than summer. And not just in the obvious ways. We're not talking about the cold and the rain and the sweaters and pumpkin spice things, though all of that is nice too. We're talking about the vibes. People are… calmer during fall. Everything is a little bit quieter. Summer is sunny and loud. Fall is generally not. It's cold enough for us to want to walk around wrapped up in blankets, so people don't stay out quite as long, rushing from one indoor place to another. And the ones who do are not stressed from the constant heat, so they are just calmer. And that is purrfect. It's why fall is the best season, and I will fight on this hill. 
+Fall is the purrfect time to soak up the silence. With the rain gently tapping the window, with everything a little bit colder, a little bit slower, but not quite so cold and slow that it's unbearable, it's a good time to paws and enjoy the meowment. Breathe in deep, ignore the chaos of social media, and go home, cuddle with your cat. 
+For me, there is not much that can make this time of year better. My cat is cuddly as heck, the fluffy blankets are so fluffy, and the rainy weather is always strangely calming. Throwing in a couple of good cat memes never hurts though. It can only make things better. So, here they are, the peaceful but silly cat memes that I've chosen for today - the purrfect addition to an already lovely day, and the best substitute for doomscrolling on your social media.]]></summary>
+        <author>
+            <name>Mariel Ruvinsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnePlus starts rolling out stable Android 17 updates early, marking the end of OxygenOS]]></title>
+        <id>https://9to5google.com/?p=734412</id>
+        <link href="https://9to5google.com/2026/10/23/oneplus-stable-android-17-rollout-begins/"/>
+        <updated>2026-10-23T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[OnePlus is now rolling out stable Android 17 updates to OnePlus 15 and OnePlus Pad 4, marking the end of OxygenOS as these devices are just the first to transition to ColorOS.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can score a Pixel Watch 5 with LTE for $100 off right now]]></title>
+        <id>https://9to5google.com/?p=734413</id>
+        <link href="https://9to5google.com/2026/10/23/pixel-watch-5-lte-discount/"/>
+        <updated>2026-10-23T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Good deals in tech are becoming a bit harder to find, but a solid offer on a Pixel Watch 5 with LTE has popped up, bringing $100 off.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woman worries her cat won't accept his new kitten sister until she catches them cuddling in the cutest way]]></title>
+        <id>https://cheezburger.com/47192581/woman-worries-her-cat-wont-accept-his-new-kitten-sister-until-she-catches-them-cuddling-in-the</id>
+        <link href="https://cheezburger.com/47192581/woman-worries-her-cat-wont-accept-his-new-kitten-sister-until-she-catches-them-cuddling-in-the"/>
+        <updated>2026-10-23T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting a second cat is always a bit of a gamble. You hope your resident kitty will be thrilled to have a new friend, but there's also the possibility they'll spend the next six months hissing at each other from opposite ends of the couch. Some cats love having company, while others seem purrsonally offended that you've brought another animal into their home without consulting them first.
+When two cats really hit it off, though, it's hard to beat watching their friendship develop. One day they're cautiously sniffing each other, and a few weeks later, they're grooming each other's faces and refusing to sleep separately. You'll buy them two perfectly good cat beds, only to find both cats squeezed into the same one. Apparently, having a best friend means never having to respect personal space…]]></summary>
+        <author>
+            <name>Sarah Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 Cats Being Furry Friends and Embracing Feline Friendliness]]></title>
+        <id>https://cheezburger.com/47100421/20-cats-being-furry-friends-and-embracing-feline-friendliness</id>
+        <link href="https://cheezburger.com/47100421/20-cats-being-furry-friends-and-embracing-feline-friendliness"/>
+        <updated>2026-10-23T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[How we begin our morning may dictate how the rest of the day goes, so starting on the right paw with these friendly cat memes may just do the trick!
+Being a cat pawrent can be summed up pretty easily. 
+You wake up a pink nose in your face, the breath of a cat's mouth inhaling and exhaling right on top of you, and a few licks to your cheeks before you pull yourself from the sweet slumber you were in to feed this hungry kitty. You wake up to the cheer, smile, and morning barks of joy from your little one. They may not always seem like it but they're full of friendly friendship despite their chaotic appearance and behavior. 
+One second they're peacefully napping, paws twitching in dreamland, and the next, they're sitting upright and giving you a look that makes you question whether you're safe to fall asleep tonight. Their eyes are shining in hope that you'll give them what they want. And if they hear the crinkle of the treat bag, be prepared to give them something, because they won't stop until they have it. They might even sneak up behind you for something you're already eating, as we all know the hungry appetite of a cat. Heaven forbid you sit down for a bite without inviting them, or giving them a piece of what you're eating. They will throw their paws right on the table if they have to just for a bit of your bite. And there you have it! The world of cat pawrenting. But never fear, because all the hostility is simply on the surface of what's actually going on, and what's underneath is furry friendship, and cats that embrace feline friendliness. 
+We all need a friend in the world, and cats are no different. So if you're wondering why your cat acts so hot and cold to you, remember that they indeed love and need you, but they sometimes need to give the cold shoulder too. At the end of the day, they're still cats. And their love is expressed through the looks of anger, terror, or mischief.]]></summary>
+        <author>
+            <name>Briana Viser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung is releasing a new foldable next week, and it just leaked]]></title>
+        <id>https://9to5google.com/?p=734406</id>
+        <link href="https://9to5google.com/2026/10/23/samsung-galaxy-w27-foldable-leak/"/>
+        <updated>2026-10-23T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung has a bunch of new foldables in store for next year, but also one more coming out this year, and it’s coming out in just a few days according to a new leak.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung confirms a list of Galaxy phones and tablets getting Android 17 updates]]></title>
+        <id>https://9to5google.com/?p=734040</id>
+        <link href="https://9to5google.com/2026/10/23/samsung-galaxy-android-17-update-list-confirmed/"/>
+        <updated>2026-10-23T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung has confirmed a list of Galaxy devices that are set to get its Android 17-based One UI 9 update in at least one region, which tells us what to expect globally in the coming months.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Couple rescues terrified kitten from neighboring building, and she attaches herself to the woman asking for constant cuddles and uppies: ‘She trusts me 100%’]]></title>
+        <id>https://cheezburger.com/47194117/couple-rescues-terrified-kitten-from-neighboring-building-and-she-attaches-herself-to-the-woman</id>
+        <link href="https://cheezburger.com/47194117/couple-rescues-terrified-kitten-from-neighboring-building-and-she-attaches-herself-to-the-woman"/>
+        <updated>2026-10-23T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever had a cat with attachment issues? Cats are not usually very clingy, but sometimes they choose their hoomans as their safe space. 
+When an animal has been abandoned, it's usual for them to have trust issues in relation to human beings. After all, they were the ones who abandoned them in the first place. Both cats and dogs alike can be scared, reluctant to trust and jumpy before any kind of strange noise. 
+I've seen rescued cats and dogs behaving in the same way. The first week my kitty was at home after she was rescued, she was terrified. She opened her eyes round and wide as two full moons; her ears were always up, and she turned her head form one side to the other. All she did was cuddle in the couch and sleep, and every time someone made the smallest of noises, she would run away and hide under the couch. We couldn't even open the front door without her getting scared and hiding. It took her a few weeks to get used to the sounds of the house, and even months to start trusting us an behaving like a regular cat. She wouldn't meow at first either! She was so silent, as if she was afraid thta, if we noticed she was there, we would hurt her. It breaks my heart to remember it, but luckily, now she's all better. 
+Now, she meows normally, although she's not the most talkative. She always gets the zoomies, and plays around the house. She's even starting to misbehave! Now, I can't stop her from scratching the furniture or jumping all over the dining table. Seriously, if anyone has the number of a good cat trainer, please, send it to me. I'm getting desperate, and now I can't get her to quit her bad habits. 
+In this case, this couple rescued a girl cat who was terrified, and in bringing her to their home, she chose the woman as her source of protection. Now, she won't leave her alone, and she follows her everywhere.]]></summary>
+        <author>
+            <name>Giuliana Tiscioni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Oppo Find X10 Pro Max was exciting until I found out about the price]]></title>
+        <id>https://9to5google.com/?p=734322</id>
+        <link href="https://9to5google.com/2026/10/23/oppo-find-x10-pro-max-price-reactions/"/>
+        <updated>2026-10-23T10:05:00.000Z</updated>
+        <summary type="html"><![CDATA[RAMageddon sucks folks. Over the past few weeks I’ve been using the Oppo Find X10 Pro Max, a phone I’ve been pretty enthralled by, but its price tag really killed the hype on this one.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Beta Client Update: October 22nd]]></title>
         <id>https://store.steampowered.com/news/app/1675200/view/694275728822244201</id>
@@ -391,78 +864,7 @@ Fixed a regression from previous 3.9 releases that caused some apps to run behin
 
 Fixed a regression from previous 3.9 releases that caused screenshots to be taken at 720p even when the disp…]]></summary>
         <author>
-            <name>steam RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 3.9.4 Beta]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/694275728822242439</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822242439"/>
-        <updated>2026-10-22T03:41:55.000Z</updated>
-        <summary type="html"><![CDATA[This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-
-These notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below
-
-New in SteamOS 3.9.4
-General
-
-Fixed an issue causing firmware updates to occasionally fail to apply on Steam Machine
-
-Fixed a bug wherein changing the timezone could prevent switching to Desktop Mode until a reboot
-
-Fixed a regression from previous 3.9 releases that caused some apps to run behind Steam's loading screen, such as A Plague Tale: Innocence
-
-Fixed a regression from previous 3.9 releases that caused screenshots to be taken at 720p even when the disp…]]></summary>
-        <author>
             <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Client Beta - October 21st]]></title>
-        <id>https://store.steampowered.com/news/group/4397053/view/712290127331724321</id>
-        <link href="https://store.steampowered.com/news/group/4397053/view/712290127331724321"/>
-        <updated>2026-10-22T00:15:42.000Z</updated>
-        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
-
-General
-
-Fix non-steam apps disappearing after a network reconnect
-
-Updated certificate revocation lists
-
-Store
-
-Updated algorithm for search suggestions and text searches
-
-Steam Input
-
-Fix a regression with virtual menu positions in the overlay]]></summary>
-        <author>
-            <name>steam RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Beta Client Update: October 21st]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/694275728822242448</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822242448"/>
-        <updated>2026-10-22T00:14:49.000Z</updated>
-        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
-
-General
-
-Fix non-steam apps disappearing after a network reconnect
-
-Updated certificate revocation lists
-
-Store
-
-Updated algorithm for search suggestions and text searches
-
-Steam Input
-
-Fix a regression with virtual menu positions in the overlay]]></summary>
-        <author>
-            <name>steam RSS Feed</name>
         </author>
     </entry>
     <entry>
@@ -672,17 +1074,6 @@ Either way, what happened with my cats was something along those lines. For cont
 In this case, we have an orange furball named Copper, who suddenly got an unexpected companion. Let's just say it'll take a while for him to process everything.]]></summary>
         <author>
             <name>Giuliana Tiscioni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Wallet rolling out notifications feed, support for more digital passports]]></title>
-        <id>https://9to5google.com/?p=734232</id>
-        <link href="https://9to5google.com/2026/10/21/google-wallet-notifications-passports/"/>
-        <updated>2026-10-21T16:37:14.000Z</updated>
-        <summary type="html"><![CDATA[After the stacked card list redesign, Google Wallet for Android is gaining a notifications feed and support for more passports.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
         </author>
     </entry>
     <entry>
@@ -1669,18 +2060,6 @@ These spoiled cats act like they live the hardest lives in the world. And we sti
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Weekly Meowgazine: 20 Snuggly ICanHasMoments to Make Your Caturday Full of Cozy Smiles (October 17, 2026)]]></title>
-        <id>https://cheezburger.com/47123205/your-weekly-meowgazine-20-snuggly-icanhasmoments-to-make-your-caturday-full-of-cozy-smiles-october</id>
-        <link href="https://cheezburger.com/47123205/your-weekly-meowgazine-20-snuggly-icanhasmoments-to-make-your-caturday-full-of-cozy-smiles-october"/>
-        <updated>2026-10-17T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[A purrfect Caturday starts with no alarm clocks and many purrfect cat meowments.
-This is something that every cat purrson knows. The impurrtance of Caturday being purrfect cannot be overstated. This is the best day of the week, and if we don't start it on the right paw, we may as well give up on the whole weekend. Starting Saturday badly is a bad omen, and we refuse to let that happen. Not on our watch. Not as long as we have something to do about it. And here, on ICHC, we always do. Because all that you really need to start Caturday right is a whole bunch of purrfect cat meowments, and this is what our weekly meowgazine is here to provide. 
-The best cat content of the week in one very easy-to-reach spot. First thing on Caturday morning, what your eyes are going to see are the most wholesome stories about cats and the silliest cat memes that we found. And you know you can trust us to really bring you cat purrfection here because we see all of it. It is our job. The good, the bad, the hilarious and the most heartwarming. Coming out of this listicle smiling is basically a guarantee.]]></summary>
-        <author>
-            <name>Mariel Ruvinsky</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Walmart’s $60 Google TV streamer might be the only good deal left in streaming]]></title>
         <id>https://9to5google.com/?p=733470</id>
         <link href="https://9to5google.com/2026/10/17/walmart-onn-4k-pro-google-tv-review/"/>
@@ -1692,30 +2071,6 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['He's more than "just a cat" to me': After 1.5 years of being homeless with their loyal cat, proud pawrent and feline share heartwarming photo of their first night home]]></title>
-        <id>https://cheezburger.com/47111429/hes-more-than-just-a-cat-to-me-after-15-years-of-being-homeless-with-their-loyal-cat-proud-pawrent</id>
-        <link href="https://cheezburger.com/47111429/hes-more-than-just-a-cat-to-me-after-15-years-of-being-homeless-with-their-loyal-cat-proud-pawrent"/>
-        <updated>2026-10-17T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Some accomplishments hit harder than others: sleeping safely and soundly in your very first apartment after being homeless for nearly two years, with your cat snuggled up between your legs, might be worth more than gold.
-I'm going to take this opportunity to get a little bit purrsonal. When I was a teenager, I had a brief period where I feared I would be homeless. During the early 2000s, a lot of teens were getting kicked out of their parents' homes for coming out. So much so that it was reported on the national news and even on the cover of Time magazine. I remember because I kept this issue hidden under my mattress for years, it was the only thing I had that helped me form some sort of connection to the… changes I was feeling.
-I was outed by my uncle, whom I told in confidence, when I wa…]]></summary>
-        <author>
-            <name>Blake Seidel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Weekly Binge of LOLcat Cuteness From Cat Meme Lovers Around the World]]></title>
-        <id>https://cheezburger.com/47111173/your-weekly-binge-of-lolcat-cuteness-from-cat-meme-lovers-around-the-world</id>
-        <link href="https://cheezburger.com/47111173/your-weekly-binge-of-lolcat-cuteness-from-cat-meme-lovers-around-the-world"/>
-        <updated>2026-10-17T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Some things change, others stay constant, but things like lolcats are more like a sturdy pillar for I Can Hahs Cheezburger.
-We're moving offices in a couple of days. That's such a huge change, and just like cats, changes this big can be scary for us hooman too. I have to admit I'm more excited than scared, but there's still a little fear in me walking into the unknown. Will the chairs be as comfortable? Is the parking space large enough for all of us? Will there be more traffic in the morning commute? I don't know. But what I do know is that while some things may change, others will stay just as they are - like the weekly lolcats, which are the cutest output on the internet.
-That's the thing about big changes that might be scary - it's hard to remember they're not your entire life. Like a cat moving apartments, big changes may look like your entire life is different now. But just like a scared cat, hiding under the bed in a new home, thinking it's never going to be the same again - changes are only partial. Cats still have their loving family with them, and probably most of their toys. So the I Can Has HQ will move offices, and just as my cat did when I moved apartments with her - we'll take time to adjust, we'll explore our new environment, and remember the constants that keep us grounded, like cat memes. They're always a constant in our lives.]]></summary>
-        <author>
-            <name>Ayala Sorotsky</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are ‘inaccurate’]]></title>
         <id>https://9to5google.com/?p=733592</id>
         <link href="https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/"/>
@@ -1724,30 +2079,6 @@ That's the thing about big changes that might be scary - it's hard to remember t
 more…]]></summary>
         <author>
             <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neighbors hear a crying kitten in someone's garden, they rescue him before it gets too cold and starts raining, and take him home to foster him until finding him a furever home: ‘We get to spoil this little guy’]]></title>
-        <id>https://cheezburger.com/47145221/neighbors-hear-a-crying-kitten-in-someones-garden-they-rescue-him-before-it-gets-too-cold-and-starts</id>
-        <link href="https://cheezburger.com/47145221/neighbors-hear-a-crying-kitten-in-someones-garden-they-rescue-him-before-it-gets-too-cold-and-starts"/>
-        <updated>2026-10-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every creature's life is important, and we love people who go out of their way to help and protect defenseless animals! 
-Sometimes, people find little kittens in danger at random moments in their lives. They help the furbaby as best as they can, but they can't always keep them in their home for good. The reasons vary from one person to the other: some already have many animals; others don't have enough space to keep them long-term, or they work too much and are many hours away from home, so they can't give the little animals the attention they need. So instead, they chose to foster them until they can find a permanent home. 
-That's what my friends did, and that's how I got my cat! They were the ones who found her on the side of the road, but they couldn't keep her. For them, it was a mix of two factors: they already had animals; hence, little space for her to walk and play. They managed to keep her for a few days in a separate room so the other pets didn¿t bother her, and then they brought her to my house. 
-The important thing is that they helped her out even though they couldn't keep her, and that's what we appreciate the most about people rescuing cats: even when they can't offer to be their permanent home, they help anyway. They went out of their way for a few days to offer the poor girl some food, a bath, and a warm and safe place for her to be, which is almost exactly the same as what these people did!]]></summary>
-        <author>
-            <name>Giuliana Tiscioni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22 Wholesome Cats for a Softer Day on the Internet (October 17, 2026)]]></title>
-        <id>https://cheezburger.com/47143685/22-wholesome-cats-for-a-softer-day-on-the-internet-october-17-2026</id>
-        <link href="https://cheezburger.com/47143685/22-wholesome-cats-for-a-softer-day-on-the-internet-october-17-2026"/>
-        <updated>2026-10-17T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Had enough of the internet today? Need a little break from all the chaos? These sweet cats are here to help!
-Why do cats have a reputation for being sassy and serious? Some people on the internet think felines are the funniest beings on Earth, while others (mainly dog people) think they are serious, judgy, and full of sass. Honestly, I think all of that is true. Cats can't fit into a single category: they are everything at once, and that's what makes them so great. It's impossible to be bored next to a cat because they always have something to say or an expression to make.]]></summary>
-        <author>
-            <name>Cata Holmes</name>
         </author>
     </entry>
     <entry>
@@ -1796,65 +2127,6 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pixelated 121: Is Googlebook the first real post-smartphone PC?]]></title>
-        <id>https://9to5google.com/?p=733632</id>
-        <link href="https://9to5google.com/2026/10/16/pixelated-121-is-googlebook-the-first-real-post-smartphone-pc/"/>
-        <updated>2026-10-16T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Pixelated episode 121. This week, Abner, Damien, and Will dive deep into Google’s new laptop platform, Googlebook. From hardware impressions across review units to making sense of the earliest days of desktop Android, there’s a ton of ground to cover. What sort of future awaits Googlebook, and is it right for what you want out of a laptop? You’ll need to listen to find out.
-Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode.
-Sponsored by Proton Unlimited: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link. Thanks to Proton Unlimited for sponsoring the podcast.
-
-
-
-
-Subscribe
-YouTube Podcasts
-Pocket Casts
-Spotify
-Amazon Music
-Apple Podcasts
-Overcast
-more…]]></summary>
-        <author>
-            <name>Will Sattelberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 17 QPR2 Beta 7.1 rolling out for Pixel]]></title>
-        <id>https://9to5google.com/?p=733619</id>
-        <link href="https://9to5google.com/2026/10/16/android-17-qpr2-beta-7-1-pixel/"/>
-        <updated>2026-10-16T20:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Google is rolling out Android 17 QPR2 Beta 7.1 today a week after the last preview for Pixel devices, which did not feature major user-facing changes.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome]]></title>
-        <id>https://9to5google.com/?p=733598</id>
-        <link href="https://9to5google.com/2026/10/16/google-universal-cart-shopping-icon/"/>
-        <updated>2026-10-16T19:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday, Google started rolling out its Universal Cart, and the company is very prominently placing it in Search, AI Mode, Chrome, and the Gemini app.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22 Cats Claiming Suitcases, Catching Flights and Becoming the Main Attraction on Vacation]]></title>
-        <id>https://cheezburger.com/47140613/22-cats-claiming-suitcases-catching-flights-and-becoming-the-main-attraction-on-vacation</id>
-        <link href="https://cheezburger.com/47140613/22-cats-claiming-suitcases-catching-flights-and-becoming-the-main-attraction-on-vacation"/>
-        <updated>2026-10-16T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How do cats always end up becoming the main attraction on vacation?
-I can spend weeks thinking about a trip, choosing places to visit, planning all the things I want to see... Only to then notice a cat sitting somewhere, and my priorities change. I'll have to take forty pictures of this beautiful baby. I was excited about the architecture and I'll get back to it once I know whether this little guy likes visitors.
-I've seen cats aboard flights that behaved very well. They even made me curious about having one as a travel companion. But then I decide I have enough trouble deciding what belongs in my suitcase, so imagine also traveling with cat stuff. I'm one of those people who becomes aware of everything they need to keep track of when I'm already in the car heading to the airport. I'm not the one who arrives 3 hours early. I'm the one who has an hour to spare and drinks coffee before boarding. Once there, I check my gate, look for my documents, and then check my bag again just in case my passport grew little legs and ran away. Seeing a cat being carried through the terminal makes me wonder how I would manage all that with a little passenger. I would probably spend the wait looking at him and forgetting to check the departure board.
-When I look at my vacation photos, I'll always enjoy looking at the cat pictures that bring back those little moments. Trips are all about little moments, and cats only make them better.]]></summary>
-        <author>
-            <name>Celeste Mello</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SteamOS 3.9.3 Beta]]></title>
         <id>https://store.steampowered.com/news/app/1675200/view/687519694976975287</id>
         <link href="https://store.steampowered.com/news/app/1675200/view/687519694976975287"/>
@@ -1889,156 +2161,6 @@ Updated Arch Linux base
 Updated De…]]></summary>
         <author>
             <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family stops packing for a beach trip to rescue a tiny kitten from a truck, and a year later she's running the house]]></title>
-        <id>https://cheezburger.com/47124741/family-stops-packing-for-a-beach-trip-to-rescue-a-tiny-kitten-from-a-truck-and-a-year-later-shes</id>
-        <link href="https://cheezburger.com/47124741/family-stops-packing-for-a-beach-trip-to-rescue-a-tiny-kitten-from-a-truck-and-a-year-later-shes"/>
-        <updated>2026-10-16T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Cat Distribution System has a habit of showing up when hoomans least expect it. You could be going about your day, minding your own business, when suddenly a tiny meow changes all your plans. Who's going to ignore a kitten calling for help?
-One family was getting ready for a beach trip when they heard little cries coming from a truck parked in a city lot across from their house. They discovered a kitten hiding in the wheel well, but the lot was normally locked behind a security gate. By some incredible stroke of luck, the gate happened to be open that day, allowing them to rescue her. The poor baby was covered in fleas, but she was finally safe. Over a year later, she's a beloved member of the family, keeping her two feline siblings very busy with her antics.
-Finding kittens in cars is…]]></summary>
-        <author>
-            <name>Sarah Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friday’s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more]]></title>
-        <id>https://9to5toys.com/2026/10/16/todays-highlight-google-play-deals-30/</id>
-        <link href="https://9to5toys.com/2026/10/16/todays-highlight-google-play-deals-30/"/>
-        <updated>2026-10-16T18:57:23.000Z</updated>
-        <summary type="html"><![CDATA[Friday’s best Google Play app and game deals are ready, including Majesty: The Fantasy Kingdom, Majesty－The Northern Expansion, Boxville 2, Dungeon Defense, Mythic Trials 2, Tempest: Pirate RPG Premium, The Tiny Bang Story: Premium, MiniChess by Kasparov, and more. Just be sure to dive into Nothing’s Glyph Matrix-equipped Phone (3) at up to $300 off and Best Buy’s 1-day Windows Copilot+ PC flash sale at up to $500 off. The apps await below. 
-more…]]></summary>
-        <author>
-            <name>9to5Toys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cat lover who’s very allergic to cats adopts a dog, and on a daily walk she leads her to the one cat who doesn’t set off her allergies: 'Welcome home, Willow.']]></title>
-        <id>https://cheezburger.com/47112965/cat-lover-whos-very-allergic-to-cats-adopts-a-dog-and-on-a-daily-walk-she-leads-her-to-the-one-cat</id>
-        <link href="https://cheezburger.com/47112965/cat-lover-whos-very-allergic-to-cats-adopts-a-dog-and-on-a-daily-walk-she-leads-her-to-the-one-cat"/>
-        <updated>2026-10-16T18:15:00.000Z</updated>
-        <summary type="html"><![CDATA[What are the chances you'll meet the absolutely right cat for you to adopt?
-Being allergic to cats is tough. Not just when you walk down the street and a cute stray wants your attention, and not just when you visit a house of friends or family and they have a cat inside. It's especially tough when you actually love cats. That's how my wife is - she's allergic to cats, officially. She grew up with cats from early childhood. When her mom told her not to let the cat sleep in the same bed with her, she snuggled even closer to the cat, took a big whiff, and called it "exposure therapy". It took her two childhood cats and living with mine for a few years to stop having symptoms. So… success.
-But that's not the case for every allergic person. Some carry this throughout all their lives, or at least think they're going to take this massive hindrance to giving cats love to the grave with them. But here below we have a woman, a cat lover like us, who's allergic to cats. So much so that she's never had one proper. And what do cat people who are allergic to cats do? That's right, adopt a dog. A small one, preferably, so it's as close to a cat as possible. That, for instance, can't happen with my wife - she's afraid of dogs. But that's a story for another time. And this woman from below here? She did do just that.
-But you see, the Cat Distribution System works in mysterious ways. It doesn't just distribute the cats who need a home to people who will take them in - it makes sure the right cat goes to the right person. And it really does all of that matchmaking in mysterious ways, hidden from our eyes. And behind the scenes, the Cat Distribution System sometimes employs dogs as agents. That's right - a dog cat adopts the cat for you, or at least leads you to the cat you're supposed to adopt. So you might ask, "What are the chances you'll meet the cat who's just right for you?" Well, with a dog agent of the CDS, very high. Even if you're "insanely allergic to cats"…]]></summary>
-        <author>
-            <name>Ayala Sorotsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT gets deeper Google Chrome integration including control over tabs]]></title>
-        <id>https://9to5google.com/?p=733565</id>
-        <link href="https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/"/>
-        <updated>2026-10-16T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI this week announced deeper integration between ChatGPT and Google Chrome, including the ability to hand control over your tabs to the AI assistant.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy S26 Ultra is one of the ‘best inventions of 2026’ thanks to its Privacy Display]]></title>
-        <id>https://9to5google.com/?p=733567</id>
-        <link href="https://9to5google.com/2026/10/16/galaxy-s26-ultra-privacy-display-gets-it-on-best-inventions-list/"/>
-        <updated>2026-10-16T17:42:53.000Z</updated>
-        <summary type="html"><![CDATA[A new 2026 roundup has the Galaxy S26 Ultra included in a list of best inventions for the year, all thanks to what it doesn’t display.
-more…]]></summary>
-        <author>
-            <name>Andrew Romero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teh Hisstory of LOLcats: How silly kitties conquered the internet, one cheezburger at a time]]></title>
-        <id>https://cheezburger.com/47112197/teh-hisstory-of-lolcats-how-silly-kitties-conquered-the-internet-one-cheezburger-at-a-time</id>
-        <link href="https://cheezburger.com/47112197/teh-hisstory-of-lolcats-how-silly-kitties-conquered-the-internet-one-cheezburger-at-a-time"/>
-        <updated>2026-10-16T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Unless you're a veteran Cheezburger lover from pre-2007, you've probably heard us throw around the term "LOLcats" before, but do you know where it really comes from? 
-Welcome to our I Can Has Cheezburger hisstorian's guide to the rise of feline royalty. 
-Gather 'round, fellow feline fanatics, meme meowsters, and distinguished scholars of the ancient art of catposting. Today, we're dusting off our internet archives and embarking on a journey through one of the most impawtant cultural movements of the digital age: the rise of the LOLcat. 
-Listen up, youth! Yes, there was a time before TikTok and Instagram. We were the "go play outside and don't come back in unless one of you is hurt" generation. Then, somewhere along the way, computers were introduced, and we even had computer classes in school. The internet was young, the pixels were plentiful, and the spelling was absolutely atrocious. We're talking, of course, about the glorious era of "I CAN HAS CHEEZBURGER?"
-We can't just give our thanks to the first meme creators, but we definitely will later in this article. My goal in this awwducational anthology is to show you that our LOLcats history goes much further back than the age of the internet, and how many steps were taken to get to the meowdern meme culture we have today. Those reaction memes you save and send to your friends or coworkers are there because of a rich history of people being obsessed with their cats.
-Get comfy - it's time we begin.]]></summary>
-        <author>
-            <name>Blake Seidel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating]]></title>
-        <id>https://9to5google.com/?p=733532</id>
-        <link href="https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/"/>
-        <updated>2026-10-16T16:50:00.000Z</updated>
-        <summary type="html"><![CDATA[According to a new report, Samsung’s Galaxy S27 series might not use the latest Snapdragon chipset due to overheating problems. 
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone Duo orders are delayed into 2027; here are the Android foldables you should try instead]]></title>
-        <id>https://9to5google.com/?p=733529</id>
-        <link href="https://9to5google.com/2026/10/16/iphone-duo-pre-order-delay-android-foldable-alternatives/"/>
-        <updated>2026-10-16T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The iPhone Duo is already delayed for months just hours after pre-orders have opened, leaving those interested in foldables unable to get Apple’s take anytime soon. If you’re seriously interested in a foldable, though, may I interest you in some Android alternatives?
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nest’s Halloween doorbell chimes are live now through November 1]]></title>
-        <id>https://9to5google.com/?p=733547</id>
-        <link href="https://9to5google.com/2026/10/16/nests-halloween-doorbell-chimes-are-live-now-through-november-1/"/>
-        <updated>2026-10-16T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[With Halloween just a couple of weeks away, it’s the perfect time to make sure you’re ready for trick-or-treaters. It’s not enough just to buy candy in bulk, of course; you’ll also need to make sure your home feels appropriately spooky, and with Nest’s annual Halloween doorbell chimes now available, the hardest part is already done for you.
-more…]]></summary>
-        <author>
-            <name>Will Sattelberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deals: Nothing Phone (3) up to $300 off, Lenovo Android Idea Tab $142, Best Buy 1-day laptop sale up to $500 off, more]]></title>
-        <id>https://9to5google.com/?p=733542</id>
-        <link href="https://9to5google.com/2026/10/16/deals-nothing-phone-3-lenovo-android-idea-tab-laptops/"/>
-        <updated>2026-10-16T15:43:39.000Z</updated>
-        <summary type="html"><![CDATA[The Moto Tag 2 Android Find Hub trackers are still down at the lowest prices we have tracked, but today’s 9to5Toys Lunch Break is headlined by Nothing’s Glyph Matrix-equipped Phone (3) up to $300 off the original price alongside Best Buy’s 1-day Windows Copilot+ PC flash sale with up to $500 off touchscreen laptops and desktops. We also have $500 off Lenovo’s 2K OLED touchscreen Yoga 7i 2-in-1 Copilot+ PC as well as its budget-friendly 11-inch 2.5K Android Idea Tab down at the $142 low. Head below for a closer look at the details.
-more…]]></summary>
-        <author>
-            <name>Justin Kahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google says fix for Android Auto’s missing signal icon is rolling out, and it actually is [U]]]></title>
-        <id>https://9to5google.com/?p=732535</id>
-        <link href="https://9to5google.com/2026/10/16/android-auto-signal-icon-fix/"/>
-        <updated>2026-10-16T15:01:50.000Z</updated>
-        <summary type="html"><![CDATA[After weeks of back and forth, Google has officially confirmed a fix is rolling out for Android Auto’s missing signal icon.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google restricts every free AI Pro trial from Pixel & more compared to paid subscribers]]></title>
-        <id>https://9to5google.com/?p=733511</id>
-        <link href="https://9to5google.com/2026/10/16/google-restricts-every-free-ai-pro-trial-from-pixel-more-compared-to-paid-subscribers/"/>
-        <updated>2026-10-16T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Google hands out extended free trials to its AI Pro subscription frequently with new smartphone purchases and more, but trial users end up getting less access compared to paid subscribers in what is a bit of a misleading situation.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 4 Argon is now rolling out to Google’s Antigravity for AI Pro subscribers]]></title>
-        <id>https://9to5google.com/?p=733502</id>
-        <link href="https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/"/>
-        <updated>2026-10-16T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Google is now rolling out support for Gemini 4 Argon to Antigravity, its AI coding tool.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
         </author>
     </entry>
     <entry>
@@ -2164,39 +2286,6 @@ Add echo cancellation and noise suppression for external microphones.]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sony just canceled a promised Android 17 update for one of its Xperia phones]]></title>
-        <id>https://9to5google.com/?p=733497</id>
-        <link href="https://9to5google.com/2026/10/15/sony-xperia-android-17-canceled-update/"/>
-        <updated>2026-10-15T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Sony isn’t exactly known for speedy Android OS updates, but the company has now completely canceled an Android 17 update for one of its Xperia phones.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google updates Android earthquake alerts with more info, expands to 200+ regions]]></title>
-        <id>https://9to5google.com/?p=733492</id>
-        <link href="https://9to5google.com/2026/10/15/android-earthquake-alerts-update-regions/"/>
-        <updated>2026-10-15T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Google is delivering an update to Android’s earthquake alerts system that will show more information while also expanding support to over 200 regions across the globe.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today’s Android app deals and freebies: Live or Die, Endling, Cat Lady, more]]></title>
-        <id>https://9to5toys.com/2026/10/15/todays-highlight-google-play-deals-29/</id>
-        <link href="https://9to5toys.com/2026/10/15/todays-highlight-google-play-deals-29/"/>
-        <updated>2026-10-15T17:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Today’s best Google Play app and game deals are ready, including Live or Die 1: Survival Pro, Neighbours from Hell 1 Premium, Gun Tactics, Endling Extinction is Forever, Cat Lady, Braveland, and more. Just be sure to dive into the now live Samsung Week 2026 sale, these Galaxy Book6 Copilot+ PCs at up to $500 off, and another shot at scoring the latest Moto Tag 2 Android Find Hub trackers at $17.50 each. The apps await below. 
-more…]]></summary>
-        <author>
-            <name>9to5Toys</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Steam Client Update: October 13th]]></title>
         <id>https://store.steampowered.com/news/app/1675200/view/675134162359815513</id>
         <link href="https://store.steampowered.com/news/app/1675200/view/675134162359815513"/>
@@ -2226,40 +2315,13 @@ Custom screensavers are also supported. Similar to startup movies, they can be p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steam Beta Client Update: October 13th]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/675134162359815494</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/675134162359815494"/>
-        <updated>2026-10-13T19:16:02.000Z</updated>
-        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
-
-General
-
-Fix hovering DLCs not working in some places.
-
-
-Remote Play
-
-Fixed regression causing audio crackling on some systems.
-
-Fixed extremely low bitrates streaming to Android devices.]]></summary>
+        <title type="html"><![CDATA[GooglebookOS ISO: Does It Exist and How to Run It]]></title>
+        <id>https://aluminium-os.com/?p=280748</id>
+        <link href="https://aluminium-os.com/googlebookos-iso-and-how-to-run-it/"/>
+        <updated>2026-10-13T17:49:56.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve gone looking for a GooglebookOS ISO, you’ve probably noticed something odd: there isn’t one. Google doesn’t publish an installable Googlebook OS image for PCs. The only official downloads ... Read more]]></summary>
         <author>
-            <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Beta Client Update: October 12th]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/675134162359815374</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/675134162359815374"/>
-        <updated>2026-10-13T00:42:47.000Z</updated>
-        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
-
-Remote Play
-
-Fixed a crash changing the hardware encoding setting while not streaming.
-
-Fixed HEVC hardware encoding on Steam Deck.]]></summary>
-        <author>
-            <name>1675200 RSS Feed</name>
+            <name>ALOS</name>
         </author>
     </entry>
     <entry>
@@ -2454,6 +2516,16 @@ Improved user proximity detection
 This OS release includes SteamVR (2.18.1)]]></summary>
         <author>
             <name>4165890 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChromeOS End of Life Set for Mid-2034, Google Confirms]]></title>
+        <id>https://aluminium-os.com/?p=280744</id>
+        <link href="https://aluminium-os.com/chromeos-end-of-life-set-for-mid-2034-google-confirms/"/>
+        <updated>2026-09-28T18:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Chromebooks sold today with a 10-year update promise will need Googlebook OS to get updates after 2034, and Google hasn't said which models qualify.]]></summary>
+        <author>
+            <name>ALOS</name>
         </author>
     </entry>
     <entry>
