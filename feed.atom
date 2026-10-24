@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-24T03:53:53.203Z</id>
+    <id>urn:2026-10-24T10:12:20.545Z</id>
     <title>CatRssFeeds</title>
-    <updated>2026-10-24T03:53:53.203Z</updated>
+    <updated>2026-10-24T10:12:20.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2315,16 +2315,6 @@ Custom screensavers are also supported. Similar to startup movies, they can be p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GooglebookOS ISO: Does It Exist and How to Run It]]></title>
-        <id>https://aluminium-os.com/?p=280748</id>
-        <link href="https://aluminium-os.com/googlebookos-iso-and-how-to-run-it/"/>
-        <updated>2026-10-13T17:49:56.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve gone looking for a GooglebookOS ISO, you’ve probably noticed something odd: there isn’t one. Google doesn’t publish an installable Googlebook OS image for PCs. The only official downloads ... Read more]]></summary>
-        <author>
-            <name>ALOS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SteamOS 0.4 for Steam Frame]]></title>
         <id>https://store.steampowered.com/news/app/4165890/view/675134162359812787</id>
         <link href="https://store.steampowered.com/news/app/4165890/view/675134162359812787"/>
@@ -2516,16 +2506,6 @@ Improved user proximity detection
 This OS release includes SteamVR (2.18.1)]]></summary>
         <author>
             <name>4165890 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChromeOS End of Life Set for Mid-2034, Google Confirms]]></title>
-        <id>https://aluminium-os.com/?p=280744</id>
-        <link href="https://aluminium-os.com/chromeos-end-of-life-set-for-mid-2034-google-confirms/"/>
-        <updated>2026-09-28T18:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Chromebooks sold today with a 10-year update promise will need Googlebook OS to get updates after 2034, and Google hasn't said which models qualify.]]></summary>
-        <author>
-            <name>ALOS</name>
         </author>
     </entry>
     <entry>
