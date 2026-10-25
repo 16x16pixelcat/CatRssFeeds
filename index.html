@@ -10,116 +10,230 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="alternate" type="application/rss+xml" title="CatRssFeeds" href="feed.atom" />
     <link href="index.css?v1.14.4" rel="stylesheet" />
-    <head>
-    <style>
-        :root {
-            /**
-   * Palette
-   * Gruvbox dark, medium
-   * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
-   */
-            --base00: #282828;
-            /* ---- */
-            --base01: #3c3836;
-            /* --- */
-            --base02: #504945;
-            /* -- */
-            --base03: #665c54;
-            /* - */
-            --base04: #bdae93;
-            /* + */
-            --base05: #d5c4a1;
-            /* ++ */
-            --base06: #ebdbb2;
-            /* +++ */
-            --base07: #fbf1c7;
-            /* ++++ */
-            --base08: #fb4934;
-            /* red */
-            --base09: #fe8019;
-            /* orange */
-            --base0A: #fabd2f;
-            /* yellow */
-            --base0B: #b8bb26;
-            /* green */
-            --base0C: #8ec07c;
-            /* aqua/cyan */
-            --base0D: #83a598;
-            /* blue */
-            --base0E: #d3869b;
-            /* purple */
-            --base0F: #d65d0e;
-            /* brown */
-
-            /**
-   * Typograph
-   */
-            --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
-                "Helvetica Neue", sans-serif;
-            --font-size-L: 3.6rem;
-            --font-size-m: 2.2rem;
-            --font-size-s: 1.8rem;
-            --font-size-scaler: 62.5%;
-            /* 1rem = 10px */
-            --line-height-body: 1.4;
-            --line-height-heading: 1.2;
-
-            /**
-   * Components
-   */
-            --body-color: var(--base04);
-            --body-bg: var(--base00);
-            --body-padding: 32px 24px;
-            --body-stack-gap: 32px;
-
-            --accordion-content-hover-rail-color: var(--base04);
-            --accordion-content-rail-color: var(--base03);
-            --accordion-marker-color: var(--article-title-color);
-            --accordion-marker-expanded-color: var(--base03);
-            --accordion-marker-hover-color: var(--accordion-marker-color);
-            --accordion-marker-expanded-hover-color: var(--accordion-marker-color);
-            --accordion-rail-indent: 7px;
-
-            --article-image-border-color: var(--base03);
-            --article-image-radius: 6px;
-            --article-image-shadow: none;
-            --article-reading-time-color: var(--base04);
-            --article-stack-gap: 16px;
-            --article-summary-color: var(--base05);
-            --article-summary-hover-color: var(--base07);
-            --article-title-color: var(--base0E);
-            --article-title-expanded-color: var(--base0E);
-
-            --card-bg: var(--base01);
-            --card-border-color: var(--base03);
-            --card-padding: 16px;
-            --card-radius: 8px;
-            --card-shadow: none;
-            --card-stack-gap: 24px;
-
-            --daily-heading-color: var(--base03);
-            --daily-heading-hover-color: var(--base04);
-
-            --footer-color: var(--base03);
-            --footer-link-hover-color: var(--base04);
-
-            --source-link-color: var(--base04);
-            --source-link-hover-color: var(--base07);
-            --source-name-color: var(--base0A);
-            --source-name-hover-color: var(--base07);
-        }
-    </style>
-</head>
-
-<body>
-    <script>
-
-    </script>
-</body>
+    <!-- %before-head-end.html% -->
   </head>
 
   <body>
     <!-- %after-body-begin.html% -->
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-10-25 datetime="2026-10-25T19:00:00.000Z">2026-10-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-10-25 datetime="2026-10-25T19:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >I Can Has Cheezburger?</button>
+                  <a class="source-heading__link" href="https://icanhas.cheezburger.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cheezburger.com/47211013/a-fresh-step-of-uplifting-feline-funnies-to-fight-the-gloomy-weather-with-giggles-and-glee"
+                        open
+                      >
+                        <summary class="article-expander__title">A Fresh Step of Uplifting Feline Funnies to Fight the Gloomy Weather With Giggles and Glee</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cheezburger.com/47211013/a-fresh-step-of-uplifting-feline-funnies-to-fight-the-gloomy-weather-with-giggles-and-glee">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.chzbgr.com/thumb-large/47211013/h6F6DE996/a-fresh-step-of-uplifting-feline-funnies-to-fight-the-gloomy-weather-with-giggles-and-glee" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Soon, the clock will go back one hour and we&#x27;ll be plunged into meowternal darkness (also known as Daylight Savings Time). On top of that, the weather is gloomy and its getting colder. How&#x27;s a cat lover like you or me supposed to stay pawsitive during these cloudy and dreary conditions? Well - with all the feline funnies the internet has to offer, of course!
+In theory, I love gloomy weather. GIve me gray skies, a blanket, a hot cup of coffee, and absolutely nowhere to be, and I am thriving. But when the rain lasts for days, the sun disappears before dinner, and every trip outside feels like a purrmanently wet obstacle course, the coziness starts to wear off into pure annoyance. During this time of the year, I need something small and stoopid to resent my brain, and I mean that in the most loving way pawssible. That stupid thing is a ridiculous cat meme. 
+Give me all the dramatic feline faces, pictures of cats sitting somewhere they absolutely should not be, and a plethora of feline funnies. Sometimes, that is enough to pull me out of the weather-induced gloom and remind me that the whole day is not ruined just because the sky looks miserable and my socks are a little wet. Lucky for you, I&#x27;m something of a cat meme expurrt as the Managing Editor of I Can Has Cheezburger, so I went and gathered some uplifting funny cat memes for you to battle the gloom and doom with giggles and glee!</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cheezburger.com/47182085/woman-asks-late-brother-to-send-her-orange-cats-as-signs-that-hes-still-around-then-finds-a-pile-of"
+                        open
+                      >
+                        <summary class="article-expander__title">Woman asks late brother to send her orange cats as signs that he&#x27;s still around, then finds a pile of kittens in need of help</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cheezburger.com/47182085/woman-asks-late-brother-to-send-her-orange-cats-as-signs-that-hes-still-around-then-finds-a-pile-of">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.chzbgr.com/thumb-large/47182085/h876F4589/of-a-pile-of-kittens-outside-my-ghost-brother-sent-me-on-a-quest-to-rescue-some-dumped-kittens" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The CDS works in meowsterious ways. Maybe it even sends us messages from loved ones in the afterlife. 
+We always talk about the power of the CDS. How it always finds us in the most unexpected times, in the most unexpected ways. And although we nearly never expect it when a cat adopts us, it always somehow happens at the purrfect time. We may think that we&#x27;re not ready or that we can&#x27;t do it, but the cats know better. They believe in us enough, and then, it just kind of… works out. That&#x27;s how it happened for me, when I adopted my cat. I wasn&#x27;t expecting it, I didn&#x27;t think I could do it, and 11 years later, I give advice to new cat owners - in my purrsonal life and here on ICHC. 
+Maybe there is a reason for all of this. The CDS really does work in meowsterious ways. In some ways, it feels like the CDS is listening to us. That&#x27;s why the cats always seem to come at the right time. But maybe it&#x27;s not only listening to us. Maybe it&#x27;s listening to everyone, including the ones of us who have crossed the rainbow bridge. At least, this is what the person in today&#x27;s story has experienced. They are convinced that their late brother sent them on a mission to save some stray kittens in need of help. He loved cats, especially ginger cats, and before he passed, his sister asked him to send her cats. Guess what happened next? Signs. Signs everywhere. Ginger cats all over the place. And then, the biggest sigh, a pile of kittens waiting for her to save them.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cheezburger.com/47170053/25-warm-and-wholesome-cat-memes-to-wrap-your-paws-around-a-little-peace-and-quiet"
+                        open
+                      >
+                        <summary class="article-expander__title">25 Warm and Wholesome Cat Memes to Wrap Your Paws Around a Little Peace and Quiet</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cheezburger.com/47170053/25-warm-and-wholesome-cat-memes-to-wrap-your-paws-around-a-little-peace-and-quiet">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.chzbgr.com/thumb-large/47170053/h1B0E8FFF/cat-memes-hilarious-cat-funny-memes-memes-lol-funny-cats-silly-cats-funny-cat-memes-cats-47170053" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>If there is anything that we need today, it&#x27;s a little peace and quiet. And cat memes. 
+Over the past couple of years, with all the chaos and the things and the stuff, all that we have wanted has been some… peace and quiet. Just one day on social media when nothing bad happens. One day when we go on Twitter or Instagram and see nothing but cute pictures of cats. That is all that we have wanted, and we have not gotten it. Nope. Not even one day. The universe has been something else ever since around 2020. But one thing has remained stable. One thing about the internet will never change. That&#x27;s why people like me keep going on there, keep scrolling through the chaos. We do it because it know that no matter what is happening in the world, cat memes will always reign supreme on the internet. 
+Listen, I was doing this way before I got my current job. In fact, when I started writing for ICHC, a part of me was worried that I would get tired of looking at silly cat memes all day long. But that has not happened. It&#x27;s been the opposite, if anything. I spend all day scrolling through cat content online, all day searching for the positivity in the world, and then, I get to come here and share it with all of you guys, and hopefully, this way, I can send a little bit of peace and quiet your way.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cheezburger.com/47209733/the-more-the-meowier-with-these-cat-memes-celebrating-feline-filled-homes"
+                        open
+                      >
+                        <summary class="article-expander__title">The More The Meowier With These Cat Memes Celebrating Feline-Filled Homes</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cheezburger.com/47209733/the-more-the-meowier-with-these-cat-memes-celebrating-feline-filled-homes">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.chzbgr.com/thumb-large/47209733/h4C07D1FA/includes-one-meme-and-one-picture-of-text-including-feminine-urge-to-become-a-crazy-cat-lady" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>One cat is great. Two cats are even better. Three cats? Now we&#x27;re talking. Ask any cat lover how many cats they&#x27;d ideally have, and there&#x27;s a good chance their answer is at least one more than they currently own.
+It&#x27;s hard to be satisfied with just one when there are so many adorable kitties out there waiting to be loved.
+Every cat has its own little purrsonality, which is part of the problem. You might already have a cuddly orange boy who follows you everywhere, but that doesn&#x27;t mean you wouldn&#x27;t also love a sassy tortie who runs the household. A fluffy little void would be a lovely addition, too. And who could say no to a pair of bonded kittens?
+Before long, you&#x27;ve mentally adopted half the cats at your local shelter.
+Cat lovers also have a habit of finding potential new family members e…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cheezburger.com/47209221/woman-goes-to-work-on-her-day-off-and-ends-up-rescuing-a-sweet-dumpster-kitty-who-steals-her-heart"
+                        open
+                      >
+                        <summary class="article-expander__title">Woman goes to work on her day off and ends up rescuing a sweet dumpster kitty who steals her heart</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cheezburger.com/47209221/woman-goes-to-work-on-her-day-off-and-ends-up-rescuing-a-sweet-dumpster-kitty-who-steals-her-heart">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.chzbgr.com/thumb-large/47209221/hA14B1398/of-cats-and-one-picture-of-text-including-i-decided-then-and-there-that-she-was-coming-home-with-me" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>You know you&#x27;re a cat person when you can&#x27;t walk past a stray without stopping to say hello. It doesn&#x27;t matter if you&#x27;re running late, carrying groceries, or supposed to be somewhere else. If there&#x27;s a kitty nearby, you&#x27;re going to spend at least five minutes trying to make friends with them.
+Sometimes, those five minutes turn into a whole rescue mission.
+We&#x27;ve all heard stories about people going out for groceries and coming home with a cat instead. One minute they&#x27;re minding their own business, and the next they&#x27;re buying litter boxes, picking out toys, and trying to figure out how to explain the new family member to everyone at home.
+Stray cats have a pretty impressive talent for finding the right humans. Some are cautious and take weeks to warm up to people, while others will march rig…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cheezburger.com/47188997/wobbly-kitten-spotted-struggling-to-cat-in-family-garden-given-furever-home-safe-from-circling"
+                        open
+                      >
+                        <summary class="article-expander__title">Wobbly kitten spotted struggling to cat in family garden given furever home safe from circling predators</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cheezburger.com/47188997/wobbly-kitten-spotted-struggling-to-cat-in-family-garden-given-furever-home-safe-from-circling">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.chzbgr.com/thumb-large/47188997/hC69FF8FC/one-image-which-shows-dark-gray-kitten-i-think-my-family-needed-this-guy-as-much-as-he-needed-us" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Coming across a family of feral kittens in your back yard is no easy thing to deal with, but when one of those kittens presents as a wibbly wobbly kitten who is barely able to cat, well, that is a whole different kettle of fish. And that is how our story begins with the appearance of a momma cat and her two babies, one of which had obvious problems standing up, walking and running. Though it was obvious that the feline&#x27;s difficulties were not born of injures, it was not clear as to what actually was the cause of its physical difficulties. Initially our fur friendly family kept their distance, solely feeding the tiny felines as and when they came to visit. But soon things would change when the healthy kitten of the two suddenly stopped showing up. This was cause for concern seeing as their …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cheezburger.com/47207429/22-tiny-cats-in-tiny-hats-i-would-happily-take-fashion-advice-from"
+                        open
+                      >
+                        <summary class="article-expander__title">22 Tiny Cats in Tiny Hats I Would Happily Take Fashion Advice From</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cheezburger.com/47207429/22-tiny-cats-in-tiny-hats-i-would-happily-take-fashion-advice-from">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.chzbgr.com/thumb-large/47207429/h65D58917/22-tiny-cats-in-tiny-hats-i-would-happily-take-fashion-advice-from" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Do we really need an occasion to wear something that makes us happy?
+Whenever I buy new clothes, I start looking for any occasion to wear them. My standards for what counts as an occasion are extremely generous. Going to the movies? Perfect. Going to the supermarket? Also perfect. The cashier clearly didn&#x27;t ask to see my new outfit, but they&#x27;re going to. Period.
+My friends tease me because I&#x27;ll buy something and wear it all week. Well, I understand why they notice, but I don&#x27;t see the problem! I was so excited about it that I wanted to spend money on it, so of course I want to enjoy it. I&#x27;m still in the stage where I catch my reflection and think, heck yeah, excellent purchase. Let me have this. I&#x27;ve never understood buying something I love only to wait and save it for a special day. I know myself. I don&#x27;t like waiting to enjoy the stuff I buy.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >9to5Google</button>
+                  <a class="source-heading__link" href="https://9to5google.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://9to5google.com/?p&#x3D;734432"
+                        open
+                      >
+                        <summary class="article-expander__title">What tech is making you happy?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://9to5google.com/2026/10/25/what-tech-is-making-you-happy/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-vs-Fitbit-Air-3.jpg?quality&#x3D;82&amp;strip&#x3D;all&amp;resize&#x3D;1200,628" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Tech is in a weird place right now. There are plenty of exciting developments in AI, tons of new hardware, and rapidly growing ideas, but it’s all surrounded by the effect today’s tech is having on society. So, what tech is making you happy right now?
+9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of key stories from around the web by Daniel Bader. Sign up here to get Weekender delivered to your inbox every Sunday along with ‘Inbox’ on Tuesday and Thursday. You can find past issues here.
+more…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
       <section class="daily-content js-toggle-accordions-scope">
         <h2 class="daily-heading">
           <button
@@ -4598,6 +4712,40 @@ Custom screensavers are also supported. Similar to startup movies, they can be p
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >GooglebookOS – Android For PC</button>
+                  <a class="source-heading__link" href="https://aluminium-os.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://aluminium-os.com/?p&#x3D;280748"
+                        open
+                      >
+                        <summary class="article-expander__title">GooglebookOS ISO: Does It Exist and How to Run It</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aluminium-os.com/googlebookos-iso-and-how-to-run-it/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://aluminium-os.com/wp-content/uploads/2026/10/googlebookOS-iso-1024x576.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>If you’ve gone looking for a GooglebookOS ISO, you’ve probably noticed something odd: there isn’t one. Google doesn’t publish an installable Googlebook OS image for PCs. The only official downloads ... Read more</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;21
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -5029,8 +5177,8 @@ This OS release includes SteamVR (2.18.1)</span>
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-09-26 datetime="2026-09-26T03:19:29.000Z">2026-09-26</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-09-26 datetime="2026-09-26T03:19:29.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-09-28 datetime="2026-09-28T18:55:16.000Z">2026-09-28</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-09-28 datetime="2026-09-28T18:55:16.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -5041,86 +5189,24 @@ This OS release includes SteamVR (2.18.1)</span>
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >4165890 RSS Feed</button>
-                  <a class="source-heading__link" href="https://store.steampowered.com/news/app/4165890/">Open</a>
+                  >GooglebookOS – Android For PC</button>
+                  <a class="source-heading__link" href="https://aluminium-os.com">Open</a>
                 </h3>
                 <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://store.steampowered.com/news/app/4165890/view/674006995886409325"
+                        data-accordion-key="https://aluminium-os.com/?p&#x3D;280744"
                         open
                       >
-                        <summary class="article-expander__title">SteamOS 0.4.1 Beta for Steam Frame</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://store.steampowered.com/news/app/4165890/view/674006995886409325">
+                        <summary class="article-expander__title">ChromeOS End of Life Set for Mid-2034, Google Confirms</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://aluminium-os.com/chromeos-end-of-life-set-for-mid-2034-google-confirms/">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://aluminium-os.com/wp-content/uploads/2026/09/chromeos-end-of-life.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>SteamOS 0.4.1 (for Steam Frame) has just been released for all users.
-
-This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings &gt; System &gt; System Update Channel.
-
-General
-
-Fixed &quot;Return to Gaming mode&quot; when starting up directly into Desktop mode.
-
-Fixed rare cases of other network interfaces causing disruption of wireless dongle connection.
-
-
-Spectator view is now smoothed by default. Spectator view can be accessed on PC via Steam &gt; Settings &gt; Remote Play, or any device that supports Steam Link to preview what the Steam Frame user is seeing in headset.
-
-Users can now specify their Dominant Eye in VR Settings. This controls which eye is used for spectator view, screenshots, etc.
-
-Added option to disable spectator view smoothing under VR Settings &gt; Developer (in headset).
-
-Fixed an issue where the dashboard would recenter unnecessarily for some users.
-
-Improved focus handling and gamepad navigation in the dashboard.
-
-Fixed a case of dashboard panels flickering.
-
-Miscellaneous performance and stability improvements.
-
-Updated embedded browser (CEF) with crash fixes and Linux H.264 detection fixes.
-
-Fixed the keyboard not appearing while streaming.
-
-Audio: downmix and binaural rendering now have matching volume across all formats.
-
-Improved proximity sensor detection model.
-
-
-This OS release includes SteamVR (2.18.1)</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://store.steampowered.com/news/app/4165890/view/674006995886409304"
-                        open
-                      >
-                        <summary class="article-expander__title">Steam Client Update For Frame: September 25th</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://store.steampowered.com/news/app/4165890/view/674006995886409304">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Steam Client (for Steam Frame) has just been released for all users with the following changes: 
-
-General 
-
-Improved color accuracy when streaming non-VR games from a Windows PC
-
-Support for &quot;Show Battery Percentage&quot; in Dashboard Bar
-
-Support for gamepad navigation in the Streaming menu</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
+                              <span>Chromebooks sold today with a 10-year update promise will need Googlebook OS to get updates after 2034, and Google hasn&#x27;t said which models qualify.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;16
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -5134,8 +5220,8 @@ Support for gamepad navigation in the Streaming menu</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/16x16pixelcat/CatRssFeeds/actions/runs/40159834338">
-        <time id="build-timestamp" datetime="2026-10-25T03:53:20.619Z">2026-10-25T03:53:20.619Z</time>
+      <a class="footer-link" href="https://github.com/16x16pixelcat/CatRssFeeds/actions/runs/40226642428">
+        <time id="build-timestamp" datetime="2026-10-25T19:34:21.163Z">2026-10-25T19:34:21.163Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
