@@ -12,6 +12,26 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/group/4397053/view/712290127331727799",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nSteam Input\n\nAdded support for GameInput v4\n\nRemote Play\n\nStart streaming faster when connecting to a local computer\n\nFixed the \"...\" button on the Steam Controller not being passed through to the remote side\n\nLinux\n\nFixed a crash when resuming from suspend\n\nBig Picture Mode\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat window above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM",
+          "link": "https://store.steampowered.com/news/group/4397053/view/712290127331727799",
+          "publishedOn": "2026-10-26T23:52:00.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - October 26th",
+          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed a crash when resuming from suspend\n\nAdded a workaround for updates occasionally hanging at 99%\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat tab above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM\n\nRemote Play\n\nStart streaming faster when connecting to a local computer",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
+          "publishedOn": "2026-10-26T23:51:35.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 26th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/app/593110/view/686394429475394171",
           "author": null,
           "description": "Steam Scream is back for a fifth year of terrifying everyone... with amazing deals on spooky games! From now through November 2nd at 10 a.m. PT you can make your way through the Steam Store to find horrors of all kinds: psychological, slasher, silly, you name it.\nFill up your trick-or-treat bucket Steam library with your favorite scary games, and we bet you'll want to keep playing them well past the horror of the Halloween holiday itself.\nJoin us now for Steam Scream V... if you dare. (You totally should dare, to be clear.)",
@@ -103,6 +123,16 @@
       "feedUrl": "https://store.steampowered.com/feeds/news/app/1675200/?cc=JO&l=english",
       "siteUrl": "https://store.steampowered.com/news/app/1675200/",
       "articles": [
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed a crash when resuming from suspend\n\nAdded a workaround for updates occasionally hanging at 99%\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat tab above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM\n\nRemote Play\n\nStart streaming faster when connecting to a local computer",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
+          "publishedOn": "2026-10-26T23:51:35.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 26th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
         {
           "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
           "author": null,
@@ -330,6 +360,96 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=725385",
+          "author": "Abner Li",
+          "description": "Following the floating navigation bar in July, Google Photos for Android is rolling out a big redesign that lets you customize the Collections tab.\nmore…",
+          "link": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
+          "publishedOn": "2026-10-27T01:18:33.000Z",
+          "wordCount": 3504,
+          "title": "Google Photos rolls out customizable redesign of your ‘Collections’ tab",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734667",
+          "author": "Ben Schoon",
+          "description": "Google has updated its Android Bench list for showing how good AI models are at Android coding assistance, with Gemini 4 Argon ranking way behind that of the latest Claude and GPT models.\nmore…",
+          "link": "https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/",
+          "publishedOn": "2026-10-26T22:00:00.000Z",
+          "wordCount": 3226,
+          "title": "Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=732605",
+          "author": "Abner Li",
+          "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.\nmore…",
+          "link": "https://9to5google.com/2026/10/26/october-2026-google-system-updates/",
+          "publishedOn": "2026-10-26T20:15:00.000Z",
+          "wordCount": 4358,
+          "title": "What’s new in Android’s October 2026 Google System Updates [U]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734656",
+          "author": "Abner Li",
+          "description": "Google is rolling out Chrome 156 for Googlebooks with a slew of improvements and bug fixes. This follows the last browser update two weeks ago.\nmore…",
+          "link": "https://9to5google.com/2026/10/26/chrome-156-googlebooks/",
+          "publishedOn": "2026-10-26T19:58:11.000Z",
+          "wordCount": 3106,
+          "title": "Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-4.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734575",
+          "author": "Nicholas Sutrich",
+          "description": "Grab a cup of hot cocoa and a sweater, because Even Realities’ new styles and glasses accessories are warming up for the fall.\nmore…",
+          "link": "https://9to5google.com/2026/10/26/even-your-abuelita-will-love-even-realities-new-smart-glasses-styles/",
+          "publishedOn": "2026-10-26T19:56:26.000Z",
+          "wordCount": 3762,
+          "title": "Even your abuelita will love Even Realities’ new smart glasses styles",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/even-realities-g2-brown-2-colorway-with-chain.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734540",
+          "author": "Ben Schoon",
+          "description": "Apple has just released a new iPad Mini with an OLED display and it looks great, but I’ve spent the past few months with Android’s equivalent in the Redmagic Astra 2, and it’s well worth your attention.\nmore…",
+          "link": "https://9to5google.com/2026/10/26/android-ipad-mini-oled-redmagic-astra-2-review/",
+          "publishedOn": "2026-10-26T19:30:00.000Z",
+          "wordCount": 4206,
+          "title": "I’ve been using Android’s iPad Mini OLED for months, and it’s the better tiny tablet",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/redmagic-astra-2-7.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734624",
+          "author": "Abner Li",
+          "description": "Following the other big interface updates this month, Google is rolling out a small ‘plus’ redesign to Gemini Live on Android that lets you more easily add photos and files.\nmore…",
+          "link": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
+          "publishedOn": "2026-10-26T19:00:50.000Z",
+          "wordCount": 3399,
+          "title": "Gemini Live redesign makes it easier to add context to chats",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/10/26/todays-highlight-google-play-deals-36/",
+          "author": "9to5Toys",
+          "description": "Today’s best Google Play app and game deals are ready, including This War of Mine, Siralim Ultimate, The Last Warlord, Anodyne, 20 Minutes Till Dawn:Premium, TLOTS: Gold Edition, and more. On your way down, scope out the new all-time low available in Lenovo’s early Black Friday  sale on its new 4K Yoga Tab Gen 2 stylus/keyboard bundle as well as Nothing’s ultra-affordable CMF Buds Neo down at just $20, and these TCL Android tablets up to 35% off. The apps await below. \nmore…",
+          "link": "https://9to5toys.com/2026/10/26/todays-highlight-google-play-deals-36/",
+          "publishedOn": "2026-10-26T18:45:36.000Z",
+          "wordCount": 2880,
+          "title": "Monday’s Android app deals and freebies: War of Mine, Siralim Ultimate, 20 Minutes Till Dawn, more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://9to5google.com/?p=734608",
+          "author": "Ben Schoon",
+          "description": "After briefly ending the promo earlier this month, Motorola has dropped Moto Tag 2 back to $19.99.\nmore…",
+          "link": "https://9to5google.com/2026/10/26/moto-tag-2-brings-its-uwb-and-android-find-hub-integration-back-to-20/",
+          "publishedOn": "2026-10-26T18:15:00.000Z",
+          "wordCount": 3146,
+          "title": "Moto Tag 2 brings its UWB and Android Find Hub integration back to $20",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/moto-tag-2-.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=734592",
           "author": "Andrew Romero",

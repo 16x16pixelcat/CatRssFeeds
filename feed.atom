@@ -2,10 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-10-26T18:07:58.899Z</updated>
+    <updated>2026-10-27T04:18:30.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Photos rolls out customizable redesign of your ‘Collections’ tab]]></title>
+        <id>https://9to5google.com/?p=725385</id>
+        <link href="https://9to5google.com/2026/10/26/google-photos-collections-redesign/"/>
+        <updated>2026-10-27T01:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Following the floating navigation bar in July, Google Photos for Android is rolling out a big redesign that lets you customize the Collections tab.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - October 26th]]></title>
+        <id>https://store.steampowered.com/news/group/4397053/view/712290127331727799</id>
+        <link href="https://store.steampowered.com/news/group/4397053/view/712290127331727799"/>
+        <updated>2026-10-26T23:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+Steam Input
+
+Added support for GameInput v4
+
+Remote Play
+
+Start streaming faster when connecting to a local computer
+
+Fixed the "..." button on the Steam Controller not being passed through to the remote side
+
+Linux
+
+Fixed a crash when resuming from suspend
+
+Big Picture Mode
+
+Updated the styling of the chat tab to better convey focus states
+
+Game invites from friends now have a dedicated widget in the chat window above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.
+
+Improved the group chat layout and fixed areas where gamepad navigation could get stuck
+
+Friend chat message notifications will now be rolled up rather than sending one 2 second notification per message
+
+Plumbed the per-friend voice chat levels to the friend context menu in BPM]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Beta Client Update: October 26th]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694275728822245920</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822245920"/>
+        <updated>2026-10-26T23:51:35.000Z</updated>
+        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
+
+General
+
+Fixed a crash when resuming from suspend
+
+Added a workaround for updates occasionally hanging at 99%
+
+Updated the styling of the chat tab to better convey focus states
+
+Game invites from friends now have a dedicated widget in the chat tab above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.
+
+Improved the group chat layout and fixed areas where gamepad navigation could get stuck
+
+Friend chat message notifications will now be rolled up rather than sending one 2 second notification per message
+
+Plumbed the per-friend voice chat levels to the friend context menu in BPM
+
+Remote Play
+
+Start streaming faster when connecting to a local computer]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Beta Client Update: October 26th]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694275728822245920</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822245920"/>
+        <updated>2026-10-26T23:51:35.000Z</updated>
+        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
+
+General
+
+Fixed a crash when resuming from suspend
+
+Added a workaround for updates occasionally hanging at 99%
+
+Updated the styling of the chat tab to better convey focus states
+
+Game invites from friends now have a dedicated widget in the chat tab above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.
+
+Improved the group chat layout and fixed areas where gamepad navigation could get stuck
+
+Friend chat message notifications will now be rolled up rather than sending one 2 second notification per message
+
+Plumbed the per-friend voice chat levels to the friend context menu in BPM
+
+Remote Play
+
+Start streaming faster when connecting to a local computer]]></summary>
+        <author>
+            <name>1675200 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding]]></title>
+        <id>https://9to5google.com/?p=734667</id>
+        <link href="https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/"/>
+        <updated>2026-10-26T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has updated its Android Bench list for showing how good AI models are at Android coding assistance, with Gemini 4 Argon ranking way behind that of the latest Claude and GPT models.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Android’s October 2026 Google System Updates [U]]]></title>
+        <id>https://9to5google.com/?p=732605</id>
+        <link href="https://9to5google.com/2026/10/26/october-2026-google-system-updates/"/>
+        <updated>2026-10-26T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more]]></title>
+        <id>https://9to5google.com/?p=734656</id>
+        <link href="https://9to5google.com/2026/10/26/chrome-156-googlebooks/"/>
+        <updated>2026-10-26T19:58:11.000Z</updated>
+        <summary type="html"><![CDATA[Google is rolling out Chrome 156 for Googlebooks with a slew of improvements and bug fixes. This follows the last browser update two weeks ago.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even your abuelita will love Even Realities’ new smart glasses styles]]></title>
+        <id>https://9to5google.com/?p=734575</id>
+        <link href="https://9to5google.com/2026/10/26/even-your-abuelita-will-love-even-realities-new-smart-glasses-styles/"/>
+        <updated>2026-10-26T19:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Grab a cup of hot cocoa and a sweater, because Even Realities’ new styles and glasses accessories are warming up for the fall.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve been using Android’s iPad Mini OLED for months, and it’s the better tiny tablet]]></title>
+        <id>https://9to5google.com/?p=734540</id>
+        <link href="https://9to5google.com/2026/10/26/android-ipad-mini-oled-redmagic-astra-2-review/"/>
+        <updated>2026-10-26T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple has just released a new iPad Mini with an OLED display and it looks great, but I’ve spent the past few months with Android’s equivalent in the Redmagic Astra 2, and it’s well worth your attention.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Live redesign makes it easier to add context to chats]]></title>
+        <id>https://9to5google.com/?p=734624</id>
+        <link href="https://9to5google.com/2026/10/26/gemini-live-plus-redesign/"/>
+        <updated>2026-10-26T19:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Following the other big interface updates this month, Google is rolling out a small ‘plus’ redesign to Gemini Live on Android that lets you more easily add photos and files.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday’s Android app deals and freebies: War of Mine, Siralim Ultimate, 20 Minutes Till Dawn, more]]></title>
+        <id>https://9to5toys.com/2026/10/26/todays-highlight-google-play-deals-36/</id>
+        <link href="https://9to5toys.com/2026/10/26/todays-highlight-google-play-deals-36/"/>
+        <updated>2026-10-26T18:45:36.000Z</updated>
+        <summary type="html"><![CDATA[Today’s best Google Play app and game deals are ready, including This War of Mine, Siralim Ultimate, The Last Warlord, Anodyne, 20 Minutes Till Dawn:Premium, TLOTS: Gold Edition, and more. On your way down, scope out the new all-time low available in Lenovo’s early Black Friday  sale on its new 4K Yoga Tab Gen 2 stylus/keyboard bundle as well as Nothing’s ultra-affordable CMF Buds Neo down at just $20, and these TCL Android tablets up to 35% off. The apps await below. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moto Tag 2 brings its UWB and Android Find Hub integration back to $20]]></title>
+        <id>https://9to5google.com/?p=734608</id>
+        <link href="https://9to5google.com/2026/10/26/moto-tag-2-brings-its-uwb-and-android-find-hub-integration-back-to-20/"/>
+        <updated>2026-10-26T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[After briefly ending the promo earlier this month, Motorola has dropped Moto Tag 2 back to $19.99.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google’s new Metal Mesh Fitbit Air band is more versatile than you think]]></title>
         <id>https://9to5google.com/?p=734592</id>
