@@ -14,5 +14,8 @@ sources:
   - href: https://store.steampowered.com/feeds/news/app/3029110/?cc=JO&l=english
   - href: https://aluminium-os.com/feed/
   - href: https://9to5google.com/feed/
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCywwEsnSmADUyhtSaq5dKNg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC6kV02-W8iXWgnCwkBAPk6Q
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC5p0FTpOleZUc87YVJ8VX-g
 
 siteTitle: "CatRssFeeds"
