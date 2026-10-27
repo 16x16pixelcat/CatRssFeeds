@@ -7,15 +7,15 @@ cacheUrl: https://16x16pixelcat.github.io/CatRssFeeds/cache.json
 
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-#  - href: https://icanhas.cheezburger.com/rss
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCywwEsnSmADUyhtSaq5dKNg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC6kV02-W8iXWgnCwkBAPk6Q
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC5p0FTpOleZUc87YVJ8VX-g
+  - href: https://9to5google.com/feed/
   - href: https://store.steampowered.com/feeds/news/collection/steam
   - href: https://store.steampowered.com/feeds/news/app/1675200/?cc=JO&l=english
   - href: https://store.steampowered.com/feeds/news/app/4165890/?cc=JO&l=english
   - href: https://store.steampowered.com/feeds/news/app/3029110/?cc=JO&l=english
   - href: https://aluminium-os.com/feed/
-  - href: https://9to5google.com/feed/
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCywwEsnSmADUyhtSaq5dKNg
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC6kV02-W8iXWgnCwkBAPk6Q
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC5p0FTpOleZUc87YVJ8VX-g
+  - href: https://icanhas.cheezburger.com/rss
 
 siteTitle: "CatRssFeeds"
