@@ -113,6 +113,36 @@
       "siteUrl": "https://9to5google.com/",
       "articles": [
         {
+          "id": "https://9to5google.com/?p=734850",
+          "author": "Abner Li",
+          "description": "After introducing Connected App integration last week, Gemini Notebook has rolled out an audio recorder on Android and iOS.\nmore…",
+          "link": "https://9to5google.com/2026/10/27/gemini-notebook-recorder/",
+          "publishedOn": "2026-10-27T22:44:07.000Z",
+          "wordCount": 3452,
+          "title": "Gemini Notebook for Android, iOS adds built-in audio recorder",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook-fold-8-5.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734837",
+          "author": "Will Sattelberg",
+          "description": "Welcome to episode 49 of The Sideload, a 9to5Google podcast. This week, Will is once again joined by Daniel Bader — now in a more permanent co-host position, listen to the episode to find out more — as they discuss the state of browsers outside of Chrome, what we’re even looking for in a browser in 2026, and how agentic use cases might completely shape the web as we know it.\nSponsored by NordVPN: Listeners to The Sideload can save up to 76% on a two-year subscription alongside four extra months for absolutely free by signing up for NordVPN using this link. Thanks to NordVPN for sponsoring this week’s episode.\n\n\n\n\nSubscribe\nYouTube Podcasts\nPocket Casts\nSpotify\nApple Podcasts\nAmazon Music\nSubscribe to 9to5Google Pro for exclusive bonus content, podcast episodes, and more.\nmore…",
+          "link": "https://9to5google.com/2026/10/27/the-sideload-049-the-death-of-the-browser/",
+          "publishedOn": "2026-10-27T20:30:00.000Z",
+          "wordCount": 3033,
+          "title": "The Sideload 049: The death of the browser",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/10/27/todays-highlight-google-play-deals-37/",
+          "author": "9to5Toys",
+          "description": "Today’s best Google Play app and game deals are ready, including Out There: Ω Edition, Tokaido, Eight-Minute Empire, Tales of Mecha: Rising, Front Armies [RTS], Istanbul: Digital Edition, Charterstone: Digital Edition, and more. Just be sure to dive into Nothing’s CMF Watch 3 Pro down at just $59, Galaxy Z Fold 8/Ultra at up to $570 off, and Nothing’s new Buds Neo at just $20. the apps await below. \nmore…",
+          "link": "https://9to5toys.com/2026/10/27/todays-highlight-google-play-deals-37/",
+          "publishedOn": "2026-10-27T18:46:10.000Z",
+          "wordCount": 2965,
+          "title": "Today’s best Android app deals and freebies: Out There, Tokaido, Eight-Minute Empire, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Google-Play-collage-f9e8d3.webp?resize=1200,628"
+        },
+        {
           "id": "https://9to5google.com/?p=734820",
           "author": "Abner Li",
           "description": "The second update this year for the Nest Wifi router and point rolled out last week with two improvements.\nmore…",
