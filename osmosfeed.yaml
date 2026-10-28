@@ -16,6 +16,6 @@ sources:
   - href: https://store.steampowered.com/feeds/news/app/4165890/?cc=JO&l=english
   - href: https://store.steampowered.com/feeds/news/app/3029110/?cc=JO&l=english
   - href: https://aluminium-os.com/feed/
-  - href: https://icanhas.cheezburger.com/rss
+#  - href: https://icanhas.cheezburger.com/rss
 
 siteTitle: "CatRssFeeds"
