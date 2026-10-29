@@ -113,6 +113,156 @@
       "siteUrl": "https://9to5google.com/",
       "articles": [
         {
+          "id": "https://9to5google.com/?p=735001",
+          "author": "Andrew Romero",
+          "description": "A surge of online reports indicates that some users are experiencing a recent increase in battery drain on their Pixel Watch, by as much as 20% every few hours.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/pixel-watch-users-report-battery-drain/",
+          "publishedOn": "2026-10-28T20:28:44.000Z",
+          "wordCount": 3200,
+          "title": "Some Pixel Watch users report a sudden decrease in battery life",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-Watch-5-Steph-Curry-.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734950",
+          "author": "Nicholas Sutrich",
+          "description": "The upgraded AMVR BS1 head strap includes better ergonomics, a built-in fan, magnetic rechargeable batteries, and a new breathable mesh top support for ultimate comfort.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/amvrs-new-head-strap-is-my-favorite-way-to-keep-cool-with-a-meta-quest-3-or-3s/",
+          "publishedOn": "2026-10-28T20:20:00.000Z",
+          "wordCount": 3989,
+          "title": "AMVR’s new head strap is my favorite way to keep cool with a Meta Quest 3 or 3S",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/amvr-bs1-with-quest-3.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734922",
+          "author": "Abner Li",
+          "description": "Alphabet today announced Q3 2026 earnings with $127.6 billion in revenue. These numbers range from July to September.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/alphabet-q3-2026-earnings/",
+          "publishedOn": "2026-10-28T20:03:59.000Z",
+          "wordCount": 3026,
+          "title": "Alphabet reports Q3 2026 revenue of $127.6 billion",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/google-logo-4.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/10/28/todays-highlight-google-play-deals-38/",
+          "author": "9to5Toys",
+          "description": "Today’s best Google Play app and game deals are ready, including Subnautica: Below Zero, Lara Croft GO, Fishfolk Voyage, Sauna of the DEAD, Railways – Train Simulator, Traffix: Traffic Simulator, and more. Just be sure to dive into the brand new redesigned Echo Show 16 with the $100 pre-order discount, Galaxy S25 Ultra at $799 ($600 under the S26 model), and Lenovo’s 2026 2K Chromebook M at $189 (52% off). The apps await below. \nmore…",
+          "link": "https://9to5toys.com/2026/10/28/todays-highlight-google-play-deals-38/",
+          "publishedOn": "2026-10-28T19:42:03.000Z",
+          "wordCount": 3099,
+          "title": "Mid-week Android app deals and freebies: Subnautica, Lara Croft GO, Fishfolk, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Google-Play-collage-9aba27.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734956",
+          "author": "Nicholas Sutrich",
+          "description": "It’s a 0.68MB Galaxy Ring update and a $75 sale. What’s not to like?\nmore…",
+          "link": "https://9to5google.com/2026/10/28/the-galaxy-ring-got-a-new-update-just-in-time-for-a-75-off-sale/",
+          "publishedOn": "2026-10-28T19:05:02.000Z",
+          "wordCount": 3233,
+          "title": "The Galaxy Ring got a new update just in time for a $75-off sale",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/samsung-galaxy-ring-october-2026-01.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734932",
+          "author": "Nicholas Sutrich",
+          "description": "Get an incredible pair of earbuds in a striking color for under $80 with this Nothing Ear (3a) deal.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/nothing-ear-3a-deal-best-price-ever/",
+          "publishedOn": "2026-10-28T18:10:00.000Z",
+          "wordCount": 3292,
+          "title": "Nothing Ear (3a) are ‘the best earbuds,’ and they’re back down to their lowest price ever",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/nothing-ear-3a-colors-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734933",
+          "author": "Abner Li",
+          "description": "Following the launch of Argon two weeks ago, Google today announced Gemini 4 Carbon as its next frontier model.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/",
+          "publishedOn": "2026-10-28T17:08:32.000Z",
+          "wordCount": 3558,
+          "title": "Google announces Gemini 4 Carbon with ‘significant gains across coding and agentic tasks’",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-4-Carbon-cover.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734876",
+          "author": "Nicholas Sutrich",
+          "description": "XREAL Aura already works with all your favorite Android apps thanks to Android XR, and that includes over 150 experiences that tap into the power of the XR glasses.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/xreal-aura-debuts-with-150-made-for-xr-experiences-including-project-hail-mary-nba-fallout-and-more/",
+          "publishedOn": "2026-10-28T17:05:00.000Z",
+          "wordCount": 3371,
+          "title": "XREAL Aura debuts with 150 made-for-XR experiences, including Project Hail Mary, NBA, Fallout, and more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-lifestyle-01.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734845",
+          "author": "Abner Li",
+          "description": "Google today announced the Connected Apps Platform as a “unified way for more app developers to bring their capabilities directly into Gemini and Search.”\nmore…",
+          "link": "https://9to5google.com/2026/10/28/gemini-google-connected-apps-platform/",
+          "publishedOn": "2026-10-28T17:00:00.000Z",
+          "wordCount": 3084,
+          "title": "Google adding more Connected Apps to Gemini & Search with new dev platform",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734457",
+          "author": "Nicholas Sutrich",
+          "description": "The first Android XR-powered smart glasses are almost here, and early adopters actually get a rare discount on the cutting-edge XREAL Aura hardware.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount/",
+          "publishedOn": "2026-10-28T17:00:00.000Z",
+          "wordCount": 4254,
+          "title": "XREAL Aura is coming in November with a special $200-off launch discount",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/xreal-aura-official-render-launch.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734839",
+          "author": "Abner Li",
+          "description": "As previewed in May, Google Chrome can now use Gemini and Personal Intelligence to autofill much more information.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/chrome-autofill-gemini/",
+          "publishedOn": "2026-10-28T17:00:00.000Z",
+          "wordCount": 2865,
+          "title": "Google Chrome rolling out ‘Suggested by Gemini’ autofill",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734885",
+          "author": "Ben Schoon",
+          "description": "Amazon just launched a new lineup of Echo smart speakers and a new smart display, all while Google Home’s lineup remains pretty quiet.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/amazon-echo-new-smart-displays-speakers-google-home/",
+          "publishedOn": "2026-10-28T16:10:00.000Z",
+          "wordCount": 3693,
+          "title": "Amazon’s latest Echo smart displays and speakers reinforce Google Home’s lost lead",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/amazon-echo-smart-displays-speakers-2026.png?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734907",
+          "author": "Justin Kahn",
+          "description": "Alongside the ongoing deals on $17.50 each. Check it all out below. \nmore…",
+          "link": "https://9to5google.com/2026/10/28/deals-galaxy-s25-ultra-echo-show-16-chromebook-m/",
+          "publishedOn": "2026-10-28T15:54:16.000Z",
+          "wordCount": 4249,
+          "title": "Deals: Galaxy S25 Ultra at $799 ($600 under S26), new Echo Show 16 $100 off, 2026 Chromebook M 52% off, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-28-3.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734901",
+          "author": "Ben Schoon",
+          "description": "SK Hynix, one of the major companies behind memory production, says that it’s sold out through 2029, leaving RAMageddon ready to rage on for at least the next three years.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/ramageddon-sk-hynix-earnings-call-2030/",
+          "publishedOn": "2026-10-28T15:25:00.000Z",
+          "wordCount": 2930,
+          "title": "RAMageddon is ready to rage on through 2030",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/S26-Ultra-Pixel-11-Pro-and-iPhone-17-Pro-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734892",
+          "author": "Andrew Romero",
+          "description": "Discord announced today that Discoverable Server web pages will begin showing summaries and pulled content, which might show up in search engines.\nmore…",
+          "link": "https://9to5google.com/2026/10/28/discord-updates-server-web-pages-for-search/",
+          "publishedOn": "2026-10-28T15:10:19.000Z",
+          "wordCount": 3208,
+          "title": "Public Discord messages might start showing up in Google Search, unless users opt out",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Discord-public-servers.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
           "id": "https://9to5google.com/?p=734884",
           "author": "Ben Schoon",
           "description": "Motorola’s return to the proper flagship space is coming in the Signature 27, but early leaks suggest this new device, as well as the company’s wide foldable, won’t exactly be cheap.\nmore…",
@@ -1510,6 +1660,26 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nDesktop Mode\n\nRe-styled the Steam updater UI",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
+          "publishedOn": "2026-10-29T01:11:56.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 28th",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/group/4397053/view/713416661425717713",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nBig Picture Mode\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nLinux\n\nRe-styled the Steam updater UI",
+          "link": "https://store.steampowered.com/news/group/4397053/view/713416661425717713",
+          "publishedOn": "2026-10-29T01:11:33.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - October 28th",
+          "imageUrl": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/group/4397053/view/712290127331727799",
           "author": null,
           "description": "The Steam Client Beta has been updated with the following changes:\n\nSteam Input\n\nAdded support for GameInput v4\n\nRemote Play\n\nStart streaming faster when connecting to a local computer\n\nFixed the \"...\" button on the Steam Controller not being passed through to the remote side\n\nLinux\n\nFixed a crash when resuming from suspend\n\nBig Picture Mode\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat window above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM",
@@ -1621,6 +1791,16 @@
       "feedUrl": "https://store.steampowered.com/feeds/news/app/1675200/?cc=JO&l=english",
       "siteUrl": "https://store.steampowered.com/news/app/1675200/",
       "articles": [
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nDesktop Mode\n\nRe-styled the Steam updater UI",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
+          "publishedOn": "2026-10-29T01:11:56.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 28th",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
         {
           "id": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
           "author": null,
@@ -1806,16 +1986,6 @@
           "publishedOn": "2026-10-01T18:23:01.000Z",
           "wordCount": 392,
           "title": "SteamOS 0.4.3 Beta for Steam Frame",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/674006995886410150",
-          "author": null,
-          "description": "SteamOS 0.4.2 (for Steam Frame) has just been released for all users.\n\nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nStreaming:\n\nImproved audio reliability while streaming\n\nImproved connection reliability while streaming (including \"protocol error 17\")\n\n\nGeneral\n\nImproved user proximity detection\n\n\nThis OS release includes SteamVR (2.18.1)",
-          "link": "https://store.steampowered.com/news/app/4165890/view/674006995886410150",
-          "publishedOn": "2026-09-29T16:38:53.000Z",
-          "wordCount": 392,
-          "title": "SteamOS 0.4.2 Beta for Steam Frame",
           "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
         }
       ]
