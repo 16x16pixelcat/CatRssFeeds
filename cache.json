@@ -113,6 +113,216 @@
       "siteUrl": "https://9to5google.com/",
       "articles": [
         {
+          "id": "https://9to5google.com/?p=735156",
+          "author": "Abner Li",
+          "description": "A pair of Gemini app updates today brings the latest design to all Android devices, while file generation sees a big upgrade.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/gemini-design-file-generation/",
+          "publishedOn": "2026-10-30T01:01:47.000Z",
+          "wordCount": 3651,
+          "title": "Latest Gemini design comes to all Android devices, app upgrades file generation",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735145",
+          "author": "Nicholas Sutrich",
+          "description": "A NAS is way easier and cheaper than you think, thanks to UGREEN NAS units and a great little Amazon sale.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/many-of-ugreens-best-nas-units-are-10-15-off-right-now/",
+          "publishedOn": "2026-10-29T21:36:33.000Z",
+          "wordCount": 3522,
+          "title": "Many of UGREEN’s best NAS units are 10-15% off right now",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/ugreen-nas-homeagent-ha100-drives.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735115",
+          "author": "Nicholas Sutrich",
+          "description": "The IQOO Neo 12 is outfitted with so many premium-level specs that you’d never know this was targeted toward an upper mid-range budget.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/iqoos-new-mid-range-phone-puts-last-years-flagships-to-shame/",
+          "publishedOn": "2026-10-29T21:17:35.000Z",
+          "wordCount": 3726,
+          "title": "IQOO’s new mid-range phone puts last year’s flagships to shame",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iqoo-neo-12-official-render-02.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735131",
+          "author": "Abner Li",
+          "description": "Google today rolled out a big Android 17 QPR3 Beta 3 with a number of fixes for Pixel devices.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-everything-new/",
+          "publishedOn": "2026-10-29T20:38:07.000Z",
+          "wordCount": 3877,
+          "title": "Here’s everything new in Android 17 QPR3 Beta 3 [Gallery]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-fold-review-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735118",
+          "author": "Ben Schoon",
+          "description": "Reddit is shifting to a “logged-in-only experience,” the company confirmed during its latest earnings call.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/reddit-will-soon-be-a-logged-in-only-website/",
+          "publishedOn": "2026-10-29T20:35:00.000Z",
+          "wordCount": 3055,
+          "title": "Reddit will soon be a ‘logged-in-only’ website, forcing you to have an account",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/reddit-logo.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735119",
+          "author": "Abner Li",
+          "description": "Following last week’s release, Google is rolling out Android 17 QPR3 Beta 3 to Pixel devices today. It’s another big bug fixer.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-pixel/",
+          "publishedOn": "2026-10-29T20:21:06.000Z",
+          "wordCount": 3259,
+          "title": "Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-XL-and-9-Pro-XL-top-down.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735084",
+          "author": "Andrew Romero",
+          "description": "Google’s latest Gemini for Home update targets a few issues, like one where speakers randomly blurt out “I didn’t understand” when no one asks.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/",
+          "publishedOn": "2026-10-29T19:13:49.000Z",
+          "wordCount": 3172,
+          "title": "Google Home update should make Gemini stop saying ‘Sorry, I didn’t understand’ so much",
+          "imageUrl": null
+        },
+        {
+          "id": "https://9to5google.com/?p=735077",
+          "author": "Ben Schoon",
+          "description": "Google is bringing ads to AI Mode globally as it admits that the new take on Search brings “lower monetization,” all while $GOOG stock is seeing a fairly major drop.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/google-stock-drop-ai-mode-ad-expansion/",
+          "publishedOn": "2026-10-29T19:05:00.000Z",
+          "wordCount": 3210,
+          "title": "Google stock drops amid AI fears; AI Mode has ‘lower monetization,’ getting more ads",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/01/google-logo-ces-2024-2-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735076",
+          "author": "Abner Li",
+          "description": "In addition to Chromecast with Google TV and Nest Wifi Pro updates, Google detailed what new firmware for Nest and Home speakers brings.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/google-home-nest-speaker-updates/",
+          "publishedOn": "2026-10-29T18:34:23.000Z",
+          "wordCount": 3130,
+          "title": "Google Home and Nest speakers getting seven updates, including for Bluetooth & audio quality",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2020/01/google_nest_mini_1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735068",
+          "author": "Ben Schoon",
+          "description": "There’s a new Google Home update rolling out that delivers improvements for Nest Cam owners, Matter devices, and more.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/google-home-update-nest-cam-matter-updates-fixes/",
+          "publishedOn": "2026-10-29T18:30:00.000Z",
+          "wordCount": 3122,
+          "title": "Google Home update rolling out with Nest Cam, Matter, energy-saving improvements & fixes",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-3.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735069",
+          "author": "Abner Li",
+          "description": "Today’s (October 29, 2026) Google Home release notes detail what’s new in firmware updates for the Chromecast with Google TV and Nest Wifi Pro.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/nest-wifi-pro-chromecast-update/",
+          "publishedOn": "2026-10-29T18:18:43.000Z",
+          "wordCount": 2997,
+          "title": "Google details new firmware for Chromecast with Google TV and Nest Wifi Pro",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2022/10/Nest-Wifi-Pro-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/10/29/todays-highlight-google-play-deals-39/",
+          "author": "9to5Toys",
+          "description": "Today’s best Google Play app and game deals are ready, including Bendy: Lone Wolf, Bendy and the Ink Machine, The Room: Old Sins, SpongeBob – The Cosmic Shake, Master Healer Kale, Epic King Heroes: Classic TD, SpellForce: Heroes & Magic, and more. We also have $473 off Samsung’s 512GB Galaxy S26 Ultra, a return all-time low on Nothing’s 2026 Ear (3a), the new Amazon Echo Show 16 at $100 off, and Lenovo’s new 4K Yoga Tab Gen 2 Android tablets up to $316 off with FREE Pen Pro and keyboard bundles. The apps await below. \nmore…",
+          "link": "https://9to5toys.com/2026/10/29/todays-highlight-google-play-deals-39/",
+          "publishedOn": "2026-10-29T18:00:06.000Z",
+          "wordCount": 3354,
+          "title": "Today’s Android app deals and freebies: Bendy Lone Wolf, The Room Old Sins, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Google-Play-collage-f0d80e.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735032",
+          "author": "Ben Schoon",
+          "description": "Samsung has big plans for its foldable lineup in 2027, but also one more release for 2026. The Galaxy W27 just went official as the company’s latest foldable, but you probably wouldn’t want to buy this one even if you could.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/samsung-galaxy-w27-foldable/",
+          "publishedOn": "2026-10-29T16:50:00.000Z",
+          "wordCount": 3403,
+          "title": "Samsung just released a new foldable that you probably wouldn’t buy even if you could",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735031",
+          "author": "Ben Schoon",
+          "description": "A bug in Google Photos has left edited pictures invisible to other Android apps, but Google has now rolled out a fix.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/google-photos-edited-pictures-bug-fix/",
+          "publishedOn": "2026-10-29T16:25:00.000Z",
+          "wordCount": 2917,
+          "title": "Google Photos update fixes the bug that hid edited pictures",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-3.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735047",
+          "author": "Andrew Romero",
+          "description": "Samsung announced a new way to earn and pay in Samsung Wallet using a new “Cash Card.”\nmore…",
+          "link": "https://9to5google.com/2026/10/29/samsung-wallet-adds-cash-card/",
+          "publishedOn": "2026-10-29T16:23:28.000Z",
+          "wordCount": 3076,
+          "title": "Samsung launches a virtual cash back card for Wallet, completely unrelated to the Galaxy Card",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Samsung-Cash-Card.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735044",
+          "author": "Justin Kahn",
+          "description": "Joining the ongoing deals on the Moto Tag 2 Android Find Hub trackers at $17.50 each and AMazon’s brand new Echo Show 16 at $100 off, today’s 9to5Toys Lunch Break is headlined by Amazon knocking $473 off Samsung’s 512GB Galaxy S26 Ultra in brand new condition and Galaxy Z Fold 8/Ultra at up to $570 off. We still have the 2026 Nothing CMF Buds Neo at just $20 alongside the Nothing Ear (3a) wireless buds back down at the $79 Amazon all-time low, but there are also some deep deals on Android tabs and PCs today too – Lenovo’s new 4K Yoga Tab Gen 2 Android tablets up to $316 off with FREE Pen Pro and keyboard bundles, its OLED touchscreen Yoga Slim 7x at $700 off, and more. Everything awaits below. \nmore…",
+          "link": "https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/",
+          "publishedOn": "2026-10-29T15:57:55.000Z",
+          "wordCount": 4538,
+          "title": "Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo’s new Android tablets $316 off, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-29-4.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735040",
+          "author": "Andrew Romero",
+          "description": "Samsung announced a new, advanced version of its AI-powered sleep apnea detection, and which devices it will appear on in November.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/enhanced-sleep-apnea-coming-to-these-galaxy-devices/",
+          "publishedOn": "2026-10-29T15:46:23.000Z",
+          "wordCount": 3076,
+          "title": "Samsung’s advanced sleep apnea detection is coming to these Galaxy wearables",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-galaxy-watch-ultra-2-watch-9-8.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735030",
+          "author": "Ben Schoon",
+          "description": "Google Maps is rolling out a slightly adorable new update that shows the Fall colors along your navigation route, but not everywhere.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/google-maps-fall-foliage-update/",
+          "publishedOn": "2026-10-29T15:30:00.000Z",
+          "wordCount": 2932,
+          "title": "Google Maps update now shows you the Fall foliage along your route [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/google-maps-fall-foliage.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735029",
+          "author": "Ben Schoon",
+          "description": "In its latest earnings call, Samsung has teased its plans for the Galaxy S27 as well as new foldables and its Android XR glasses.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/samsung-teases-galaxy-s27-plans-foldable-lineup-expansion-more/",
+          "publishedOn": "2026-10-29T15:10:00.000Z",
+          "wordCount": 3135,
+          "title": "Samsung teases Galaxy S27 plans, foldable lineup expansion, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/S26-Ultra-Z-Fold-8-Ultra-and-Z-Fold-8.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735009",
+          "author": "Daniel Bader",
+          "description": "Good morning! Today I’m reading about the death of the internet, deciding whether to buy a PROLED or many pro LEDs, building all my IKEA furniture with this step-by-step 3D app, trying desperately to get into the Readwise Books early access, and playing an “Enhanced 3D” Command & Conquer: Red Alert on my PC.\nInbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/google-had-a-very-good-very-bad-q3/",
+          "publishedOn": "2026-10-29T11:00:00.000Z",
+          "wordCount": 4299,
+          "title": "Google had a very good, very bad Q3",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/05/Google-Logo-HQ-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734960",
+          "author": "Ben Schoon",
+          "description": "Following a “coming months” teaser earlier this year, Motorola has confirmed that its flagship Signature 27 device is launching in the US in November.\nmore…",
+          "link": "https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/",
+          "publishedOn": "2026-10-29T11:00:00.000Z",
+          "wordCount": 3112,
+          "title": "Motorola has already confirmed its Signature 27 flagship is launching in November",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-3.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
           "id": "https://9to5google.com/?p=735001",
           "author": "Andrew Romero",
           "description": "A surge of online reports indicates that some users are experiencing a recent increase in battery drain on their Pixel Watch, by as much as 20% every few hours.\nmore…",

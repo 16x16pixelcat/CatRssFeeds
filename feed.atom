@@ -2,10 +2,242 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-10-29T04:59:21.071Z</updated>
+    <updated>2026-10-30T04:59:00.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Latest Gemini design comes to all Android devices, app upgrades file generation]]></title>
+        <id>https://9to5google.com/?p=735156</id>
+        <link href="https://9to5google.com/2026/10/29/gemini-design-file-generation/"/>
+        <updated>2026-10-30T01:01:47.000Z</updated>
+        <summary type="html"><![CDATA[A pair of Gemini app updates today brings the latest design to all Android devices, while file generation sees a big upgrade.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many of UGREEN’s best NAS units are 10-15% off right now]]></title>
+        <id>https://9to5google.com/?p=735145</id>
+        <link href="https://9to5google.com/2026/10/29/many-of-ugreens-best-nas-units-are-10-15-off-right-now/"/>
+        <updated>2026-10-29T21:36:33.000Z</updated>
+        <summary type="html"><![CDATA[A NAS is way easier and cheaper than you think, thanks to UGREEN NAS units and a great little Amazon sale.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IQOO’s new mid-range phone puts last year’s flagships to shame]]></title>
+        <id>https://9to5google.com/?p=735115</id>
+        <link href="https://9to5google.com/2026/10/29/iqoos-new-mid-range-phone-puts-last-years-flagships-to-shame/"/>
+        <updated>2026-10-29T21:17:35.000Z</updated>
+        <summary type="html"><![CDATA[The IQOO Neo 12 is outfitted with so many premium-level specs that you’d never know this was targeted toward an upper mid-range budget.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s everything new in Android 17 QPR3 Beta 3 [Gallery]]]></title>
+        <id>https://9to5google.com/?p=735131</id>
+        <link href="https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-everything-new/"/>
+        <updated>2026-10-29T20:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Google today rolled out a big Android 17 QPR3 Beta 3 with a number of fixes for Pixel devices.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit will soon be a ‘logged-in-only’ website, forcing you to have an account]]></title>
+        <id>https://9to5google.com/?p=735118</id>
+        <link href="https://9to5google.com/2026/10/29/reddit-will-soon-be-a-logged-in-only-website/"/>
+        <updated>2026-10-29T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Reddit is shifting to a “logged-in-only experience,” the company confirmed during its latest earnings call.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes]]></title>
+        <id>https://9to5google.com/?p=735119</id>
+        <link href="https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-pixel/"/>
+        <updated>2026-10-29T20:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Following last week’s release, Google is rolling out Android 17 QPR3 Beta 3 to Pixel devices today. It’s another big bug fixer.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Home update should make Gemini stop saying ‘Sorry, I didn’t understand’ so much]]></title>
+        <id>https://9to5google.com/?p=735084</id>
+        <link href="https://9to5google.com/2026/10/29/google-home-gemini-update-fixes-understand-phrase-bug/"/>
+        <updated>2026-10-29T19:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Google’s latest Gemini for Home update targets a few issues, like one where speakers randomly blurt out “I didn’t understand” when no one asks.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google stock drops amid AI fears; AI Mode has ‘lower monetization,’ getting more ads]]></title>
+        <id>https://9to5google.com/?p=735077</id>
+        <link href="https://9to5google.com/2026/10/29/google-stock-drop-ai-mode-ad-expansion/"/>
+        <updated>2026-10-29T19:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is bringing ads to AI Mode globally as it admits that the new take on Search brings “lower monetization,” all while $GOOG stock is seeing a fairly major drop.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Home and Nest speakers getting seven updates, including for Bluetooth & audio quality]]></title>
+        <id>https://9to5google.com/?p=735076</id>
+        <link href="https://9to5google.com/2026/10/29/google-home-nest-speaker-updates/"/>
+        <updated>2026-10-29T18:34:23.000Z</updated>
+        <summary type="html"><![CDATA[In addition to Chromecast with Google TV and Nest Wifi Pro updates, Google detailed what new firmware for Nest and Home speakers brings.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Home update rolling out with Nest Cam, Matter, energy-saving improvements & fixes]]></title>
+        <id>https://9to5google.com/?p=735068</id>
+        <link href="https://9to5google.com/2026/10/29/google-home-update-nest-cam-matter-updates-fixes/"/>
+        <updated>2026-10-29T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a new Google Home update rolling out that delivers improvements for Nest Cam owners, Matter devices, and more.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google details new firmware for Chromecast with Google TV and Nest Wifi Pro]]></title>
+        <id>https://9to5google.com/?p=735069</id>
+        <link href="https://9to5google.com/2026/10/29/nest-wifi-pro-chromecast-update/"/>
+        <updated>2026-10-29T18:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Today’s (October 29, 2026) Google Home release notes detail what’s new in firmware updates for the Chromecast with Google TV and Nest Wifi Pro.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today’s Android app deals and freebies: Bendy Lone Wolf, The Room Old Sins, more]]></title>
+        <id>https://9to5toys.com/2026/10/29/todays-highlight-google-play-deals-39/</id>
+        <link href="https://9to5toys.com/2026/10/29/todays-highlight-google-play-deals-39/"/>
+        <updated>2026-10-29T18:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Today’s best Google Play app and game deals are ready, including Bendy: Lone Wolf, Bendy and the Ink Machine, The Room: Old Sins, SpongeBob – The Cosmic Shake, Master Healer Kale, Epic King Heroes: Classic TD, SpellForce: Heroes & Magic, and more. We also have $473 off Samsung’s 512GB Galaxy S26 Ultra, a return all-time low on Nothing’s 2026 Ear (3a), the new Amazon Echo Show 16 at $100 off, and Lenovo’s new 4K Yoga Tab Gen 2 Android tablets up to $316 off with FREE Pen Pro and keyboard bundles. The apps await below. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung just released a new foldable that you probably wouldn’t buy even if you could]]></title>
+        <id>https://9to5google.com/?p=735032</id>
+        <link href="https://9to5google.com/2026/10/29/samsung-galaxy-w27-foldable/"/>
+        <updated>2026-10-29T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung has big plans for its foldable lineup in 2027, but also one more release for 2026. The Galaxy W27 just went official as the company’s latest foldable, but you probably wouldn’t want to buy this one even if you could.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Photos update fixes the bug that hid edited pictures]]></title>
+        <id>https://9to5google.com/?p=735031</id>
+        <link href="https://9to5google.com/2026/10/29/google-photos-edited-pictures-bug-fix/"/>
+        <updated>2026-10-29T16:25:00.000Z</updated>
+        <summary type="html"><![CDATA[A bug in Google Photos has left edited pictures invisible to other Android apps, but Google has now rolled out a fix.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung launches a virtual cash back card for Wallet, completely unrelated to the Galaxy Card]]></title>
+        <id>https://9to5google.com/?p=735047</id>
+        <link href="https://9to5google.com/2026/10/29/samsung-wallet-adds-cash-card/"/>
+        <updated>2026-10-29T16:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Samsung announced a new way to earn and pay in Samsung Wallet using a new “Cash Card.”
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Galaxy S26 Ultra $473 off brand new, Nothing Ear (3a) $79, Lenovo’s new Android tablets $316 off, more]]></title>
+        <id>https://9to5google.com/?p=735044</id>
+        <link href="https://9to5google.com/2026/10/29/deals-galaxy-s26-ultra-ear-3a-lenovo-android-tablets/"/>
+        <updated>2026-10-29T15:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Joining the ongoing deals on the Moto Tag 2 Android Find Hub trackers at $17.50 each and AMazon’s brand new Echo Show 16 at $100 off, today’s 9to5Toys Lunch Break is headlined by Amazon knocking $473 off Samsung’s 512GB Galaxy S26 Ultra in brand new condition and Galaxy Z Fold 8/Ultra at up to $570 off. We still have the 2026 Nothing CMF Buds Neo at just $20 alongside the Nothing Ear (3a) wireless buds back down at the $79 Amazon all-time low, but there are also some deep deals on Android tabs and PCs today too – Lenovo’s new 4K Yoga Tab Gen 2 Android tablets up to $316 off with FREE Pen Pro and keyboard bundles, its OLED touchscreen Yoga Slim 7x at $700 off, and more. Everything awaits below. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s advanced sleep apnea detection is coming to these Galaxy wearables]]></title>
+        <id>https://9to5google.com/?p=735040</id>
+        <link href="https://9to5google.com/2026/10/29/enhanced-sleep-apnea-coming-to-these-galaxy-devices/"/>
+        <updated>2026-10-29T15:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Samsung announced a new, advanced version of its AI-powered sleep apnea detection, and which devices it will appear on in November.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Maps update now shows you the Fall foliage along your route [Video]]]></title>
+        <id>https://9to5google.com/?p=735030</id>
+        <link href="https://9to5google.com/2026/10/29/google-maps-fall-foliage-update/"/>
+        <updated>2026-10-29T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Maps is rolling out a slightly adorable new update that shows the Fall colors along your navigation route, but not everywhere.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung teases Galaxy S27 plans, foldable lineup expansion, more]]></title>
+        <id>https://9to5google.com/?p=735029</id>
+        <link href="https://9to5google.com/2026/10/29/samsung-teases-galaxy-s27-plans-foldable-lineup-expansion-more/"/>
+        <updated>2026-10-29T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In its latest earnings call, Samsung has teased its plans for the Galaxy S27 as well as new foldables and its Android XR glasses.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google had a very good, very bad Q3]]></title>
+        <id>https://9to5google.com/?p=735009</id>
+        <link href="https://9to5google.com/2026/10/29/google-had-a-very-good-very-bad-q3/"/>
+        <updated>2026-10-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Good morning! Today I’m reading about the death of the internet, deciding whether to buy a PROLED or many pro LEDs, building all my IKEA furniture with this step-by-step 3D app, trying desperately to get into the Readwise Books early access, and playing an “Enhanced 3D” Command & Conquer: Red Alert on my PC.
+Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe.
+more…]]></summary>
+        <author>
+            <name>Daniel Bader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola has already confirmed its Signature 27 flagship is launching in November]]></title>
+        <id>https://9to5google.com/?p=734960</id>
+        <link href="https://9to5google.com/2026/10/29/motorola-signature-27-november-launch-date/"/>
+        <updated>2026-10-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Following a “coming months” teaser earlier this year, Motorola has confirmed that its flagship Signature 27 device is launching in the US in November.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Beta Client Update: October 28th]]></title>
         <id>https://store.steampowered.com/news/app/1675200/view/694276363007296028</id>
