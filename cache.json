@@ -7,10 +7,352 @@
       "articles": []
     },
     {
+      "title": "steam RSS Feed",
+      "feedUrl": "https://store.steampowered.com/feeds/news/collection/steam",
+      "siteUrl": "https://store.steampowered.com/news/collection/steam/",
+      "articles": [
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nDesktop Mode\n\nRe-styled the Steam updater UI",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
+          "publishedOn": "2026-10-29T01:11:56.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 28th",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/group/4397053/view/713416661425717713",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nBig Picture Mode\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nLinux\n\nRe-styled the Steam updater UI",
+          "link": "https://store.steampowered.com/news/group/4397053/view/713416661425717713",
+          "publishedOn": "2026-10-29T01:11:33.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - October 28th",
+          "imageUrl": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/group/4397053/view/712290127331727799",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nSteam Input\n\nAdded support for GameInput v4\n\nRemote Play\n\nStart streaming faster when connecting to a local computer\n\nFixed the \"...\" button on the Steam Controller not being passed through to the remote side\n\nLinux\n\nFixed a crash when resuming from suspend\n\nBig Picture Mode\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat window above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM",
+          "link": "https://store.steampowered.com/news/group/4397053/view/712290127331727799",
+          "publishedOn": "2026-10-26T23:52:00.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - October 26th",
+          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed a crash when resuming from suspend\n\nAdded a workaround for updates occasionally hanging at 99%\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat tab above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM\n\nRemote Play\n\nStart streaming faster when connecting to a local computer",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
+          "publishedOn": "2026-10-26T23:51:35.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 26th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/593110/view/686394429475394171",
+          "author": null,
+          "description": "Steam Scream is back for a fifth year of terrifying everyone... with amazing deals on spooky games! From now through November 2nd at 10 a.m. PT you can make your way through the Steam Store to find horrors of all kinds: psychological, slasher, silly, you name it.\nFill up your trick-or-treat bucket Steam library with your favorite scary games, and we bet you'll want to keep playing them well past the horror of the Halloween holiday itself.\nJoin us now for Steam Scream V... if you dare. (You totally should dare, to be clear.)",
+          "link": "https://store.steampowered.com/news/app/593110/view/686394429475394171",
+          "publishedOn": "2026-10-26T17:40:10.000Z",
+          "wordCount": 396,
+          "title": "BOO! Steam Scream FIVE is ready to freak you out",
+          "enclosure": {
+            "url": "https://clan.fastly.steamstatic.com/images/27766192/51bfdeba1d7ff01af42f05fe72c44f90991e723e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://clan.fastly.steamstatic.com/images/27766192/51bfdeba1d7ff01af42f05fe72c44f90991e723e.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/group/39049601/view/713414124781961848",
+          "author": null,
+          "description": "These are the 50 games with the most-played demos during the week of Steam Next Fest: October 2026 Edition.",
+          "link": "https://store.steampowered.com/news/group/39049601/view/713414124781961848",
+          "publishedOn": "2026-10-26T16:41:22.000Z",
+          "wordCount": 395,
+          "title": "Most-played demos of Steam Next Fest: October 2026 Edition",
+          "enclosure": {
+            "url": "https://clan.fastly.steamstatic.com/images/39049601/e9958efd92776a01b08d19e70fe26d30a7196fb1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://clan.fastly.steamstatic.com/images/39049601/e9958efd92776a01b08d19e70fe26d30a7196fb1.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
+          "author": null,
+          "description": "SteamOS 3.9.5 has just been released for all users with the following changes\n\nThese notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announcements/plasma/6/6.5.0/\n\n\nImproved support for Steam Frame wireless adapter\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nFixed a bug causing hidden WiFi networks to fail to connect on the first attempt\n\nFixed Steam Remote Play not working on Steam Machine when booting with no external display connected\n…",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
+          "publishedOn": "2026-10-23T22:04:26.000Z",
+          "wordCount": 388,
+          "title": "SteamOS 3.9",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
+          "author": null,
+          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.5\nGeneral\n\nSecurity and stability updates\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nDeveloper\n\n Actually reintroduced support for Android binder IPC for real this time\n\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announce…",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
+          "publishedOn": "2026-10-23T22:04:14.000Z",
+          "wordCount": 389,
+          "title": "SteamOS 3.9.5 Beta",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/593110/view/710037059469839718",
+          "author": null,
+          "description": "With today's Steam update, the Personal Calendar feature officially graduates from Steam Labs and is considered a full feature of the Steam Store. You can find it right on your Steam store homepage, or by visiting https://store.steampowered.com/personalcalendar\n\nAbout the Personal Calendar\nThe Steam Personal Calendar is another way to see recommended games for you, showing both recently released and upcoming games filtered down to the the set of games we think you are most likely to be interested in. It uses your recently played games to find people with similar playtime profiles to you, and then looks at the games those players have been adding to their wishlist or playing.\n\nBased on games you play a lot: The system focuses on your playtime for games that you play the most. So, a few minu…",
+          "link": "https://store.steampowered.com/news/app/593110/view/710037059469839718",
+          "publishedOn": "2026-10-23T20:10:32.000Z",
+          "wordCount": 391,
+          "title": "Steam's Personal Calendar Full Release",
+          "enclosure": {
+            "url": "https://clan.fastly.steamstatic.com/images/27766192/1c92bdb017fb48adb602d4e3e1ddffd9301bcd8a.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://clan.fastly.steamstatic.com/images/27766192/1c92bdb017fb48adb602d4e3e1ddffd9301bcd8a.png"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nRemote Play\n\nBig revamp of HDR support:\n\nAdded an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.\n\nIn addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.\n\nHDR is enabled again on Steam Deck OLED.\n\nHDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
+          "publishedOn": "2026-10-23T00:35:45.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 22nd",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/group/4397053/view/712290127331726184",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nRemote Play\n\nBig revamp of HDR support:\n\nAdded an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.\n\nAdded a brightness slider to the streaming overlay.\n\nIn addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.\n\nHDR is enabled again on Steam Deck OLED.\n\nHDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)",
+          "link": "https://store.steampowered.com/news/group/4397053/view/712290127331726184",
+          "publishedOn": "2026-10-23T00:34:33.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - October 22nd",
+          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        }
+      ]
+    },
+    {
+      "title": "1675200 RSS Feed",
+      "feedUrl": "https://store.steampowered.com/feeds/news/app/1675200/?cc=JO&l=english",
+      "siteUrl": "https://store.steampowered.com/news/app/1675200/",
+      "articles": [
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nDesktop Mode\n\nRe-styled the Steam updater UI",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
+          "publishedOn": "2026-10-29T01:11:56.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 28th",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed a crash when resuming from suspend\n\nAdded a workaround for updates occasionally hanging at 99%\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat tab above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM\n\nRemote Play\n\nStart streaming faster when connecting to a local computer",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
+          "publishedOn": "2026-10-26T23:51:35.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 26th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
+          "author": null,
+          "description": "SteamOS 3.9.5 has just been released for all users with the following changes\n\nThese notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announcements/plasma/6/6.5.0/\n\n\nImproved support for Steam Frame wireless adapter\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nFixed a bug causing hidden WiFi networks to fail to connect on the first attempt\n\nFixed Steam Remote Play not working on Steam Machine when booting with no external display connected\n…",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
+          "publishedOn": "2026-10-23T22:04:26.000Z",
+          "wordCount": 388,
+          "title": "SteamOS 3.9",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
+          "author": null,
+          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.5\nGeneral\n\nSecurity and stability updates\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nDeveloper\n\n Actually reintroduced support for Android binder IPC for real this time\n\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announce…",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
+          "publishedOn": "2026-10-23T22:04:14.000Z",
+          "wordCount": 389,
+          "title": "SteamOS 3.9.5 Beta",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nRemote Play\n\nBig revamp of HDR support:\n\nAdded an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.\n\nIn addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.\n\nHDR is enabled again on Steam Deck OLED.\n\nHDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
+          "publishedOn": "2026-10-23T00:35:45.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 22nd",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822242439",
+          "author": null,
+          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.4\nGeneral\n\nFixed an issue causing firmware updates to occasionally fail to apply on Steam Machine\n\nFixed a bug wherein changing the timezone could prevent switching to Desktop Mode until a reboot\n\nFixed a regression from previous 3.9 releases that caused some apps to run behind Steam's loading screen, such as A Plague Tale: Innocence\n\nFixed a regression from previous 3.9 releases that caused screenshots to be taken at 720p even when the disp…",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822242439",
+          "publishedOn": "2026-10-22T03:41:55.000Z",
+          "wordCount": 389,
+          "title": "SteamOS 3.9.4 Beta",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822242448",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFix non-steam apps disappearing after a network reconnect\n\nUpdated certificate revocation lists\n\nStore\n\nUpdated algorithm for search suggestions and text searches\n\nSteam Input\n\nFix a regression with virtual menu positions in the overlay",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822242448",
+          "publishedOn": "2026-10-22T00:14:49.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 21st",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976978185",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client update to the Stable channel.\n\nGeneral\n\nFixed an error displaying dates for users in British Columbia.\n\nUpdated certificate revocation lists.\n\nDesktop Mode\n\nFixed Vulkan games hanging after alt-tab.",
+          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976978185",
+          "publishedOn": "2026-10-21T22:12:40.000Z",
+          "wordCount": 391,
+          "title": "Steam Client Update: October 21st",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976975837",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nSecond round of Steam startup performance improvements following shipping of prior round in public client\n\nFixed some cases the Steam Service Error dialog was showing incorrectly if you quit/restarted Steam quickly\n\nFixed another error displaying dates for our friends in British Columbia.\n\nFixed Steam Frame native-only content showing as installable on Windows.\n\nFixed the layout of the volume slider in the voice chat context menu\n\nOutput volume settings for friends in voice chat will now persist between Steam sessions rather than resetting on restart\n\nFixed a bug that caused some native non-steam games to fail to launch.\n\nDesktop Mode\n\nFixed Vulkan games hanging after alt-tab.\n\nSteam Input\n\nFixed NCAA Football 27 not getting the game configuration applied at game startup",
+          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976975837",
+          "publishedOn": "2026-10-16T23:40:19.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 16th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976975287",
+          "author": null,
+          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.3\nGeneral\n\nFixed performance issues in STAR WARS: Galactic Racer on resume from suspend on Steam Machine\n\nFixed an issue that could lead to GPU errors in The Crew Motorfest\n\nFixed audio issues on hotplug of certain monitors in a multi-monitor setup\n\nImproved support for Steam Frame wireless adapter\n\nSecurity and stability updates\n\nDeveloper\n\nReintroduce support for Android binder IPC\n\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated De…",
+          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976975287",
+          "publishedOn": "2026-10-16T19:02:10.000Z",
+          "wordCount": 389,
+          "title": "SteamOS 3.9.3 Beta",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976975613",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nSteam Achievement Sets\nA new way to organize, track, and complete a game's achievements. Read more details in the announcement.\n\nGames can now organize and group achievements for base game and DLC content\n\nDLC achievements can be added via sets without breaking game completion\n\nCompleted achievement sets remain completed when new sets are added\n\nAchievements and sets can be archived if they are seasonal or can no longer be achieved\n\nUpdated Achievements page and achievement rollup displays\n\n\nGeneral\n\nNotifications settings layout has been changed to be easier to work with on all screen sizes\n\nFixed multiple edge cases that could cause memory leaks in game streaming and controller code\n\nMultiple general stability improvements and fixes for rare crashes affecting small numbers of users\n\nFixed an error displaying dates for users in British Columbia\n\nLibrary\n\nImproved offline support for the activity feed and fixed cases where it could previously skip loading some events.\n\nLinux\n\nThe Steam client is now a 64bit application.\n\nThe Steam client now runs inside a Steam Runtime container.\n\nThis will help the Steam client provide a more consistent experience across multiple distributions. This is the same technology used by Steam games.\n\n\nFixed a case where Steam updater UI would fail to show for some users.\n\nRemote Play\n\nAdded a \"Display Style\" setting to allow stretching and zooming when the stream is a different aspect ratio than the client display.\n\nSteam Controller Firmware\n\nFixed an issue where shutting down a controller while docked to the puck could cause it to turn back on\n\nAccessibility\n\nBackground art will appear on the home screen when High Contrast is enabled",
+          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976975613",
+          "publishedOn": "2026-10-15T22:04:03.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: October 15th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/675134162359815513",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client update to the Stable channel.\n\nHome Screen\n\nAdded a new 'Big Art Mode' option for the home screen. This can be enabled in Settings > Home.\n\nAdded Personal Calendar to the Recommended tab on the home screen.\n[carousel][/carousel]\n\n\nScreensavers\n\nAdded a new screensaver feature, accessible in Settings > Customization. There are two screensavers available:\n\nThe default is a game art slideshow that can be configured to show artwork from recently played games and your recent in-game screenshots.\n\nA retro inspired bouncing logo screensaver\n\n\nCustom screensavers are also supported. Similar to startup movies, they can be placed in directories at ~/.steam/root/config/uioverrides/screensavers/. You can use the bouncing logo screensaver (in the steamui/scr…",
+          "link": "https://store.steampowered.com/news/app/1675200/view/675134162359815513",
+          "publishedOn": "2026-10-13T23:38:40.000Z",
+          "wordCount": 391,
+          "title": "Steam Client Update: October 13th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        }
+      ]
+    },
+    {
+      "title": "4165890 RSS Feed",
+      "feedUrl": "https://store.steampowered.com/feeds/news/app/4165890/?cc=JO&l=english",
+      "siteUrl": "https://store.steampowered.com/news/app/4165890/",
+      "articles": [
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/687519694976975615",
+          "author": null,
+          "description": "Steam Client (for Steam Frame) has just been released for all users with the following changes: \n\nSteam Frame\n\nImprove reliability of pairing with the Steam Frame Wireless Adapter.\n\nShow progress of initial connection with the Steam Frame Wireless Adapter after pairing.\n\nAdded a Playtime Mode icon to the notification area. \n\nFixed an issue where Wi-Fi power saving was enabled at startup, despite being disabled in settings.\n\nImproved Steam Frame Wireless Adapter reliability on Windows by preventing the adapter from going to sleep.\n\nFixed a crash in the Steam Frame Wireless Adapter driver when it fails to initialize.\n\n\nGeneral\nThis update for Steam Frame also includes a large number of other Steam Client improvements. \nPlease refer to the Steam Client patch notes for more details: \n\nhttps://store.steampowered.com/news/app/593110/view/710037059469839720",
+          "link": "https://store.steampowered.com/news/app/4165890/view/687519694976975615",
+          "publishedOn": "2026-10-15T21:53:38.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Update For Frame: October 15th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/687519694976975601",
+          "author": null,
+          "description": "SteamOS 0.5.6 (for Steam Frame) has just been released. \nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested. \nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nOS:\n\nDisable avahi-daemon publishing mDNS, causing polluting frame-XXXX.local mDNS mappings, and in some cases delaying shutdown.\n\nAllow .apk files in right-click \"add to steam\" context menu in Desktop mode.\n\nImprove performance overlay battery and memory usage reporting.\n\nStreaming:\n\nImprove robustness of connecting using the Steam Frame Wireless Adapter, making it able to connect in some situations it previously could not.\n\nAudio:\n\nAdd echo cancellation and noise suppression for external microphones.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/687519694976975601",
+          "publishedOn": "2026-10-15T21:53:10.000Z",
+          "wordCount": 392,
+          "title": "SteamOS 0.5.6 Beta for Steam Frame",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/675134162359812787",
+          "author": null,
+          "description": "SteamOS 0.4 for Steam Frame has just been released for all users with the following changes:\n\nPower:\n\nImproved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.\n\nAdded user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New \"high sensitivity\" option keeps displays on under a wider range of conditions, such as when using glasses spacers.\n\n\nStreaming:\n\nImproved color clarity during VR streaming (fixed headset chroma regression)\n\nVR streaming reliability improvements, including fixes for “Error 17.” Note: On the PC, you must also opt into SteamVR 2.18.2 or later to reduce “Error 17” connection issues. At the time of this release,…",
+          "link": "https://store.steampowered.com/news/app/4165890/view/675134162359812787",
+          "publishedOn": "2026-10-08T23:23:09.000Z",
+          "wordCount": 391,
+          "title": "SteamOS 0.4 for Steam Frame",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/675134162359812111",
+          "author": null,
+          "description": "SteamOS 0.4.5 (for Steam Frame) has just been released. This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\n\n\nNew in 0.4.5:\n\nImproved color clarity during VR streaming (fixed headset chroma regression)\n\n\n\n\nPrevious SteamOS 0.4 Releases\n\nPower:\n\nImproved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.\n\nAdded user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New \"high sensitivity\" option keeps displays on under a wider range of conditions, such as when using glasses spacers.\n\n\nStreaming:\n\nVR streaming reli…",
+          "link": "https://store.steampowered.com/news/app/4165890/view/675134162359812111",
+          "publishedOn": "2026-10-07T02:15:00.000Z",
+          "wordCount": 392,
+          "title": "SteamOS 0.4.5 Beta for Steam Frame",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/675134162359812101",
+          "author": null,
+          "description": "Steam Client (for Steam Frame) has just been released for all users with the following changes: \n\nSteam Frame\n\nSettings shows the user-visible serial number instead of the SOC serial.\n\nGuided Tour now shows for any new account logging into the device, not just the first\n\nSteam Frame Wireless Adapter manual configuration now shows the correct list of WiFi channels in all regions.\n\nStreaming Menu shows spectating status, and a stop button.\n\nGeneral\n\nFixed the Recordings & Screenshots dialog not showing all games that have related screenshots in the game filter dropdown.\n\nImproved the text layout in achievement notifications when the name, description or both wrap across multiple lines.\n\nFix some cases of header/footer flicker and invisibility during the first seconds after waking from sleep.\n\nWhen waking from sleep with a game running but the account now playing elsewhere:\n\nProvide an option to exit the local game.\n\nGo back to sleep if there is no input for 60 seconds.\n\n\nFixed clicking the buttons in the footer causing the glyphs to change back to gamepad\n\nFixed a clicking the back button in the footer not working if nothing on the page had digital navigation focus\n\nFixed a regression that would cause the client to crash when interacting with Compatibility Tool selection dropdown if the default compatibility tool has been uninstalled.\n\nFix \"Suspend Download Throttle\" not properly updating on the downloads page.\n\nFixed regression causing crash in native Linux version of some games.\n\nRemote Play\n\nImproved color accuracy when streaming an OpenGL game.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/675134162359812101",
+          "publishedOn": "2026-10-06T23:23:13.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Update For Frame: October 6th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/675133527946168306",
+          "author": null,
+          "description": "SteamOS 0.4.4 (for Steam Frame) has just been released. This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\n\n\nNew in 0.4.4:\n\nAdded user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New \"high sensitivity\" option keeps displays on under a wider range of conditions, such as when using glasses spacers.\n\nImproved tooltip sort ordering\n\n\n\n\nPrevious SteamOS 0.4 Releases\n\nPower:\n\nImproved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.\n\n\nStreaming:\n\nVR streaming reliability improvements, including fixes for “Err…",
+          "link": "https://store.steampowered.com/news/app/4165890/view/675133527946168306",
+          "publishedOn": "2026-10-05T23:14:33.000Z",
+          "wordCount": 392,
+          "title": "SteamOS 0.4.4 Beta for Steam Frame",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        }
+      ]
+    },
+    {
+      "title": "3029110 RSS Feed",
+      "feedUrl": "https://store.steampowered.com/feeds/news/app/3029110/?cc=JO&l=english",
+      "siteUrl": "https://store.steampowered.com/news/app/3029110/",
+      "articles": []
+    },
+    {
       "title": "Zei",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCywwEsnSmADUyhtSaq5dKNg",
       "siteUrl": "https://www.youtube.com/channel/UCywwEsnSmADUyhtSaq5dKNg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ge8IKS6Hnxs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ge8IKS6Hnxs",
+          "publishedOn": "2026-10-29T13:00:13.000Z",
+          "wordCount": null,
+          "title": "So I Tried Ricing Windows and Linux..",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Q5UQbADnRtI",
           "author": null,
@@ -49,16 +391,6 @@
           "publishedOn": "2026-10-06T13:00:05.000Z",
           "wordCount": null,
           "title": "Okay fine, I'll try Alpine Linux..",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KSZW1xwEQqo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KSZW1xwEQqo",
-          "publishedOn": "2026-10-01T13:00:21.000Z",
-          "wordCount": null,
-          "title": "Can This Small OS Save My Dying Laptop?",
           "imageUrl": null
         }
       ]
@@ -2035,348 +2367,6 @@
       ]
     },
     {
-      "title": "steam RSS Feed",
-      "feedUrl": "https://store.steampowered.com/feeds/news/collection/steam",
-      "siteUrl": "https://store.steampowered.com/news/collection/steam/",
-      "articles": [
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nDesktop Mode\n\nRe-styled the Steam updater UI",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
-          "publishedOn": "2026-10-29T01:11:56.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 28th",
-          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/group/4397053/view/713416661425717713",
-          "author": null,
-          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nBig Picture Mode\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nLinux\n\nRe-styled the Steam updater UI",
-          "link": "https://store.steampowered.com/news/group/4397053/view/713416661425717713",
-          "publishedOn": "2026-10-29T01:11:33.000Z",
-          "wordCount": 393,
-          "title": "Steam Client Beta - October 28th",
-          "imageUrl": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/group/4397053/view/712290127331727799",
-          "author": null,
-          "description": "The Steam Client Beta has been updated with the following changes:\n\nSteam Input\n\nAdded support for GameInput v4\n\nRemote Play\n\nStart streaming faster when connecting to a local computer\n\nFixed the \"...\" button on the Steam Controller not being passed through to the remote side\n\nLinux\n\nFixed a crash when resuming from suspend\n\nBig Picture Mode\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat window above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM",
-          "link": "https://store.steampowered.com/news/group/4397053/view/712290127331727799",
-          "publishedOn": "2026-10-26T23:52:00.000Z",
-          "wordCount": 393,
-          "title": "Steam Client Beta - October 26th",
-          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed a crash when resuming from suspend\n\nAdded a workaround for updates occasionally hanging at 99%\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat tab above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM\n\nRemote Play\n\nStart streaming faster when connecting to a local computer",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
-          "publishedOn": "2026-10-26T23:51:35.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 26th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/593110/view/686394429475394171",
-          "author": null,
-          "description": "Steam Scream is back for a fifth year of terrifying everyone... with amazing deals on spooky games! From now through November 2nd at 10 a.m. PT you can make your way through the Steam Store to find horrors of all kinds: psychological, slasher, silly, you name it.\nFill up your trick-or-treat bucket Steam library with your favorite scary games, and we bet you'll want to keep playing them well past the horror of the Halloween holiday itself.\nJoin us now for Steam Scream V... if you dare. (You totally should dare, to be clear.)",
-          "link": "https://store.steampowered.com/news/app/593110/view/686394429475394171",
-          "publishedOn": "2026-10-26T17:40:10.000Z",
-          "wordCount": 396,
-          "title": "BOO! Steam Scream FIVE is ready to freak you out",
-          "enclosure": {
-            "url": "https://clan.fastly.steamstatic.com/images/27766192/51bfdeba1d7ff01af42f05fe72c44f90991e723e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://clan.fastly.steamstatic.com/images/27766192/51bfdeba1d7ff01af42f05fe72c44f90991e723e.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/group/39049601/view/713414124781961848",
-          "author": null,
-          "description": "These are the 50 games with the most-played demos during the week of Steam Next Fest: October 2026 Edition.",
-          "link": "https://store.steampowered.com/news/group/39049601/view/713414124781961848",
-          "publishedOn": "2026-10-26T16:41:22.000Z",
-          "wordCount": 395,
-          "title": "Most-played demos of Steam Next Fest: October 2026 Edition",
-          "enclosure": {
-            "url": "https://clan.fastly.steamstatic.com/images/39049601/e9958efd92776a01b08d19e70fe26d30a7196fb1.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://clan.fastly.steamstatic.com/images/39049601/e9958efd92776a01b08d19e70fe26d30a7196fb1.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
-          "author": null,
-          "description": "SteamOS 3.9.5 has just been released for all users with the following changes\n\nThese notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announcements/plasma/6/6.5.0/\n\n\nImproved support for Steam Frame wireless adapter\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nFixed a bug causing hidden WiFi networks to fail to connect on the first attempt\n\nFixed Steam Remote Play not working on Steam Machine when booting with no external display connected\n…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
-          "publishedOn": "2026-10-23T22:04:26.000Z",
-          "wordCount": 388,
-          "title": "SteamOS 3.9",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
-          "author": null,
-          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.5\nGeneral\n\nSecurity and stability updates\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nDeveloper\n\n Actually reintroduced support for Android binder IPC for real this time\n\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announce…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
-          "publishedOn": "2026-10-23T22:04:14.000Z",
-          "wordCount": 389,
-          "title": "SteamOS 3.9.5 Beta",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/593110/view/710037059469839718",
-          "author": null,
-          "description": "With today's Steam update, the Personal Calendar feature officially graduates from Steam Labs and is considered a full feature of the Steam Store. You can find it right on your Steam store homepage, or by visiting https://store.steampowered.com/personalcalendar\n\nAbout the Personal Calendar\nThe Steam Personal Calendar is another way to see recommended games for you, showing both recently released and upcoming games filtered down to the the set of games we think you are most likely to be interested in. It uses your recently played games to find people with similar playtime profiles to you, and then looks at the games those players have been adding to their wishlist or playing.\n\nBased on games you play a lot: The system focuses on your playtime for games that you play the most. So, a few minu…",
-          "link": "https://store.steampowered.com/news/app/593110/view/710037059469839718",
-          "publishedOn": "2026-10-23T20:10:32.000Z",
-          "wordCount": 391,
-          "title": "Steam's Personal Calendar Full Release",
-          "enclosure": {
-            "url": "https://clan.fastly.steamstatic.com/images/27766192/1c92bdb017fb48adb602d4e3e1ddffd9301bcd8a.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://clan.fastly.steamstatic.com/images/27766192/1c92bdb017fb48adb602d4e3e1ddffd9301bcd8a.png"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nRemote Play\n\nBig revamp of HDR support:\n\nAdded an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.\n\nIn addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.\n\nHDR is enabled again on Steam Deck OLED.\n\nHDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
-          "publishedOn": "2026-10-23T00:35:45.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 22nd",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/group/4397053/view/712290127331726184",
-          "author": null,
-          "description": "The Steam Client Beta has been updated with the following changes:\n\nRemote Play\n\nBig revamp of HDR support:\n\nAdded an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.\n\nAdded a brightness slider to the streaming overlay.\n\nIn addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.\n\nHDR is enabled again on Steam Deck OLED.\n\nHDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)",
-          "link": "https://store.steampowered.com/news/group/4397053/view/712290127331726184",
-          "publishedOn": "2026-10-23T00:34:33.000Z",
-          "wordCount": 393,
-          "title": "Steam Client Beta - October 22nd",
-          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
-        }
-      ]
-    },
-    {
-      "title": "1675200 RSS Feed",
-      "feedUrl": "https://store.steampowered.com/feeds/news/app/1675200/?cc=JO&l=english",
-      "siteUrl": "https://store.steampowered.com/news/app/1675200/",
-      "articles": [
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nDesktop Mode\n\nRe-styled the Steam updater UI",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
-          "publishedOn": "2026-10-29T01:11:56.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 28th",
-          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed a crash when resuming from suspend\n\nAdded a workaround for updates occasionally hanging at 99%\n\nUpdated the styling of the chat tab to better convey focus states\n\nGame invites from friends now have a dedicated widget in the chat tab above the text entry, instead of having to navigate to the exact message in the chat history window. Individual invites from friends in a group also show in the group chat window instead of having to navigate to the individual friend's 1-1 chat tab to accept.\n\nImproved the group chat layout and fixed areas where gamepad navigation could get stuck\n\nFriend chat message notifications will now be rolled up rather than sending one 2 second notification per message\n\nPlumbed the per-friend voice chat levels to the friend context menu in BPM\n\nRemote Play\n\nStart streaming faster when connecting to a local computer",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822245920",
-          "publishedOn": "2026-10-26T23:51:35.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 26th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
-          "author": null,
-          "description": "SteamOS 3.9.5 has just been released for all users with the following changes\n\nThese notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announcements/plasma/6/6.5.0/\n\n\nImproved support for Steam Frame wireless adapter\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nFixed a bug causing hidden WiFi networks to fail to connect on the first attempt\n\nFixed Steam Remote Play not working on Steam Machine when booting with no external display connected\n…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
-          "publishedOn": "2026-10-23T22:04:26.000Z",
-          "wordCount": 388,
-          "title": "SteamOS 3.9",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
-          "author": null,
-          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.5\nGeneral\n\nSecurity and stability updates\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nDeveloper\n\n Actually reintroduced support for Android binder IPC for real this time\n\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announce…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
-          "publishedOn": "2026-10-23T22:04:14.000Z",
-          "wordCount": 389,
-          "title": "SteamOS 3.9.5 Beta",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nRemote Play\n\nBig revamp of HDR support:\n\nAdded an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.\n\nIn addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.\n\nHDR is enabled again on Steam Deck OLED.\n\nHDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
-          "publishedOn": "2026-10-23T00:35:45.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 22nd",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822242439",
-          "author": null,
-          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.4\nGeneral\n\nFixed an issue causing firmware updates to occasionally fail to apply on Steam Machine\n\nFixed a bug wherein changing the timezone could prevent switching to Desktop Mode until a reboot\n\nFixed a regression from previous 3.9 releases that caused some apps to run behind Steam's loading screen, such as A Plague Tale: Innocence\n\nFixed a regression from previous 3.9 releases that caused screenshots to be taken at 720p even when the disp…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822242439",
-          "publishedOn": "2026-10-22T03:41:55.000Z",
-          "wordCount": 389,
-          "title": "SteamOS 3.9.4 Beta",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822242448",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFix non-steam apps disappearing after a network reconnect\n\nUpdated certificate revocation lists\n\nStore\n\nUpdated algorithm for search suggestions and text searches\n\nSteam Input\n\nFix a regression with virtual menu positions in the overlay",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822242448",
-          "publishedOn": "2026-10-22T00:14:49.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 21st",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976978185",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client update to the Stable channel.\n\nGeneral\n\nFixed an error displaying dates for users in British Columbia.\n\nUpdated certificate revocation lists.\n\nDesktop Mode\n\nFixed Vulkan games hanging after alt-tab.",
-          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976978185",
-          "publishedOn": "2026-10-21T22:12:40.000Z",
-          "wordCount": 391,
-          "title": "Steam Client Update: October 21st",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976975837",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nSecond round of Steam startup performance improvements following shipping of prior round in public client\n\nFixed some cases the Steam Service Error dialog was showing incorrectly if you quit/restarted Steam quickly\n\nFixed another error displaying dates for our friends in British Columbia.\n\nFixed Steam Frame native-only content showing as installable on Windows.\n\nFixed the layout of the volume slider in the voice chat context menu\n\nOutput volume settings for friends in voice chat will now persist between Steam sessions rather than resetting on restart\n\nFixed a bug that caused some native non-steam games to fail to launch.\n\nDesktop Mode\n\nFixed Vulkan games hanging after alt-tab.\n\nSteam Input\n\nFixed NCAA Football 27 not getting the game configuration applied at game startup",
-          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976975837",
-          "publishedOn": "2026-10-16T23:40:19.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 16th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976975287",
-          "author": null,
-          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.3\nGeneral\n\nFixed performance issues in STAR WARS: Galactic Racer on resume from suspend on Steam Machine\n\nFixed an issue that could lead to GPU errors in The Crew Motorfest\n\nFixed audio issues on hotplug of certain monitors in a multi-monitor setup\n\nImproved support for Steam Frame wireless adapter\n\nSecurity and stability updates\n\nDeveloper\n\nReintroduce support for Android binder IPC\n\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated De…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976975287",
-          "publishedOn": "2026-10-16T19:02:10.000Z",
-          "wordCount": 389,
-          "title": "SteamOS 3.9.3 Beta",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976975613",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nSteam Achievement Sets\nA new way to organize, track, and complete a game's achievements. Read more details in the announcement.\n\nGames can now organize and group achievements for base game and DLC content\n\nDLC achievements can be added via sets without breaking game completion\n\nCompleted achievement sets remain completed when new sets are added\n\nAchievements and sets can be archived if they are seasonal or can no longer be achieved\n\nUpdated Achievements page and achievement rollup displays\n\n\nGeneral\n\nNotifications settings layout has been changed to be easier to work with on all screen sizes\n\nFixed multiple edge cases that could cause memory leaks in game streaming and controller code\n\nMultiple general stability improvements and fixes for rare crashes affecting small numbers of users\n\nFixed an error displaying dates for users in British Columbia\n\nLibrary\n\nImproved offline support for the activity feed and fixed cases where it could previously skip loading some events.\n\nLinux\n\nThe Steam client is now a 64bit application.\n\nThe Steam client now runs inside a Steam Runtime container.\n\nThis will help the Steam client provide a more consistent experience across multiple distributions. This is the same technology used by Steam games.\n\n\nFixed a case where Steam updater UI would fail to show for some users.\n\nRemote Play\n\nAdded a \"Display Style\" setting to allow stretching and zooming when the stream is a different aspect ratio than the client display.\n\nSteam Controller Firmware\n\nFixed an issue where shutting down a controller while docked to the puck could cause it to turn back on\n\nAccessibility\n\nBackground art will appear on the home screen when High Contrast is enabled",
-          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976975613",
-          "publishedOn": "2026-10-15T22:04:03.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 15th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/675134162359815513",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client update to the Stable channel.\n\nHome Screen\n\nAdded a new 'Big Art Mode' option for the home screen. This can be enabled in Settings > Home.\n\nAdded Personal Calendar to the Recommended tab on the home screen.\n[carousel][/carousel]\n\n\nScreensavers\n\nAdded a new screensaver feature, accessible in Settings > Customization. There are two screensavers available:\n\nThe default is a game art slideshow that can be configured to show artwork from recently played games and your recent in-game screenshots.\n\nA retro inspired bouncing logo screensaver\n\n\nCustom screensavers are also supported. Similar to startup movies, they can be placed in directories at ~/.steam/root/config/uioverrides/screensavers/. You can use the bouncing logo screensaver (in the steamui/scr…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/675134162359815513",
-          "publishedOn": "2026-10-13T23:38:40.000Z",
-          "wordCount": 391,
-          "title": "Steam Client Update: October 13th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        }
-      ]
-    },
-    {
-      "title": "4165890 RSS Feed",
-      "feedUrl": "https://store.steampowered.com/feeds/news/app/4165890/?cc=JO&l=english",
-      "siteUrl": "https://store.steampowered.com/news/app/4165890/",
-      "articles": [
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/687519694976975615",
-          "author": null,
-          "description": "Steam Client (for Steam Frame) has just been released for all users with the following changes: \n\nSteam Frame\n\nImprove reliability of pairing with the Steam Frame Wireless Adapter.\n\nShow progress of initial connection with the Steam Frame Wireless Adapter after pairing.\n\nAdded a Playtime Mode icon to the notification area. \n\nFixed an issue where Wi-Fi power saving was enabled at startup, despite being disabled in settings.\n\nImproved Steam Frame Wireless Adapter reliability on Windows by preventing the adapter from going to sleep.\n\nFixed a crash in the Steam Frame Wireless Adapter driver when it fails to initialize.\n\n\nGeneral\nThis update for Steam Frame also includes a large number of other Steam Client improvements. \nPlease refer to the Steam Client patch notes for more details: \n\nhttps://store.steampowered.com/news/app/593110/view/710037059469839720",
-          "link": "https://store.steampowered.com/news/app/4165890/view/687519694976975615",
-          "publishedOn": "2026-10-15T21:53:38.000Z",
-          "wordCount": 393,
-          "title": "Steam Client Update For Frame: October 15th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/687519694976975601",
-          "author": null,
-          "description": "SteamOS 0.5.6 (for Steam Frame) has just been released. \nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested. \nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nOS:\n\nDisable avahi-daemon publishing mDNS, causing polluting frame-XXXX.local mDNS mappings, and in some cases delaying shutdown.\n\nAllow .apk files in right-click \"add to steam\" context menu in Desktop mode.\n\nImprove performance overlay battery and memory usage reporting.\n\nStreaming:\n\nImprove robustness of connecting using the Steam Frame Wireless Adapter, making it able to connect in some situations it previously could not.\n\nAudio:\n\nAdd echo cancellation and noise suppression for external microphones.",
-          "link": "https://store.steampowered.com/news/app/4165890/view/687519694976975601",
-          "publishedOn": "2026-10-15T21:53:10.000Z",
-          "wordCount": 392,
-          "title": "SteamOS 0.5.6 Beta for Steam Frame",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/675134162359812787",
-          "author": null,
-          "description": "SteamOS 0.4 for Steam Frame has just been released for all users with the following changes:\n\nPower:\n\nImproved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.\n\nAdded user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New \"high sensitivity\" option keeps displays on under a wider range of conditions, such as when using glasses spacers.\n\n\nStreaming:\n\nImproved color clarity during VR streaming (fixed headset chroma regression)\n\nVR streaming reliability improvements, including fixes for “Error 17.” Note: On the PC, you must also opt into SteamVR 2.18.2 or later to reduce “Error 17” connection issues. At the time of this release,…",
-          "link": "https://store.steampowered.com/news/app/4165890/view/675134162359812787",
-          "publishedOn": "2026-10-08T23:23:09.000Z",
-          "wordCount": 391,
-          "title": "SteamOS 0.4 for Steam Frame",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/675134162359812111",
-          "author": null,
-          "description": "SteamOS 0.4.5 (for Steam Frame) has just been released. This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\n\n\nNew in 0.4.5:\n\nImproved color clarity during VR streaming (fixed headset chroma regression)\n\n\n\n\nPrevious SteamOS 0.4 Releases\n\nPower:\n\nImproved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.\n\nAdded user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New \"high sensitivity\" option keeps displays on under a wider range of conditions, such as when using glasses spacers.\n\n\nStreaming:\n\nVR streaming reli…",
-          "link": "https://store.steampowered.com/news/app/4165890/view/675134162359812111",
-          "publishedOn": "2026-10-07T02:15:00.000Z",
-          "wordCount": 392,
-          "title": "SteamOS 0.4.5 Beta for Steam Frame",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/675134162359812101",
-          "author": null,
-          "description": "Steam Client (for Steam Frame) has just been released for all users with the following changes: \n\nSteam Frame\n\nSettings shows the user-visible serial number instead of the SOC serial.\n\nGuided Tour now shows for any new account logging into the device, not just the first\n\nSteam Frame Wireless Adapter manual configuration now shows the correct list of WiFi channels in all regions.\n\nStreaming Menu shows spectating status, and a stop button.\n\nGeneral\n\nFixed the Recordings & Screenshots dialog not showing all games that have related screenshots in the game filter dropdown.\n\nImproved the text layout in achievement notifications when the name, description or both wrap across multiple lines.\n\nFix some cases of header/footer flicker and invisibility during the first seconds after waking from sleep.\n\nWhen waking from sleep with a game running but the account now playing elsewhere:\n\nProvide an option to exit the local game.\n\nGo back to sleep if there is no input for 60 seconds.\n\n\nFixed clicking the buttons in the footer causing the glyphs to change back to gamepad\n\nFixed a clicking the back button in the footer not working if nothing on the page had digital navigation focus\n\nFixed a regression that would cause the client to crash when interacting with Compatibility Tool selection dropdown if the default compatibility tool has been uninstalled.\n\nFix \"Suspend Download Throttle\" not properly updating on the downloads page.\n\nFixed regression causing crash in native Linux version of some games.\n\nRemote Play\n\nImproved color accuracy when streaming an OpenGL game.",
-          "link": "https://store.steampowered.com/news/app/4165890/view/675134162359812101",
-          "publishedOn": "2026-10-06T23:23:13.000Z",
-          "wordCount": 393,
-          "title": "Steam Client Update For Frame: October 6th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/675133527946168306",
-          "author": null,
-          "description": "SteamOS 0.4.4 (for Steam Frame) has just been released. This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\n\n\nNew in 0.4.4:\n\nAdded user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New \"high sensitivity\" option keeps displays on under a wider range of conditions, such as when using glasses spacers.\n\nImproved tooltip sort ordering\n\n\n\n\nPrevious SteamOS 0.4 Releases\n\nPower:\n\nImproved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.\n\n\nStreaming:\n\nVR streaming reliability improvements, including fixes for “Err…",
-          "link": "https://store.steampowered.com/news/app/4165890/view/675133527946168306",
-          "publishedOn": "2026-10-05T23:14:33.000Z",
-          "wordCount": 392,
-          "title": "SteamOS 0.4.4 Beta for Steam Frame",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/675133527946166416",
-          "author": null,
-          "description": "SteamOS 0.4.3 (for Steam Frame) has just been released.\n\nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nGeneral\n\nImproved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.\n\nAdded accessibility option for users who want to limit eye tracking to a single eye.  VR Settings -> General -> Track Dominant Eye Only. (requires enabling \"show advanced settings\")\n\nFixed an issue that prevented controller bindings from loading for certain games, including Google Earth VR and Thumper.\n\nImproved focus behavior when interacting with grab/resize handles\n\n\nStreaming:\n\nFurther VR streaming reliability improvements, including additional fixes for “Error 17.” Note: On the PC, you must also opt into SteamVR 2.18.2 or later to reduce “Error 17” connection issues. At the time of this release, SteamVR 2.18.2 is available on the SteamVR \\[beta] branch.\n\nFixed steam frame wireless adapter connectivity issues that affected users in some countries.\n\n\nThis OS release includes SteamVR (2.18.2)",
-          "link": "https://store.steampowered.com/news/app/4165890/view/675133527946166416",
-          "publishedOn": "2026-10-01T18:23:01.000Z",
-          "wordCount": 392,
-          "title": "SteamOS 0.4.3 Beta for Steam Frame",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        }
-      ]
-    },
-    {
-      "title": "3029110 RSS Feed",
-      "feedUrl": "https://store.steampowered.com/feeds/news/app/3029110/?cc=JO&l=english",
-      "siteUrl": "https://store.steampowered.com/news/app/3029110/",
-      "articles": []
-    },
-    {
       "title": "GooglebookOS – Android For PC",
       "feedUrl": "https://aluminium-os.com/feed/",
       "siteUrl": "https://aluminium-os.com",
@@ -2390,6 +2380,163 @@
           "wordCount": 6168,
           "title": "GooglebookOS ISO: Does It Exist and How to Run It",
           "imageUrl": "https://aluminium-os.com/wp-content/uploads/2026/10/googlebookOS-iso-1024x576.jpg"
+        }
+      ]
+    },
+    {
+      "title": "XDA",
+      "feedUrl": "https://www.xda-developers.com/feed/",
+      "siteUrl": "https://www.xda-developers.com",
+      "articles": [
+        {
+          "id": "https://www.xda-developers.com/kde-plasma-gets-a-ton-of-bug-fixes-as-68-begins-landing-on-peoples-computers/",
+          "author": "Simon Batt",
+          "description": "Check if your bugbear got fixed.",
+          "link": "https://www.xda-developers.com/kde-plasma-gets-a-ton-of-bug-fixes-as-68-begins-landing-on-peoples-computers/",
+          "publishedOn": "2026-10-31T06:36:55.000Z",
+          "wordCount": 4296,
+          "title": "KDE Plasma gets a ton of bug fixes as 6.8 begins landing on people's computers",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/linux-laptop-kde-plasma.jpg",
+            "length": "21872",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/01/linux-laptop-kde-plasma.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/sam-altman-says-its-quite-terrible-that-people-have-ram-in-their-pcs-during-a-shortage/",
+          "author": "Simon Batt",
+          "description": "It's not a great look.",
+          "link": "https://www.xda-developers.com/sam-altman-says-its-quite-terrible-that-people-have-ram-in-their-pcs-during-a-shortage/",
+          "publishedOn": "2026-10-31T01:03:59.000Z",
+          "wordCount": 4389,
+          "title": "Sam Altman says it's \"quite terrible\" that people use RAM in their PCs for AI during a shortage",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/02/sam-altman-openai-1.jpg",
+            "length": "310",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/02/sam-altman-openai-1.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/epic-linux-anti-cheat-tpm-2/",
+          "author": "Simon Batt",
+          "description": "There's a lot to go over, but it's easy to do a quick check.",
+          "link": "https://www.xda-developers.com/epic-linux-anti-cheat-tpm-2/",
+          "publishedOn": "2026-10-31T00:00:20.000Z",
+          "wordCount": 5131,
+          "title": "Epic's Linux anti-cheat wants TPM 2.0 and a stack of settings, and you can check your own PC in about five minutes",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/lutris-epic-games.JPEG",
+            "length": "6389",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/06/lutris-epic-games.JPEG"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-stopped-paying-for-lightroom-after-finding-a-free-open-source-editor-that-handles-my-raw-files-just-as-well/",
+          "author": "Ty Sherback",
+          "description": "LightCraft isn't going to be enough for some working professionals, but it's great for the weekend photographer",
+          "link": "https://www.xda-developers.com/i-stopped-paying-for-lightroom-after-finding-a-free-open-source-editor-that-handles-my-raw-files-just-as-well/",
+          "publishedOn": "2026-10-30T23:01:21.000Z",
+          "wordCount": 5795,
+          "title": "I stopped paying for Lightroom after finding a free open-source editor that handles my RAW files just as well",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/img_8076.jpg",
+            "length": "1044",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/img_8076.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/gave-chatgpt-dots-access-to-email-calendar-tasks-started-helping-without-being-asked/",
+          "author": "Mahnoor Faisal",
+          "description": "An AI that actually takes the hint?",
+          "link": "https://www.xda-developers.com/gave-chatgpt-dots-access-to-email-calendar-tasks-started-helping-without-being-asked/",
+          "publishedOn": "2026-10-30T22:30:20.000Z",
+          "wordCount": 6898,
+          "title": "I gave ChatGPT Dots access to my email, calendar, and tasks, and it started helping without being asked",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/angled-close-up-of-a-macbook-with-the-customize-your-dot-panel-open-in-chatgpt.jpeg",
+            "length": "1928",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/angled-close-up-of-a-macbook-with-the-customize-your-dot-panel-open-in-chatgpt.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/legion-go-s-steep-680-discount/",
+          "author": "Timi Cantisano",
+          "description": "This discount is out of control",
+          "link": "https://www.xda-developers.com/legion-go-s-steep-680-discount/",
+          "publishedOn": "2026-10-30T22:20:34.000Z",
+          "wordCount": 4214,
+          "title": "This beastly SteamOS gaming handheld with 32GB RAM is $680 off",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/01/lenovo-legion-go-s-5-2.jpg",
+            "length": "3500",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/01/lenovo-legion-go-s-5-2.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/aaa-games-are-playable-in-web-browsers-with-ai-based-reverse-engineering/",
+          "author": "Samarveer Singh",
+          "description": "Open-world AAA games, just a single tab-switch away",
+          "link": "https://www.xda-developers.com/aaa-games-are-playable-in-web-browsers-with-ai-based-reverse-engineering/",
+          "publishedOn": "2026-10-30T22:00:20.000Z",
+          "wordCount": 7728,
+          "title": "AAA games are now playable in web browsers, and AI-assisted reverse engineering is the secret sauce",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/grand-theft-auto-v-running-on-a-web-browser-online.jpg",
+            "length": "1907",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/grand-theft-auto-v-running-on-a-web-browser-online.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/most-people-running-gemma-4-locally-havent-switched-on-the-free-speedup-google-shipped-for-it/",
+          "author": "Abhinav Raj",
+          "description": "Gemma 4 has a fast lane most people never switch to",
+          "link": "https://www.xda-developers.com/most-people-running-gemma-4-locally-havent-switched-on-the-free-speedup-google-shipped-for-it/",
+          "publishedOn": "2026-10-30T21:30:20.000Z",
+          "wordCount": 5743,
+          "title": "I turned on one Gemma 4 feature most people skip, and my local AI got 137% faster",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/gemma-4-drafter-main.jpg",
+            "length": "756",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/gemma-4-drafter-main.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/turned-old-router-into-travel-router-hotel-wi-fi-stopped-being-annoying/",
+          "author": "Jasmine Mannan",
+          "description": "I can finally feel at home when I'm away.",
+          "link": "https://www.xda-developers.com/turned-old-router-into-travel-router-hotel-wi-fi-stopped-being-annoying/",
+          "publishedOn": "2026-10-30T21:01:21.000Z",
+          "wordCount": 5557,
+          "title": "I turned an old router into a travel router, and hotel Wi-Fi finally stopped being annoying",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/img20261003090556-2.jpg",
+            "length": "3424",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/img20261003090556-2.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/someone-got-pokemon-pokopia-running-on-a-ps5-with-linux-on-it-and-i-dont-know-what-to-believe-anymore/",
+          "author": "Simon Batt",
+          "description": "Things are getting crazy.",
+          "link": "https://www.xda-developers.com/someone-got-pokemon-pokopia-running-on-a-ps5-with-linux-on-it-and-i-dont-know-what-to-believe-anymore/",
+          "publishedOn": "2026-10-30T20:51:24.000Z",
+          "wordCount": 4415,
+          "title": "Someone got Pokémon Pokopia running on a PS5 with Linux on it, and I don't know what to believe anymore",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/pokopia-screenshot.jpg",
+            "length": "448",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/pokopia-screenshot.jpg"
         }
       ]
     }

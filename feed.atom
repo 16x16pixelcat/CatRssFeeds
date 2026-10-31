@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-10-31T04:46:10.269Z</updated>
+    <updated>2026-10-31T09:44:20.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma gets a ton of bug fixes as 6.8 begins landing on people's computers]]></title>
+        <id>https://www.xda-developers.com/kde-plasma-gets-a-ton-of-bug-fixes-as-68-begins-landing-on-peoples-computers/</id>
+        <link href="https://www.xda-developers.com/kde-plasma-gets-a-ton-of-bug-fixes-as-68-begins-landing-on-peoples-computers/"/>
+        <updated>2026-10-31T06:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Check if your bugbear got fixed.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman says it's "quite terrible" that people use RAM in their PCs for AI during a shortage]]></title>
+        <id>https://www.xda-developers.com/sam-altman-says-its-quite-terrible-that-people-have-ram-in-their-pcs-during-a-shortage/</id>
+        <link href="https://www.xda-developers.com/sam-altman-says-its-quite-terrible-that-people-have-ram-in-their-pcs-during-a-shortage/"/>
+        <updated>2026-10-31T01:03:59.000Z</updated>
+        <summary type="html"><![CDATA[It's not a great look.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic's Linux anti-cheat wants TPM 2.0 and a stack of settings, and you can check your own PC in about five minutes]]></title>
+        <id>https://www.xda-developers.com/epic-linux-anti-cheat-tpm-2/</id>
+        <link href="https://www.xda-developers.com/epic-linux-anti-cheat-tpm-2/"/>
+        <updated>2026-10-31T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot to go over, but it's easy to do a quick check.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stopped paying for Lightroom after finding a free open-source editor that handles my RAW files just as well]]></title>
+        <id>https://www.xda-developers.com/i-stopped-paying-for-lightroom-after-finding-a-free-open-source-editor-that-handles-my-raw-files-just-as-well/</id>
+        <link href="https://www.xda-developers.com/i-stopped-paying-for-lightroom-after-finding-a-free-open-source-editor-that-handles-my-raw-files-just-as-well/"/>
+        <updated>2026-10-30T23:01:21.000Z</updated>
+        <summary type="html"><![CDATA[LightCraft isn't going to be enough for some working professionals, but it's great for the weekend photographer]]></summary>
+        <author>
+            <name>Ty Sherback</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave ChatGPT Dots access to my email, calendar, and tasks, and it started helping without being asked]]></title>
+        <id>https://www.xda-developers.com/gave-chatgpt-dots-access-to-email-calendar-tasks-started-helping-without-being-asked/</id>
+        <link href="https://www.xda-developers.com/gave-chatgpt-dots-access-to-email-calendar-tasks-started-helping-without-being-asked/"/>
+        <updated>2026-10-30T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[An AI that actually takes the hint?]]></summary>
+        <author>
+            <name>Mahnoor Faisal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This beastly SteamOS gaming handheld with 32GB RAM is $680 off]]></title>
+        <id>https://www.xda-developers.com/legion-go-s-steep-680-discount/</id>
+        <link href="https://www.xda-developers.com/legion-go-s-steep-680-discount/"/>
+        <updated>2026-10-30T22:20:34.000Z</updated>
+        <summary type="html"><![CDATA[This discount is out of control]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AAA games are now playable in web browsers, and AI-assisted reverse engineering is the secret sauce]]></title>
+        <id>https://www.xda-developers.com/aaa-games-are-playable-in-web-browsers-with-ai-based-reverse-engineering/</id>
+        <link href="https://www.xda-developers.com/aaa-games-are-playable-in-web-browsers-with-ai-based-reverse-engineering/"/>
+        <updated>2026-10-30T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Open-world AAA games, just a single tab-switch away]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned on one Gemma 4 feature most people skip, and my local AI got 137% faster]]></title>
+        <id>https://www.xda-developers.com/most-people-running-gemma-4-locally-havent-switched-on-the-free-speedup-google-shipped-for-it/</id>
+        <link href="https://www.xda-developers.com/most-people-running-gemma-4-locally-havent-switched-on-the-free-speedup-google-shipped-for-it/"/>
+        <updated>2026-10-30T21:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Gemma 4 has a fast lane most people never switch to]]></summary>
+        <author>
+            <name>Abhinav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned an old router into a travel router, and hotel Wi-Fi finally stopped being annoying]]></title>
+        <id>https://www.xda-developers.com/turned-old-router-into-travel-router-hotel-wi-fi-stopped-being-annoying/</id>
+        <link href="https://www.xda-developers.com/turned-old-router-into-travel-router-hotel-wi-fi-stopped-being-annoying/"/>
+        <updated>2026-10-30T21:01:21.000Z</updated>
+        <summary type="html"><![CDATA[I can finally feel at home when I'm away.]]></summary>
+        <author>
+            <name>Jasmine Mannan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pixelated 123: The primary value is the clock]]></title>
         <id>https://9to5google.com/?p=735264</id>
@@ -28,6 +118,16 @@ Overcast
 more…]]></summary>
         <author>
             <name>Will Sattelberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone got Pokémon Pokopia running on a PS5 with Linux on it, and I don't know what to believe anymore]]></title>
+        <id>https://www.xda-developers.com/someone-got-pokemon-pokopia-running-on-a-ps5-with-linux-on-it-and-i-dont-know-what-to-believe-anymore/</id>
+        <link href="https://www.xda-developers.com/someone-got-pokemon-pokopia-running-on-a-ps5-with-linux-on-it-and-i-dont-know-what-to-believe-anymore/"/>
+        <updated>2026-10-30T20:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Things are getting crazy.]]></summary>
+        <author>
+            <name>Simon Batt</name>
         </author>
     </entry>
     <entry>
@@ -413,6 +513,15 @@ more…]]></summary>
 more…]]></summary>
         <author>
             <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So I Tried Ricing Windows and Linux..]]></title>
+        <id>https://www.youtube.com/watch?v=ge8IKS6Hnxs</id>
+        <link href="https://www.youtube.com/watch?v=ge8IKS6Hnxs"/>
+        <updated>2026-10-29T13:00:13.000Z</updated>
+        <author>
+            <name>Zei</name>
         </author>
     </entry>
     <entry>
@@ -3091,47 +3200,6 @@ Streaming:
 VR streaming reliability improvements, including fixes for “Err…]]></summary>
         <author>
             <name>4165890 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 0.4.3 Beta for Steam Frame]]></title>
-        <id>https://store.steampowered.com/news/app/4165890/view/675133527946166416</id>
-        <link href="https://store.steampowered.com/news/app/4165890/view/675133527946166416"/>
-        <updated>2026-10-01T18:23:01.000Z</updated>
-        <summary type="html"><![CDATA[SteamOS 0.4.3 (for Steam Frame) has just been released.
-
-This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-
-General
-
-Improved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.
-
-Added accessibility option for users who want to limit eye tracking to a single eye.  VR Settings -> General -> Track Dominant Eye Only. (requires enabling "show advanced settings")
-
-Fixed an issue that prevented controller bindings from loading for certain games, including Google Earth VR and Thumper.
-
-Improved focus behavior when interacting with grab/resize handles
-
-
-Streaming:
-
-Further VR streaming reliability improvements, including additional fixes for “Error 17.” Note: On the PC, you must also opt into SteamVR 2.18.2 or later to reduce “Error 17” connection issues. At the time of this release, SteamVR 2.18.2 is available on the SteamVR \[beta] branch.
-
-Fixed steam frame wireless adapter connectivity issues that affected users in some countries.
-
-
-This OS release includes SteamVR (2.18.2)]]></summary>
-        <author>
-            <name>4165890 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can This Small OS Save My Dying Laptop?]]></title>
-        <id>https://www.youtube.com/watch?v=KSZW1xwEQqo</id>
-        <link href="https://www.youtube.com/watch?v=KSZW1xwEQqo"/>
-        <updated>2026-10-01T13:00:21.000Z</updated>
-        <author>
-            <name>Zei</name>
         </author>
     </entry>
 </feed>
