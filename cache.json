@@ -445,6 +445,16 @@
       "siteUrl": "https://9to5google.com/",
       "articles": [
         {
+          "id": "https://9to5google.com/?p=735274",
+          "author": "Ben Schoon",
+          "description": "Samsung isn’t holding back when it comes to the iPhone Duo’s messy start. In new ads, the company mocks iPhone Duo’s “crackgate” with a push for customers to buy the Galaxy Z Fold 8 instead, and there’s not an ounce of subtlety here.\nmore…",
+          "link": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8/",
+          "publishedOn": "2026-10-31T01:20:00.000Z",
+          "wordCount": 3702,
+          "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-z-fold-8-iphone-duo-crackgate.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
           "id": "https://9to5google.com/?p=735264",
           "author": "Will Sattelberg",
           "description": "Welcome to Pixelated episode 123. This week, Damien and Abner share their earliest impressions of the Fitbit Edge, Google’s latest fitness tracker that promises to split the difference between the Fitbit Air and the Pixel Watch 5. After, the gang gets bleak about the future of RAM prices before turning their attention to Apple one last time to ask…good lord what is happening in there?\nEnjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode.\nSponsored by Proton Unlimited: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link. Thanks to Proton Unlimited for sponsoring the podcast.\n\n\n\n\nSubscribe\nYouTube Podcasts\nPocket Casts\nSpotify\nAmazon Music\nApple Podcasts\nOvercast\nmore…",
@@ -2388,6 +2398,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/someone-made-a-godot-style-game-editor-for-the-esp32-s3/",
+          "author": "Simon Batt",
+          "description": "The framerates are very impressive.",
+          "link": "https://www.xda-developers.com/someone-made-a-godot-style-game-editor-for-the-esp32-s3/",
+          "publishedOn": "2026-11-01T03:49:24.000Z",
+          "wordCount": 4345,
+          "title": "Someone made a Godot-style game editor for the ESP32-S3",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/esp32-jet-studio.jpg",
+            "length": "1032",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/esp32-jet-studio.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/kde-developer-kwi/",
+          "author": "Simon Batt",
+          "description": "It's still an experiment, but it is promising.",
+          "link": "https://www.xda-developers.com/kde-developer-kwi/",
+          "publishedOn": "2026-11-01T02:39:23.000Z",
+          "wordCount": 4422,
+          "title": "A KDE developer reveals Kwi, a GPU-accelerated terminal built on Ghostty's library",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/arch-linux-dke-konsole-neofetch-close-angle.jpg",
+            "length": "694",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/arch-linux-dke-konsole-neofetch-close-angle.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/how-force-app-use-discrete-gpu-windows-11/",
+          "author": "João Carrasqueira",
+          "description": "If your games or apps are running more slowly than you'd expect, you may need to force Windows 11 to run it using the discrete GPU. Here's how.",
+          "link": "https://www.xda-developers.com/how-force-app-use-discrete-gpu-windows-11/",
+          "publishedOn": "2026-11-01T02:33:22.000Z",
+          "wordCount": 4757,
+          "title": "How to force an app to use the discrete GPU in Windows 11",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/windows-11-graphics-settings.jpg",
+            "length": "13574",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/windows-11-graphics-settings.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/someone-used-claude-to-root-an-amazon-echo-dot-and-turn-it-into-a-home-assistant-satellite/",
+          "author": "Simon Batt",
+          "description": "You can try it yourself, if you like.",
+          "link": "https://www.xda-developers.com/someone-used-claude-to-root-an-amazon-echo-dot-and-turn-it-into-a-home-assistant-satellite/",
+          "publishedOn": "2026-11-01T01:43:22.000Z",
+          "wordCount": 4408,
+          "title": "Someone used Claude to root an Amazon Echo Dot and turn it into a Home Assistant satellite",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2021/10/Desktop-FullBleed-Pack-1_low.jpg",
+            "length": "220522",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2021/10/Desktop-FullBleed-Pack-1_low.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/windows-search-lagging-built-in-fix-people-never-try/",
+          "author": "Tanveer Singh",
+          "description": "Your search index might be bloated and outdated",
+          "link": "https://www.xda-developers.com/windows-search-lagging-built-in-fix-people-never-try/",
+          "publishedOn": "2026-11-01T00:00:20.000Z",
+          "wordCount": 5577,
+          "title": "Windows Search keeps lagging, and there's a built-in fix most people never try",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-search-settings-ultrawide-monitor.png",
+            "length": "9139",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-search-settings-ultrawide-monitor.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/stopped-juggling-claude-code-codex-other-coding-agents-after-finding-open-source-app/",
+          "author": "Mahnoor Faisal",
+          "description": "The end of my terminal tab nightmare",
+          "link": "https://www.xda-developers.com/stopped-juggling-claude-code-codex-other-coding-agents-after-finding-open-source-app/",
+          "publishedOn": "2026-10-31T23:31:52.000Z",
+          "wordCount": 6274,
+          "title": "I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/macbook-air-showing-the-orca-agent-ide-homepage-in-chrome-under-pink-and-purple-lighting.jpeg",
+            "length": "2019",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/macbook-air-showing-the-orca-agent-ide-homepage-in-chrome-under-pink-and-purple-lighting.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/notebooklms-ai-podcasts-replaced-by-chatgpt-dots/",
+          "author": "Mahnoor Faisal",
+          "description": "Goodbye NotebookLM, hello ChatGPT.",
+          "link": "https://www.xda-developers.com/notebooklms-ai-podcasts-replaced-by-chatgpt-dots/",
+          "publishedOn": "2026-10-31T23:00:20.000Z",
+          "wordCount": 6374,
+          "title": "NotebookLM's AI podcasts were my favorite way to study, but ChatGPT Dots might change that",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/macbook-on-a-chatgpt-dot-voice-call-during-a-binary-lesson-with-a-gemini-audio-ad-behind.jpeg",
+            "length": "860",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/macbook-on-a-chatgpt-dot-voice-call-during-a-binary-lesson-with-a-gemini-audio-ad-behind.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/tested-pdf-tools-files-usually-send-back-adobe-acrobat-one-decent-job/",
+          "author": "Parth Shah",
+          "description": "The real test begins with PDFs.",
+          "link": "https://www.xda-developers.com/tested-pdf-tools-files-usually-send-back-adobe-acrobat-one-decent-job/",
+          "publishedOn": "2026-10-31T22:00:20.000Z",
+          "wordCount": 5381,
+          "title": "I tested free PDF tools on the files that usually send me back to Adobe Acrobat; only one did a decent job",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/pdfgear-home.jpg",
+            "length": "1882",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/pdfgear-home.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/google-sheets-vibe-coded-replacement-dark-mode/",
+          "author": "Korbin Brown",
+          "description": "Claude made me a spreadsheets app in one afternoon.",
+          "link": "https://www.xda-developers.com/google-sheets-vibe-coded-replacement-dark-mode/",
+          "publishedOn": "2026-10-31T21:30:19.000Z",
+          "wordCount": 5675,
+          "title": "I vibe coded my own Google Sheets replacement just to get dark mode",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/google-sheets-replacement-dark-mode-featured.avif",
+            "length": "4460",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/google-sheets-replacement-dark-mode-featured.avif"
+        },
+        {
+          "id": "https://www.xda-developers.com/these-home-assistant-integrations-made-my-smart-home-more-versatile/",
+          "author": "Ayush Pande",
+          "description": "Smart devices aren't the only thing that I manage with Home Assistant",
+          "link": "https://www.xda-developers.com/these-home-assistant-integrations-made-my-smart-home-more-versatile/",
+          "publishedOn": "2026-10-31T21:00:20.000Z",
+          "wordCount": 6351,
+          "title": "I gave Home Assistant these three obscure integrations, and they made my smart home setup even more versatile",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-4.jpg",
+            "length": "8577",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-4.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/kde-plasma-gets-a-ton-of-bug-fixes-as-68-begins-landing-on-peoples-computers/",
           "author": "Simon Batt",

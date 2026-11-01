@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-10-31T09:44:20.439Z</updated>
+    <updated>2026-11-01T05:08:50.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Someone made a Godot-style game editor for the ESP32-S3]]></title>
+        <id>https://www.xda-developers.com/someone-made-a-godot-style-game-editor-for-the-esp32-s3/</id>
+        <link href="https://www.xda-developers.com/someone-made-a-godot-style-game-editor-for-the-esp32-s3/"/>
+        <updated>2026-11-01T03:49:24.000Z</updated>
+        <summary type="html"><![CDATA[The framerates are very impressive.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A KDE developer reveals Kwi, a GPU-accelerated terminal built on Ghostty's library]]></title>
+        <id>https://www.xda-developers.com/kde-developer-kwi/</id>
+        <link href="https://www.xda-developers.com/kde-developer-kwi/"/>
+        <updated>2026-11-01T02:39:23.000Z</updated>
+        <summary type="html"><![CDATA[It's still an experiment, but it is promising.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to force an app to use the discrete GPU in Windows 11]]></title>
+        <id>https://www.xda-developers.com/how-force-app-use-discrete-gpu-windows-11/</id>
+        <link href="https://www.xda-developers.com/how-force-app-use-discrete-gpu-windows-11/"/>
+        <updated>2026-11-01T02:33:22.000Z</updated>
+        <summary type="html"><![CDATA[If your games or apps are running more slowly than you'd expect, you may need to force Windows 11 to run it using the discrete GPU. Here's how.]]></summary>
+        <author>
+            <name>João Carrasqueira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone used Claude to root an Amazon Echo Dot and turn it into a Home Assistant satellite]]></title>
+        <id>https://www.xda-developers.com/someone-used-claude-to-root-an-amazon-echo-dot-and-turn-it-into-a-home-assistant-satellite/</id>
+        <link href="https://www.xda-developers.com/someone-used-claude-to-root-an-amazon-echo-dot-and-turn-it-into-a-home-assistant-satellite/"/>
+        <updated>2026-11-01T01:43:22.000Z</updated>
+        <summary type="html"><![CDATA[You can try it yourself, if you like.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Search keeps lagging, and there's a built-in fix most people never try]]></title>
+        <id>https://www.xda-developers.com/windows-search-lagging-built-in-fix-people-never-try/</id>
+        <link href="https://www.xda-developers.com/windows-search-lagging-built-in-fix-people-never-try/"/>
+        <updated>2026-11-01T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Your search index might be bloated and outdated]]></summary>
+        <author>
+            <name>Tanveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app]]></title>
+        <id>https://www.xda-developers.com/stopped-juggling-claude-code-codex-other-coding-agents-after-finding-open-source-app/</id>
+        <link href="https://www.xda-developers.com/stopped-juggling-claude-code-codex-other-coding-agents-after-finding-open-source-app/"/>
+        <updated>2026-10-31T23:31:52.000Z</updated>
+        <summary type="html"><![CDATA[The end of my terminal tab nightmare]]></summary>
+        <author>
+            <name>Mahnoor Faisal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NotebookLM's AI podcasts were my favorite way to study, but ChatGPT Dots might change that]]></title>
+        <id>https://www.xda-developers.com/notebooklms-ai-podcasts-replaced-by-chatgpt-dots/</id>
+        <link href="https://www.xda-developers.com/notebooklms-ai-podcasts-replaced-by-chatgpt-dots/"/>
+        <updated>2026-10-31T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Goodbye NotebookLM, hello ChatGPT.]]></summary>
+        <author>
+            <name>Mahnoor Faisal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tested free PDF tools on the files that usually send me back to Adobe Acrobat; only one did a decent job]]></title>
+        <id>https://www.xda-developers.com/tested-pdf-tools-files-usually-send-back-adobe-acrobat-one-decent-job/</id>
+        <link href="https://www.xda-developers.com/tested-pdf-tools-files-usually-send-back-adobe-acrobat-one-decent-job/"/>
+        <updated>2026-10-31T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[The real test begins with PDFs.]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I vibe coded my own Google Sheets replacement just to get dark mode]]></title>
+        <id>https://www.xda-developers.com/google-sheets-vibe-coded-replacement-dark-mode/</id>
+        <link href="https://www.xda-developers.com/google-sheets-vibe-coded-replacement-dark-mode/"/>
+        <updated>2026-10-31T21:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Claude made me a spreadsheets app in one afternoon.]]></summary>
+        <author>
+            <name>Korbin Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave Home Assistant these three obscure integrations, and they made my smart home setup even more versatile]]></title>
+        <id>https://www.xda-developers.com/these-home-assistant-integrations-made-my-smart-home-more-versatile/</id>
+        <link href="https://www.xda-developers.com/these-home-assistant-integrations-made-my-smart-home-more-versatile/"/>
+        <updated>2026-10-31T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Smart devices aren't the only thing that I manage with Home Assistant]]></summary>
+        <author>
+            <name>Ayush Pande</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE Plasma gets a ton of bug fixes as 6.8 begins landing on people's computers]]></title>
         <id>https://www.xda-developers.com/kde-plasma-gets-a-ton-of-bug-fixes-as-68-begins-landing-on-peoples-computers/</id>
@@ -14,6 +114,17 @@
         <summary type="html"><![CDATA[Check if your bugbear got fixed.]]></summary>
         <author>
             <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]]]></title>
+        <id>https://9to5google.com/?p=735274</id>
+        <link href="https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8/"/>
+        <updated>2026-10-31T01:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung isn’t holding back when it comes to the iPhone Duo’s messy start. In new ads, the company mocks iPhone Duo’s “crackgate” with a push for customers to buy the Galaxy Z Fold 8 instead, and there’s not an ounce of subtlety here.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
         </author>
     </entry>
     <entry>
