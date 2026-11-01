@@ -344,6 +344,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCywwEsnSmADUyhtSaq5dKNg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-6ekWAYWF8c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-6ekWAYWF8c",
+          "publishedOn": "2026-11-01T13:00:35.000Z",
+          "wordCount": null,
+          "title": "Adobe Might Actually Be COOKED..",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ge8IKS6Hnxs",
           "author": null,
           "description": "",
@@ -444,6 +454,26 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=734888",
+          "author": "Ben Schoon",
+          "description": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one very obvious difference between the two.\n9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of key stories from around the web by Daniel Bader. Sign up here to get Weekender delivered to your inbox every Sunday along with ‘Inbox’ on Tuesday and Thursday. You can find past issues here.\nmore…",
+          "link": "https://9to5google.com/2026/11/01/motorola-oneplus-gap/",
+          "publishedOn": "2026-11-01T14:00:00.000Z",
+          "wordCount": 3634,
+          "title": "Motorola is filling the gap OnePlus left behind, mostly",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-1_942c71.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735267",
+          "author": "Ben Schoon",
+          "description": "Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs.\nmore…",
+          "link": "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/",
+          "publishedOn": "2026-10-31T12:00:00.000Z",
+          "wordCount": 3663,
+          "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-hands-on-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=735274",
           "author": "Ben Schoon",
@@ -2398,6 +2428,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/how-turn-old-pc-into-nas/",
+          "author": "Adam Conway",
+          "description": "An old computer doesn't have to be e-waste — you can turn it into a NAS server for your house. Here's what you need to know about.",
+          "link": "https://www.xda-developers.com/how-turn-old-pc-into-nas/",
+          "publishedOn": "2026-11-01T16:32:58.000Z",
+          "wordCount": 5894,
+          "title": "How to turn an old PC into a NAS",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/pc-airflow-guide.jpg",
+            "length": "334",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/08/pc-airflow-guide.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-set-up-my-own-tv-channels-my-family-watches-more-than-they-did-on-netflix/",
+          "author": "Brian Burgess",
+          "description": "Self-hosted media channels have my family watching my own content more than streaming.",
+          "link": "https://www.xda-developers.com/i-set-up-my-own-tv-channels-my-family-watches-more-than-they-did-on-netflix/",
+          "publishedOn": "2026-11-01T16:30:22.000Z",
+          "wordCount": 5461,
+          "title": "I set up my own TV channels from my movie library, and my family watches more than they did on Netflix",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/feat_self-hosted-media-channels-family-likes-more-than-netflix.JPEG",
+            "length": "321",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/feat_self-hosted-media-channels-family-likes-more-than-netflix.JPEG"
+        },
+        {
+          "id": "https://www.xda-developers.com/first-good-lock-plugins-i-install-samsung-galaxy/",
+          "author": "Megan Ellis",
+          "description": "These Good Lock plugins are part of my essential toolkit.",
+          "link": "https://www.xda-developers.com/first-good-lock-plugins-i-install-samsung-galaxy/",
+          "publishedOn": "2026-11-01T16:00:20.000Z",
+          "wordCount": 7408,
+          "title": "4 Good Lock modules I install on every Samsung phone before I do anything else",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/good-lock-on-a-samsung-s23-ultra.jpg",
+            "length": "255",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/good-lock-on-a-samsung-s23-ultra.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/ditched-figma-for-free-open-source-clone/",
+          "author": "Nolen Jonker",
+          "description": "Completely free and no account required",
+          "link": "https://www.xda-developers.com/ditched-figma-for-free-open-source-clone/",
+          "publishedOn": "2026-11-01T15:30:20.000Z",
+          "wordCount": 5887,
+          "title": "I ditched Figma for a free open-source clone, and it covers everything I actually use it for",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/figcraft-dev-mode-on-desktop-pc.jpeg",
+            "length": "2718",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/figcraft-dev-mode-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/windows-tools-monitor-ram/",
+          "author": "Megan Ellis",
+          "description": "These tools helped me rule out other culprits and trim down guilty processes.",
+          "link": "https://www.xda-developers.com/windows-tools-monitor-ram/",
+          "publishedOn": "2026-11-01T15:00:20.000Z",
+          "wordCount": 5842,
+          "title": "My PC was using over 80% of its RAM, and these tools helped me figure out why",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/task-manager-on-a-laptop.jpg",
+            "length": "2310",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/task-manager-on-a-laptop.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/stop-treating-your-usb-hubs-as-port-replicators/",
+          "author": "João Carrasqueira",
+          "description": "It's not quite the same",
+          "link": "https://www.xda-developers.com/stop-treating-your-usb-hubs-as-port-replicators/",
+          "publishedOn": "2026-11-01T14:30:20.000Z",
+          "wordCount": 6487,
+          "title": "Please stop treating your USB hubs as port replicators",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/switchbot-hub-usb-ports.jpeg",
+            "length": "1049",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/switchbot-hub-usb-ports.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/c-drive-running-out-of-space-found-how-to-stop-it/",
+          "author": "Tanveer Singh",
+          "description": "I had to modify certain habits to keep my C: drive breathing",
+          "link": "https://www.xda-developers.com/c-drive-running-out-of-space-found-how-to-stop-it/",
+          "publishedOn": "2026-11-01T14:00:20.000Z",
+          "wordCount": 5693,
+          "title": "My C: drive kept running out of space, and I finally found how to stop it for good",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-explorer-partitions-wiztree-scan.png",
+            "length": "4642",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-explorer-partitions-wiztree-scan.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/install-windows-11-unsupported-pc/",
+          "author": "João Carrasqueira",
+          "description": "Want Windows 11 but have an unsupported computer? Here's how to install Windows 11 even if your PC doesn't meet the minimum requirements.",
+          "link": "https://www.xda-developers.com/install-windows-11-unsupported-pc/",
+          "publishedOn": "2026-11-01T13:59:12.000Z",
+          "wordCount": 8630,
+          "title": "How to install Windows 11 on almost any unsupported PC",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2021/07/How-to-bypass-Windows-11-minimum-requirements.jpg",
+            "length": "325636",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2021/07/How-to-bypass-Windows-11-minimum-requirements.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/steam-link-cheap-tv-box-steam-machine-most-people-need/",
+          "author": "Anurag Singh",
+          "description": "Your gaming PC can handle the living room too",
+          "link": "https://www.xda-developers.com/steam-link-cheap-tv-box-steam-machine-most-people-need/",
+          "publishedOn": "2026-11-01T13:30:20.000Z",
+          "wordCount": 5373,
+          "title": "Steam Link on a cheap TV box is the Steam Machine most people actually need",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/steam-link-xda.jpg",
+            "length": "328",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/steam-link-xda.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/claude-can-run-my-home-assistant-setup-now-and-it-only-took-one-click-to-set-up/",
+          "author": "Joe Rice-Jones",
+          "description": "It can only touch what I expose which is a good safety feature",
+          "link": "https://www.xda-developers.com/claude-can-run-my-home-assistant-setup-now-and-it-only-took-one-click-to-set-up/",
+          "publishedOn": "2026-11-01T13:00:20.000Z",
+          "wordCount": 5546,
+          "title": "Claude can run my Home Assistant setup now, and it only took one click to set up",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/home-assistant-open-on-laptop-jrj.jpg",
+            "length": "6133",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/home-assistant-open-on-laptop-jrj.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/someone-made-a-godot-style-game-editor-for-the-esp32-s3/",
           "author": "Simon Batt",

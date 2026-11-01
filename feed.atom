@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-01T05:08:50.866Z</updated>
+    <updated>2026-11-01T16:57:38.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to turn an old PC into a NAS]]></title>
+        <id>https://www.xda-developers.com/how-turn-old-pc-into-nas/</id>
+        <link href="https://www.xda-developers.com/how-turn-old-pc-into-nas/"/>
+        <updated>2026-11-01T16:32:58.000Z</updated>
+        <summary type="html"><![CDATA[An old computer doesn't have to be e-waste — you can turn it into a NAS server for your house. Here's what you need to know about.]]></summary>
+        <author>
+            <name>Adam Conway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I set up my own TV channels from my movie library, and my family watches more than they did on Netflix]]></title>
+        <id>https://www.xda-developers.com/i-set-up-my-own-tv-channels-my-family-watches-more-than-they-did-on-netflix/</id>
+        <link href="https://www.xda-developers.com/i-set-up-my-own-tv-channels-my-family-watches-more-than-they-did-on-netflix/"/>
+        <updated>2026-11-01T16:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Self-hosted media channels have my family watching my own content more than streaming.]]></summary>
+        <author>
+            <name>Brian Burgess</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Good Lock modules I install on every Samsung phone before I do anything else]]></title>
+        <id>https://www.xda-developers.com/first-good-lock-plugins-i-install-samsung-galaxy/</id>
+        <link href="https://www.xda-developers.com/first-good-lock-plugins-i-install-samsung-galaxy/"/>
+        <updated>2026-11-01T16:00:20.000Z</updated>
+        <summary type="html"><![CDATA[These Good Lock plugins are part of my essential toolkit.]]></summary>
+        <author>
+            <name>Megan Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I ditched Figma for a free open-source clone, and it covers everything I actually use it for]]></title>
+        <id>https://www.xda-developers.com/ditched-figma-for-free-open-source-clone/</id>
+        <link href="https://www.xda-developers.com/ditched-figma-for-free-open-source-clone/"/>
+        <updated>2026-11-01T15:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Completely free and no account required]]></summary>
+        <author>
+            <name>Nolen Jonker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My PC was using over 80% of its RAM, and these tools helped me figure out why]]></title>
+        <id>https://www.xda-developers.com/windows-tools-monitor-ram/</id>
+        <link href="https://www.xda-developers.com/windows-tools-monitor-ram/"/>
+        <updated>2026-11-01T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[These tools helped me rule out other culprits and trim down guilty processes.]]></summary>
+        <author>
+            <name>Megan Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Please stop treating your USB hubs as port replicators]]></title>
+        <id>https://www.xda-developers.com/stop-treating-your-usb-hubs-as-port-replicators/</id>
+        <link href="https://www.xda-developers.com/stop-treating-your-usb-hubs-as-port-replicators/"/>
+        <updated>2026-11-01T14:30:20.000Z</updated>
+        <summary type="html"><![CDATA[It's not quite the same]]></summary>
+        <author>
+            <name>João Carrasqueira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My C: drive kept running out of space, and I finally found how to stop it for good]]></title>
+        <id>https://www.xda-developers.com/c-drive-running-out-of-space-found-how-to-stop-it/</id>
+        <link href="https://www.xda-developers.com/c-drive-running-out-of-space-found-how-to-stop-it/"/>
+        <updated>2026-11-01T14:00:20.000Z</updated>
+        <summary type="html"><![CDATA[I had to modify certain habits to keep my C: drive breathing]]></summary>
+        <author>
+            <name>Tanveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola is filling the gap OnePlus left behind, mostly]]></title>
+        <id>https://9to5google.com/?p=734888</id>
+        <link href="https://9to5google.com/2026/11/01/motorola-oneplus-gap/"/>
+        <updated>2026-11-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one very obvious difference between the two.
+9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of key stories from around the web by Daniel Bader. Sign up here to get Weekender delivered to your inbox every Sunday along with ‘Inbox’ on Tuesday and Thursday. You can find past issues here.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to install Windows 11 on almost any unsupported PC]]></title>
+        <id>https://www.xda-developers.com/install-windows-11-unsupported-pc/</id>
+        <link href="https://www.xda-developers.com/install-windows-11-unsupported-pc/"/>
+        <updated>2026-11-01T13:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Want Windows 11 but have an unsupported computer? Here's how to install Windows 11 even if your PC doesn't meet the minimum requirements.]]></summary>
+        <author>
+            <name>João Carrasqueira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Link on a cheap TV box is the Steam Machine most people actually need]]></title>
+        <id>https://www.xda-developers.com/steam-link-cheap-tv-box-steam-machine-most-people-need/</id>
+        <link href="https://www.xda-developers.com/steam-link-cheap-tv-box-steam-machine-most-people-need/"/>
+        <updated>2026-11-01T13:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Your gaming PC can handle the living room too]]></summary>
+        <author>
+            <name>Anurag Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Might Actually Be COOKED..]]></title>
+        <id>https://www.youtube.com/watch?v=-6ekWAYWF8c</id>
+        <link href="https://www.youtube.com/watch?v=-6ekWAYWF8c"/>
+        <updated>2026-11-01T13:00:35.000Z</updated>
+        <author>
+            <name>Zei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude can run my Home Assistant setup now, and it only took one click to set up]]></title>
+        <id>https://www.xda-developers.com/claude-can-run-my-home-assistant-setup-now-and-it-only-took-one-click-to-set-up/</id>
+        <link href="https://www.xda-developers.com/claude-can-run-my-home-assistant-setup-now-and-it-only-took-one-click-to-set-up/"/>
+        <updated>2026-11-01T13:00:20.000Z</updated>
+        <summary type="html"><![CDATA[It can only touch what I expose which is a good safety feature]]></summary>
+        <author>
+            <name>Joe Rice-Jones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Someone made a Godot-style game editor for the ESP32-S3]]></title>
         <id>https://www.xda-developers.com/someone-made-a-godot-style-game-editor-for-the-esp32-s3/</id>
@@ -104,6 +225,17 @@
         <summary type="html"><![CDATA[Smart devices aren't the only thing that I manage with Home Assistant]]></summary>
         <author>
             <name>Ayush Pande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola Signature 27 specs detailed in new video, including Tandem OLED display]]></title>
+        <id>https://9to5google.com/?p=735267</id>
+        <link href="https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/"/>
+        <updated>2026-10-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
         </author>
     </entry>
     <entry>
