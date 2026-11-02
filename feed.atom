@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-01T16:57:38.861Z</updated>
+    <updated>2026-11-02T05:08:50.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 things I wish I'd known before turning an old laptop into a home server]]></title>
+        <id>https://www.xda-developers.com/things-i-wish-id-known-before-turning-an-old-laptop-into-a-home-server/</id>
+        <link href="https://www.xda-developers.com/things-i-wish-id-known-before-turning-an-old-laptop-into-a-home-server/"/>
+        <updated>2026-11-02T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Learned these the hard way]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Drive stopped sending my folders to Google Photos, so I built a photo backup server that doesn't need Google at all]]></title>
+        <id>https://www.xda-developers.com/build-a-photo-backup-server-that-skips-google/</id>
+        <link href="https://www.xda-developers.com/build-a-photo-backup-server-that-skips-google/"/>
+        <updated>2026-11-02T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[A DIY photo backup replaces Drive-to-Photos syncing with encrypted local archives, automated cloud uploads, and searchable metadata tagging.]]></summary>
+        <author>
+            <name>Abhishek Kumar Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forgot your password? Here's to get back into your Windows PC]]></title>
+        <id>https://www.xda-developers.com/how-unlock-computer-without-password/</id>
+        <link href="https://www.xda-developers.com/how-unlock-computer-without-password/"/>
+        <updated>2026-11-01T23:02:48.000Z</updated>
+        <summary type="html"><![CDATA[If you want to unlock a computer without a password, there are multiple options for you to get back into your PC]]></summary>
+        <author>
+            <name>Arif Bacchus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I let a local LLM read my Jellyfin watch history, and its movie picks are surprisingly good]]></title>
+        <id>https://www.xda-developers.com/let-local-llm-read-my-jellyfin-watch-history-its-movie-picks-are-surprisingly-good/</id>
+        <link href="https://www.xda-developers.com/let-local-llm-read-my-jellyfin-watch-history-its-movie-picks-are-surprisingly-good/"/>
+        <updated>2026-11-01T23:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Trust the algorithm.]]></summary>
+        <author>
+            <name>Joe Rice-Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software choice overload is real, and this is how I find apps that stick]]></title>
+        <id>https://www.xda-developers.com/software-choice-overload-is-real-and-this-is-how-i-find-apps-that-stick/</id>
+        <link href="https://www.xda-developers.com/software-choice-overload-is-real-and-this-is-how-i-find-apps-that-stick/"/>
+        <updated>2026-11-01T22:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Too many apps, too many promises, and too little time. Here's how I finally became pickier about my software choices.]]></summary>
+        <author>
+            <name>Yash Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I replaced Notion, Miro, and Trello with one open-source app that surprised me]]></title>
+        <id>https://www.xda-developers.com/replaced-notion-miro-trello-with-one-open-source-app-that-surprised-me/</id>
+        <link href="https://www.xda-developers.com/replaced-notion-miro-trello-with-one-open-source-app-that-surprised-me/"/>
+        <updated>2026-11-01T22:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Productivity gains with one unexpected replacement.]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A $40 controller turned my old flagship into a retro gaming handheld]]></title>
+        <id>https://www.xda-developers.com/turned-spare-android-phone-and-controller-into-retro-gaming-handheld/</id>
+        <link href="https://www.xda-developers.com/turned-spare-android-phone-and-controller-into-retro-gaming-handheld/"/>
+        <updated>2026-11-01T21:30:20.000Z</updated>
+        <summary type="html"><![CDATA[3 reasons a spare Android flagship beats a budget retro handheld.]]></summary>
+        <author>
+            <name>Dhruv Bhutani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini is replacing Gems with Skills, so I moved my Claude Code skills over to test them]]></title>
+        <id>https://www.xda-developers.com/gemini-is-replacing-gems-with-skills-i-moved-claude-code-skills-over-to-test-them/</id>
+        <link href="https://www.xda-developers.com/gemini-is-replacing-gems-with-skills-i-moved-claude-code-skills-over-to-test-them/"/>
+        <updated>2026-11-01T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[My existing skills now have a second home]]></summary>
+        <author>
+            <name>Nolen Jonker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming]]></title>
+        <id>https://9to5google.com/?p=735289</id>
+        <link href="https://9to5google.com/2026/11/01/wear-os-status-bar/"/>
+        <updated>2026-11-01T20:44:36.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, Google revealed that a “later platform release of Wear OS” is adding a “system status bar.”
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restarting Windows and shutting it down aren't the same thing, and Fast Startup is why]]></title>
+        <id>https://www.xda-developers.com/restarting-windows-shutting-down-arent-same-thing-fast-startup-is-why/</id>
+        <link href="https://www.xda-developers.com/restarting-windows-shutting-down-arent-same-thing-fast-startup-is-why/"/>
+        <updated>2026-11-01T20:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Only one of them gives you a fresh start.]]></summary>
+        <author>
+            <name>Hamlin Rozario</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google says Googlebook ‘detachables’ are coming soon]]></title>
+        <id>https://9to5google.com/?p=735284</id>
+        <link href="https://9to5google.com/2026/11/01/googlebook-detachables/"/>
+        <updated>2026-11-01T20:07:31.000Z</updated>
+        <summary type="html"><![CDATA[At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor after clamshells and convertibles.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My cheap Google TV streamer turned out to be a decent retro console once I paired a controller with it]]></title>
+        <id>https://www.xda-developers.com/my-cheap-google-tv-streamer-turned-out-to-be-a-decent-retro-console-once-i-paired-a-controller-with-it/</id>
+        <link href="https://www.xda-developers.com/my-cheap-google-tv-streamer-turned-out-to-be-a-decent-retro-console-once-i-paired-a-controller-with-it/"/>
+        <updated>2026-11-01T20:01:20.000Z</updated>
+        <summary type="html"><![CDATA[I paired my Google TV streaming device with an Xbox controller and it's a good retro rig.]]></summary>
+        <author>
+            <name>Brian Burgess</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to turn an old PC into a NAS]]></title>
         <id>https://www.xda-developers.com/how-turn-old-pc-into-nas/</id>

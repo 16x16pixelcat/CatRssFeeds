@@ -455,6 +455,26 @@
       "siteUrl": "https://9to5google.com/",
       "articles": [
         {
+          "id": "https://9to5google.com/?p=735289",
+          "author": "Abner Li",
+          "description": "Earlier this week, Google revealed that a “later platform release of Wear OS” is adding a “system status bar.”\nmore…",
+          "link": "https://9to5google.com/2026/11/01/wear-os-status-bar/",
+          "publishedOn": "2026-11-01T20:44:36.000Z",
+          "wordCount": 3105,
+          "title": "Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735284",
+          "author": "Abner Li",
+          "description": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor after clamshells and convertibles.\nmore…",
+          "link": "https://9to5google.com/2026/11/01/googlebook-detachables/",
+          "publishedOn": "2026-11-01T20:07:31.000Z",
+          "wordCount": 3085,
+          "title": "Google says Googlebook ‘detachables’ are coming soon",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Googlebook-family-cover.webp?resize=1200,628"
+        },
+        {
           "id": "https://9to5google.com/?p=734888",
           "author": "Ben Schoon",
           "description": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one very obvious difference between the two.\n9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of key stories from around the web by Daniel Bader. Sign up here to get Weekender delivered to your inbox every Sunday along with ‘Inbox’ on Tuesday and Thursday. You can find past issues here.\nmore…",
@@ -2428,6 +2448,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/things-i-wish-id-known-before-turning-an-old-laptop-into-a-home-server/",
+          "author": "Samarveer Singh",
+          "description": "Learned these the hard way",
+          "link": "https://www.xda-developers.com/things-i-wish-id-known-before-turning-an-old-laptop-into-a-home-server/",
+          "publishedOn": "2026-11-02T01:00:20.000Z",
+          "wordCount": 7628,
+          "title": "6 things I wish I'd known before turning an old laptop into a home server",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/laptop-running-as-home-server-with-ethernet-cable-and-external-hard-drives.jpg",
+            "length": "3459",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/laptop-running-as-home-server-with-ethernet-cable-and-external-hard-drives.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/build-a-photo-backup-server-that-skips-google/",
+          "author": "Abhishek Kumar Mishra",
+          "description": "A DIY photo backup replaces Drive-to-Photos syncing with encrypted local archives, automated cloud uploads, and searchable metadata tagging.",
+          "link": "https://www.xda-developers.com/build-a-photo-backup-server-that-skips-google/",
+          "publishedOn": "2026-11-02T00:00:20.000Z",
+          "wordCount": 5629,
+          "title": "Google Drive stopped sending my folders to Google Photos, so I built a photo backup server that doesn't need Google at all",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/immich-server-ui.jpg",
+            "length": "6057",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/immich-server-ui.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/how-unlock-computer-without-password/",
+          "author": "Arif Bacchus",
+          "description": "If you want to unlock a computer without a password, there are multiple options for you to get back into your PC",
+          "link": "https://www.xda-developers.com/how-unlock-computer-without-password/",
+          "publishedOn": "2026-11-01T23:02:48.000Z",
+          "wordCount": 5070,
+          "title": "Forgot your password? Here's to get back into your Windows PC",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/10/surface-laptop-studio-2-12.jpg",
+            "length": "9157",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/10/surface-laptop-studio-2-12.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/let-local-llm-read-my-jellyfin-watch-history-its-movie-picks-are-surprisingly-good/",
+          "author": "Joe Rice-Jones",
+          "description": "Trust the algorithm.",
+          "link": "https://www.xda-developers.com/let-local-llm-read-my-jellyfin-watch-history-its-movie-picks-are-surprisingly-good/",
+          "publishedOn": "2026-11-01T23:00:19.000Z",
+          "wordCount": 5757,
+          "title": "I let a local LLM read my Jellyfin watch history, and its movie picks are surprisingly good",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/jellyfin-on-laptop-screen.jpg",
+            "length": "4062",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/jellyfin-on-laptop-screen.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/software-choice-overload-is-real-and-this-is-how-i-find-apps-that-stick/",
+          "author": "Yash Patel",
+          "description": "Too many apps, too many promises, and too little time. Here's how I finally became pickier about my software choices.",
+          "link": "https://www.xda-developers.com/software-choice-overload-is-real-and-this-is-how-i-find-apps-that-stick/",
+          "publishedOn": "2026-11-01T22:30:19.000Z",
+          "wordCount": 5554,
+          "title": "Software choice overload is real, and this is how I find apps that stick",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/affinity-obsidian-lenovo-legion.jpg",
+            "length": "7613",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/affinity-obsidian-lenovo-legion.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/replaced-notion-miro-trello-with-one-open-source-app-that-surprised-me/",
+          "author": "Parth Shah",
+          "description": "Productivity gains with one unexpected replacement.",
+          "link": "https://www.xda-developers.com/replaced-notion-miro-trello-with-one-open-source-app-that-surprised-me/",
+          "publishedOn": "2026-11-01T22:01:20.000Z",
+          "wordCount": 5345,
+          "title": "I replaced Notion, Miro, and Trello with one open-source app that surprised me",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/affine-home.jpg",
+            "length": "1795",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/affine-home.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/turned-spare-android-phone-and-controller-into-retro-gaming-handheld/",
+          "author": "Dhruv Bhutani",
+          "description": "3 reasons a spare Android flagship beats a budget retro handheld.",
+          "link": "https://www.xda-developers.com/turned-spare-android-phone-and-controller-into-retro-gaming-handheld/",
+          "publishedOn": "2026-11-01T21:30:20.000Z",
+          "wordCount": 5540,
+          "title": "A $40 controller turned my old flagship into a retro gaming handheld",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/gaming-controller-showing-in-hand.jpeg",
+            "length": "1149",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/gaming-controller-showing-in-hand.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/gemini-is-replacing-gems-with-skills-i-moved-claude-code-skills-over-to-test-them/",
+          "author": "Nolen Jonker",
+          "description": "My existing skills now have a second home",
+          "link": "https://www.xda-developers.com/gemini-is-replacing-gems-with-skills-i-moved-claude-code-skills-over-to-test-them/",
+          "publishedOn": "2026-11-01T21:00:20.000Z",
+          "wordCount": 6525,
+          "title": "Gemini is replacing Gems with Skills, so I moved my Claude Code skills over to test them",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/uploading-skills-to-gemini-on-desktop-pc.jpeg",
+            "length": "3121",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/uploading-skills-to-gemini-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/restarting-windows-shutting-down-arent-same-thing-fast-startup-is-why/",
+          "author": "Hamlin Rozario",
+          "description": "Only one of them gives you a fresh start.",
+          "link": "https://www.xda-developers.com/restarting-windows-shutting-down-arent-same-thing-fast-startup-is-why/",
+          "publishedOn": "2026-11-01T20:30:20.000Z",
+          "wordCount": 5570,
+          "title": "Restarting Windows and shutting it down aren't the same thing, and Fast Startup is why",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/power-off-options-in-windows.jpg",
+            "length": "5055",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/power-off-options-in-windows.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/my-cheap-google-tv-streamer-turned-out-to-be-a-decent-retro-console-once-i-paired-a-controller-with-it/",
+          "author": "Brian Burgess",
+          "description": "I paired my Google TV streaming device with an Xbox controller and it's a good retro rig.",
+          "link": "https://www.xda-developers.com/my-cheap-google-tv-streamer-turned-out-to-be-a-decent-retro-console-once-i-paired-a-controller-with-it/",
+          "publishedOn": "2026-11-01T20:01:20.000Z",
+          "wordCount": 5543,
+          "title": "My cheap Google TV streamer turned out to be a decent retro console once I paired a controller with it",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/feat_retro-doom-running-on-onn-4k-google-tv-streamer-with-xbox-controller-connected.JPEG",
+            "length": "508",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/feat_retro-doom-running-on-onn-4k-google-tv-streamer-with-xbox-controller-connected.JPEG"
+        },
         {
           "id": "https://www.xda-developers.com/how-turn-old-pc-into-nas/",
           "author": "Adam Conway",
