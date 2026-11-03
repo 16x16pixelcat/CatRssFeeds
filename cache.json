@@ -455,6 +455,166 @@
       "siteUrl": "https://9to5google.com/",
       "articles": [
         {
+          "id": "https://9to5google.com/?p=735433",
+          "author": "Abner Li",
+          "description": "In addition to the Pixel deals that started last week, Google is discounting the Home Speaker for the first time.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/google-home-speaker-discount/",
+          "publishedOn": "2026-11-03T01:16:33.000Z",
+          "wordCount": 2937,
+          "title": "Google Home Speaker gets first discount since June launch",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-14.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735429",
+          "author": "Abner Li",
+          "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/november-2026-google-system-updates/",
+          "publishedOn": "2026-11-02T22:48:58.000Z",
+          "wordCount": 3666,
+          "title": "What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735420",
+          "author": "Nicholas Sutrich",
+          "description": "The best-selling VR headset of all time (and its Pro-level cousin) will no longer receive OS updates after March 2027.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/the-meta-quest-2-and-quest-pro-are-receiving-their-last-os-updates-soon-heres-what-you-need-to-know/",
+          "publishedOn": "2026-11-02T22:41:05.000Z",
+          "wordCount": 3350,
+          "title": "The Meta Quest 2 and Quest Pro are receiving their last OS updates soon. Here’s what you need to know",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-quest-2-with-quest-3-in-background.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735395",
+          "author": "Ben Schoon",
+          "description": "AAWireless is known for helping you convert a wired Android Auto connection into a wireless one, but the company is now launching a new product – an active-cooled Qi2 car charger.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/aawireless-charge-qi2/",
+          "publishedOn": "2026-11-02T20:05:00.000Z",
+          "wordCount": 3479,
+          "title": "AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/aawireless-charge-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735374",
+          "author": "Ben Schoon",
+          "description": "Google has confirmed that an Android TV device maker snuck a backdoor for malware onto certified devices, which is leading to security improvements for the ecosystem as a whole.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/",
+          "publishedOn": "2026-11-02T19:40:00.000Z",
+          "wordCount": 3201,
+          "title": "Google shuts down a sneaky malware backdoor on millions of Android TV and Google TV boxes",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2021/07/android_tv_google_tv_1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/11/02/todays-highlight-google-play-deals-41/",
+          "author": "9to5Toys",
+          "description": "Alongside today’s new all-time low on the latest Google Home Speaker to kick off Black Friday month, we also have Monday’s best Google Play app and game deals are ready, including Reigns: Beyond, Reigns: The Witcher, Kingdom Rush 5: Alliance TD, Shotgun King, Apple Knight 3, Caravan SandWitch, Iron Marines 2 – Invasion RTS, This War of Mine, and more. On top of that we also have Galaxy Z Fold 8 at $300 off via Amazon in new condition and open-box units up to $624 off joined by the very deals on the brand new all-new Amazon Alexa Android Tablet. \nmore…",
+          "link": "https://9to5toys.com/2026/11/02/todays-highlight-google-play-deals-41/",
+          "publishedOn": "2026-11-02T18:50:10.000Z",
+          "wordCount": 3031,
+          "title": "Monday’s Android app deals and freebies: Reigns The Witcher, Kingdom Rush 5, Apple Knight 3, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-c6b3f3.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735389",
+          "author": "Abner Li",
+          "description": "At Android Dev Summit 2026, Google announced a Quick Share SDK that will let Android and iOS apps directly integrate the peer-to-peer file sharing capability.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/quick-share-sdk-apps/",
+          "publishedOn": "2026-11-02T17:51:35.000Z",
+          "wordCount": 3104,
+          "title": "Google will let Android & iOS apps directly integrate Quick Share next year",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Quick-Share-SDK.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735375",
+          "author": "Abner Li",
+          "description": "Following the Workspace and Pixel app redesigns earlier this year, Google is overhauling the Contacts, Messages, and Phone icons.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/google-messages-phone-icon-gradient-redesign/",
+          "publishedOn": "2026-11-02T17:07:06.000Z",
+          "wordCount": 3473,
+          "title": "Google rolling out gradient icon redesigns for Contacts, Messages, and Phone",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735344",
+          "author": "Ben Schoon",
+          "description": "Samsung’s Android 17-based One UI 9 update is rolling out more widely and, with it, some apparent issues with Android Auto on some Galaxy phones.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/some-samsung-galaxy-phones-are-having-android-auto-issues-with-one-ui-9/",
+          "publishedOn": "2026-11-02T17:05:00.000Z",
+          "wordCount": 3007,
+          "title": "Some Samsung Galaxy phones are having Android Auto issues with One UI 9",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Galaxy-S25-Ultra-camera-system-4.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735340",
+          "author": "Andrew Romero",
+          "description": "A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved version of Samsung’s Privacy Display, used on this year’s flagship.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/",
+          "publishedOn": "2026-11-02T16:44:14.000Z",
+          "wordCount": 3086,
+          "title": "Privacy Display on Galaxy S27 Pro and S27 Ultra looks more promising in latest leak",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-17.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735365",
+          "author": "Justin Kahn",
+          "description": "Today’s 9to5Toys Lunch Break is headlined by a Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold, as well as $100 off all Pixel Watch 5 models, the first discount on the brand new Amazon Alexa Android Tablet at $199.99 and a new all-time low on the 2026 Fire TV Stick 4K down at $25 (58% off). Amazon has also undercut Samsung and is now offering a solid $300 off Galaxy Z Fold 8 in brand new condition, while open-box models are up to $624 off. Scope it all out below. \nmore…",
+          "link": "https://9to5google.com/2026/11/02/deals-google-home-speaker-galaxy-z-fold-8/",
+          "publishedOn": "2026-11-02T16:30:00.000Z",
+          "wordCount": 5294,
+          "title": "Deals: Rare all-time low hits Google Home Speaker, Galaxy Z Fold 8 up to $624 off, Amazon Alexa Android Tablet, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-2.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735336",
+          "author": "Nicholas Sutrich",
+          "description": "The Garmin Vivoactive 5 is down to its lowest price of all time in all four colors for a limited time, making this the least expensive Garmin you can buy today.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/this-is-your-rare-chance-to-get-a-garmin-smartwatch-for-under-170/",
+          "publishedOn": "2026-11-02T16:06:27.000Z",
+          "wordCount": 3274,
+          "title": "This is your rare chance to get a Garmin smartwatch for under $170",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/garmin-vivoactive-5-render.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735339",
+          "author": "Damien Wilde",
+          "description": "While we await potentially more discounts on our tech in the coming weeks, the Galaxy Z Fold 8 is now down to $1,599 on Amazon, knocking a sizeable chunk off the MSRP.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/the-galaxy-z-fold-8-is-300-off-on-amazon-right-now/",
+          "publishedOn": "2026-11-02T15:52:44.000Z",
+          "wordCount": 3123,
+          "title": "The Galaxy Z Fold 8 is $300 off at Amazon right now",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735305",
+          "author": "Ben Schoon",
+          "description": "Google’s new frontier model, Gemini 4 Carbon, brings some welcome improvements and while it doesn’t top the charts in a new benchmark, it does provide much more bang for your buck. \nmore…",
+          "link": "https://9to5google.com/2026/11/02/gemini-4-carbon-benchmark/",
+          "publishedOn": "2026-11-02T15:30:00.000Z",
+          "wordCount": 3595,
+          "title": "Gemini 4 Carbon lags just behind Claude in benchmark, but wins in value",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/gemini-new-logo-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735322",
+          "author": "Nicholas Sutrich",
+          "description": "Samsung smart glasses in Gentle Monster and Warby Parker styles may finally launch in South Korea and the US before Christmas.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+          "publishedOn": "2026-11-02T15:16:52.000Z",
+          "wordCount": 3222,
+          "title": "Samsung’s Android XR ‘Intelligent Eyewear’ reportedly launches in December",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735293",
+          "author": "Ben Schoon",
+          "description": "Google Messages is getting on board with the gradient icon design, with a new app icon showing up in the latest update.\nmore…",
+          "link": "https://9to5google.com/2026/11/02/google-messages-gradient-icon-beta/",
+          "publishedOn": "2026-11-02T13:35:00.000Z",
+          "wordCount": 3144,
+          "title": "Google Messages update rolling out new app icon with gradient design",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-messages-gradient-icon_e18c7d.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
           "id": "https://9to5google.com/?p=735289",
           "author": "Abner Li",
           "description": "Earlier this week, Google revealed that a “later platform release of Wear OS” is adding a “system status bar.”\nmore…",
@@ -2448,6 +2608,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/affinity-is-finally-coming-to-linux-although-we-dont-know-when-itll-arrive-just-yet/",
+          "author": "Simon Batt",
+          "description": "Still, it's good that it's on the way.",
+          "link": "https://www.xda-developers.com/affinity-is-finally-coming-to-linux-although-we-dont-know-when-itll-arrive-just-yet/",
+          "publishedOn": "2026-11-03T05:41:17.000Z",
+          "wordCount": 4412,
+          "title": "Affinity is finally coming to Linux, although we don't know when it'll arrive just yet",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/affinity-obsidian-lenovo-legion.jpg",
+            "length": "7613",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/affinity-obsidian-lenovo-legion.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/windows-arm-run-native-arm-emulated-x64-code-same-app/",
+          "author": "Adam Conway",
+          "description": "It's a pretty neat trick and works surprisingly well.",
+          "link": "https://www.xda-developers.com/windows-arm-run-native-arm-emulated-x64-code-same-app/",
+          "publishedOn": "2026-11-03T01:00:20.000Z",
+          "wordCount": 6039,
+          "title": "Windows on Arm can run native Arm and emulated x64 code in the same app, something Apple never let Macs do",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/far-cry-3-rtx-spark.jpg",
+            "length": "5020",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/far-cry-3-rtx-spark.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/put-local-ai-bootable-usb-troubleshoot-dead-pc-chatbot-doesnt-need-internet/",
+          "author": "Anurag Singh",
+          "description": "My rescue USB now also helps me make sense of disk errors.",
+          "link": "https://www.xda-developers.com/put-local-ai-bootable-usb-troubleshoot-dead-pc-chatbot-doesnt-need-internet/",
+          "publishedOn": "2026-11-03T00:01:19.000Z",
+          "wordCount": 5509,
+          "title": "I put a local AI model on a bootable USB, so I can troubleshoot a dead PC with a chatbot that doesn't need the internet",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/drive-windows.png",
+            "length": "4942",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/drive-windows.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/tried-every-free-emulator-frontend-one-recommend-isnt-retroarch/",
+          "author": "João Carrasqueira",
+          "description": "RetroArch may be one of the most popular emulation frontends out there, but that doesn't mean it's the best. ES-DE still reigns supreme.",
+          "link": "https://www.xda-developers.com/tried-every-free-emulator-frontend-one-recommend-isnt-retroarch/",
+          "publishedOn": "2026-11-02T23:00:21.000Z",
+          "wordCount": 6950,
+          "title": "I tried every free emulator frontend, and the one I'd recommend isn't RetroArch",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/es-de-on-laptop.jpg",
+            "length": "19936",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/es-de-on-laptop.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/made-claude-code-codex-antigravity-work-together-on-one-project-instead-of-competing/",
+          "author": "Mahnoor Faisal",
+          "description": "Consider me sold on multi-agent coding",
+          "link": "https://www.xda-developers.com/made-claude-code-codex-antigravity-work-together-on-one-project-instead-of-competing/",
+          "publishedOn": "2026-11-02T22:30:20.000Z",
+          "wordCount": 7042,
+          "title": "I made Claude Code, Codex, and Antigravity work together on one project instead of competing",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/close-up-of-the-orca-split-view-with-agent-notes-and-the-studylab-dashboard.jpeg",
+            "length": "2377",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/close-up-of-the-orca-split-view-with-agent-notes-and-the-studylab-dashboard.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-switched-to-a-tailscale-alternative-for-6-months-and-i-cant-see-myself-going-back/",
+          "author": "Ty Sherback",
+          "description": "Tailscale is a great plug-and-play solution, but I'm glad I took the time to self-host NetBird",
+          "link": "https://www.xda-developers.com/i-switched-to-a-tailscale-alternative-for-6-months-and-i-cant-see-myself-going-back/",
+          "publishedOn": "2026-11-02T22:00:20.000Z",
+          "wordCount": 5680,
+          "title": "I switched to a Tailscale alternative for 6 months, and I can’t see myself going back",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_8135.jpg",
+            "length": "1379",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_8135.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/intels-8th-gen-cpus-are-the-most-underrated-used-chips-you-can-buy/",
+          "author": "Hamlin Rozario",
+          "description": "Just because they're no match for newer CPUs doesn't mean they're obsolete.",
+          "link": "https://www.xda-developers.com/intels-8th-gen-cpus-are-the-most-underrated-used-chips-you-can-buy/",
+          "publishedOn": "2026-11-02T21:30:21.000Z",
+          "wordCount": 5493,
+          "title": "Intel's 8th-gen CPUs are the most underrated used chips you can buy",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/i7-6700k.jpg",
+            "length": "755",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/i7-6700k.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/how-to-enable-ecg-blood-pressure-monitoring-samsung-galaxy-watch-4/",
+          "author": "Pranob Mehrotra",
+          "description": "Let's look at a step-by-step guide detailing how to enable ECG and Blood Pressure features on the Samsung Galaxy Watch 4.",
+          "link": "https://www.xda-developers.com/how-to-enable-ecg-blood-pressure-monitoring-samsung-galaxy-watch-4/",
+          "publishedOn": "2026-11-02T21:00:41.000Z",
+          "wordCount": 7735,
+          "title": "How to enable ECG and Blood Pressure features on the Samsung Galaxy Watch",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2022/06/Modded-Samsung-Health-Monitor-app-on-OnePlus-10-Pro-next-to-Galaxy-Watch-4-on-orange-background.jpg",
+            "length": "849785",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2022/06/Modded-Samsung-Health-Monitor-app-on-OnePlus-10-Pro-next-to-Galaxy-Watch-4-on-orange-background.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/",
+          "author": "Dhruv Bhutani",
+          "description": "Parakeet is a tiny speech recognition model that transcribes on a ten-year-old laptop with no subscription",
+          "link": "https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/",
+          "publishedOn": "2026-11-02T21:00:21.000Z",
+          "wordCount": 5474,
+          "title": "The best speech recognition you can run at home is absolutely tiny, and it runs on a ten-year-old laptop",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg",
+            "length": "5118",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/parakeet-on-a-mac.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/this-jellyfin-plugin-just-got-the-overhaul-ive-been-waiting-years-for-and-now-its-even-more-useful/",
+          "author": "Brian Burgess",
+          "description": "The KefinTweaks plugin has improved my overall Jellyfin experience.",
+          "link": "https://www.xda-developers.com/this-jellyfin-plugin-just-got-the-overhaul-ive-been-waiting-years-for-and-now-its-even-more-useful/",
+          "publishedOn": "2026-11-02T20:00:22.000Z",
+          "wordCount": 6066,
+          "title": "This Jellyfin plugin just got the overhaul I've been waiting years for, and now it's even more useful",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/kefintweaks-jellyfin-plugin-running-laptop.JPEG",
+            "length": "315",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/kefintweaks-jellyfin-plugin-running-laptop.JPEG"
+        },
         {
           "id": "https://www.xda-developers.com/things-i-wish-id-known-before-turning-an-old-laptop-into-a-home-server/",
           "author": "Samarveer Singh",

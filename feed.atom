@@ -2,10 +2,286 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-02T05:08:50.568Z</updated>
+    <updated>2026-11-03T05:54:20.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Affinity is finally coming to Linux, although we don't know when it'll arrive just yet]]></title>
+        <id>https://www.xda-developers.com/affinity-is-finally-coming-to-linux-although-we-dont-know-when-itll-arrive-just-yet/</id>
+        <link href="https://www.xda-developers.com/affinity-is-finally-coming-to-linux-although-we-dont-know-when-itll-arrive-just-yet/"/>
+        <updated>2026-11-03T05:41:17.000Z</updated>
+        <summary type="html"><![CDATA[Still, it's good that it's on the way.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Home Speaker gets first discount since June launch]]></title>
+        <id>https://9to5google.com/?p=735433</id>
+        <link href="https://9to5google.com/2026/11/02/google-home-speaker-discount/"/>
+        <updated>2026-11-03T01:16:33.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the Pixel deals that started last week, Google is discounting the Home Speaker for the first time.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows on Arm can run native Arm and emulated x64 code in the same app, something Apple never let Macs do]]></title>
+        <id>https://www.xda-developers.com/windows-arm-run-native-arm-emulated-x64-code-same-app/</id>
+        <link href="https://www.xda-developers.com/windows-arm-run-native-arm-emulated-x64-code-same-app/"/>
+        <updated>2026-11-03T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[It's a pretty neat trick and works surprisingly well.]]></summary>
+        <author>
+            <name>Adam Conway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I put a local AI model on a bootable USB, so I can troubleshoot a dead PC with a chatbot that doesn't need the internet]]></title>
+        <id>https://www.xda-developers.com/put-local-ai-bootable-usb-troubleshoot-dead-pc-chatbot-doesnt-need-internet/</id>
+        <link href="https://www.xda-developers.com/put-local-ai-bootable-usb-troubleshoot-dead-pc-chatbot-doesnt-need-internet/"/>
+        <updated>2026-11-03T00:01:19.000Z</updated>
+        <summary type="html"><![CDATA[My rescue USB now also helps me make sense of disk errors.]]></summary>
+        <author>
+            <name>Anurag Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried every free emulator frontend, and the one I'd recommend isn't RetroArch]]></title>
+        <id>https://www.xda-developers.com/tried-every-free-emulator-frontend-one-recommend-isnt-retroarch/</id>
+        <link href="https://www.xda-developers.com/tried-every-free-emulator-frontend-one-recommend-isnt-retroarch/"/>
+        <updated>2026-11-02T23:00:21.000Z</updated>
+        <summary type="html"><![CDATA[RetroArch may be one of the most popular emulation frontends out there, but that doesn't mean it's the best. ES-DE still reigns supreme.]]></summary>
+        <author>
+            <name>João Carrasqueira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows]]></title>
+        <id>https://9to5google.com/?p=735429</id>
+        <link href="https://9to5google.com/2026/11/02/november-2026-google-system-updates/"/>
+        <updated>2026-11-02T22:48:58.000Z</updated>
+        <summary type="html"><![CDATA[The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Meta Quest 2 and Quest Pro are receiving their last OS updates soon. Here’s what you need to know]]></title>
+        <id>https://9to5google.com/?p=735420</id>
+        <link href="https://9to5google.com/2026/11/02/the-meta-quest-2-and-quest-pro-are-receiving-their-last-os-updates-soon-heres-what-you-need-to-know/"/>
+        <updated>2026-11-02T22:41:05.000Z</updated>
+        <summary type="html"><![CDATA[The best-selling VR headset of all time (and its Pro-level cousin) will no longer receive OS updates after March 2027.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made Claude Code, Codex, and Antigravity work together on one project instead of competing]]></title>
+        <id>https://www.xda-developers.com/made-claude-code-codex-antigravity-work-together-on-one-project-instead-of-competing/</id>
+        <link href="https://www.xda-developers.com/made-claude-code-codex-antigravity-work-together-on-one-project-instead-of-competing/"/>
+        <updated>2026-11-02T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Consider me sold on multi-agent coding]]></summary>
+        <author>
+            <name>Mahnoor Faisal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I switched to a Tailscale alternative for 6 months, and I can’t see myself going back]]></title>
+        <id>https://www.xda-developers.com/i-switched-to-a-tailscale-alternative-for-6-months-and-i-cant-see-myself-going-back/</id>
+        <link href="https://www.xda-developers.com/i-switched-to-a-tailscale-alternative-for-6-months-and-i-cant-see-myself-going-back/"/>
+        <updated>2026-11-02T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Tailscale is a great plug-and-play solution, but I'm glad I took the time to self-host NetBird]]></summary>
+        <author>
+            <name>Ty Sherback</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's 8th-gen CPUs are the most underrated used chips you can buy]]></title>
+        <id>https://www.xda-developers.com/intels-8th-gen-cpus-are-the-most-underrated-used-chips-you-can-buy/</id>
+        <link href="https://www.xda-developers.com/intels-8th-gen-cpus-are-the-most-underrated-used-chips-you-can-buy/"/>
+        <updated>2026-11-02T21:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Just because they're no match for newer CPUs doesn't mean they're obsolete.]]></summary>
+        <author>
+            <name>Hamlin Rozario</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to enable ECG and Blood Pressure features on the Samsung Galaxy Watch]]></title>
+        <id>https://www.xda-developers.com/how-to-enable-ecg-blood-pressure-monitoring-samsung-galaxy-watch-4/</id>
+        <link href="https://www.xda-developers.com/how-to-enable-ecg-blood-pressure-monitoring-samsung-galaxy-watch-4/"/>
+        <updated>2026-11-02T21:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Let's look at a step-by-step guide detailing how to enable ECG and Blood Pressure features on the Samsung Galaxy Watch 4.]]></summary>
+        <author>
+            <name>Pranob Mehrotra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best speech recognition you can run at home is absolutely tiny, and it runs on a ten-year-old laptop]]></title>
+        <id>https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/</id>
+        <link href="https://www.xda-developers.com/the-best-speech-recognition-you-can-run-at-home-is-absolutely-tiny-and-it-runs-on-a-ten-year-old-laptop/"/>
+        <updated>2026-11-02T21:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Parakeet is a tiny speech recognition model that transcribes on a ten-year-old laptop with no subscription]]></summary>
+        <author>
+            <name>Dhruv Bhutani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger]]></title>
+        <id>https://9to5google.com/?p=735395</id>
+        <link href="https://9to5google.com/2026/11/02/aawireless-charge-qi2/"/>
+        <updated>2026-11-02T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[AAWireless is known for helping you convert a wired Android Auto connection into a wireless one, but the company is now launching a new product – an active-cooled Qi2 car charger.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Jellyfin plugin just got the overhaul I've been waiting years for, and now it's even more useful]]></title>
+        <id>https://www.xda-developers.com/this-jellyfin-plugin-just-got-the-overhaul-ive-been-waiting-years-for-and-now-its-even-more-useful/</id>
+        <link href="https://www.xda-developers.com/this-jellyfin-plugin-just-got-the-overhaul-ive-been-waiting-years-for-and-now-its-even-more-useful/"/>
+        <updated>2026-11-02T20:00:22.000Z</updated>
+        <summary type="html"><![CDATA[The KefinTweaks plugin has improved my overall Jellyfin experience.]]></summary>
+        <author>
+            <name>Brian Burgess</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google shuts down a sneaky malware backdoor on millions of Android TV and Google TV boxes]]></title>
+        <id>https://9to5google.com/?p=735374</id>
+        <link href="https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/"/>
+        <updated>2026-11-02T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has confirmed that an Android TV device maker snuck a backdoor for malware onto certified devices, which is leading to security improvements for the ecosystem as a whole.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday’s Android app deals and freebies: Reigns The Witcher, Kingdom Rush 5, Apple Knight 3, more]]></title>
+        <id>https://9to5toys.com/2026/11/02/todays-highlight-google-play-deals-41/</id>
+        <link href="https://9to5toys.com/2026/11/02/todays-highlight-google-play-deals-41/"/>
+        <updated>2026-11-02T18:50:10.000Z</updated>
+        <summary type="html"><![CDATA[Alongside today’s new all-time low on the latest Google Home Speaker to kick off Black Friday month, we also have Monday’s best Google Play app and game deals are ready, including Reigns: Beyond, Reigns: The Witcher, Kingdom Rush 5: Alliance TD, Shotgun King, Apple Knight 3, Caravan SandWitch, Iron Marines 2 – Invasion RTS, This War of Mine, and more. On top of that we also have Galaxy Z Fold 8 at $300 off via Amazon in new condition and open-box units up to $624 off joined by the very deals on the brand new all-new Amazon Alexa Android Tablet. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google will let Android & iOS apps directly integrate Quick Share next year]]></title>
+        <id>https://9to5google.com/?p=735389</id>
+        <link href="https://9to5google.com/2026/11/02/quick-share-sdk-apps/"/>
+        <updated>2026-11-02T17:51:35.000Z</updated>
+        <summary type="html"><![CDATA[At Android Dev Summit 2026, Google announced a Quick Share SDK that will let Android and iOS apps directly integrate the peer-to-peer file sharing capability.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google rolling out gradient icon redesigns for Contacts, Messages, and Phone]]></title>
+        <id>https://9to5google.com/?p=735375</id>
+        <link href="https://9to5google.com/2026/11/02/google-messages-phone-icon-gradient-redesign/"/>
+        <updated>2026-11-02T17:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Following the Workspace and Pixel app redesigns earlier this year, Google is overhauling the Contacts, Messages, and Phone icons.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Samsung Galaxy phones are having Android Auto issues with One UI 9]]></title>
+        <id>https://9to5google.com/?p=735344</id>
+        <link href="https://9to5google.com/2026/11/02/some-samsung-galaxy-phones-are-having-android-auto-issues-with-one-ui-9/"/>
+        <updated>2026-11-02T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung’s Android 17-based One UI 9 update is rolling out more widely and, with it, some apparent issues with Android Auto on some Galaxy phones.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy Display on Galaxy S27 Pro and S27 Ultra looks more promising in latest leak]]></title>
+        <id>https://9to5google.com/?p=735340</id>
+        <link href="https://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/"/>
+        <updated>2026-11-02T16:44:14.000Z</updated>
+        <summary type="html"><![CDATA[A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved version of Samsung’s Privacy Display, used on this year’s flagship.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Rare all-time low hits Google Home Speaker, Galaxy Z Fold 8 up to $624 off, Amazon Alexa Android Tablet, more]]></title>
+        <id>https://9to5google.com/?p=735365</id>
+        <link href="https://9to5google.com/2026/11/02/deals-google-home-speaker-galaxy-z-fold-8/"/>
+        <updated>2026-11-02T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today’s 9to5Toys Lunch Break is headlined by a Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold, as well as $100 off all Pixel Watch 5 models, the first discount on the brand new Amazon Alexa Android Tablet at $199.99 and a new all-time low on the 2026 Fire TV Stick 4K down at $25 (58% off). Amazon has also undercut Samsung and is now offering a solid $300 off Galaxy Z Fold 8 in brand new condition, while open-box models are up to $624 off. Scope it all out below. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is your rare chance to get a Garmin smartwatch for under $170]]></title>
+        <id>https://9to5google.com/?p=735336</id>
+        <link href="https://9to5google.com/2026/11/02/this-is-your-rare-chance-to-get-a-garmin-smartwatch-for-under-170/"/>
+        <updated>2026-11-02T16:06:27.000Z</updated>
+        <summary type="html"><![CDATA[The Garmin Vivoactive 5 is down to its lowest price of all time in all four colors for a limited time, making this the least expensive Garmin you can buy today.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Galaxy Z Fold 8 is $300 off at Amazon right now]]></title>
+        <id>https://9to5google.com/?p=735339</id>
+        <link href="https://9to5google.com/2026/11/02/the-galaxy-z-fold-8-is-300-off-on-amazon-right-now/"/>
+        <updated>2026-11-02T15:52:44.000Z</updated>
+        <summary type="html"><![CDATA[While we await potentially more discounts on our tech in the coming weeks, the Galaxy Z Fold 8 is now down to $1,599 on Amazon, knocking a sizeable chunk off the MSRP.
+more…]]></summary>
+        <author>
+            <name>Damien Wilde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Carbon lags just behind Claude in benchmark, but wins in value]]></title>
+        <id>https://9to5google.com/?p=735305</id>
+        <link href="https://9to5google.com/2026/11/02/gemini-4-carbon-benchmark/"/>
+        <updated>2026-11-02T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s new frontier model, Gemini 4 Carbon, brings some welcome improvements and while it doesn’t top the charts in a new benchmark, it does provide much more bang for your buck. 
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s Android XR ‘Intelligent Eyewear’ reportedly launches in December]]></title>
+        <id>https://9to5google.com/?p=735322</id>
+        <link href="https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/"/>
+        <updated>2026-11-02T15:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Samsung smart glasses in Gentle Monster and Warby Parker styles may finally launch in South Korea and the US before Christmas.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Messages update rolling out new app icon with gradient design]]></title>
+        <id>https://9to5google.com/?p=735293</id>
+        <link href="https://9to5google.com/2026/11/02/google-messages-gradient-icon-beta/"/>
+        <updated>2026-11-02T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Messages is getting on board with the gradient icon design, with a new app icon showing up in the latest update.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 things I wish I'd known before turning an old laptop into a home server]]></title>
         <id>https://www.xda-developers.com/things-i-wish-id-known-before-turning-an-old-laptop-into-a-home-server/</id>
