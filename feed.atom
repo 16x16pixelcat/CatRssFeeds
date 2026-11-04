@@ -2,10 +2,508 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-03T05:54:20.567Z</updated>
+    <updated>2026-11-04T05:30:10.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux's file permissions are over 50 years old, and three letters still decide who can touch every file on your PC]]></title>
+        <id>https://www.xda-developers.com/linuxs-file-permissions-50-years-old-three-letters-still-decide-who-can-touch-file-pc/</id>
+        <link href="https://www.xda-developers.com/linuxs-file-permissions-50-years-old-three-letters-still-decide-who-can-touch-file-pc/"/>
+        <updated>2026-11-04T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[You can see them in action with a single console command.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 0.5.7 Beta for Steam Frame]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/694276363007298391</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/694276363007298391"/>
+        <updated>2026-11-04T00:36:51.000Z</updated>
+        <summary type="html"><![CDATA[SteamOS 0.5.7 (for Steam Frame) has just been released. 
+This update is for the Steam Frame Beta channel, and includes new features that are still being tested. 
+You can opt into this in Settings > System > System Update Channel.
+
+
+
+SteamVR:
+
+SteamVR has been updated to version 2.19.1
+
+Improved vibration filtering for pose prediction that was affecting some units
+
+The display dims for 30 seconds before sleep
+
+Foveated sharpening is now independent from Eye Tracking (previously would disable when off, now defaults to centered)
+
+Removed Advanced Supersampling support on Steam Frame
+
+The guided tour keeps Steam docked front and center
+
+Frame Controllers:
+
+Battery now shows correctly at 0%
+
+Added default bindings for Chromalab, Batman Arkham, and Doom VFR
+
+OS:
+
+Enable support for WebXR in Chromium 157 & up
+
+Audio:
+
+Fixed an issue where audio would stop working with USB or Bluetooth speakers if an application tried to access the microphone
+
+Added controls to selectively disable echo cancellation and noise suppression for the microphone (requires current Steam Client Beta)
+
+You can opt into the Steam Client Beta on headset via Settings > System > Steam Client Update Channel.]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 0.5.7 Beta for Steam Frame]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/694276363007298391</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/694276363007298391"/>
+        <updated>2026-11-04T00:36:51.000Z</updated>
+        <summary type="html"><![CDATA[SteamOS 0.5.7 (for Steam Frame) has just been released. 
+This update is for the Steam Frame Beta channel, and includes new features that are still being tested. 
+You can opt into this in Settings > System > System Update Channel.
+
+
+
+SteamVR:
+
+SteamVR has been updated to version 2.19.1
+
+Improved vibration filtering for pose prediction that was affecting some units
+
+The display dims for 30 seconds before sleep
+
+Foveated sharpening is now independent from Eye Tracking (previously would disable when off, now defaults to centered)
+
+Removed Advanced Supersampling support on Steam Frame
+
+The guided tour keeps Steam docked front and center
+
+Frame Controllers:
+
+Battery now shows correctly at 0%
+
+Added default bindings for Chromalab, Batman Arkham, and Doom VFR
+
+OS:
+
+Enable support for WebXR in Chromium 157 & up
+
+Audio:
+
+Fixed an issue where audio would stop working with USB or Bluetooth speakers if an application tried to access the microphone
+
+Added controls to selectively disable echo cancellation and noise suppression for the microphone (requires current Steam Client Beta)
+
+You can opt into the Steam Client Beta on headset via Settings > System > Steam Client Update Channel.]]></summary>
+        <author>
+            <name>4165890 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I almost replaced these 4 Samsung apps, but now I can't imagine my phone without them]]></title>
+        <id>https://www.xda-developers.com/samsung-apps-decided-to-keep-instead-of-replacing/</id>
+        <link href="https://www.xda-developers.com/samsung-apps-decided-to-keep-instead-of-replacing/"/>
+        <updated>2026-11-04T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[It turns out that these Samsung apps are a perfect fit for my Galaxy phone.]]></summary>
+        <author>
+            <name>Megan Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I missed the days of channel surfing, so I recreated the experience with Jellyfin]]></title>
+        <id>https://www.xda-developers.com/i-missed-days-of-channel-surfing-so-i-recreated-experience-with-jellyfin/</id>
+        <link href="https://www.xda-developers.com/i-missed-days-of-channel-surfing-so-i-recreated-experience-with-jellyfin/"/>
+        <updated>2026-11-03T23:00:21.000Z</updated>
+        <summary type="html"><![CDATA[ErsatzTV recreates mindless channel hopping, and it's great.]]></summary>
+        <author>
+            <name>Patrick Hearn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PETG is the filament I'd tell every beginner to start with instead of PLA]]></title>
+        <id>https://www.xda-developers.com/petg-tell-every-beginner-to-start-instead-of-pla/</id>
+        <link href="https://www.xda-developers.com/petg-tell-every-beginner-to-start-instead-of-pla/"/>
+        <updated>2026-11-03T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[A better choice for more reasons than one.]]></summary>
+        <author>
+            <name>Chandraveer Mathur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prebuilt NAS boxes are underpowered for the price, so I built one with a desktop CPU instead]]></title>
+        <id>https://www.xda-developers.com/xdb-build-nas-that-could-replace-a-prebuilt/</id>
+        <link href="https://www.xda-developers.com/xdb-build-nas-that-could-replace-a-prebuilt/"/>
+        <updated>2026-11-03T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Our fancy new tool can tell you precisely what you require for storing data.]]></summary>
+        <author>
+            <name>Rich Edmonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - November 3rd]]></title>
+        <id>https://store.steampowered.com/news/group/4397053/view/713416661425719988</id>
+        <link href="https://store.steampowered.com/news/group/4397053/view/713416661425719988"/>
+        <updated>2026-11-03T21:40:16.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+General
+
+Fixed various cases where the steam window could briefly flash black.
+
+Steam Achievement Sets
+
+Completed achievement sets are now shown in the library when sorting by achievement completion.
+
+Fixed achievement totals not counting some unlocked achievements.
+
+Fixed rarity threshold on achievement page.
+
+Achievements button in the play bar now opens the achievements panel.
+
+Steam Controller Firmware
+
+Reduced thumbstick touch sensitivity to reduce likelihood of early detection of touch.]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Beta Client Update: November 3rd]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694276363007298389</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694276363007298389"/>
+        <updated>2026-11-03T21:39:13.000Z</updated>
+        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
+
+General
+
+Fixed various cases where the steam windows could briefly flash black.
+
+Steam Achievement Sets
+
+Completed achievement sets are now shown in the library when sorting by achievement completion.
+
+Fixed achievement totals not counting some unlocked achievements.
+
+Fixed rarity threshold on achievement page.
+
+Achievements button in the play bar now opens the achievements panel.
+
+Steam Controller Firmware
+
+Reduced thumbstick touch sensitivity to reduce likelihood of early detection of touch.]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Beta Client Update: November 3rd]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/694276363007298389</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/694276363007298389"/>
+        <updated>2026-11-03T21:39:13.000Z</updated>
+        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
+
+General
+
+Fixed various cases where the steam windows could briefly flash black.
+
+Steam Achievement Sets
+
+Completed achievement sets are now shown in the library when sorting by achievement completion.
+
+Fixed achievement totals not counting some unlocked achievements.
+
+Fixed rarity threshold on achievement page.
+
+Achievements button in the play bar now opens the achievements panel.
+
+Steam Controller Firmware
+
+Reduced thumbstick touch sensitivity to reduce likelihood of early detection of touch.]]></summary>
+        <author>
+            <name>1675200 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I decluttered my desk, and this 6-port 240W charging station is the only one I use now]]></title>
+        <id>https://www.xda-developers.com/decluttered-desk-6-port-240w-charging-station-is-the-only-one-i-use-now/</id>
+        <link href="https://www.xda-developers.com/decluttered-desk-6-port-240w-charging-station-is-the-only-one-i-use-now/"/>
+        <updated>2026-11-03T21:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Satechi's ChargeView 240W is the only desk charger you need.]]></summary>
+        <author>
+            <name>Harish Jonnalagadda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sideload 050: The phones Samsung and Google won’t make]]></title>
+        <id>https://9to5google.com/?p=735587</id>
+        <link href="https://9to5google.com/2026/11/03/the-sideload-050-the-phones-samsung-and-google-wont-make/"/>
+        <updated>2026-11-03T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to episode 50 of The Sideload, a 9to5Google podcast. This week, Will and Daniel are joined by Nick Sutrich to discuss the ever-present split between North American and global phones, what the marketplace looks like with OnePlus gone, and why your next smartphone might actually replace your Steam Deck. Plus, some thoughts on how AI is choking out the games space.
+Sponsored by NordVPN: Listeners to The Sideload can save up to 76% on a two-year subscription alongside four extra months for absolutely free by signing up for NordVPN using this link. Thanks to NordVPN for sponsoring this week’s episode.
+
+
+
+
+Subscribe
+YouTube Podcasts
+Pocket Casts
+Spotify
+Apple Podcasts
+Amazon Music
+Subscribe to 9to5Google Pro for exclusive bonus content, podcast episodes, and more.
+more…]]></summary>
+        <author>
+            <name>Will Sattelberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Messages redesigning pinned chats and moving search]]></title>
+        <id>https://9to5google.com/?p=735606</id>
+        <link href="https://9to5google.com/2026/11/03/google-messages-pinned-chats-redesign/"/>
+        <updated>2026-11-03T21:14:05.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the new app icon, Google Messages is testing a redesign of pinned chats and search on the homepage.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peak Design’s new wireless charging stand pulls double duty, literally]]></title>
+        <id>https://9to5google.com/?p=735586</id>
+        <link href="https://9to5google.com/2026/11/03/peak-design-new-charging-accessories/"/>
+        <updated>2026-11-03T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The three new charging accessories from Peak Design hit the high notes, like (dual) Qi2 wireless charging and wired fast charging without bulky bricks.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I use Obsidian to manage my entire business, and I barely need other apps]]></title>
+        <id>https://www.xda-developers.com/use-obsidian-to-manage-my-entire-business-and-barely-need-other-apps/</id>
+        <link href="https://www.xda-developers.com/use-obsidian-to-manage-my-entire-business-and-barely-need-other-apps/"/>
+        <updated>2026-11-03T21:01:21.000Z</updated>
+        <summary type="html"><![CDATA[My entire business, one powerful vault.]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT has hit roughly 20% of Google Search volume, OpenAI says]]></title>
+        <id>https://9to5google.com/?p=735594</id>
+        <link href="https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/"/>
+        <updated>2026-11-03T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[According to OpenAI, ChatGPT has managed to grow its search use to around 20% of Google Search’s total volume, a staggering figure.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google will disable Search for students unless schools accept AI features in ‘Guided Learning’ push]]></title>
+        <id>https://9to5google.com/?p=735591</id>
+        <link href="https://9to5google.com/2026/11/03/google-search-ai-guided-learning-changes/"/>
+        <updated>2026-11-03T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is today launching new AI settings for schools, but with the big catch that Search is fully disabled if AI features are turned off entirely.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave my ESP32 a second job as an RF analyzer, and now I'm not buying a dedicated spectrum monitor]]></title>
+        <id>https://www.xda-developers.com/gave-esp32-as-an-rf-analyzer-and-not-buying-dedicated-spectrum-monitor/</id>
+        <link href="https://www.xda-developers.com/gave-esp32-as-an-rf-analyzer-and-not-buying-dedicated-spectrum-monitor/"/>
+        <updated>2026-11-03T20:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Peek at the radio frequency activity at home.]]></summary>
+        <author>
+            <name>Samir Makwana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I compared 4K Blu-ray to regular Blu-ray, and the difference was smaller than I expected]]></title>
+        <id>https://www.xda-developers.com/i-compared-4k-blu-ray-to-regular-blu-ray-and-the-difference-was-smaller-than-i-expected/</id>
+        <link href="https://www.xda-developers.com/i-compared-4k-blu-ray-to-regular-blu-ray-and-the-difference-was-smaller-than-i-expected/"/>
+        <updated>2026-11-03T20:01:21.000Z</updated>
+        <summary type="html"><![CDATA[I thought there'd be a major difference in formats, but it wasn't like I thought.]]></summary>
+        <author>
+            <name>Brian Burgess</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stopped copying ISOs to my Ventoy drive because this free tool lets me boot operating systems over the network]]></title>
+        <id>https://www.xda-developers.com/this-free-tool-boots-operating-systems-over-the-network/</id>
+        <link href="https://www.xda-developers.com/this-free-tool-boots-operating-systems-over-the-network/"/>
+        <updated>2026-11-03T19:30:20.000Z</updated>
+        <summary type="html"><![CDATA[A lightweight approach that replaces local ISOs with on-demand network booting to reclaim Ventoy space and simplify installs.]]></summary>
+        <author>
+            <name>Abhishek Kumar Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today’s Android app deals and freebies: 20 Minutes Till Dawn, Never Grave, Rush Rally 3, more]]></title>
+        <id>https://9to5toys.com/2026/11/03/todays-highlight-google-play-deals-42/</id>
+        <link href="https://9to5toys.com/2026/11/03/todays-highlight-google-play-deals-42/"/>
+        <updated>2026-11-03T18:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Alongside the ongoing all-time low on the new Google Home Speaker, today’s best Google Play app and game deals are ready, including Descenders, My Child Lebensborn, 20 Minutes Till Dawn:Premium, Never Grave, Rush Rally 3, and more. Just be sure to dive into the first deal on the all-new Amazon Alexa Android Tablet and these Pixel 11 offers with massive price drops at up to $580 off the list. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Cyclon’ uses an old Google Pixel to let AI do literally everything for you – who wants this?]]></title>
+        <id>https://9to5google.com/?p=735530</id>
+        <link href="https://9to5google.com/2026/11/03/cyclon-uses-an-old-google-pixel-to-let-ai-do-literally-everything-for-you-who-wants-this/"/>
+        <updated>2026-11-03T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[As the AI era continues to find its footing in the consumer market, “Cyclon” is a new smartphone/software experience that, to start, is reusing old Google Pixel phones with a software experience that literally uses AI to do every little thing. And my biggest question is just…  who actually wants this?
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Stadia Controller dream lives on in the $50 Xbox Nano Controller]]></title>
+        <id>https://9to5google.com/?p=735569</id>
+        <link href="https://9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia/"/>
+        <updated>2026-11-03T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The Stadia Controller introduced the idea of connecting directly to cloud gaming via its own Wi-Fi connection and, while Google’s platform is long dead, that dream lives on in the latest Xbox Controller.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto 18.1 update rolling out with additional prep for light mode and redesign]]></title>
+        <id>https://9to5google.com/?p=735516</id>
+        <link href="https://9to5google.com/2026/11/03/android-auto-18-1-update-rollout-teardown/"/>
+        <updated>2026-11-03T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is rolling out Android Auto 18.1 to the masses and, while there are no major changes, the update continues to work on upcoming changes.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Pixel 11 up to $580 off, Google Home Speaker all-time low, Dell XPS 13 $200 off, new Fire TV Stick 58% off, more]]></title>
+        <id>https://9to5google.com/?p=735523</id>
+        <link href="https://9to5google.com/2026/11/03/deals-pixel-11-580-off-google-home-speaker-dell-xps-13/"/>
+        <updated>2026-11-03T16:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Alongside the Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold. Best Buy is now offering massive Pixel 11 series price drops at up to $580 off (“excellent” open-box). From there we move over to a host of early Black Friday Fire TV Stick deals now live from $20, Dell’s latest XPS 13 MacBook Neo alternative at $600, and a collection of early Black Friday Amazon lows on Nothing gear from just $20. Scope it all out below. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Authenticator is ditching its own password backup for Google One]]></title>
+        <id>https://9to5google.com/?p=735501</id>
+        <link href="https://9to5google.com/2026/11/03/microsoft-authenticator-google-one-backup-change/"/>
+        <updated>2026-11-03T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is ditching its own password backup option for the Microsoft Authenticator app for Android and instead using Google One for that service.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google confirms something was draining Pixel Watch batteries, fix rolling out]]></title>
+        <id>https://9to5google.com/?p=735515</id>
+        <link href="https://9to5google.com/2026/11/03/google-releases-fix-for-pixel-watch-battery-drain/"/>
+        <updated>2026-11-03T16:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Google has confirmed that some Pixel Watches are experiencing unexpected battery drain, but it also says a fix is already available.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy Z Fold 8 sales spike amid iPhone Duo release and ‘crackgate’ debacle]]></title>
+        <id>https://9to5google.com/?p=735503</id>
+        <link href="https://9to5google.com/2026/11/03/galaxy-z-fold-8-sales-spike-iphone-duo-release/"/>
+        <updated>2026-11-03T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The iPhone Duo’s tumultuous debut seems to have some buyers looking to Samsung’s Galaxy Z Fold 8 instead, as sales spiked in the week following Apple’s release.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi confirms Android 17 HyperOS 4 rollout schedule for these devices]]></title>
+        <id>https://9to5google.com/?p=735492</id>
+        <link href="https://9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list/"/>
+        <updated>2026-11-03T14:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Several Xiaomi, Redmi, and Poco phones are getting the Android 17 HyperOS 4 update starting today.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google confirms Android’s new ‘Family Hub’ feature, and this is what it looks like [Gallery]]]></title>
+        <id>https://9to5google.com/?p=735497</id>
+        <link href="https://9to5google.com/2026/11/03/google-android-family-hub-feature/"/>
+        <updated>2026-11-03T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is launching a new “Family Hub” feature in Android’s Settings menu and, while the rollout has yet to begin, we do have an early look at the feature.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google has fixed Android Auto issues on Samsung Galaxy phones running One UI 9 [U]]]></title>
+        <id>https://9to5google.com/?p=735344</id>
+        <link href="https://9to5google.com/2026/11/03/some-samsung-galaxy-phones-are-having-android-auto-issues-with-one-ui-9/"/>
+        <updated>2026-11-03T13:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Samsung’s Android 17-based One UI 9 update is rolling out more widely and, with it, some apparent issues with Android Auto on some Galaxy phones.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redmagic 12 Pro review: You’ve never gamed on a phone like this before]]></title>
+        <id>https://9to5google.com/?p=735442</id>
+        <link href="https://9to5google.com/2026/11/03/redmagic-12-pro-review/"/>
+        <updated>2026-11-03T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Redmagic 12 Pro impresses with a Snapdragon 8 Elite Extreme Gen 6 processor, liquid cooling, a fan, plus a massive 8,400mAh battery to keep the games going for hours and hours.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Ocarina of Time easter egg is a blast from the past]]></title>
+        <id>https://9to5google.com/?p=735483</id>
+        <link href="https://9to5google.com/2026/11/03/googles-ocarina-of-time-easter-egg-is-a-blast-from-the-past/"/>
+        <updated>2026-11-03T13:05:44.000Z</updated>
+        <summary type="html"><![CDATA[If you’re sick of AI search and all the business of modern Google search, this week’s Google easter egg will take you back 28 years to a simpler time when Ocarina of Time was the pinnacle of gaming, and Google was still a new name.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android gaming is having a renaissance]]></title>
+        <id>https://9to5google.com/?p=735403</id>
+        <link href="https://9to5google.com/2026/11/03/android-gaming-is-having-a-renaissance/"/>
+        <updated>2026-11-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Good morning! Today I’m mourning the loss of Patrick Stewart by rewatching First Contact, my favorite Trek movie; beginning a marathon listen of at least one great Star Trek podcast; and replaying Elite Force and Armada, both wonderful Trek games released in 2000.
+Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe.
+more…]]></summary>
+        <author>
+            <name>Daniel Bader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Affinity is finally coming to Linux, although we don't know when it'll arrive just yet]]></title>
         <id>https://www.xda-developers.com/affinity-is-finally-coming-to-linux-although-we-dont-know-when-itll-arrive-just-yet/</id>

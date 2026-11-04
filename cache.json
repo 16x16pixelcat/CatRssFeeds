@@ -12,6 +12,36 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/4165890/view/694276363007298391",
+          "author": null,
+          "description": "SteamOS 0.5.7 (for Steam Frame) has just been released. \nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested. \nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nSteamVR:\n\nSteamVR has been updated to version 2.19.1\n\nImproved vibration filtering for pose prediction that was affecting some units\n\nThe display dims for 30 seconds before sleep\n\nFoveated sharpening is now independent from Eye Tracking (previously would disable when off, now defaults to centered)\n\nRemoved Advanced Supersampling support on Steam Frame\n\nThe guided tour keeps Steam docked front and center\n\nFrame Controllers:\n\nBattery now shows correctly at 0%\n\nAdded default bindings for Chromalab, Batman Arkham, and Doom VFR\n\nOS:\n\nEnable support for WebXR in Chromium 157 & up\n\nAudio:\n\nFixed an issue where audio would stop working with USB or Bluetooth speakers if an application tried to access the microphone\n\nAdded controls to selectively disable echo cancellation and noise suppression for the microphone (requires current Steam Client Beta)\n\nYou can opt into the Steam Client Beta on headset via Settings > System > Steam Client Update Channel.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/694276363007298391",
+          "publishedOn": "2026-11-04T00:36:51.000Z",
+          "wordCount": 392,
+          "title": "SteamOS 0.5.7 Beta for Steam Frame",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/group/4397053/view/713416661425719988",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed various cases where the steam window could briefly flash black.\n\nSteam Achievement Sets\n\nCompleted achievement sets are now shown in the library when sorting by achievement completion.\n\nFixed achievement totals not counting some unlocked achievements.\n\nFixed rarity threshold on achievement page.\n\nAchievements button in the play bar now opens the achievements panel.\n\nSteam Controller Firmware\n\nReduced thumbstick touch sensitivity to reduce likelihood of early detection of touch.",
+          "link": "https://store.steampowered.com/news/group/4397053/view/713416661425719988",
+          "publishedOn": "2026-11-03T21:40:16.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - November 3rd",
+          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694276363007298389",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed various cases where the steam windows could briefly flash black.\n\nSteam Achievement Sets\n\nCompleted achievement sets are now shown in the library when sorting by achievement completion.\n\nFixed achievement totals not counting some unlocked achievements.\n\nFixed rarity threshold on achievement page.\n\nAchievements button in the play bar now opens the achievements panel.\n\nSteam Controller Firmware\n\nReduced thumbstick touch sensitivity to reduce likelihood of early detection of touch.",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694276363007298389",
+          "publishedOn": "2026-11-03T21:39:13.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: November 3rd",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
           "author": null,
           "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nDesktop Mode\n\nRe-styled the Steam updater UI",
@@ -144,6 +174,16 @@
       "siteUrl": "https://store.steampowered.com/news/app/1675200/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694276363007298389",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed various cases where the steam windows could briefly flash black.\n\nSteam Achievement Sets\n\nCompleted achievement sets are now shown in the library when sorting by achievement completion.\n\nFixed achievement totals not counting some unlocked achievements.\n\nFixed rarity threshold on achievement page.\n\nAchievements button in the play bar now opens the achievements panel.\n\nSteam Controller Firmware\n\nReduced thumbstick touch sensitivity to reduce likelihood of early detection of touch.",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694276363007298389",
+          "publishedOn": "2026-11-03T21:39:13.000Z",
+          "wordCount": 392,
+          "title": "Steam Beta Client Update: November 3rd",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/app/1675200/view/694276363007296028",
           "author": null,
           "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed \"friend joins a game\" notifications being dropped when several friends start games within 10 seconds\n\nFixed a bug that would cause \"When a friend comes online\" and \"When a friend joins a game\" notification sounds to not respect \"Show Notification Toasts\" and \"Play a sound when a notification toast is displayed\" settings\n\nPer-friend notifications now override global notification settings correctly in all cases\n\nImproved Quick Access Menu responsiveness\n\nFixed a bug that caused per-friend notification settings to be ignored\n\nDesktop Mode\n\nRe-styled the Steam updater UI",
@@ -270,6 +310,16 @@
       "feedUrl": "https://store.steampowered.com/feeds/news/app/4165890/?cc=JO&l=english",
       "siteUrl": "https://store.steampowered.com/news/app/4165890/",
       "articles": [
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/694276363007298391",
+          "author": null,
+          "description": "SteamOS 0.5.7 (for Steam Frame) has just been released. \nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested. \nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nSteamVR:\n\nSteamVR has been updated to version 2.19.1\n\nImproved vibration filtering for pose prediction that was affecting some units\n\nThe display dims for 30 seconds before sleep\n\nFoveated sharpening is now independent from Eye Tracking (previously would disable when off, now defaults to centered)\n\nRemoved Advanced Supersampling support on Steam Frame\n\nThe guided tour keeps Steam docked front and center\n\nFrame Controllers:\n\nBattery now shows correctly at 0%\n\nAdded default bindings for Chromalab, Batman Arkham, and Doom VFR\n\nOS:\n\nEnable support for WebXR in Chromium 157 & up\n\nAudio:\n\nFixed an issue where audio would stop working with USB or Bluetooth speakers if an application tried to access the microphone\n\nAdded controls to selectively disable echo cancellation and noise suppression for the microphone (requires current Steam Client Beta)\n\nYou can opt into the Steam Client Beta on headset via Settings > System > Steam Client Update Channel.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/694276363007298391",
+          "publishedOn": "2026-11-04T00:36:51.000Z",
+          "wordCount": 392,
+          "title": "SteamOS 0.5.7 Beta for Steam Frame",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
         {
           "id": "https://store.steampowered.com/news/app/4165890/view/687519694976975615",
           "author": null,
@@ -454,6 +504,196 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=735587",
+          "author": "Will Sattelberg",
+          "description": "Welcome to episode 50 of The Sideload, a 9to5Google podcast. This week, Will and Daniel are joined by Nick Sutrich to discuss the ever-present split between North American and global phones, what the marketplace looks like with OnePlus gone, and why your next smartphone might actually replace your Steam Deck. Plus, some thoughts on how AI is choking out the games space.\nSponsored by NordVPN: Listeners to The Sideload can save up to 76% on a two-year subscription alongside four extra months for absolutely free by signing up for NordVPN using this link. Thanks to NordVPN for sponsoring this week’s episode.\n\n\n\n\nSubscribe\nYouTube Podcasts\nPocket Casts\nSpotify\nApple Podcasts\nAmazon Music\nSubscribe to 9to5Google Pro for exclusive bonus content, podcast episodes, and more.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/the-sideload-050-the-phones-samsung-and-google-wont-make/",
+          "publishedOn": "2026-11-03T21:30:00.000Z",
+          "wordCount": 3065,
+          "title": "The Sideload 050: The phones Samsung and Google won’t make",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735606",
+          "author": "Abner Li",
+          "description": "In addition to the new app icon, Google Messages is testing a redesign of pinned chats and search on the homepage.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/google-messages-pinned-chats-redesign/",
+          "publishedOn": "2026-11-03T21:14:05.000Z",
+          "wordCount": 3495,
+          "title": "Google Messages redesigning pinned chats and moving search",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735586",
+          "author": "Andrew Romero",
+          "description": "The three new charging accessories from Peak Design hit the high notes, like (dual) Qi2 wireless charging and wired fast charging without bulky bricks.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/peak-design-new-charging-accessories/",
+          "publishedOn": "2026-11-03T21:05:00.000Z",
+          "wordCount": 4043,
+          "title": "Peak Design’s new wireless charging stand pulls double duty, literally",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Peak-Design-chargers-5.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735594",
+          "author": "Ben Schoon",
+          "description": "According to OpenAI, ChatGPT has managed to grow its search use to around 20% of Google Search’s total volume, a staggering figure.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/",
+          "publishedOn": "2026-11-03T20:55:00.000Z",
+          "wordCount": 2996,
+          "title": "ChatGPT has hit roughly 20% of Google Search volume, OpenAI says",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/chatgpt-android-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735591",
+          "author": "Ben Schoon",
+          "description": "Google is today launching new AI settings for schools, but with the big catch that Search is fully disabled if AI features are turned off entirely.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/google-search-ai-guided-learning-changes/",
+          "publishedOn": "2026-11-03T20:35:00.000Z",
+          "wordCount": 3182,
+          "title": "Google will disable Search for students unless schools accept AI features in ‘Guided Learning’ push",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/01/Google-logo-CES-2024-6.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/11/03/todays-highlight-google-play-deals-42/",
+          "author": "9to5Toys",
+          "description": "Alongside the ongoing all-time low on the new Google Home Speaker, today’s best Google Play app and game deals are ready, including Descenders, My Child Lebensborn, 20 Minutes Till Dawn:Premium, Never Grave, Rush Rally 3, and more. Just be sure to dive into the first deal on the all-new Amazon Alexa Android Tablet and these Pixel 11 offers with massive price drops at up to $580 off the list. \nmore…",
+          "link": "https://9to5toys.com/2026/11/03/todays-highlight-google-play-deals-42/",
+          "publishedOn": "2026-11-03T18:39:53.000Z",
+          "wordCount": 3077,
+          "title": "Today’s Android app deals and freebies: 20 Minutes Till Dawn, Never Grave, Rush Rally 3, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-208837.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735530",
+          "author": "Ben Schoon",
+          "description": "As the AI era continues to find its footing in the consumer market, “Cyclon” is a new smartphone/software experience that, to start, is reusing old Google Pixel phones with a software experience that literally uses AI to do every little thing. And my biggest question is just…  who actually wants this?\nmore…",
+          "link": "https://9to5google.com/2026/11/03/cyclon-uses-an-old-google-pixel-to-let-ai-do-literally-everything-for-you-who-wants-this/",
+          "publishedOn": "2026-11-03T18:15:00.000Z",
+          "wordCount": 3777,
+          "title": "‘Cyclon’ uses an old Google Pixel to let AI do literally everything for you – who wants this?",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/Pixel-8a-angled.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735569",
+          "author": "Ben Schoon",
+          "description": "The Stadia Controller introduced the idea of connecting directly to cloud gaming via its own Wi-Fi connection and, while Google’s platform is long dead, that dream lives on in the latest Xbox Controller.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia/",
+          "publishedOn": "2026-11-03T18:05:00.000Z",
+          "wordCount": 3143,
+          "title": "Google’s Stadia Controller dream lives on in the $50 Xbox Nano Controller",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2021/07/stadia_controller_android_tv_1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735516",
+          "author": "Ben Schoon",
+          "description": "Google is rolling out Android Auto 18.1 to the masses and, while there are no major changes, the update continues to work on upcoming changes.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/android-auto-18-1-update-rollout-teardown/",
+          "publishedOn": "2026-11-03T17:10:00.000Z",
+          "wordCount": 3268,
+          "title": "Android Auto 18.1 update rolling out with additional prep for light mode and redesign",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Android-Auto-Immerisve-View-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735523",
+          "author": "Justin Kahn",
+          "description": "Alongside the Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold. Best Buy is now offering massive Pixel 11 series price drops at up to $580 off (“excellent” open-box). From there we move over to a host of early Black Friday Fire TV Stick deals now live from $20, Dell’s latest XPS 13 MacBook Neo alternative at $600, and a collection of early Black Friday Amazon lows on Nothing gear from just $20. Scope it all out below. \nmore…",
+          "link": "https://9to5google.com/2026/11/03/deals-pixel-11-580-off-google-home-speaker-dell-xps-13/",
+          "publishedOn": "2026-11-03T16:49:55.000Z",
+          "wordCount": 4917,
+          "title": "Deals: Pixel 11 up to $580 off, Google Home Speaker all-time low, Dell XPS 13 $200 off, new Fire TV Stick 58% off, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-3.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735501",
+          "author": "Ben Schoon",
+          "description": "Microsoft is ditching its own password backup option for the Microsoft Authenticator app for Android and instead using Google One for that service.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/microsoft-authenticator-google-one-backup-change/",
+          "publishedOn": "2026-11-03T16:35:00.000Z",
+          "wordCount": 2893,
+          "title": "Microsoft Authenticator is ditching its own password backup for Google One",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/microsoft-authenticator-android.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735515",
+          "author": "Andrew Romero",
+          "description": "Google has confirmed that some Pixel Watches are experiencing unexpected battery drain, but it also says a fix is already available.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/google-releases-fix-for-pixel-watch-battery-drain/",
+          "publishedOn": "2026-11-03T16:16:40.000Z",
+          "wordCount": 3061,
+          "title": "Google confirms something was draining Pixel Watch batteries, fix rolling out",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-Display-4.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735503",
+          "author": "Ben Schoon",
+          "description": "The iPhone Duo’s tumultuous debut seems to have some buyers looking to Samsung’s Galaxy Z Fold 8 instead, as sales spiked in the week following Apple’s release.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/galaxy-z-fold-8-sales-spike-iphone-duo-release/",
+          "publishedOn": "2026-11-03T15:15:00.000Z",
+          "wordCount": 3107,
+          "title": "Galaxy Z Fold 8 sales spike amid iPhone Duo release and ‘crackgate’ debacle",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735492",
+          "author": "Nicholas Sutrich",
+          "description": "Several Xiaomi, Redmi, and Poco phones are getting the Android 17 HyperOS 4 update starting today.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list/",
+          "publishedOn": "2026-11-03T14:54:32.000Z",
+          "wordCount": 3330,
+          "title": "Xiaomi confirms Android 17 HyperOS 4 rollout schedule for these devices",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/redmi-note-17-pro-max-back.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735497",
+          "author": "Ben Schoon",
+          "description": "Google is launching a new “Family Hub” feature in Android’s Settings menu and, while the rollout has yet to begin, we do have an early look at the feature.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/google-android-family-hub-feature/",
+          "publishedOn": "2026-11-03T14:45:00.000Z",
+          "wordCount": 3199,
+          "title": "Google confirms Android’s new ‘Family Hub’ feature, and this is what it looks like [Gallery]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Search-Settings-.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735344",
+          "author": "Ben Schoon",
+          "description": "Samsung’s Android 17-based One UI 9 update is rolling out more widely and, with it, some apparent issues with Android Auto on some Galaxy phones.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/some-samsung-galaxy-phones-are-having-android-auto-issues-with-one-ui-9/",
+          "publishedOn": "2026-11-03T13:51:46.000Z",
+          "wordCount": 3045,
+          "title": "Google has fixed Android Auto issues on Samsung Galaxy phones running One UI 9 [U]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Galaxy-S25-Ultra-camera-system-4.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735442",
+          "author": "Nicholas Sutrich",
+          "description": "The Redmagic 12 Pro impresses with a Snapdragon 8 Elite Extreme Gen 6 processor, liquid cooling, a fan, plus a massive 8,400mAh battery to keep the games going for hours and hours.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/redmagic-12-pro-review/",
+          "publishedOn": "2026-11-03T13:30:00.000Z",
+          "wordCount": 5612,
+          "title": "Redmagic 12 Pro review: You’ve never gamed on a phone like this before",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/redmagic-12-pro-with-switch-and-controllers-02.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735483",
+          "author": "Nicholas Sutrich",
+          "description": "If you’re sick of AI search and all the business of modern Google search, this week’s Google easter egg will take you back 28 years to a simpler time when Ocarina of Time was the pinnacle of gaming, and Google was still a new name.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/googles-ocarina-of-time-easter-egg-is-a-blast-from-the-past/",
+          "publishedOn": "2026-11-03T13:05:44.000Z",
+          "wordCount": 3701,
+          "title": "Google’s Ocarina of Time easter egg is a blast from the past",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-search-zelda-november-2026-02.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735403",
+          "author": "Daniel Bader",
+          "description": "Good morning! Today I’m mourning the loss of Patrick Stewart by rewatching First Contact, my favorite Trek movie; beginning a marathon listen of at least one great Star Trek podcast; and replaying Elite Force and Armada, both wonderful Trek games released in 2000.\nInbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe.\nmore…",
+          "link": "https://9to5google.com/2026/11/03/android-gaming-is-having-a-renaissance/",
+          "publishedOn": "2026-11-03T12:00:00.000Z",
+          "wordCount": 4618,
+          "title": "Android gaming is having a renaissance",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/razer-prio-controller-3.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=735433",
           "author": "Abner Li",
@@ -2608,6 +2848,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/linuxs-file-permissions-50-years-old-three-letters-still-decide-who-can-touch-file-pc/",
+          "author": "Simon Batt",
+          "description": "You can see them in action with a single console command.",
+          "link": "https://www.xda-developers.com/linuxs-file-permissions-50-years-old-three-letters-still-decide-who-can-touch-file-pc/",
+          "publishedOn": "2026-11-04T01:00:20.000Z",
+          "wordCount": 5167,
+          "title": "Linux's file permissions are over 50 years old, and three letters still decide who can touch every file on your PC",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/linux-mint-in-ventoy.jpg",
+            "length": "19086",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/linux-mint-in-ventoy.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/samsung-apps-decided-to-keep-instead-of-replacing/",
+          "author": "Megan Ellis",
+          "description": "It turns out that these Samsung apps are a perfect fit for my Galaxy phone.",
+          "link": "https://www.xda-developers.com/samsung-apps-decided-to-keep-instead-of-replacing/",
+          "publishedOn": "2026-11-04T00:00:20.000Z",
+          "wordCount": 6123,
+          "title": "I almost replaced these 4 Samsung apps, but now I can't imagine my phone without them",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/samsung-apps-on-an-s23-ultra-on-a-table.jpg",
+            "length": "2942",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/samsung-apps-on-an-s23-ultra-on-a-table.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-missed-days-of-channel-surfing-so-i-recreated-experience-with-jellyfin/",
+          "author": "Patrick Hearn",
+          "description": "ErsatzTV recreates mindless channel hopping, and it's great.",
+          "link": "https://www.xda-developers.com/i-missed-days-of-channel-surfing-so-i-recreated-experience-with-jellyfin/",
+          "publishedOn": "2026-11-03T23:00:21.000Z",
+          "wordCount": 5441,
+          "title": "I missed the days of channel surfing, so I recreated the experience with Jellyfin",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/ersatztv-feature.png",
+            "length": "2149",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/ersatztv-feature.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/petg-tell-every-beginner-to-start-instead-of-pla/",
+          "author": "Chandraveer Mathur",
+          "description": "A better choice for more reasons than one.",
+          "link": "https://www.xda-developers.com/petg-tell-every-beginner-to-start-instead-of-pla/",
+          "publishedOn": "2026-11-03T22:30:20.000Z",
+          "wordCount": 6184,
+          "title": "PETG is the filament I'd tell every beginner to start with instead of PLA",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/petg-3d-printed-coffee-dosing-cup.jpg",
+            "length": "1382",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/petg-3d-printed-coffee-dosing-cup.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/xdb-build-nas-that-could-replace-a-prebuilt/",
+          "author": "Rich Edmonds",
+          "description": "Our fancy new tool can tell you precisely what you require for storing data.",
+          "link": "https://www.xda-developers.com/xdb-build-nas-that-could-replace-a-prebuilt/",
+          "publishedOn": "2026-11-03T22:00:20.000Z",
+          "wordCount": 4978,
+          "title": "Prebuilt NAS boxes are underpowered for the price, so I built one with a desktop CPU instead",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/06380a92-1ca6-443f-903c-d7433ac6cdff_l0_001_1781507854-393495_o_img_4641.png",
+            "length": "10509",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/06380a92-1ca6-443f-903c-d7433ac6cdff_l0_001_1781507854-393495_o_img_4641.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/decluttered-desk-6-port-240w-charging-station-is-the-only-one-i-use-now/",
+          "author": "Harish Jonnalagadda",
+          "description": "Satechi's ChargeView 240W is the only desk charger you need.",
+          "link": "https://www.xda-developers.com/decluttered-desk-6-port-240w-charging-station-is-the-only-one-i-use-now/",
+          "publishedOn": "2026-11-03T21:30:20.000Z",
+          "wordCount": 5703,
+          "title": "I decluttered my desk, and this 6-port 240W charging station is the only one I use now",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/satechi-chargeview-240-1-1.jpg",
+            "length": "300",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/satechi-chargeview-240-1-1.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/use-obsidian-to-manage-my-entire-business-and-barely-need-other-apps/",
+          "author": "Parth Shah",
+          "description": "My entire business, one powerful vault.",
+          "link": "https://www.xda-developers.com/use-obsidian-to-manage-my-entire-business-and-barely-need-other-apps/",
+          "publishedOn": "2026-11-03T21:01:21.000Z",
+          "wordCount": 5434,
+          "title": "I use Obsidian to manage my entire business, and I barely need other apps",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/using-obsidian-to-manage-my-entire-busienss.jpg",
+            "length": "2065",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/using-obsidian-to-manage-my-entire-busienss.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/gave-esp32-as-an-rf-analyzer-and-not-buying-dedicated-spectrum-monitor/",
+          "author": "Samir Makwana",
+          "description": "Peek at the radio frequency activity at home.",
+          "link": "https://www.xda-developers.com/gave-esp32-as-an-rf-analyzer-and-not-buying-dedicated-spectrum-monitor/",
+          "publishedOn": "2026-11-03T20:31:20.000Z",
+          "wordCount": 5611,
+          "title": "I gave my ESP32 a second job as an RF analyzer, and now I'm not buying a dedicated spectrum monitor",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/building-rf-analyzer-using-esp32-with-cc1101-and-sma.JPG",
+            "length": "289",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/building-rf-analyzer-using-esp32-with-cc1101-and-sma.JPG"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-compared-4k-blu-ray-to-regular-blu-ray-and-the-difference-was-smaller-than-i-expected/",
+          "author": "Brian Burgess",
+          "description": "I thought there'd be a major difference in formats, but it wasn't like I thought.",
+          "link": "https://www.xda-developers.com/i-compared-4k-blu-ray-to-regular-blu-ray-and-the-difference-was-smaller-than-i-expected/",
+          "publishedOn": "2026-11-03T20:01:21.000Z",
+          "wordCount": 7654,
+          "title": "I compared 4K Blu-ray to regular Blu-ray, and the difference was smaller than I expected",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/bd-video-playing.JPEG",
+            "length": "353",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/bd-video-playing.JPEG"
+        },
+        {
+          "id": "https://www.xda-developers.com/this-free-tool-boots-operating-systems-over-the-network/",
+          "author": "Abhishek Kumar Mishra",
+          "description": "A lightweight approach that replaces local ISOs with on-demand network booting to reclaim Ventoy space and simplify installs.",
+          "link": "https://www.xda-developers.com/this-free-tool-boots-operating-systems-over-the-network/",
+          "publishedOn": "2026-11-03T19:30:20.000Z",
+          "wordCount": 5693,
+          "title": "I stopped copying ISOs to my Ventoy drive because this free tool lets me boot operating systems over the network",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/netboot-xyz-ventoy-1.jpg",
+            "length": "254",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/netboot-xyz-ventoy-1.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/affinity-is-finally-coming-to-linux-although-we-dont-know-when-itll-arrive-just-yet/",
           "author": "Simon Batt",
