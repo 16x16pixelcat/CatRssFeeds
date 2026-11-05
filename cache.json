@@ -369,16 +369,6 @@
           "wordCount": 393,
           "title": "Steam Client Update For Frame: October 6th",
           "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/675133527946168306",
-          "author": null,
-          "description": "SteamOS 0.4.4 (for Steam Frame) has just been released. This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\n\n\nNew in 0.4.4:\n\nAdded user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New \"high sensitivity\" option keeps displays on under a wider range of conditions, such as when using glasses spacers.\n\nImproved tooltip sort ordering\n\n\n\n\nPrevious SteamOS 0.4 Releases\n\nPower:\n\nImproved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.\n\n\nStreaming:\n\nVR streaming reliability improvements, including fixes for “Err…",
-          "link": "https://store.steampowered.com/news/app/4165890/view/675133527946168306",
-          "publishedOn": "2026-10-05T23:14:33.000Z",
-          "wordCount": 392,
-          "title": "SteamOS 0.4.4 Beta for Steam Frame",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
         }
       ]
     },
@@ -504,6 +494,126 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5toys.com/2026/11/04/todays-highlight-google-play-deals-43/",
+          "author": "9to5Toys",
+          "description": "Today’s best Google Play app and game deals are ready, including This Aint Even Poker, Ya Joker, Potion Permit, Slime Legends – Survivor, Despotism 3k, Three Kingdoms: Grand Strategy, Can You Escape: The Collection, My Car My Life, and more. We still have the best deal ever on the 2026 Pixel 11 Pro, Pixel 11 Pro XL,and $100 off all Pixel Watch 5 models, but if you have your eye on Galaxy Z Fold 8, they are now $300 off with a FREE $200 store credit. The apps await below. \nmore…",
+          "link": "https://9to5toys.com/2026/11/04/todays-highlight-google-play-deals-43/",
+          "publishedOn": "2026-11-04T19:46:32.000Z",
+          "wordCount": 3425,
+          "title": "Mid-week Android app deals and freebies: Poker Ya Joker, Despotism, Potion Permit, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-55388a.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735522",
+          "author": "Sponsored Post",
+          "description": "A cozy habit tracker, a smarter snippet library, and a rooster that wants you out of bed: this year’s Shipaton winners offer plenty of new apps to explore.\nRevenueCat’s annual app-building competition drew 3,985 project submissions in 2026, according to its winner announcement. Across the 20 first-place categories, developers tackled everyday frustrations, built inventive games, and found new ways to connect people.\nHere’s a look at every first-place winner:\nRead RevenueCat’s full winner announcement\nmore…",
+          "link": "https://9to5google.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/",
+          "publishedOn": "2026-11-04T18:53:22.000Z",
+          "wordCount": 5293,
+          "title": "Meet the 20 first-place apps from RevenueCat’s Shipaton 2026",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/revenuecat-shipaton-2026.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735679",
+          "author": "Abner Li",
+          "description": "As teased before the launch, Henry Cavill has built a video game on Googlebook, and it’s called Mustache Protocol.\nmore…",
+          "link": "https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/",
+          "publishedOn": "2026-11-04T18:45:02.000Z",
+          "wordCount": 3044,
+          "title": "Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Henry-Cavill-Mustache-Protocol-Googlebook.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735674",
+          "author": "Andrew Romero",
+          "description": "Google Home is one of the most user-friendly smart home ecosystems, and Google has built out an extensive collection of cameras, speakers, and displays. That positions them as great gifts to expand someone’s smart home.\nmore…",
+          "link": "https://9to5google.com/2026/11/04/google-smart-home-products-make-great-gifts/",
+          "publishedOn": "2026-11-04T18:30:00.000Z",
+          "wordCount": 3589,
+          "title": "Google’s latest smart home products make the perfect gifts, and they’re on sale at Best Buy",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-design-16.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735398",
+          "author": "Ben Schoon",
+          "description": "Everyone says they want small Android phones back, and 2027 might be your chance to actually buy one. The “Enough Phone” has a mere 5.3-inch display, decent specs, and a price of $599 and less.\nmore…",
+          "link": "https://9to5google.com/2026/11/04/enough-phone-small-android-phone-2027/",
+          "publishedOn": "2026-11-04T18:00:00.000Z",
+          "wordCount": 3534,
+          "title": "‘Enough Phone’ is an Android phone roughly the size of iPhone 13 Mini, launching in 2027",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/enough-phone-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735665",
+          "author": "Justin Kahn",
+          "description": "Joining the best cash discount to date on the new Pixel 11 Pro, Pixel 11 Pro XL, and $17.50 each and a seriously notable Galaxy Z Fold 8 deals – you can land one at $300 off and score a $200 store credit today. Head below for more including Anker’s new Nano Smart Display hub at one of its best prices ever. \nmore…",
+          "link": "https://9to5google.com/2026/11/04/deals-pixel-watch-5-galaxy-z-fold-8-moto-tag-2-anker/",
+          "publishedOn": "2026-11-04T16:43:56.000Z",
+          "wordCount": 4790,
+          "title": "Deals: Pixel Watch 5 up to $200 off, Galaxy Z Fold 8 $300 off + $200 store credit, Moto Tag 2, Anker, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-4.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735653",
+          "author": "Ben Schoon",
+          "description": "Nothing has confirmed it will launch a new “AI-native” product in December, something that “couldn’t have been an app.”\nmore…",
+          "link": "https://9to5google.com/2026/11/04/nothing-teaser-new-ai-screen-less-product-launch/",
+          "publishedOn": "2026-11-04T16:25:00.000Z",
+          "wordCount": 3227,
+          "title": "Nothing teases screen-less product launching next month, ‘couldn’t have been an app’",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-review-14.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735641",
+          "author": "Nicholas Sutrich",
+          "description": "The Redmagic 12 Pro is the first Snapdragon-based Android phone to support the Linux Terminal introduced in Android 16 for Pixel phones.\nmore…",
+          "link": "https://9to5google.com/2026/11/04/the-first-snapdragon-phone-with-android-linux-terminal-support-is-here/",
+          "publishedOn": "2026-11-04T16:15:00.000Z",
+          "wordCount": 3732,
+          "title": "The first Snapdragon phone with Android Linux Terminal support is here",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/redmagic-12-pro-android-linux-terminal.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735632",
+          "author": "Ben Schoon",
+          "description": "I’ve been enamored with my Galaxy Z Fold 8 since I started using it roughly three months ago, but its one big downside has been the cameras, so I’m not exactly thrilled to hear that the Galaxy Z Fold 9 might now make any progress here.\nmore…",
+          "link": "https://9to5google.com/2026/11/04/galaxy-z-fold-8-cameras-fold-9-rumor/",
+          "publishedOn": "2026-11-04T16:00:00.000Z",
+          "wordCount": 3770,
+          "title": "Three months in, Galaxy Z Fold 8’s cameras aren’t enough, and Fold 9 might not fix it [Gallery]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-34.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735631",
+          "author": "Ben Schoon",
+          "description": "Using a computer with 8GB of RAM in 2026 is rough, to say the least, but as RAMageddon rages on, Microsoft says it is making improvements to using a Windows PC with less memory available.\nmore…",
+          "link": "https://9to5google.com/2026/11/04/microsoft-windows-8gb-ram-improvements/",
+          "publishedOn": "2026-11-04T15:30:00.000Z",
+          "wordCount": 2974,
+          "title": "Microsoft says it now sucks less to use a Windows PC with 8GB of RAM",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/HP_20OmniBook_205_2014_Soft_20Honey_20Dew_Front-copy.png?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735638",
+          "author": "Ben Schoon",
+          "description": "Google says it will roll out a fix for Nest devices that were impacted by problems with Daylight Savings adjustments due to changes in Canada.\nmore…",
+          "link": "https://9to5google.com/2026/11/04/google-will-fix-nest-devices-that-didnt-adjust-for-daylight-savings-breaking-alarms-and-more/",
+          "publishedOn": "2026-11-04T15:10:00.000Z",
+          "wordCount": 3009,
+          "title": "Google will fix Nest devices that didn’t adjust for Daylight Savings, breaking alarms and more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2021/03/Nest-Hub-2nd-gen-cover.jpeg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735630",
+          "author": "Ben Schoon",
+          "description": "In an update, Google Photos is making it possible to fully disable background music in Memories.\nmore…",
+          "link": "https://9to5google.com/2026/11/04/google-photos-now-lets-you-turn-off-background-music-in-memories/",
+          "publishedOn": "2026-11-04T14:45:00.000Z",
+          "wordCount": 2963,
+          "title": "Google Photos now lets you turn off background music in Memories",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=735587",
           "author": "Will Sattelberg",
@@ -2848,6 +2958,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/used-framework-laptop-mainboard-as-a-home-server/",
+          "author": "Rich Edmonds",
+          "description": "Swapping out components like they're going out of fashion.",
+          "link": "https://www.xda-developers.com/used-framework-laptop-mainboard-as-a-home-server/",
+          "publishedOn": "2026-11-05T01:00:20.000Z",
+          "wordCount": 6328,
+          "title": "I pulled the mainboard out of my Framework Laptop 13 and turned it into a truly modular Proxmox server",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/framework-laptop-13-server-board-running.jpg",
+            "length": "1273",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/framework-laptop-13-server-board-running.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/jbl-vibe-beam-2-38-off-right-now/",
+          "author": "Timi Cantisano",
+          "description": "40 hours of use and ANC",
+          "link": "https://www.xda-developers.com/jbl-vibe-beam-2-38-off-right-now/",
+          "publishedOn": "2026-11-05T00:44:31.000Z",
+          "wordCount": 4102,
+          "title": "The JBL Vibe Beam 2 earbuds become budget-friendly at just $40",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-1-1.png",
+            "length": "3495",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-1-1.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-let-claude-code-debloat-my-5-year-old-windows-laptop-and-it-found-30-gb-of-junk-i-never-needed/",
+          "author": "Abhinav Raj",
+          "description": "Sonnet 5.5 is a better debloater than most paid apps",
+          "link": "https://www.xda-developers.com/i-let-claude-code-debloat-my-5-year-old-windows-laptop-and-it-found-30-gb-of-junk-i-never-needed/",
+          "publishedOn": "2026-11-05T00:01:20.000Z",
+          "wordCount": 5870,
+          "title": "I let Claude Code debloat my 4-year-old Windows laptop, and it found 30 GB of junk I never needed",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-main.jpg",
+            "length": "1714",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-main.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/samsung-27-odyssey-oled-g5-g50sf-series-380-deal/",
+          "author": "Timi Cantisano",
+          "description": "This is hard to ignore",
+          "link": "https://www.xda-developers.com/samsung-27-odyssey-oled-g5-g50sf-series-380-deal/",
+          "publishedOn": "2026-11-04T23:50:00.000Z",
+          "wordCount": 4136,
+          "title": "Samsung's 180Hz QD-OLED gaming monitor is down to $380",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9.png",
+            "length": "3524",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/every-show-on-my-media-server-gets-subtitles-automatically-with-bazarr/",
+          "author": "Samarveer Singh",
+          "description": "Can't remember the last time I needed an SRT file.",
+          "link": "https://www.xda-developers.com/every-show-on-my-media-server-gets-subtitles-automatically-with-bazarr/",
+          "publishedOn": "2026-11-04T23:00:20.000Z",
+          "wordCount": 5794,
+          "title": "Every show on my media server gets subtitles automatically now, and I haven't searched for one in months",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/jellyfin-movie-the-wrestler-with-radarr-sonarr-bazarr-stack.jpg",
+            "length": "1471",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/jellyfin-movie-the-wrestler-with-radarr-sonarr-bazarr-stack.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/tried-find-php2shell-local-llm-before-disclosed-almost-there/",
+          "author": "Adam Conway",
+          "description": "It got surprisingly close.",
+          "link": "https://www.xda-developers.com/tried-find-php2shell-local-llm-before-disclosed-almost-there/",
+          "publishedOn": "2026-11-04T22:30:20.000Z",
+          "wordCount": 6163,
+          "title": "I tried to find PHP2Shell with a local LLM before it was disclosed, and it almost got there",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/dual-dgx-spark-left-angle.jpg",
+            "length": "1970",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/dual-dgx-spark-left-angle.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-started-using-power-over-ethernet-in-my-smart-home/",
+          "author": "Ayush Pande",
+          "description": "I can't go back to power bricks for my security cameras, sensors, and other gizmos",
+          "link": "https://www.xda-developers.com/i-started-using-power-over-ethernet-in-my-smart-home/",
+          "publishedOn": "2026-11-04T22:00:20.000Z",
+          "wordCount": 5431,
+          "title": "I started using Power-over-Ethernet in my smart home, and reduced cable clutter wasn’t the only benefit",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/zyxel-xgm1915-managed-switch.jpg",
+            "length": "740",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/04/zyxel-xgm1915-managed-switch.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/turned-old-laptop-into-second-screen-for-pc-without-take-it-apart/",
+          "author": "Kazim Alvi",
+          "description": "A simple and free setup that takes less than a few minutes.",
+          "link": "https://www.xda-developers.com/turned-old-laptop-into-second-screen-for-pc-without-take-it-apart/",
+          "publishedOn": "2026-11-04T21:31:21.000Z",
+          "wordCount": 5596,
+          "title": "I turned an old laptop into a second screen for my PC without needing to take it apart",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/old-laptop-as-second-screen.png",
+            "length": "7437",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/old-laptop-as-second-screen.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/affinity-been-free-for-year-its-photoshop-replacement-id-recommend-to-everyone/",
+          "author": "João Carrasqueira",
+          "description": "Affinity has always been a great app, but in the year since it's become free, it's earned my recommendation for anyone who needs to edit photos.",
+          "link": "https://www.xda-developers.com/affinity-been-free-for-year-its-photoshop-replacement-id-recommend-to-everyone/",
+          "publishedOn": "2026-11-04T21:00:20.000Z",
+          "wordCount": 6176,
+          "title": "Affinity has been free for a year now, and it's the Photoshop replacement I'd recommend to anyone",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/affinity-on-laptop.jpg",
+            "length": "19906",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/affinity-on-laptop.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-dont-need-bambus-3d-scanner-because-my-phone-already-scans-parts-well-enough-to-print-replacements/",
+          "author": "Dhruv Bhutani",
+          "description": "Phone photogrammetry replaced my need for a 3D scanner, and my replacement brackets fit.",
+          "link": "https://www.xda-developers.com/i-dont-need-bambus-3d-scanner-because-my-phone-already-scans-parts-well-enough-to-print-replacements/",
+          "publishedOn": "2026-11-04T20:30:20.000Z",
+          "wordCount": 5700,
+          "title": "I don't need Bambu's 3D scanner, because my phone already scans parts well enough to print replacements",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/kiri-engine-photogrammetry.jpg",
+            "length": "3706",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/kiri-engine-photogrammetry.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/linuxs-file-permissions-50-years-old-three-letters-still-decide-who-can-touch-file-pc/",
           "author": "Simon Batt",

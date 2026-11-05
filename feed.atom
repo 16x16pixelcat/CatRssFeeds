@@ -2,10 +2,245 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-04T05:30:10.755Z</updated>
+    <updated>2026-11-05T05:50:03.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I pulled the mainboard out of my Framework Laptop 13 and turned it into a truly modular Proxmox server]]></title>
+        <id>https://www.xda-developers.com/used-framework-laptop-mainboard-as-a-home-server/</id>
+        <link href="https://www.xda-developers.com/used-framework-laptop-mainboard-as-a-home-server/"/>
+        <updated>2026-11-05T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Swapping out components like they're going out of fashion.]]></summary>
+        <author>
+            <name>Rich Edmonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JBL Vibe Beam 2 earbuds become budget-friendly at just $40]]></title>
+        <id>https://www.xda-developers.com/jbl-vibe-beam-2-38-off-right-now/</id>
+        <link href="https://www.xda-developers.com/jbl-vibe-beam-2-38-off-right-now/"/>
+        <updated>2026-11-05T00:44:31.000Z</updated>
+        <summary type="html"><![CDATA[40 hours of use and ANC]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I let Claude Code debloat my 4-year-old Windows laptop, and it found 30 GB of junk I never needed]]></title>
+        <id>https://www.xda-developers.com/i-let-claude-code-debloat-my-5-year-old-windows-laptop-and-it-found-30-gb-of-junk-i-never-needed/</id>
+        <link href="https://www.xda-developers.com/i-let-claude-code-debloat-my-5-year-old-windows-laptop-and-it-found-30-gb-of-junk-i-never-needed/"/>
+        <updated>2026-11-05T00:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Sonnet 5.5 is a better debloater than most paid apps]]></summary>
+        <author>
+            <name>Abhinav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung's 180Hz QD-OLED gaming monitor is down to $380]]></title>
+        <id>https://www.xda-developers.com/samsung-27-odyssey-oled-g5-g50sf-series-380-deal/</id>
+        <link href="https://www.xda-developers.com/samsung-27-odyssey-oled-g5-g50sf-series-380-deal/"/>
+        <updated>2026-11-04T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[This is hard to ignore]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every show on my media server gets subtitles automatically now, and I haven't searched for one in months]]></title>
+        <id>https://www.xda-developers.com/every-show-on-my-media-server-gets-subtitles-automatically-with-bazarr/</id>
+        <link href="https://www.xda-developers.com/every-show-on-my-media-server-gets-subtitles-automatically-with-bazarr/"/>
+        <updated>2026-11-04T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Can't remember the last time I needed an SRT file.]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried to find PHP2Shell with a local LLM before it was disclosed, and it almost got there]]></title>
+        <id>https://www.xda-developers.com/tried-find-php2shell-local-llm-before-disclosed-almost-there/</id>
+        <link href="https://www.xda-developers.com/tried-find-php2shell-local-llm-before-disclosed-almost-there/"/>
+        <updated>2026-11-04T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[It got surprisingly close.]]></summary>
+        <author>
+            <name>Adam Conway</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I started using Power-over-Ethernet in my smart home, and reduced cable clutter wasn’t the only benefit]]></title>
+        <id>https://www.xda-developers.com/i-started-using-power-over-ethernet-in-my-smart-home/</id>
+        <link href="https://www.xda-developers.com/i-started-using-power-over-ethernet-in-my-smart-home/"/>
+        <updated>2026-11-04T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[I can't go back to power bricks for my security cameras, sensors, and other gizmos]]></summary>
+        <author>
+            <name>Ayush Pande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned an old laptop into a second screen for my PC without needing to take it apart]]></title>
+        <id>https://www.xda-developers.com/turned-old-laptop-into-second-screen-for-pc-without-take-it-apart/</id>
+        <link href="https://www.xda-developers.com/turned-old-laptop-into-second-screen-for-pc-without-take-it-apart/"/>
+        <updated>2026-11-04T21:31:21.000Z</updated>
+        <summary type="html"><![CDATA[A simple and free setup that takes less than a few minutes.]]></summary>
+        <author>
+            <name>Kazim Alvi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Affinity has been free for a year now, and it's the Photoshop replacement I'd recommend to anyone]]></title>
+        <id>https://www.xda-developers.com/affinity-been-free-for-year-its-photoshop-replacement-id-recommend-to-everyone/</id>
+        <link href="https://www.xda-developers.com/affinity-been-free-for-year-its-photoshop-replacement-id-recommend-to-everyone/"/>
+        <updated>2026-11-04T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Affinity has always been a great app, but in the year since it's become free, it's earned my recommendation for anyone who needs to edit photos.]]></summary>
+        <author>
+            <name>João Carrasqueira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I don't need Bambu's 3D scanner, because my phone already scans parts well enough to print replacements]]></title>
+        <id>https://www.xda-developers.com/i-dont-need-bambus-3d-scanner-because-my-phone-already-scans-parts-well-enough-to-print-replacements/</id>
+        <link href="https://www.xda-developers.com/i-dont-need-bambus-3d-scanner-because-my-phone-already-scans-parts-well-enough-to-print-replacements/"/>
+        <updated>2026-11-04T20:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Phone photogrammetry replaced my need for a 3D scanner, and my replacement brackets fit.]]></summary>
+        <author>
+            <name>Dhruv Bhutani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid-week Android app deals and freebies: Poker Ya Joker, Despotism, Potion Permit, more]]></title>
+        <id>https://9to5toys.com/2026/11/04/todays-highlight-google-play-deals-43/</id>
+        <link href="https://9to5toys.com/2026/11/04/todays-highlight-google-play-deals-43/"/>
+        <updated>2026-11-04T19:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Today’s best Google Play app and game deals are ready, including This Aint Even Poker, Ya Joker, Potion Permit, Slime Legends – Survivor, Despotism 3k, Three Kingdoms: Grand Strategy, Can You Escape: The Collection, My Car My Life, and more. We still have the best deal ever on the 2026 Pixel 11 Pro, Pixel 11 Pro XL,and $100 off all Pixel Watch 5 models, but if you have your eye on Galaxy Z Fold 8, they are now $300 off with a FREE $200 store credit. The apps await below. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the 20 first-place apps from RevenueCat’s Shipaton 2026]]></title>
+        <id>https://9to5google.com/?p=735522</id>
+        <link href="https://9to5google.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/"/>
+        <updated>2026-11-04T18:53:22.000Z</updated>
+        <summary type="html"><![CDATA[A cozy habit tracker, a smarter snippet library, and a rooster that wants you out of bed: this year’s Shipaton winners offer plenty of new apps to explore.
+RevenueCat’s annual app-building competition drew 3,985 project submissions in 2026, according to its winner announcement. Across the 20 first-place categories, developers tackled everyday frustrations, built inventive games, and found new ways to connect people.
+Here’s a look at every first-place winner:
+Read RevenueCat’s full winner announcement
+more…]]></summary>
+        <author>
+            <name>Sponsored Post</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]]]></title>
+        <id>https://9to5google.com/?p=735679</id>
+        <link href="https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/"/>
+        <updated>2026-11-04T18:45:02.000Z</updated>
+        <summary type="html"><![CDATA[As teased before the launch, Henry Cavill has built a video game on Googlebook, and it’s called Mustache Protocol.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s latest smart home products make the perfect gifts, and they’re on sale at Best Buy]]></title>
+        <id>https://9to5google.com/?p=735674</id>
+        <link href="https://9to5google.com/2026/11/04/google-smart-home-products-make-great-gifts/"/>
+        <updated>2026-11-04T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Home is one of the most user-friendly smart home ecosystems, and Google has built out an extensive collection of cameras, speakers, and displays. That positions them as great gifts to expand someone’s smart home.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Enough Phone’ is an Android phone roughly the size of iPhone 13 Mini, launching in 2027]]></title>
+        <id>https://9to5google.com/?p=735398</id>
+        <link href="https://9to5google.com/2026/11/04/enough-phone-small-android-phone-2027/"/>
+        <updated>2026-11-04T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone says they want small Android phones back, and 2027 might be your chance to actually buy one. The “Enough Phone” has a mere 5.3-inch display, decent specs, and a price of $599 and less.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Pixel Watch 5 up to $200 off, Galaxy Z Fold 8 $300 off + $200 store credit, Moto Tag 2, Anker, more]]></title>
+        <id>https://9to5google.com/?p=735665</id>
+        <link href="https://9to5google.com/2026/11/04/deals-pixel-watch-5-galaxy-z-fold-8-moto-tag-2-anker/"/>
+        <updated>2026-11-04T16:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Joining the best cash discount to date on the new Pixel 11 Pro, Pixel 11 Pro XL, and $17.50 each and a seriously notable Galaxy Z Fold 8 deals – you can land one at $300 off and score a $200 store credit today. Head below for more including Anker’s new Nano Smart Display hub at one of its best prices ever. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing teases screen-less product launching next month, ‘couldn’t have been an app’]]></title>
+        <id>https://9to5google.com/?p=735653</id>
+        <link href="https://9to5google.com/2026/11/04/nothing-teaser-new-ai-screen-less-product-launch/"/>
+        <updated>2026-11-04T16:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Nothing has confirmed it will launch a new “AI-native” product in December, something that “couldn’t have been an app.”
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first Snapdragon phone with Android Linux Terminal support is here]]></title>
+        <id>https://9to5google.com/?p=735641</id>
+        <link href="https://9to5google.com/2026/11/04/the-first-snapdragon-phone-with-android-linux-terminal-support-is-here/"/>
+        <updated>2026-11-04T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The Redmagic 12 Pro is the first Snapdragon-based Android phone to support the Linux Terminal introduced in Android 16 for Pixel phones.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three months in, Galaxy Z Fold 8’s cameras aren’t enough, and Fold 9 might not fix it [Gallery]]]></title>
+        <id>https://9to5google.com/?p=735632</id>
+        <link href="https://9to5google.com/2026/11/04/galaxy-z-fold-8-cameras-fold-9-rumor/"/>
+        <updated>2026-11-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been enamored with my Galaxy Z Fold 8 since I started using it roughly three months ago, but its one big downside has been the cameras, so I’m not exactly thrilled to hear that the Galaxy Z Fold 9 might now make any progress here.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft says it now sucks less to use a Windows PC with 8GB of RAM]]></title>
+        <id>https://9to5google.com/?p=735631</id>
+        <link href="https://9to5google.com/2026/11/04/microsoft-windows-8gb-ram-improvements/"/>
+        <updated>2026-11-04T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using a computer with 8GB of RAM in 2026 is rough, to say the least, but as RAMageddon rages on, Microsoft says it is making improvements to using a Windows PC with less memory available.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google will fix Nest devices that didn’t adjust for Daylight Savings, breaking alarms and more]]></title>
+        <id>https://9to5google.com/?p=735638</id>
+        <link href="https://9to5google.com/2026/11/04/google-will-fix-nest-devices-that-didnt-adjust-for-daylight-savings-breaking-alarms-and-more/"/>
+        <updated>2026-11-04T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Google says it will roll out a fix for Nest devices that were impacted by problems with Daylight Savings adjustments due to changes in Canada.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Photos now lets you turn off background music in Memories]]></title>
+        <id>https://9to5google.com/?p=735630</id>
+        <link href="https://9to5google.com/2026/11/04/google-photos-now-lets-you-turn-off-background-music-in-memories/"/>
+        <updated>2026-11-04T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In an update, Google Photos is making it possible to fully disable background music in Memories.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux's file permissions are over 50 years old, and three letters still decide who can touch every file on your PC]]></title>
         <id>https://www.xda-developers.com/linuxs-file-permissions-50-years-old-three-letters-still-decide-who-can-touch-file-pc/</id>
@@ -4307,38 +4542,6 @@ Improved color accuracy when streaming an OpenGL game.]]></summary>
         <updated>2026-10-06T13:00:05.000Z</updated>
         <author>
             <name>Zei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 0.4.4 Beta for Steam Frame]]></title>
-        <id>https://store.steampowered.com/news/app/4165890/view/675133527946168306</id>
-        <link href="https://store.steampowered.com/news/app/4165890/view/675133527946168306"/>
-        <updated>2026-10-05T23:14:33.000Z</updated>
-        <summary type="html"><![CDATA[SteamOS 0.4.4 (for Steam Frame) has just been released. This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-
-
-
-New in 0.4.4:
-
-Added user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New "high sensitivity" option keeps displays on under a wider range of conditions, such as when using glasses spacers.
-
-Improved tooltip sort ordering
-
-
-
-
-Previous SteamOS 0.4 Releases
-
-Power:
-
-Improved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.
-
-
-Streaming:
-
-VR streaming reliability improvements, including fixes for “Err…]]></summary>
-        <author>
-            <name>4165890 RSS Feed</name>
         </author>
     </entry>
 </feed>
