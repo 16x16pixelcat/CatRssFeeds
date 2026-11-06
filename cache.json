@@ -12,6 +12,16 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/group/4397053/view/713417405767876796",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed an issue where the friends list could get stuck when failing to login at launch and required toggling offline to load the friends list\n\nFixed a regression that caused the patch notes preview to show the previous patch notes instead of the current ones.\n\nBig Picture Mode\n\nAdded Timezone selection entries for locations with changes to daylight savings time, e.g. British Columbia, Alberta, Manitoba.\n\nLinux\n\nFixed a crash when creating a lobby in games that use the ISteamNetworking interface, e.g. Sons of the Forest",
+          "link": "https://store.steampowered.com/news/group/4397053/view/713417405767876796",
+          "publishedOn": "2026-11-06T00:21:59.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - November 5th",
+          "imageUrl": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/app/4165890/view/694276363007298391",
           "author": null,
           "description": "SteamOS 0.5.7 (for Steam Frame) has just been released. \nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested. \nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nSteamVR:\n\nSteamVR has been updated to version 2.19.1\n\nImproved vibration filtering for pose prediction that was affecting some units\n\nThe display dims for 30 seconds before sleep\n\nFoveated sharpening is now independent from Eye Tracking (previously would disable when off, now defaults to centered)\n\nRemoved Advanced Supersampling support on Steam Frame\n\nThe guided tour keeps Steam docked front and center\n\nFrame Controllers:\n\nBattery now shows correctly at 0%\n\nAdded default bindings for Chromalab, Batman Arkham, and Doom VFR\n\nOS:\n\nEnable support for WebXR in Chromium 157 & up\n\nAudio:\n\nFixed an issue where audio would stop working with USB or Bluetooth speakers if an application tried to access the microphone\n\nAdded controls to selectively disable echo cancellation and noise suppression for the microphone (requires current Steam Client Beta)\n\nYou can opt into the Steam Client Beta on headset via Settings > System > Steam Client Update Channel.",
@@ -349,26 +359,6 @@
           "wordCount": 391,
           "title": "SteamOS 0.4 for Steam Frame",
           "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/675134162359812111",
-          "author": null,
-          "description": "SteamOS 0.4.5 (for Steam Frame) has just been released. This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\n\n\nNew in 0.4.5:\n\nImproved color clarity during VR streaming (fixed headset chroma regression)\n\n\n\n\nPrevious SteamOS 0.4 Releases\n\nPower:\n\nImproved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.\n\nAdded user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New \"high sensitivity\" option keeps displays on under a wider range of conditions, such as when using glasses spacers.\n\n\nStreaming:\n\nVR streaming reli…",
-          "link": "https://store.steampowered.com/news/app/4165890/view/675134162359812111",
-          "publishedOn": "2026-10-07T02:15:00.000Z",
-          "wordCount": 392,
-          "title": "SteamOS 0.4.5 Beta for Steam Frame",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/675134162359812101",
-          "author": null,
-          "description": "Steam Client (for Steam Frame) has just been released for all users with the following changes: \n\nSteam Frame\n\nSettings shows the user-visible serial number instead of the SOC serial.\n\nGuided Tour now shows for any new account logging into the device, not just the first\n\nSteam Frame Wireless Adapter manual configuration now shows the correct list of WiFi channels in all regions.\n\nStreaming Menu shows spectating status, and a stop button.\n\nGeneral\n\nFixed the Recordings & Screenshots dialog not showing all games that have related screenshots in the game filter dropdown.\n\nImproved the text layout in achievement notifications when the name, description or both wrap across multiple lines.\n\nFix some cases of header/footer flicker and invisibility during the first seconds after waking from sleep.\n\nWhen waking from sleep with a game running but the account now playing elsewhere:\n\nProvide an option to exit the local game.\n\nGo back to sleep if there is no input for 60 seconds.\n\n\nFixed clicking the buttons in the footer causing the glyphs to change back to gamepad\n\nFixed a clicking the back button in the footer not working if nothing on the page had digital navigation focus\n\nFixed a regression that would cause the client to crash when interacting with Compatibility Tool selection dropdown if the default compatibility tool has been uninstalled.\n\nFix \"Suspend Download Throttle\" not properly updating on the downloads page.\n\nFixed regression causing crash in native Linux version of some games.\n\nRemote Play\n\nImproved color accuracy when streaming an OpenGL game.",
-          "link": "https://store.steampowered.com/news/app/4165890/view/675134162359812101",
-          "publishedOn": "2026-10-06T23:23:13.000Z",
-          "wordCount": 393,
-          "title": "Steam Client Update For Frame: October 6th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
         }
       ]
     },
@@ -494,6 +484,226 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=735898",
+          "author": "Abner Li",
+          "description": "Just over a month after the launch, Google is rolling out the “Googlebook November update” with “many bug fixes, stability improvements, and firmware updates.”\nmore…",
+          "link": "https://9to5google.com/2026/11/05/googlebook-november-update/",
+          "publishedOn": "2026-11-05T23:41:44.000Z",
+          "wordCount": 3463,
+          "title": "Big Googlebook November update rolling out with 31 fixes, improvements",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-logo-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735856",
+          "author": "Abner Li",
+          "description": "As previewed in October, Google has added “Notify when left behind” alerts for Find Hub tags and trackers on Android.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/google-find-hub-tracker-alerts/",
+          "publishedOn": "2026-11-05T21:30:00.000Z",
+          "wordCount": 3516,
+          "title": "Google Find Hub rolls out ‘Notify when left behind’ tracker alerts on Android",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/find-hub-bluetooth.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735819",
+          "author": "Nicholas Sutrich",
+          "description": "Join up with three other heisters and get revenge on the billionaire who sent you to jail in the first place in Payday Aces High, now available on Meta Quest, SteamVR, and Steam Frame.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/payday-aces-high-review-meta-quest/",
+          "publishedOn": "2026-11-05T21:00:00.000Z",
+          "wordCount": 3609,
+          "title": "Payday Aces High review: This year’s must-play multiplayer VR game",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/payday-aces-high-heist-screenshot.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735854",
+          "author": "Ben Schoon",
+          "description": "Samsung is running its much-loved “double the storage” promo on its Galaxy Z Fold 8 right now.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/samsung-galaxy-z-fold-8-doubled-storage-discount/",
+          "publishedOn": "2026-11-05T20:30:00.000Z",
+          "wordCount": 3238,
+          "title": "Samsung brings back free doubled storage discount on Galaxy Z Fold 8",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-3.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735750",
+          "author": "Ben Schoon",
+          "description": "As RAMageddon’s impact squeezes smartphones more and more, great deals on a new smartphone are going to get harder to find. Right now, Google’s Pixel 11 series and the Pixel 10 are $200 off, and that’s absolutely worth a look.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/google-pixel-11-10-deals-ramageddon/",
+          "publishedOn": "2026-11-05T19:05:00.000Z",
+          "wordCount": 3050,
+          "title": "Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-vs-pixel-10-4.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735846",
+          "author": "Abner Li",
+          "description": "Following the Messages update earlier this week, Phone by Google has received its redesigned gradient icon in the beta channel.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/phone-by-google-246-new-icon/",
+          "publishedOn": "2026-11-05T19:04:24.000Z",
+          "wordCount": 3456,
+          "title": "Phone by Google 246 beta brings gradient icon redesign on Android",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735843",
+          "author": "Andrew Romero",
+          "description": "Razer just announced a pair of ANC earbuds with a cool take on USB-C, aimed directly at mobile gamers.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/razer-releases-usb-c-earbuds-with-rgb/",
+          "publishedOn": "2026-11-05T19:00:27.000Z",
+          "wordCount": 3059,
+          "title": "Razer is getting back into wired earbuds with USB-C; yes, they have RGB",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/razer-hammerhead-v3-chroma.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735837",
+          "author": "Abner Li",
+          "description": "Warby Parker announced today that the first Android XR audio glasses will be available for pre-order on November 12.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/android-xr-glasses-pre-order/",
+          "publishedOn": "2026-11-05T18:30:26.000Z",
+          "wordCount": 3061,
+          "title": "First Android XR ‘Intelligent Eyewear’ glasses go on pre-order next week",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-13.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735399",
+          "author": "Ben Schoon",
+          "description": "Amazon Luna is getting another big freebie, as Madden NFL 27 is available today on the cloud gaming platform at no extra cost.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/madden-nfl-27-and-nba-the-run-are-now-free-on-amazon-luna/",
+          "publishedOn": "2026-11-05T18:00:00.000Z",
+          "wordCount": 3007,
+          "title": "Madden NFL 27 and NBA The Run are now free on Amazon Luna",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-luna-madden-1.png?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735787",
+          "author": "Ben Schoon",
+          "description": "Waze and Garmin appear to be teaming up on a new integration that could allow cyclists to show up within navigation.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/waze-may-soon-be-able-to-show-cyclists-using-garmin-smartwatches/",
+          "publishedOn": "2026-11-05T17:40:00.000Z",
+          "wordCount": 2939,
+          "title": "Waze may soon be able to show cyclists using Garmin smartwatches",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/02/waze-logo-2024.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735612",
+          "author": "Damien Wilde",
+          "description": "The gaming landscape has changed drastically over the past year to the point where you’re able to effectively turn a capable phone into a fully fledged Steam Deck with projects like DroidDeck.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/droiddeck/",
+          "publishedOn": "2026-11-05T17:15:00.000Z",
+          "wordCount": 5251,
+          "title": "DroidDeck review: This could change how you game on your phone [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/DroidDeck-launchscreen.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735808",
+          "author": "Nicholas Sutrich",
+          "description": "All of OnePlus’s latest devices are getting ColorOS 17, including the much-beloved OnePlus Open foldable.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/the-android-17-coloros-17-update-november-2026-device-list/",
+          "publishedOn": "2026-11-05T17:14:11.000Z",
+          "wordCount": 3335,
+          "title": "The Android 17 ColorOS 17 update is coming to 6 more OnePlus devices this month",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/07/OnePlus-12-v11.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735751",
+          "author": "Ben Schoon",
+          "description": "The switch to Gemini on Android Auto has resulted in some good functionality add-ons, but also some very noticeable slip-ups. The latest in the bunch is a problem where Gemini won’t recognize names when you’re trying to make a call or send a text via voice commands on Android Auto.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/android-auto-gemini-call-text-voice-command-bug/",
+          "publishedOn": "2026-11-05T17:05:00.000Z",
+          "wordCount": 2995,
+          "title": "Android Auto’s latest Gemini failing keeps asking ‘who do you want to call’",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735807",
+          "author": "Justin Kahn",
+          "description": "All-time low pricing is still live on the 2026 Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold, as well as Pixel Watch 5 models at $100 off. However, we also spotted a chance to score Google Nest Learning Thermostat (4th gen) at up to $120 off and loads of the latest Pixelsnap cases back at Amazon lows. Those offers join this particularly notable Amazon low on this Philips Hue Bridge Pro bundle and a massive $750 price drop on Samsung’s 16-inch Snapdragon X Elite touchscreen Galaxy Book. Be sure to scoop up some Moto Tag 2 Google Find Hub trackers at $17.50 each while you still can, and head below for a closer look at everything. \nmore…",
+          "link": "https://9to5google.com/2026/11/05/deals-nest-thermostat-pixelsnap-hue-bridge-pro-galaxy-book/",
+          "publishedOn": "2026-11-05T16:56:00.000Z",
+          "wordCount": 5261,
+          "title": "Deals: Latest Nest Learning Thermostat up to $120 off, Pixelsnap cases, Hue Bridge Pro bundle, Galaxy Book $750 off, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-5.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735754",
+          "author": "Ben Schoon",
+          "description": "According to a new report, Samsung’s upcoming mid-range smartphone is getting a big battery upgrade that outdoes that company’s current $1,400 flagship.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/samsungs-next-cheap-phone-will-have-a-much-bigger-battery-than-the-galaxy-s26-ultra/",
+          "publishedOn": "2026-11-05T16:30:00.000Z",
+          "wordCount": 3017,
+          "title": "Samsung’s next cheap phone will have a much bigger battery than the Galaxy S26 Ultra",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-15.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735395",
+          "author": "Ben Schoon",
+          "description": "AAWireless is known for helping you convert a wired Android Auto connection into a wireless one, but the company is now launching a new product – an active-cooled Qi2 car charger.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/aawireless-charge-qi2/",
+          "publishedOn": "2026-11-05T16:05:54.000Z",
+          "wordCount": 3500,
+          "title": "AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/aawireless-charge-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735697",
+          "author": "Ben Schoon",
+          "description": "Sony is bringing back its iconic Walkman MDR-3 headphones for the modern era with a USB-C connection and a price tag of $60.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/sony-walkman-mdr-3-headphones-usb-c/",
+          "publishedOn": "2026-11-05T16:00:00.000Z",
+          "wordCount": 3579,
+          "title": "Sony revives the Walkman’s iconic MDR-3 headphones with USB-C for $60",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/sony-mdr-3r-1_c24aeb.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735753",
+          "author": "Ben Schoon",
+          "description": "After the change was announced last month, YouTube is now rolling out its mobile app redesign with a new navigation bar and no dedicated Subscriptions tab and initial reactions tell a pretty clear story – everyone hates it.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/youtube-app-redesign-subscriptions-tab/",
+          "publishedOn": "2026-11-05T15:35:00.000Z",
+          "wordCount": 3616,
+          "title": "YouTube rolling out app redesign without Subscriptions tab, and everyone hates it",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/youtube-app-redesign-subs.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735700",
+          "author": "Ben Schoon",
+          "description": "Motorola is adopting Google’s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard’s Rambler and more supported.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
+          "publishedOn": "2026-11-05T13:15:00.000Z",
+          "wordCount": 3784,
+          "title": "Motorola Signature 27 gets Pixel’s Gemini Intelligence features with Rambler, Create My Widget",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735713",
+          "author": "Nicholas Sutrich",
+          "description": "The duo of Motorola accessories will see a North American release in the coming months, featuring Motorola Qira integration.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/moto-buds-ultra-27-and-watch-fit-27-help-complete-the-companys-new-premium-ecosystem/",
+          "publishedOn": "2026-11-05T13:05:00.000Z",
+          "wordCount": 3412,
+          "title": "Moto Buds Ultra 27 and Watch Fit 27 help complete the company’s new premium ecosystem",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/moto-buds-ultra-27-ecosystem-official.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735694",
+          "author": "Ben Schoon",
+          "description": "Motorola is officially back in the flagship space, with its new Signature 27 phone available for pre-order starting today, but it’ll cost a pretty penny.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/",
+          "publishedOn": "2026-11-05T13:00:00.000Z",
+          "wordCount": 3887,
+          "title": "Motorola Signature 27 goes official with true flagship specs and a $1,599 price tag",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-1-copy.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735685",
+          "author": "Daniel Bader",
+          "description": "Good morning, and happy Ocarina of Time day to all who celebrate. Oh, and speaking of celebrating: congratulations to the real winners of the midterms, YouTube and Twitch streamers.\nInbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe.\nmore…",
+          "link": "https://9to5google.com/2026/11/05/googles-ai-search-fumbles-leave-schools-in-the-lurch/",
+          "publishedOn": "2026-11-05T12:00:00.000Z",
+          "wordCount": 4465,
+          "title": "Google’s AI search fumbles leave schools in the lurch",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/12/Lenovo-Chromebook-Duet-11.webp?resize=1200,628"
+        },
         {
           "id": "https://9to5toys.com/2026/11/04/todays-highlight-google-play-deals-43/",
           "author": "9to5Toys",
@@ -2958,6 +3168,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/this-esp32-music-player-can-swivel-to-become-a-gba-gaming-handheld/",
+          "author": "Simon Batt",
+          "description": "It's two devices in one.",
+          "link": "https://www.xda-developers.com/this-esp32-music-player-can-swivel-to-become-a-gba-gaming-handheld/",
+          "publishedOn": "2026-11-06T04:57:43.000Z",
+          "wordCount": 4296,
+          "title": "This ESP32 music player can swivel to become a GBA gaming handheld",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/esp32-s3-usb-6.jpg",
+            "length": "8956",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/esp32-s3-usb-6.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/task-manager-hides-auto-start-programs-a-few-simple-tricks-show-the-truth/",
+          "author": "Samarveer Singh",
+          "description": "Your Windows PC is launching apps Task Manager never shows you",
+          "link": "https://www.xda-developers.com/task-manager-hides-auto-start-programs-a-few-simple-tricks-show-the-truth/",
+          "publishedOn": "2026-11-06T01:00:20.000Z",
+          "wordCount": 5803,
+          "title": "Your Windows PC has more auto-starting apps than Task Manager lets on, and you can find them in minutes",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/windows-11-task-manager-startup-tab.jpg",
+            "length": "1530",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/windows-11-task-manager-startup-tab.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/tried-5-open-source-obsidian-alternatives-one-was-an-easy-winner/",
+          "author": "Parth Shah",
+          "description": "Five promising apps, one clear winner.",
+          "link": "https://www.xda-developers.com/tried-5-open-source-obsidian-alternatives-one-was-an-easy-winner/",
+          "publishedOn": "2026-11-06T00:01:20.000Z",
+          "wordCount": 5314,
+          "title": "I tried 5 open-source Obsidian alternatives, and one was an easy winner",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/appflowy-is-best-open-source-obsidian-alternative.jpg",
+            "length": "2435",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/appflowy-is-best-open-source-obsidian-alternative.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/before-gta-6-comes-out-you-can-play-gta-v-in-browser-it-runs-perfectly/",
+          "author": "Samarveer Singh",
+          "description": "Ctrl+T for Los Santos.",
+          "link": "https://www.xda-developers.com/before-gta-6-comes-out-you-can-play-gta-v-in-browser-it-runs-perfectly/",
+          "publishedOn": "2026-11-05T23:00:21.000Z",
+          "wordCount": 7217,
+          "title": "Before GTA VI comes out, I'm playing the entirety of GTA V completely in my web browser",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/grand-theft-auto-v-in-a-web-browser-grand-v.jpg",
+            "length": "3376",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/grand-theft-auto-v-in-a-web-browser-grand-v.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/my-gaming-gpu-sat-idle-most-of-the-day-so-i-turned-it-into-a-local-ai-server-the-whole-house-can-use/",
+          "author": "Abhinav Raj",
+          "description": "One Llama.cpp command can turn your PC into an AI server, and it really is that easy",
+          "link": "https://www.xda-developers.com/my-gaming-gpu-sat-idle-most-of-the-day-so-i-turned-it-into-a-local-ai-server-the-whole-house-can-use/",
+          "publishedOn": "2026-11-05T22:30:20.000Z",
+          "wordCount": 5801,
+          "title": "My gaming GPU sat idle most of the day, so I turned it into a local AI server the whole house can use",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/main-inference-server.jpg",
+            "length": "2481",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/main-inference-server.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/the-550-price-drop-on-this-laptop-is-well-worth-taking-a-look/",
+          "author": "Timi Cantisano",
+          "description": "Well worth taking a look",
+          "link": "https://www.xda-developers.com/the-550-price-drop-on-this-laptop-is-well-worth-taking-a-look/",
+          "publishedOn": "2026-11-05T22:09:08.000Z",
+          "wordCount": 4251,
+          "title": "This Intel Core Ultra X7 laptop with a 3K OLED screen is $550 off",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/12/img_4782.JPG",
+            "length": "965",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2024/12/img_4782.JPG"
+        },
+        {
+          "id": "https://www.xda-developers.com/claude-code-fresh-windows-install-script/",
+          "author": "Korbin Brown",
+          "description": "A fresh Windows install now sets itself up while I get coffee.",
+          "link": "https://www.xda-developers.com/claude-code-fresh-windows-install-script/",
+          "publishedOn": "2026-11-05T22:00:21.000Z",
+          "wordCount": 5618,
+          "title": "Claude Code wrote the Windows setup script I kept putting off, and my fresh installs now finish in 20 minutes",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-code-windows-setup-script-feature.avif",
+            "length": "2863",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-code-windows-setup-script-feature.avif"
+        },
+        {
+          "id": "https://www.xda-developers.com/zelda-ocarina-of-time-reportedly-already-runs-on-pc-emulator-just-hours-afterswitch-2-release/",
+          "author": "Patrick O'Rourke",
+          "description": "Lichii emulator seems to be at the forefront of Switch 2 PC emulation.",
+          "link": "https://www.xda-developers.com/zelda-ocarina-of-time-reportedly-already-runs-on-pc-emulator-just-hours-afterswitch-2-release/",
+          "publishedOn": "2026-11-05T21:46:17.000Z",
+          "wordCount": 4544,
+          "title": "Zelda: Ocarina of Time reportedly already runs on PC through an emulator, just hours after its Switch 2 release",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/zelda-ocarina-of-time-screenshot-1.jpg",
+            "length": "322",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/zelda-ocarina-of-time-screenshot-1.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-spent-500-usd-aging-pc-upgrade-instead-of-buying-new/",
+          "author": "Tanveer Singh",
+          "description": "A high-end GPU, a modern CPU, and 32GB of RAM",
+          "link": "https://www.xda-developers.com/i-spent-500-usd-aging-pc-upgrade-instead-of-buying-new/",
+          "publishedOn": "2026-11-05T21:31:21.000Z",
+          "wordCount": 6316,
+          "title": "I spent $500 to upgrade my aging gaming PC, and it beat buying a new one",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gaming-pc-old-ryzen-1660-gtx-1660-ti.png",
+            "length": "12962",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gaming-pc-old-ryzen-1660-gtx-1660-ti.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/acemagic-m5-mini-pc-500-deal/",
+          "author": "Timi Cantisano",
+          "description": "Intel Core 5, 16GB of RAM, and 512GB of SSD storage",
+          "link": "https://www.xda-developers.com/acemagic-m5-mini-pc-500-deal/",
+          "publishedOn": "2026-11-05T21:18:07.000Z",
+          "wordCount": 4116,
+          "title": "The perfect mini PC for everday use is now down $400 off",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-1-2.png",
+            "length": "3323",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-1-2.png"
+        },
         {
           "id": "https://www.xda-developers.com/used-framework-laptop-mainboard-as-a-home-server/",
           "author": "Rich Edmonds",

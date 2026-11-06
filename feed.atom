@@ -2,10 +2,377 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-05T05:50:03.897Z</updated>
+    <updated>2026-11-06T05:46:51.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This ESP32 music player can swivel to become a GBA gaming handheld]]></title>
+        <id>https://www.xda-developers.com/this-esp32-music-player-can-swivel-to-become-a-gba-gaming-handheld/</id>
+        <link href="https://www.xda-developers.com/this-esp32-music-player-can-swivel-to-become-a-gba-gaming-handheld/"/>
+        <updated>2026-11-06T04:57:43.000Z</updated>
+        <summary type="html"><![CDATA[It's two devices in one.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Windows PC has more auto-starting apps than Task Manager lets on, and you can find them in minutes]]></title>
+        <id>https://www.xda-developers.com/task-manager-hides-auto-start-programs-a-few-simple-tricks-show-the-truth/</id>
+        <link href="https://www.xda-developers.com/task-manager-hides-auto-start-programs-a-few-simple-tricks-show-the-truth/"/>
+        <updated>2026-11-06T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Your Windows PC is launching apps Task Manager never shows you]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - November 5th]]></title>
+        <id>https://store.steampowered.com/news/group/4397053/view/713417405767876796</id>
+        <link href="https://store.steampowered.com/news/group/4397053/view/713417405767876796"/>
+        <updated>2026-11-06T00:21:59.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+General
+
+Fixed an issue where the friends list could get stuck when failing to login at launch and required toggling offline to load the friends list
+
+Fixed a regression that caused the patch notes preview to show the previous patch notes instead of the current ones.
+
+Big Picture Mode
+
+Added Timezone selection entries for locations with changes to daylight savings time, e.g. British Columbia, Alberta, Manitoba.
+
+Linux
+
+Fixed a crash when creating a lobby in games that use the ISteamNetworking interface, e.g. Sons of the Forest]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried 5 open-source Obsidian alternatives, and one was an easy winner]]></title>
+        <id>https://www.xda-developers.com/tried-5-open-source-obsidian-alternatives-one-was-an-easy-winner/</id>
+        <link href="https://www.xda-developers.com/tried-5-open-source-obsidian-alternatives-one-was-an-easy-winner/"/>
+        <updated>2026-11-06T00:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Five promising apps, one clear winner.]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Googlebook November update rolling out with 31 fixes, improvements]]></title>
+        <id>https://9to5google.com/?p=735898</id>
+        <link href="https://9to5google.com/2026/11/05/googlebook-november-update/"/>
+        <updated>2026-11-05T23:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Just over a month after the launch, Google is rolling out the “Googlebook November update” with “many bug fixes, stability improvements, and firmware updates.”
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before GTA VI comes out, I'm playing the entirety of GTA V completely in my web browser]]></title>
+        <id>https://www.xda-developers.com/before-gta-6-comes-out-you-can-play-gta-v-in-browser-it-runs-perfectly/</id>
+        <link href="https://www.xda-developers.com/before-gta-6-comes-out-you-can-play-gta-v-in-browser-it-runs-perfectly/"/>
+        <updated>2026-11-05T23:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Ctrl+T for Los Santos.]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My gaming GPU sat idle most of the day, so I turned it into a local AI server the whole house can use]]></title>
+        <id>https://www.xda-developers.com/my-gaming-gpu-sat-idle-most-of-the-day-so-i-turned-it-into-a-local-ai-server-the-whole-house-can-use/</id>
+        <link href="https://www.xda-developers.com/my-gaming-gpu-sat-idle-most-of-the-day-so-i-turned-it-into-a-local-ai-server-the-whole-house-can-use/"/>
+        <updated>2026-11-05T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[One Llama.cpp command can turn your PC into an AI server, and it really is that easy]]></summary>
+        <author>
+            <name>Abhinav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Intel Core Ultra X7 laptop with a 3K OLED screen is $550 off]]></title>
+        <id>https://www.xda-developers.com/the-550-price-drop-on-this-laptop-is-well-worth-taking-a-look/</id>
+        <link href="https://www.xda-developers.com/the-550-price-drop-on-this-laptop-is-well-worth-taking-a-look/"/>
+        <updated>2026-11-05T22:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Well worth taking a look]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code wrote the Windows setup script I kept putting off, and my fresh installs now finish in 20 minutes]]></title>
+        <id>https://www.xda-developers.com/claude-code-fresh-windows-install-script/</id>
+        <link href="https://www.xda-developers.com/claude-code-fresh-windows-install-script/"/>
+        <updated>2026-11-05T22:00:21.000Z</updated>
+        <summary type="html"><![CDATA[A fresh Windows install now sets itself up while I get coffee.]]></summary>
+        <author>
+            <name>Korbin Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelda: Ocarina of Time reportedly already runs on PC through an emulator, just hours after its Switch 2 release]]></title>
+        <id>https://www.xda-developers.com/zelda-ocarina-of-time-reportedly-already-runs-on-pc-emulator-just-hours-afterswitch-2-release/</id>
+        <link href="https://www.xda-developers.com/zelda-ocarina-of-time-reportedly-already-runs-on-pc-emulator-just-hours-afterswitch-2-release/"/>
+        <updated>2026-11-05T21:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Lichii emulator seems to be at the forefront of Switch 2 PC emulation.]]></summary>
+        <author>
+            <name>Patrick O'Rourke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I spent $500 to upgrade my aging gaming PC, and it beat buying a new one]]></title>
+        <id>https://www.xda-developers.com/i-spent-500-usd-aging-pc-upgrade-instead-of-buying-new/</id>
+        <link href="https://www.xda-developers.com/i-spent-500-usd-aging-pc-upgrade-instead-of-buying-new/"/>
+        <updated>2026-11-05T21:31:21.000Z</updated>
+        <summary type="html"><![CDATA[A high-end GPU, a modern CPU, and 32GB of RAM]]></summary>
+        <author>
+            <name>Tanveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Find Hub rolls out ‘Notify when left behind’ tracker alerts on Android]]></title>
+        <id>https://9to5google.com/?p=735856</id>
+        <link href="https://9to5google.com/2026/11/05/google-find-hub-tracker-alerts/"/>
+        <updated>2026-11-05T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As previewed in October, Google has added “Notify when left behind” alerts for Find Hub tags and trackers on Android.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The perfect mini PC for everday use is now down $400 off]]></title>
+        <id>https://www.xda-developers.com/acemagic-m5-mini-pc-500-deal/</id>
+        <link href="https://www.xda-developers.com/acemagic-m5-mini-pc-500-deal/"/>
+        <updated>2026-11-05T21:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Intel Core 5, 16GB of RAM, and 512GB of SSD storage]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payday Aces High review: This year’s must-play multiplayer VR game]]></title>
+        <id>https://9to5google.com/?p=735819</id>
+        <link href="https://9to5google.com/2026/11/05/payday-aces-high-review-meta-quest/"/>
+        <updated>2026-11-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join up with three other heisters and get revenge on the billionaire who sent you to jail in the first place in Payday Aces High, now available on Meta Quest, SteamVR, and Steam Frame.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung brings back free doubled storage discount on Galaxy Z Fold 8]]></title>
+        <id>https://9to5google.com/?p=735854</id>
+        <link href="https://9to5google.com/2026/11/05/samsung-galaxy-z-fold-8-doubled-storage-discount/"/>
+        <updated>2026-11-05T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung is running its much-loved “double the storage” promo on its Galaxy Z Fold 8 right now.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon]]></title>
+        <id>https://9to5google.com/?p=735750</id>
+        <link href="https://9to5google.com/2026/11/05/google-pixel-11-10-deals-ramageddon/"/>
+        <updated>2026-11-05T19:05:00.000Z</updated>
+        <summary type="html"><![CDATA[As RAMageddon’s impact squeezes smartphones more and more, great deals on a new smartphone are going to get harder to find. Right now, Google’s Pixel 11 series and the Pixel 10 are $200 off, and that’s absolutely worth a look.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phone by Google 246 beta brings gradient icon redesign on Android]]></title>
+        <id>https://9to5google.com/?p=735846</id>
+        <link href="https://9to5google.com/2026/11/05/phone-by-google-246-new-icon/"/>
+        <updated>2026-11-05T19:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Following the Messages update earlier this week, Phone by Google has received its redesigned gradient icon in the beta channel.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer is getting back into wired earbuds with USB-C; yes, they have RGB]]></title>
+        <id>https://9to5google.com/?p=735843</id>
+        <link href="https://9to5google.com/2026/11/05/razer-releases-usb-c-earbuds-with-rgb/"/>
+        <updated>2026-11-05T19:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Razer just announced a pair of ANC earbuds with a cool take on USB-C, aimed directly at mobile gamers.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Android XR ‘Intelligent Eyewear’ glasses go on pre-order next week]]></title>
+        <id>https://9to5google.com/?p=735837</id>
+        <link href="https://9to5google.com/2026/11/05/android-xr-glasses-pre-order/"/>
+        <updated>2026-11-05T18:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Warby Parker announced today that the first Android XR audio glasses will be available for pre-order on November 12.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madden NFL 27 and NBA The Run are now free on Amazon Luna]]></title>
+        <id>https://9to5google.com/?p=735399</id>
+        <link href="https://9to5google.com/2026/11/05/madden-nfl-27-and-nba-the-run-are-now-free-on-amazon-luna/"/>
+        <updated>2026-11-05T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Luna is getting another big freebie, as Madden NFL 27 is available today on the cloud gaming platform at no extra cost.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waze may soon be able to show cyclists using Garmin smartwatches]]></title>
+        <id>https://9to5google.com/?p=735787</id>
+        <link href="https://9to5google.com/2026/11/05/waze-may-soon-be-able-to-show-cyclists-using-garmin-smartwatches/"/>
+        <updated>2026-11-05T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Waze and Garmin appear to be teaming up on a new integration that could allow cyclists to show up within navigation.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DroidDeck review: This could change how you game on your phone [Video]]]></title>
+        <id>https://9to5google.com/?p=735612</id>
+        <link href="https://9to5google.com/2026/11/05/droiddeck/"/>
+        <updated>2026-11-05T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The gaming landscape has changed drastically over the past year to the point where you’re able to effectively turn a capable phone into a fully fledged Steam Deck with projects like DroidDeck.
+more…]]></summary>
+        <author>
+            <name>Damien Wilde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Android 17 ColorOS 17 update is coming to 6 more OnePlus devices this month]]></title>
+        <id>https://9to5google.com/?p=735808</id>
+        <link href="https://9to5google.com/2026/11/05/the-android-17-coloros-17-update-november-2026-device-list/"/>
+        <updated>2026-11-05T17:14:11.000Z</updated>
+        <summary type="html"><![CDATA[All of OnePlus’s latest devices are getting ColorOS 17, including the much-beloved OnePlus Open foldable.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto’s latest Gemini failing keeps asking ‘who do you want to call’]]></title>
+        <id>https://9to5google.com/?p=735751</id>
+        <link href="https://9to5google.com/2026/11/05/android-auto-gemini-call-text-voice-command-bug/"/>
+        <updated>2026-11-05T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The switch to Gemini on Android Auto has resulted in some good functionality add-ons, but also some very noticeable slip-ups. The latest in the bunch is a problem where Gemini won’t recognize names when you’re trying to make a call or send a text via voice commands on Android Auto.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Latest Nest Learning Thermostat up to $120 off, Pixelsnap cases, Hue Bridge Pro bundle, Galaxy Book $750 off, more]]></title>
+        <id>https://9to5google.com/?p=735807</id>
+        <link href="https://9to5google.com/2026/11/05/deals-nest-thermostat-pixelsnap-hue-bridge-pro-galaxy-book/"/>
+        <updated>2026-11-05T16:56:00.000Z</updated>
+        <summary type="html"><![CDATA[All-time low pricing is still live on the 2026 Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold, as well as Pixel Watch 5 models at $100 off. However, we also spotted a chance to score Google Nest Learning Thermostat (4th gen) at up to $120 off and loads of the latest Pixelsnap cases back at Amazon lows. Those offers join this particularly notable Amazon low on this Philips Hue Bridge Pro bundle and a massive $750 price drop on Samsung’s 16-inch Snapdragon X Elite touchscreen Galaxy Book. Be sure to scoop up some Moto Tag 2 Google Find Hub trackers at $17.50 each while you still can, and head below for a closer look at everything. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s next cheap phone will have a much bigger battery than the Galaxy S26 Ultra]]></title>
+        <id>https://9to5google.com/?p=735754</id>
+        <link href="https://9to5google.com/2026/11/05/samsungs-next-cheap-phone-will-have-a-much-bigger-battery-than-the-galaxy-s26-ultra/"/>
+        <updated>2026-11-05T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[According to a new report, Samsung’s upcoming mid-range smartphone is getting a big battery upgrade that outdoes that company’s current $1,400 flagship.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AAWireless expands beyond Android Auto adapters with new cooled Qi2 car charger]]></title>
+        <id>https://9to5google.com/?p=735395</id>
+        <link href="https://9to5google.com/2026/11/05/aawireless-charge-qi2/"/>
+        <updated>2026-11-05T16:05:54.000Z</updated>
+        <summary type="html"><![CDATA[AAWireless is known for helping you convert a wired Android Auto connection into a wireless one, but the company is now launching a new product – an active-cooled Qi2 car charger.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony revives the Walkman’s iconic MDR-3 headphones with USB-C for $60]]></title>
+        <id>https://9to5google.com/?p=735697</id>
+        <link href="https://9to5google.com/2026/11/05/sony-walkman-mdr-3-headphones-usb-c/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sony is bringing back its iconic Walkman MDR-3 headphones for the modern era with a USB-C connection and a price tag of $60.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube rolling out app redesign without Subscriptions tab, and everyone hates it]]></title>
+        <id>https://9to5google.com/?p=735753</id>
+        <link href="https://9to5google.com/2026/11/05/youtube-app-redesign-subscriptions-tab/"/>
+        <updated>2026-11-05T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[After the change was announced last month, YouTube is now rolling out its mobile app redesign with a new navigation bar and no dedicated Subscriptions tab and initial reactions tell a pretty clear story – everyone hates it.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola Signature 27 gets Pixel’s Gemini Intelligence features with Rambler, Create My Widget]]></title>
+        <id>https://9to5google.com/?p=735700</id>
+        <link href="https://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/"/>
+        <updated>2026-11-05T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Motorola is adopting Google’s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard’s Rambler and more supported.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moto Buds Ultra 27 and Watch Fit 27 help complete the company’s new premium ecosystem]]></title>
+        <id>https://9to5google.com/?p=735713</id>
+        <link href="https://9to5google.com/2026/11/05/moto-buds-ultra-27-and-watch-fit-27-help-complete-the-companys-new-premium-ecosystem/"/>
+        <updated>2026-11-05T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The duo of Motorola accessories will see a North American release in the coming months, featuring Motorola Qira integration.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola Signature 27 goes official with true flagship specs and a $1,599 price tag]]></title>
+        <id>https://9to5google.com/?p=735694</id>
+        <link href="https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/"/>
+        <updated>2026-11-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motorola is officially back in the flagship space, with its new Signature 27 phone available for pre-order starting today, but it’ll cost a pretty penny.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s AI search fumbles leave schools in the lurch]]></title>
+        <id>https://9to5google.com/?p=735685</id>
+        <link href="https://9to5google.com/2026/11/05/googles-ai-search-fumbles-leave-schools-in-the-lurch/"/>
+        <updated>2026-11-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Good morning, and happy Ocarina of Time day to all who celebrate. Oh, and speaking of celebrating: congratulations to the real winners of the midterms, YouTube and Twitch streamers.
+Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe.
+more…]]></summary>
+        <author>
+            <name>Daniel Bader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I pulled the mainboard out of my Framework Laptop 13 and turned it into a truly modular Proxmox server]]></title>
         <id>https://www.xda-developers.com/used-framework-laptop-mainboard-as-a-home-server/</id>
@@ -4452,87 +4819,6 @@ VR streaming reliability improvements, including fixes for “Error 17.” Note:
         <updated>2026-10-07T13:00:19.000Z</updated>
         <author>
             <name>SleepyCatHey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 0.4.5 Beta for Steam Frame]]></title>
-        <id>https://store.steampowered.com/news/app/4165890/view/675134162359812111</id>
-        <link href="https://store.steampowered.com/news/app/4165890/view/675134162359812111"/>
-        <updated>2026-10-07T02:15:00.000Z</updated>
-        <summary type="html"><![CDATA[SteamOS 0.4.5 (for Steam Frame) has just been released. This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-
-
-
-New in 0.4.5:
-
-Improved color clarity during VR streaming (fixed headset chroma regression)
-
-
-
-
-Previous SteamOS 0.4 Releases
-
-Power:
-
-Improved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.
-
-Added user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New "high sensitivity" option keeps displays on under a wider range of conditions, such as when using glasses spacers.
-
-
-Streaming:
-
-VR streaming reli…]]></summary>
-        <author>
-            <name>4165890 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Client Update For Frame: October 6th]]></title>
-        <id>https://store.steampowered.com/news/app/4165890/view/675134162359812101</id>
-        <link href="https://store.steampowered.com/news/app/4165890/view/675134162359812101"/>
-        <updated>2026-10-06T23:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Steam Client (for Steam Frame) has just been released for all users with the following changes: 
-
-Steam Frame
-
-Settings shows the user-visible serial number instead of the SOC serial.
-
-Guided Tour now shows for any new account logging into the device, not just the first
-
-Steam Frame Wireless Adapter manual configuration now shows the correct list of WiFi channels in all regions.
-
-Streaming Menu shows spectating status, and a stop button.
-
-General
-
-Fixed the Recordings & Screenshots dialog not showing all games that have related screenshots in the game filter dropdown.
-
-Improved the text layout in achievement notifications when the name, description or both wrap across multiple lines.
-
-Fix some cases of header/footer flicker and invisibility during the first seconds after waking from sleep.
-
-When waking from sleep with a game running but the account now playing elsewhere:
-
-Provide an option to exit the local game.
-
-Go back to sleep if there is no input for 60 seconds.
-
-
-Fixed clicking the buttons in the footer causing the glyphs to change back to gamepad
-
-Fixed a clicking the back button in the footer not working if nothing on the page had digital navigation focus
-
-Fixed a regression that would cause the client to crash when interacting with Compatibility Tool selection dropdown if the default compatibility tool has been uninstalled.
-
-Fix "Suspend Download Throttle" not properly updating on the downloads page.
-
-Fixed regression causing crash in native Linux version of some games.
-
-Remote Play
-
-Improved color accuracy when streaming an OpenGL game.]]></summary>
-        <author>
-            <name>4165890 RSS Feed</name>
         </author>
     </entry>
     <entry>
