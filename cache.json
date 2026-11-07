@@ -12,6 +12,36 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/4165890/view/694277269707816972",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed a case where Steam Cloud Sync would incorrectly show a conflict in some games, e.g. Monster Hunter World\n\nSteam Controller\n\nFixed a case where a firmware update would still show up as available for a few seconds after it was applied.\n\nSteam Input\n\nFixed \"Joystick Power Curve\" setting in \"Gyro to Joystick Camera\" and \"Gyro to Joystick Deflection\" modes. This setting was not being applied. If you have changed this setting in the past, you may notice a change in the response - reset this setting if necessary, before tuning further.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/694277269707816972",
+          "publishedOn": "2026-11-07T01:29:43.000Z",
+          "wordCount": 392,
+          "title": "Steam Client Beta - November 6th",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/group/4397053/view/713417567788597256",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed a case where Steam Cloud Sync would incorrectly show a conflict in some games, e.g. Monster Hunter World\n\nSteam Controller\n\nFixed a case where a firmware update would still show up as available for a few seconds after it was applied.\n\nSteam Input\n\nFixed \"Joystick Power Curve\" setting in \"Gyro to Joystick Camera\" and \"Gyro to Joystick Deflection\" modes. This setting was not being applied. If you have changed this setting in the past, you may notice a change in the response - reset this setting if necessary, before tuning further.",
+          "link": "https://store.steampowered.com/news/group/4397053/view/713417567788597256",
+          "publishedOn": "2026-11-07T01:27:03.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - November 6th",
+          "imageUrl": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/694277107352601013",
+          "author": null,
+          "description": "SteamOS 0.5.8 (for Steam Frame) has just been released.\nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested.\nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nCamera Pass Through / Room View:\n\nPC Streaming now supports Room View. Previously, enabling Room View would hide remote content.\n\nYou can now see remote desktop / remote game theater while camera passthrough is active.\n\nPC VR games with OpenXR mixed reality support are now able to blend VR content and camera passthrough. (Example: X-Plane 12)\n\n\nNote: this feature requires also opting into the beta branch of SteamVR on PC\nTo opt into the beta branch of SteamVR on PC, right-click on SteamVR in your Steam library, select Properties, Game Versions & Beta, and choose beta.\n\n\nGeneral\n\nOverlay render quality is now always set to Low on Steam Frame, and the option is hidden. This fixes problems that happened when Ultra was selected.\n\nImproved eye tracking self-calibration.\n\nFixed low-end gamma response, including inconsistencies between eyes, on some headsets.\n\nFixed a permission issue that prevented WebXR from working in Chrome v157.\n\n\nDevelopers:\n\nAllows OpenXR games streamed from PC to use [c]XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND[/c].\n\n\nSteamVR has been updated to version 2.19.2.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/694277107352601013",
+          "publishedOn": "2026-11-07T01:15:53.000Z",
+          "wordCount": 392,
+          "title": "SteamOS 0.5.8 Beta for Steam Frame",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/group/4397053/view/713417405767876796",
           "author": null,
           "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed an issue where the friends list could get stuck when failing to login at launch and required toggling offline to load the friends list\n\nFixed a regression that caused the patch notes preview to show the previous patch notes instead of the current ones.\n\nBig Picture Mode\n\nAdded Timezone selection entries for locations with changes to daylight savings time, e.g. British Columbia, Alberta, Manitoba.\n\nLinux\n\nFixed a crash when creating a lobby in games that use the ISteamNetworking interface, e.g. Sons of the Forest",
@@ -321,6 +351,26 @@
       "siteUrl": "https://store.steampowered.com/news/app/4165890/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/4165890/view/694277269707816972",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed a case where Steam Cloud Sync would incorrectly show a conflict in some games, e.g. Monster Hunter World\n\nSteam Controller\n\nFixed a case where a firmware update would still show up as available for a few seconds after it was applied.\n\nSteam Input\n\nFixed \"Joystick Power Curve\" setting in \"Gyro to Joystick Camera\" and \"Gyro to Joystick Deflection\" modes. This setting was not being applied. If you have changed this setting in the past, you may notice a change in the response - reset this setting if necessary, before tuning further.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/694277269707816972",
+          "publishedOn": "2026-11-07T01:29:43.000Z",
+          "wordCount": 392,
+          "title": "Steam Client Beta - November 6th",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/694277107352601013",
+          "author": null,
+          "description": "SteamOS 0.5.8 (for Steam Frame) has just been released.\nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested.\nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nCamera Pass Through / Room View:\n\nPC Streaming now supports Room View. Previously, enabling Room View would hide remote content.\n\nYou can now see remote desktop / remote game theater while camera passthrough is active.\n\nPC VR games with OpenXR mixed reality support are now able to blend VR content and camera passthrough. (Example: X-Plane 12)\n\n\nNote: this feature requires also opting into the beta branch of SteamVR on PC\nTo opt into the beta branch of SteamVR on PC, right-click on SteamVR in your Steam library, select Properties, Game Versions & Beta, and choose beta.\n\n\nGeneral\n\nOverlay render quality is now always set to Low on Steam Frame, and the option is hidden. This fixes problems that happened when Ultra was selected.\n\nImproved eye tracking self-calibration.\n\nFixed low-end gamma response, including inconsistencies between eyes, on some headsets.\n\nFixed a permission issue that prevented WebXR from working in Chrome v157.\n\n\nDevelopers:\n\nAllows OpenXR games streamed from PC to use [c]XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND[/c].\n\n\nSteamVR has been updated to version 2.19.2.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/694277107352601013",
+          "publishedOn": "2026-11-07T01:15:53.000Z",
+          "wordCount": 392,
+          "title": "SteamOS 0.5.8 Beta for Steam Frame",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/app/4165890/view/694276363007298391",
           "author": null,
           "description": "SteamOS 0.5.7 (for Steam Frame) has just been released. \nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested. \nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nSteamVR:\n\nSteamVR has been updated to version 2.19.1\n\nImproved vibration filtering for pose prediction that was affecting some units\n\nThe display dims for 30 seconds before sleep\n\nFoveated sharpening is now independent from Eye Tracking (previously would disable when off, now defaults to centered)\n\nRemoved Advanced Supersampling support on Steam Frame\n\nThe guided tour keeps Steam docked front and center\n\nFrame Controllers:\n\nBattery now shows correctly at 0%\n\nAdded default bindings for Chromalab, Batman Arkham, and Doom VFR\n\nOS:\n\nEnable support for WebXR in Chromium 157 & up\n\nAudio:\n\nFixed an issue where audio would stop working with USB or Bluetooth speakers if an application tried to access the microphone\n\nAdded controls to selectively disable echo cancellation and noise suppression for the microphone (requires current Steam Client Beta)\n\nYou can opt into the Steam Client Beta on headset via Settings > System > Steam Client Update Channel.",
@@ -484,6 +534,146 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=736003",
+          "author": "Ben Schoon",
+          "description": "An issue with Google’s original Nest Doorbell has left live view of the video feed broken for many owners, and there’s no word on a fix just yet.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports/",
+          "publishedOn": "2026-11-06T23:15:00.000Z",
+          "wordCount": 3067,
+          "title": "Google’s original Nest Doorbell is broken for many right now",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_hello_doorbell_1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736001",
+          "author": "Ben Schoon",
+          "description": "Following a pre-order date announcement earlier this week, Google’s other Android XR launch partner has now confirmed a December release date for this first batch of glasses.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
+          "publishedOn": "2026-11-06T22:40:00.000Z",
+          "wordCount": 3084,
+          "title": "Android XR glasses officially get a December release date [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-gentle-monster-7.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735994",
+          "author": "Will Sattelberg",
+          "description": "Welcome to Pixelated episode 124. This week, Damien, Abner, and Will dive into the announcement of Motorola’s flagship return in North America, the Signature 27. Is a $1,600 non-foldable the comeback everyone hoped for, or is this device doomed by rising component costs? Then, with Apple’s HomeView smart display set to launch next week, the gang examines Google’s lack of a modernized competitor and wonder what they’d want to see from a relaunch in 2027.\nEnjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode.\nSponsored by Proton Unlimited: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link. Thanks to Proton Unlimited for sponsoring the podcast.\n\n\n\n\nSubscribe\nYouTube Podcasts\nPocket Casts\nSpotify\nAmazon Music\nApple Podcasts\nOvercast\nmore…",
+          "link": "https://9to5google.com/2026/11/06/pixelated-124-is-it-time-for-a-nest-hub-comeback/",
+          "publishedOn": "2026-11-06T22:00:00.000Z",
+          "wordCount": 3056,
+          "title": "Pixelated 124: Is it time for a Nest Hub comeback?",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735935",
+          "author": "Nicholas Sutrich",
+          "description": "Ray-Ban Meta Audio glasses attempt to curb the controversy by removing the cameras, and while they’re still an excellent product, the price makes them harder to recommend.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/",
+          "publishedOn": "2026-11-06T21:09:14.000Z",
+          "wordCount": 4965,
+          "title": "Ray-Ban Meta Audio review: Great specs, shame about the price",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/ray-ban-meta-audio-glasses-burbank-wearing-03.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/11/06/todays-highlight-google-play-deals-kingdom/",
+          "author": "9to5Toys",
+          "description": "The all-newPixel 11 Pro, Pixel 11 Pro XL, and $100 off all Pixel Watch 5 models. The apps await below. \nmore…",
+          "link": "https://9to5toys.com/2026/11/06/todays-highlight-google-play-deals-kingdom/",
+          "publishedOn": "2026-11-06T20:33:56.000Z",
+          "wordCount": 3820,
+          "title": "Friday’s Android app deals and freebies: Wreckfest, Kingdom Rush 5, Rites of Conquest, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-191cc0.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735960",
+          "author": "Abner Li",
+          "description": "Following a sizable release last month, Google Health is rolling out another big update with version 5.12.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/google-health-5-12-release-notes/",
+          "publishedOn": "2026-11-06T20:01:43.000Z",
+          "wordCount": 3238,
+          "title": "Google Health 5.12 rolling out with manual blood pressure & pregnancy logging, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-google-health-app.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735943",
+          "author": "Nicholas Sutrich",
+          "description": "A new Discord client built in Rust is looking pretty shiny and clean, even on low-end Android phones.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/",
+          "publishedOn": "2026-11-06T18:13:09.000Z",
+          "wordCount": 3146,
+          "title": "Discord is about to get way, way faster on your Android phone",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/discord-redmagic-12-pro.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735926",
+          "author": "Nicholas Sutrich",
+          "description": "The Garmin Fenix E and Garmin Venu 3S are for two different types of people, but both are available at a surprisingly low price thanks to these limited-time Garmin deals.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/garmin-fenix-e-garmin-venu-3s-garmin-deal/",
+          "publishedOn": "2026-11-06T16:50:41.000Z",
+          "wordCount": 3366,
+          "title": "Two more Garmin smartwatches are down to record-low prices",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/garmin-fenix-e-venu-3s-renders.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735929",
+          "author": "Justin Kahn",
+          "description": "The giant Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold, Samsung users will find a giant $450 off 2026 Galaxy S26 Ultra in brand new condition joined by today’s launch of the new Samsung Galaxy SmartTag 3 (one for $30 or four for $100) and the new Galaxy Buds On open-earbuds. just be sure to also scope out the rare deals on some of the best podcasting/streaming mics you can buy and even more below. \nmore…",
+          "link": "https://9to5google.com/2026/11/06/deals-best-buy-early-black-friday-galaxy-s26-smarttag-3/",
+          "publishedOn": "2026-11-06T16:48:13.000Z",
+          "wordCount": 5081,
+          "title": "Deals: Best Buy early Black Friday now live, Galaxy S26 Ultra $450 off, Galaxy SmartTag 3 arrives, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-6-2.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735921",
+          "author": "Andrew Romero",
+          "description": "Samsung’s latest generation of item trackers for Galaxy devices is available online in two colors, starting at $29.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/",
+          "publishedOn": "2026-11-06T15:38:29.000Z",
+          "wordCount": 3185,
+          "title": "Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Smarttag-3-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735905",
+          "author": "Abner Li",
+          "description": "Google is rolling out a big update to Antigravity this week that features a new design, Voice Mode, and Remote Agents.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/google-antigravity-remote-agents-voice-mode/",
+          "publishedOn": "2026-11-06T15:01:00.000Z",
+          "wordCount": 3864,
+          "title": "Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Antigravity-redesign-cover.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735581",
+          "author": "Ben Schoon",
+          "description": "I love swapping out the bands on my Pixel Watch 5 and Fitbit Air, but Google’s official options are not cheap. It doesn’t take long to find a plethora of knock-off Pixel Watch and Fitbit Air bands around the web and, as it turns out, they’re actually really good.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/google-pixel-watch-fitbit-air-bands-knock-off/",
+          "publishedOn": "2026-11-06T14:30:00.000Z",
+          "wordCount": 3936,
+          "title": "I bought the knock-off Pixel Watch and Fitbit Air bands, and it’s crazy how good they are [Gallery]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/pixel-watch-band-dupes-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735752",
+          "author": "Ben Schoon",
+          "description": "The Oppo Find N6 is a stunning foldable but, for the second year in a row, it really stretches the definition of what a “global” release means. Oppo Find N7, apparently, will fix that.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/oppo-find-n7-global-launch-confirmed/",
+          "publishedOn": "2026-11-06T13:05:00.000Z",
+          "wordCount": 2986,
+          "title": "Oppo confirms its next foldable will actually know what a ‘global’ release is",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/oppo-find-n6-5.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735817",
+          "author": "Ben Schoon",
+          "description": "If you’re preparing outdoor lighting right now, a great deal on a Philips Hue outdoor light strip can save you both a ton of work, and a lot of dough too.\nmore…",
+          "link": "https://9to5google.com/2026/11/06/philips-hue-outdoor-light-strip-deal/",
+          "publishedOn": "2026-11-06T12:30:00.000Z",
+          "wordCount": 2871,
+          "title": "You can get a Philips Hue outdoor light strip for nearly 40% off right now",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/philips-hue-outdoor-lightstrip-1-copy.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=735898",
           "author": "Abner Li",
@@ -3168,6 +3358,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/windows-has-a-built-in-ssh-server/",
+          "author": "Abhishek Kumar Mishra",
+          "description": "Set up the optional OpenSSH server in Windows Settings, allow firewall access, and manage WSL containers from phone.",
+          "link": "https://www.xda-developers.com/windows-has-a-built-in-ssh-server/",
+          "publishedOn": "2026-11-07T01:01:20.000Z",
+          "wordCount": 5832,
+          "title": "Windows has a hidden, free SSH server, and I manage every PC in my house from one terminal now",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/windows-openssh-server-page.jpg",
+            "length": "360",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/windows-openssh-server-page.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/samsung-galaxy-s26-ultra-drops-to-950/",
+          "author": "XDA Deals Desk",
+          "description": "It's last generation, but still has top-tier specs.",
+          "link": "https://www.xda-developers.com/samsung-galaxy-s26-ultra-drops-to-950/",
+          "publishedOn": "2026-11-07T00:59:02.000Z",
+          "wordCount": 4796,
+          "title": "The Samsung Galaxy S26 Ultra is under $1,000 for the first time",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-header.jpg",
+            "length": "596",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-header.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-connected-a-local-llm-to-my-windows-11-clipboard/",
+          "author": "Ayush Pande",
+          "description": "Since everything remains local, I can run inference operations on private clipboard data freely",
+          "link": "https://www.xda-developers.com/i-connected-a-local-llm-to-my-windows-11-clipboard/",
+          "publishedOn": "2026-11-07T00:00:20.000Z",
+          "wordCount": 5438,
+          "title": "I gave my Windows 11 clipboard a local LLM brain, and it made trivial copy-paste operations a lot more productive",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/sirius-ai-tray-assistant-8.jpg",
+            "length": "7830",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/sirius-ai-tray-assistant-8.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/this-300-4k-monitor-packs-fantastic-color-accuracy-and-hits-a-sweet-spot-for-budget-buyers/",
+          "author": "XDA Deals Desk",
+          "description": "Fantastic color accuracy at a price that actually makes sense.",
+          "link": "https://www.xda-developers.com/this-300-4k-monitor-packs-fantastic-color-accuracy-and-hits-a-sweet-spot-for-budget-buyers/",
+          "publishedOn": "2026-11-06T23:15:54.000Z",
+          "wordCount": 4175,
+          "title": "This $300 4K monitor has fantastic color accuracy and is perfect for creatives on a budget",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/acer-prodesigner-4k-monitor-front-view.png",
+            "length": "1894",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/acer-prodesigner-4k-monitor-front-view.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/tdarr-shrank-media-library-third-cant-tell-difference-tv/",
+          "author": "Anurag Singh",
+          "description": "I got terabytes back without deleting movies or buying another drive",
+          "link": "https://www.xda-developers.com/tdarr-shrank-media-library-third-cant-tell-difference-tv/",
+          "publishedOn": "2026-11-06T23:00:21.000Z",
+          "wordCount": 5301,
+          "title": "Tdarr shrank my media library by a third, and I can't tell the difference on my TV",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/1793849918999.jpg",
+            "length": "3201",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/1793849918999.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/gemini-4-argon-antigravity-claude-code-same-project/",
+          "author": "Joe Rice-Jones",
+          "description": "Vibe coding only goes so far",
+          "link": "https://www.xda-developers.com/gemini-4-argon-antigravity-claude-code-same-project/",
+          "publishedOn": "2026-11-06T22:30:20.000Z",
+          "wordCount": 6166,
+          "title": "I gave Gemini 4 Argon in Antigravity and Claude Code the same messy side project, and only one of them left it better than it found it",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/antigravity-claude-code-on-rtx-spark-laptop-2.jpg",
+            "length": "2861",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/antigravity-claude-code-on-rtx-spark-laptop-2.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/steelseries-arctis-nova-pro-x-deal/",
+          "author": "XDA Deals Desk",
+          "description": "A fantastic battery and multi-console connection at a sharp discount.",
+          "link": "https://www.xda-developers.com/steelseries-arctis-nova-pro-x-deal/",
+          "publishedOn": "2026-11-06T22:08:57.000Z",
+          "wordCount": 4160,
+          "title": "The fantastic SteelSeries Arctis Nova Pro X drops to $130 on Amazon",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/steelseries-arctis-nova-pro-x-on-desk.png",
+            "length": "1002",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/steelseries-arctis-nova-pro-x-on-desk.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/gpu-hotspot-temp-can-reveal-thermal-paste-problem-regular-temps-wont/",
+          "author": "Hamlin Rozario",
+          "description": "But MSI Afterburner won't show you this metric.",
+          "link": "https://www.xda-developers.com/gpu-hotspot-temp-can-reveal-thermal-paste-problem-regular-temps-wont/",
+          "publishedOn": "2026-11-06T22:01:20.000Z",
+          "wordCount": 5495,
+          "title": "Your GPU hotspot temperature can reveal a thermal paste problem that regular temperatures won't",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/liquid-cooled-rtx-4090.jpg",
+            "length": "4999",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/liquid-cooled-rtx-4090.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-planned-tiny-gaming-pc-without-compromising-performance/",
+          "author": "Tanveer Singh",
+          "description": "Going smaller doesn't necessarily make your PC weaker",
+          "link": "https://www.xda-developers.com/i-planned-tiny-gaming-pc-without-compromising-performance/",
+          "publishedOn": "2026-11-06T21:31:22.000Z",
+          "wordCount": 5741,
+          "title": "I put together a tiny gaming PC build without compromising on performance",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/rtx-3080-gaming-pc-old.png",
+            "length": "7341",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/rtx-3080-gaming-pc-old.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-replaced-grammarly-premium-with-a-local-model-on-my-gpu-and-my-drafts-never-leave-my-pc/",
+          "author": "Abhinav Raj",
+          "description": "My local LLM replaces yet another subscription for effectively $0",
+          "link": "https://www.xda-developers.com/i-replaced-grammarly-premium-with-a-local-model-on-my-gpu-and-my-drafts-never-leave-my-pc/",
+          "publishedOn": "2026-11-06T21:01:22.000Z",
+          "wordCount": 5644,
+          "title": "I replaced Grammarly Pro with a local model on my GPU, and my drafts never leave my PC",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/writing-tools-qwen3-6.jpg",
+            "length": "1756",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/writing-tools-qwen3-6.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/this-esp32-music-player-can-swivel-to-become-a-gba-gaming-handheld/",
           "author": "Simon Batt",

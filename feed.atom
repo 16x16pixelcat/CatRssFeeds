@@ -2,10 +2,433 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-06T05:46:51.078Z</updated>
+    <updated>2026-11-07T05:17:00.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - November 6th]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/694277269707816972</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/694277269707816972"/>
+        <updated>2026-11-07T01:29:43.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+General
+
+Fixed a case where Steam Cloud Sync would incorrectly show a conflict in some games, e.g. Monster Hunter World
+
+Steam Controller
+
+Fixed a case where a firmware update would still show up as available for a few seconds after it was applied.
+
+Steam Input
+
+Fixed "Joystick Power Curve" setting in "Gyro to Joystick Camera" and "Gyro to Joystick Deflection" modes. This setting was not being applied. If you have changed this setting in the past, you may notice a change in the response - reset this setting if necessary, before tuning further.]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - November 6th]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/694277269707816972</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/694277269707816972"/>
+        <updated>2026-11-07T01:29:43.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+General
+
+Fixed a case where Steam Cloud Sync would incorrectly show a conflict in some games, e.g. Monster Hunter World
+
+Steam Controller
+
+Fixed a case where a firmware update would still show up as available for a few seconds after it was applied.
+
+Steam Input
+
+Fixed "Joystick Power Curve" setting in "Gyro to Joystick Camera" and "Gyro to Joystick Deflection" modes. This setting was not being applied. If you have changed this setting in the past, you may notice a change in the response - reset this setting if necessary, before tuning further.]]></summary>
+        <author>
+            <name>4165890 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - November 6th]]></title>
+        <id>https://store.steampowered.com/news/group/4397053/view/713417567788597256</id>
+        <link href="https://store.steampowered.com/news/group/4397053/view/713417567788597256"/>
+        <updated>2026-11-07T01:27:03.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+General
+
+Fixed a case where Steam Cloud Sync would incorrectly show a conflict in some games, e.g. Monster Hunter World
+
+Steam Controller
+
+Fixed a case where a firmware update would still show up as available for a few seconds after it was applied.
+
+Steam Input
+
+Fixed "Joystick Power Curve" setting in "Gyro to Joystick Camera" and "Gyro to Joystick Deflection" modes. This setting was not being applied. If you have changed this setting in the past, you may notice a change in the response - reset this setting if necessary, before tuning further.]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 0.5.8 Beta for Steam Frame]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/694277107352601013</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/694277107352601013"/>
+        <updated>2026-11-07T01:15:53.000Z</updated>
+        <summary type="html"><![CDATA[SteamOS 0.5.8 (for Steam Frame) has just been released.
+This update is for the Steam Frame Beta channel, and includes new features that are still being tested.
+You can opt into this in Settings > System > System Update Channel.
+
+
+
+Camera Pass Through / Room View:
+
+PC Streaming now supports Room View. Previously, enabling Room View would hide remote content.
+
+You can now see remote desktop / remote game theater while camera passthrough is active.
+
+PC VR games with OpenXR mixed reality support are now able to blend VR content and camera passthrough. (Example: X-Plane 12)
+
+
+Note: this feature requires also opting into the beta branch of SteamVR on PC
+To opt into the beta branch of SteamVR on PC, right-click on SteamVR in your Steam library, select Properties, Game Versions & Beta, and choose beta.
+
+
+General
+
+Overlay render quality is now always set to Low on Steam Frame, and the option is hidden. This fixes problems that happened when Ultra was selected.
+
+Improved eye tracking self-calibration.
+
+Fixed low-end gamma response, including inconsistencies between eyes, on some headsets.
+
+Fixed a permission issue that prevented WebXR from working in Chrome v157.
+
+
+Developers:
+
+Allows OpenXR games streamed from PC to use [c]XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND[/c].
+
+
+SteamVR has been updated to version 2.19.2.]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 0.5.8 Beta for Steam Frame]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/694277107352601013</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/694277107352601013"/>
+        <updated>2026-11-07T01:15:53.000Z</updated>
+        <summary type="html"><![CDATA[SteamOS 0.5.8 (for Steam Frame) has just been released.
+This update is for the Steam Frame Beta channel, and includes new features that are still being tested.
+You can opt into this in Settings > System > System Update Channel.
+
+
+
+Camera Pass Through / Room View:
+
+PC Streaming now supports Room View. Previously, enabling Room View would hide remote content.
+
+You can now see remote desktop / remote game theater while camera passthrough is active.
+
+PC VR games with OpenXR mixed reality support are now able to blend VR content and camera passthrough. (Example: X-Plane 12)
+
+
+Note: this feature requires also opting into the beta branch of SteamVR on PC
+To opt into the beta branch of SteamVR on PC, right-click on SteamVR in your Steam library, select Properties, Game Versions & Beta, and choose beta.
+
+
+General
+
+Overlay render quality is now always set to Low on Steam Frame, and the option is hidden. This fixes problems that happened when Ultra was selected.
+
+Improved eye tracking self-calibration.
+
+Fixed low-end gamma response, including inconsistencies between eyes, on some headsets.
+
+Fixed a permission issue that prevented WebXR from working in Chrome v157.
+
+
+Developers:
+
+Allows OpenXR games streamed from PC to use [c]XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND[/c].
+
+
+SteamVR has been updated to version 2.19.2.]]></summary>
+        <author>
+            <name>4165890 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows has a hidden, free SSH server, and I manage every PC in my house from one terminal now]]></title>
+        <id>https://www.xda-developers.com/windows-has-a-built-in-ssh-server/</id>
+        <link href="https://www.xda-developers.com/windows-has-a-built-in-ssh-server/"/>
+        <updated>2026-11-07T01:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Set up the optional OpenSSH server in Windows Settings, allow firewall access, and manage WSL containers from phone.]]></summary>
+        <author>
+            <name>Abhishek Kumar Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Samsung Galaxy S26 Ultra is under $1,000 for the first time]]></title>
+        <id>https://www.xda-developers.com/samsung-galaxy-s26-ultra-drops-to-950/</id>
+        <link href="https://www.xda-developers.com/samsung-galaxy-s26-ultra-drops-to-950/"/>
+        <updated>2026-11-07T00:59:02.000Z</updated>
+        <summary type="html"><![CDATA[It's last generation, but still has top-tier specs.]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave my Windows 11 clipboard a local LLM brain, and it made trivial copy-paste operations a lot more productive]]></title>
+        <id>https://www.xda-developers.com/i-connected-a-local-llm-to-my-windows-11-clipboard/</id>
+        <link href="https://www.xda-developers.com/i-connected-a-local-llm-to-my-windows-11-clipboard/"/>
+        <updated>2026-11-07T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Since everything remains local, I can run inference operations on private clipboard data freely]]></summary>
+        <author>
+            <name>Ayush Pande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This $300 4K monitor has fantastic color accuracy and is perfect for creatives on a budget]]></title>
+        <id>https://www.xda-developers.com/this-300-4k-monitor-packs-fantastic-color-accuracy-and-hits-a-sweet-spot-for-budget-buyers/</id>
+        <link href="https://www.xda-developers.com/this-300-4k-monitor-packs-fantastic-color-accuracy-and-hits-a-sweet-spot-for-budget-buyers/"/>
+        <updated>2026-11-06T23:15:54.000Z</updated>
+        <summary type="html"><![CDATA[Fantastic color accuracy at a price that actually makes sense.]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s original Nest Doorbell is broken for many right now]]></title>
+        <id>https://9to5google.com/?p=736003</id>
+        <link href="https://9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports/"/>
+        <updated>2026-11-06T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[An issue with Google’s original Nest Doorbell has left live view of the video feed broken for many owners, and there’s no word on a fix just yet.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tdarr shrank my media library by a third, and I can't tell the difference on my TV]]></title>
+        <id>https://www.xda-developers.com/tdarr-shrank-media-library-third-cant-tell-difference-tv/</id>
+        <link href="https://www.xda-developers.com/tdarr-shrank-media-library-third-cant-tell-difference-tv/"/>
+        <updated>2026-11-06T23:00:21.000Z</updated>
+        <summary type="html"><![CDATA[I got terabytes back without deleting movies or buying another drive]]></summary>
+        <author>
+            <name>Anurag Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android XR glasses officially get a December release date [Video]]]></title>
+        <id>https://9to5google.com/?p=736001</id>
+        <link href="https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/"/>
+        <updated>2026-11-06T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Following a pre-order date announcement earlier this week, Google’s other Android XR launch partner has now confirmed a December release date for this first batch of glasses.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave Gemini 4 Argon in Antigravity and Claude Code the same messy side project, and only one of them left it better than it found it]]></title>
+        <id>https://www.xda-developers.com/gemini-4-argon-antigravity-claude-code-same-project/</id>
+        <link href="https://www.xda-developers.com/gemini-4-argon-antigravity-claude-code-same-project/"/>
+        <updated>2026-11-06T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Vibe coding only goes so far]]></summary>
+        <author>
+            <name>Joe Rice-Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The fantastic SteelSeries Arctis Nova Pro X drops to $130 on Amazon]]></title>
+        <id>https://www.xda-developers.com/steelseries-arctis-nova-pro-x-deal/</id>
+        <link href="https://www.xda-developers.com/steelseries-arctis-nova-pro-x-deal/"/>
+        <updated>2026-11-06T22:08:57.000Z</updated>
+        <summary type="html"><![CDATA[A fantastic battery and multi-console connection at a sharp discount.]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your GPU hotspot temperature can reveal a thermal paste problem that regular temperatures won't]]></title>
+        <id>https://www.xda-developers.com/gpu-hotspot-temp-can-reveal-thermal-paste-problem-regular-temps-wont/</id>
+        <link href="https://www.xda-developers.com/gpu-hotspot-temp-can-reveal-thermal-paste-problem-regular-temps-wont/"/>
+        <updated>2026-11-06T22:01:20.000Z</updated>
+        <summary type="html"><![CDATA[But MSI Afterburner won't show you this metric.]]></summary>
+        <author>
+            <name>Hamlin Rozario</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixelated 124: Is it time for a Nest Hub comeback?]]></title>
+        <id>https://9to5google.com/?p=735994</id>
+        <link href="https://9to5google.com/2026/11/06/pixelated-124-is-it-time-for-a-nest-hub-comeback/"/>
+        <updated>2026-11-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Pixelated episode 124. This week, Damien, Abner, and Will dive into the announcement of Motorola’s flagship return in North America, the Signature 27. Is a $1,600 non-foldable the comeback everyone hoped for, or is this device doomed by rising component costs? Then, with Apple’s HomeView smart display set to launch next week, the gang examines Google’s lack of a modernized competitor and wonder what they’d want to see from a relaunch in 2027.
+Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode.
+Sponsored by Proton Unlimited: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link. Thanks to Proton Unlimited for sponsoring the podcast.
+
+
+
+
+Subscribe
+YouTube Podcasts
+Pocket Casts
+Spotify
+Amazon Music
+Apple Podcasts
+Overcast
+more…]]></summary>
+        <author>
+            <name>Will Sattelberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I put together a tiny gaming PC build without compromising on performance]]></title>
+        <id>https://www.xda-developers.com/i-planned-tiny-gaming-pc-without-compromising-performance/</id>
+        <link href="https://www.xda-developers.com/i-planned-tiny-gaming-pc-without-compromising-performance/"/>
+        <updated>2026-11-06T21:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Going smaller doesn't necessarily make your PC weaker]]></summary>
+        <author>
+            <name>Tanveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ray-Ban Meta Audio review: Great specs, shame about the price]]></title>
+        <id>https://9to5google.com/?p=735935</id>
+        <link href="https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/"/>
+        <updated>2026-11-06T21:09:14.000Z</updated>
+        <summary type="html"><![CDATA[Ray-Ban Meta Audio glasses attempt to curb the controversy by removing the cameras, and while they’re still an excellent product, the price makes them harder to recommend.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I replaced Grammarly Pro with a local model on my GPU, and my drafts never leave my PC]]></title>
+        <id>https://www.xda-developers.com/i-replaced-grammarly-premium-with-a-local-model-on-my-gpu-and-my-drafts-never-leave-my-pc/</id>
+        <link href="https://www.xda-developers.com/i-replaced-grammarly-premium-with-a-local-model-on-my-gpu-and-my-drafts-never-leave-my-pc/"/>
+        <updated>2026-11-06T21:01:22.000Z</updated>
+        <summary type="html"><![CDATA[My local LLM replaces yet another subscription for effectively $0]]></summary>
+        <author>
+            <name>Abhinav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friday’s Android app deals and freebies: Wreckfest, Kingdom Rush 5, Rites of Conquest, more]]></title>
+        <id>https://9to5toys.com/2026/11/06/todays-highlight-google-play-deals-kingdom/</id>
+        <link href="https://9to5toys.com/2026/11/06/todays-highlight-google-play-deals-kingdom/"/>
+        <updated>2026-11-06T20:33:56.000Z</updated>
+        <summary type="html"><![CDATA[The all-newPixel 11 Pro, Pixel 11 Pro XL, and $100 off all Pixel Watch 5 models. The apps await below. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Health 5.12 rolling out with manual blood pressure & pregnancy logging, more]]></title>
+        <id>https://9to5google.com/?p=735960</id>
+        <link href="https://9to5google.com/2026/11/06/google-health-5-12-release-notes/"/>
+        <updated>2026-11-06T20:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Following a sizable release last month, Google Health is rolling out another big update with version 5.12.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord is about to get way, way faster on your Android phone]]></title>
+        <id>https://9to5google.com/?p=735943</id>
+        <link href="https://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/"/>
+        <updated>2026-11-06T18:13:09.000Z</updated>
+        <summary type="html"><![CDATA[A new Discord client built in Rust is looking pretty shiny and clean, even on low-end Android phones.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two more Garmin smartwatches are down to record-low prices]]></title>
+        <id>https://9to5google.com/?p=735926</id>
+        <link href="https://9to5google.com/2026/11/06/garmin-fenix-e-garmin-venu-3s-garmin-deal/"/>
+        <updated>2026-11-06T16:50:41.000Z</updated>
+        <summary type="html"><![CDATA[The Garmin Fenix E and Garmin Venu 3S are for two different types of people, but both are available at a surprisingly low price thanks to these limited-time Garmin deals.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Best Buy early Black Friday now live, Galaxy S26 Ultra $450 off, Galaxy SmartTag 3 arrives, more]]></title>
+        <id>https://9to5google.com/?p=735929</id>
+        <link href="https://9to5google.com/2026/11/06/deals-best-buy-early-black-friday-galaxy-s26-smarttag-3/"/>
+        <updated>2026-11-06T16:48:13.000Z</updated>
+        <summary type="html"><![CDATA[The giant Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold, Samsung users will find a giant $450 off 2026 Galaxy S26 Ultra in brand new condition joined by today’s launch of the new Samsung Galaxy SmartTag 3 (one for $30 or four for $100) and the new Galaxy Buds On open-earbuds. just be sure to also scope out the rare deals on some of the best podcasting/streaming mics you can buy and even more below. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy SmartTag 3 hits Samsung online store as single tracker or four-pack]]></title>
+        <id>https://9to5google.com/?p=735921</id>
+        <link href="https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/"/>
+        <updated>2026-11-06T15:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Samsung’s latest generation of item trackers for Galaxy devices is available online in two colors, starting at $29.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Google Antigravity update brings Remote Agents, Voice Mode, and redesign]]></title>
+        <id>https://9to5google.com/?p=735905</id>
+        <link href="https://9to5google.com/2026/11/06/google-antigravity-remote-agents-voice-mode/"/>
+        <updated>2026-11-06T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is rolling out a big update to Antigravity this week that features a new design, Voice Mode, and Remote Agents.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I bought the knock-off Pixel Watch and Fitbit Air bands, and it’s crazy how good they are [Gallery]]]></title>
+        <id>https://9to5google.com/?p=735581</id>
+        <link href="https://9to5google.com/2026/11/06/google-pixel-watch-fitbit-air-bands-knock-off/"/>
+        <updated>2026-11-06T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I love swapping out the bands on my Pixel Watch 5 and Fitbit Air, but Google’s official options are not cheap. It doesn’t take long to find a plethora of knock-off Pixel Watch and Fitbit Air bands around the web and, as it turns out, they’re actually really good.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oppo confirms its next foldable will actually know what a ‘global’ release is]]></title>
+        <id>https://9to5google.com/?p=735752</id>
+        <link href="https://9to5google.com/2026/11/06/oppo-find-n7-global-launch-confirmed/"/>
+        <updated>2026-11-06T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The Oppo Find N6 is a stunning foldable but, for the second year in a row, it really stretches the definition of what a “global” release means. Oppo Find N7, apparently, will fix that.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can get a Philips Hue outdoor light strip for nearly 40% off right now]]></title>
+        <id>https://9to5google.com/?p=735817</id>
+        <link href="https://9to5google.com/2026/11/06/philips-hue-outdoor-light-strip-deal/"/>
+        <updated>2026-11-06T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re preparing outdoor lighting right now, a great deal on a Philips Hue outdoor light strip can save you both a ton of work, and a lot of dough too.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This ESP32 music player can swivel to become a GBA gaming handheld]]></title>
         <id>https://www.xda-developers.com/this-esp32-music-player-can-swivel-to-become-a-gba-gaming-handheld/</id>
