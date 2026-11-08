@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-07T05:17:00.852Z</updated>
+    <updated>2026-11-08T05:14:05.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Switch 2's Zelda: Ocarina of Time is already running on PC with DLSS 5 and frame generation]]></title>
+        <id>https://www.xda-developers.com/zelda-ocarina-of-time-alread-running-on-pc-with-dlss-5-frame-generation/</id>
+        <link href="https://www.xda-developers.com/zelda-ocarina-of-time-alread-running-on-pc-with-dlss-5-frame-generation/"/>
+        <updated>2026-11-08T01:31:45.000Z</updated>
+        <summary type="html"><![CDATA[The Hookshot static recompilation translates the game's ARM64 code into a native Windows title.]]></summary>
+        <author>
+            <name>Patrick O'Rourke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My GTX 1080 Ti still runs everything I play, and these are the settings that keep it going in 2026]]></title>
+        <id>https://www.xda-developers.com/gtx-1080-ti-still-runs-everything-play-these-settings-keep-it-going-2026/</id>
+        <link href="https://www.xda-developers.com/gtx-1080-ti-still-runs-everything-play-these-settings-keep-it-going-2026/"/>
+        <updated>2026-11-08T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[I think I can squeeze a couple more years out of it.]]></summary>
+        <author>
+            <name>Hamlin Rozario</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave my local LLM one job that runs every night, and it's done more for me than a year of chatting with it]]></title>
+        <id>https://www.xda-developers.com/local-llm-one-job-runs-every-night-done-more-year-chatting/</id>
+        <link href="https://www.xda-developers.com/local-llm-one-job-runs-every-night-done-more-year-chatting/"/>
+        <updated>2026-11-08T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[It's been far more useful ever since]]></summary>
+        <author>
+            <name>Anurag Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini]]></title>
+        <id>https://9to5google.com/?p=735606</id>
+        <link href="https://9to5google.com/2026/11/07/google-messages-pinned-chats-redesign/"/>
+        <updated>2026-11-07T23:08:00.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the new app icon, Google Messages for Android is testing a big homepage redesign that has three core components.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I played the same retro game on Nintendo Switch Online and a free emulator, and Nintendo's version lost]]></title>
+        <id>https://www.xda-developers.com/played-same-retro-game-nintendo-switch-online-free-emulator-nintendos-version-lost/</id>
+        <link href="https://www.xda-developers.com/played-same-retro-game-nintendo-switch-online-free-emulator-nintendos-version-lost/"/>
+        <updated>2026-11-07T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[The community is years ahead.]]></summary>
+        <author>
+            <name>João Carrasqueira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I ditched Firefox for this simple, non-AI browser, and I wish I’d done it sooner]]></title>
+        <id>https://www.xda-developers.com/ditched-firefox-for-this-simple-non-ai-browser/</id>
+        <link href="https://www.xda-developers.com/ditched-firefox-for-this-simple-non-ai-browser/"/>
+        <updated>2026-11-07T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Firefox had been my default for years, but this customizable browser made switching surprisingly easy.]]></summary>
+        <author>
+            <name>Yash Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini made my Nest speakers slower at turning on a light, so I gave the job to a voice assistant that never leaves my house]]></title>
+        <id>https://www.xda-developers.com/gemini-nest-speakers-slow-turn-on-light-gave-voice-assistant-never-leaves/</id>
+        <link href="https://www.xda-developers.com/gemini-nest-speakers-slow-turn-on-light-gave-voice-assistant-never-leaves/"/>
+        <updated>2026-11-07T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[I don't want an LLM turning on my lights.]]></summary>
+        <author>
+            <name>Jasmine Mannan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollama was holding back my "weak" Intel GPU, and one swap turned it into a solid local AI setup]]></title>
+        <id>https://www.xda-developers.com/ollama-was-holding-back-my-weak-intel-arc-gpu/</id>
+        <link href="https://www.xda-developers.com/ollama-was-holding-back-my-weak-intel-arc-gpu/"/>
+        <updated>2026-11-07T21:31:20.000Z</updated>
+        <summary type="html"><![CDATA[My Intel Arc GPU finally became a useful local AI machine]]></summary>
+        <author>
+            <name>Ayush Pande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These 6 apps turned my old Pixel into a productivity powerhouse]]></title>
+        <id>https://www.xda-developers.com/apps-turned-my-old-pixel-into-a-productivity-powerhouse/</id>
+        <link href="https://www.xda-developers.com/apps-turned-my-old-pixel-into-a-productivity-powerhouse/"/>
+        <updated>2026-11-07T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[My Pixel didn't need an upgrade; it just needed these six clever apps.]]></summary>
+        <author>
+            <name>Yash Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Raspberry Pi 400 is the most underrated Raspberry Pi ever made]]></title>
+        <id>https://www.xda-developers.com/raspberry-pi-400-most-underrated-ever/</id>
+        <link href="https://www.xda-developers.com/raspberry-pi-400-most-underrated-ever/"/>
+        <updated>2026-11-07T20:30:20.000Z</updated>
+        <summary type="html"><![CDATA[It gifted seamlessness to beginner hobbyists]]></summary>
+        <author>
+            <name>Tanveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried KefinTweaks on Jellyfin, and my media library now looks like a streaming service]]></title>
+        <id>https://www.xda-developers.com/kefintweaks-jellyfin-media-library-finally-looks-streaming-service/</id>
+        <link href="https://www.xda-developers.com/kefintweaks-jellyfin-media-library-finally-looks-streaming-service/"/>
+        <updated>2026-11-07T20:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Your own collection deserves a better home screen]]></summary>
+        <author>
+            <name>Anurag Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - November 7th]]></title>
+        <id>https://store.steampowered.com/news/group/4397053/view/713417567788597329</id>
+        <link href="https://store.steampowered.com/news/group/4397053/view/713417567788597329"/>
+        <updated>2026-11-07T19:23:51.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+Steam Cloud
+
+More fixes for a case where Steam Cloud Sync would incorrectly show a conflict in some games, e.g. Monster Hunter World
+
+General
+
+Fix for Uninstall Failure dialog not showing]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon]]></title>
+        <id>https://9to5google.com/?p=736006</id>
+        <link href="https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/"/>
+        <updated>2026-11-07T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Oppo Find X9 Ultra was my favorite new phone of 2026 but, thanks to RAMageddon, the company is apparently canceling its sequel.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Client Beta - November 6th]]></title>
         <id>https://store.steampowered.com/news/app/4165890/view/694277269707816972</id>
@@ -5210,29 +5350,6 @@ Custom screensavers are also supported. Similar to startup movies, they can be p
         <updated>2026-10-11T13:00:38.000Z</updated>
         <author>
             <name>Zei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 0.4 for Steam Frame]]></title>
-        <id>https://store.steampowered.com/news/app/4165890/view/675134162359812787</id>
-        <link href="https://store.steampowered.com/news/app/4165890/view/675134162359812787"/>
-        <updated>2026-10-08T23:23:09.000Z</updated>
-        <summary type="html"><![CDATA[SteamOS 0.4 for Steam Frame has just been released for all users with the following changes:
-
-Power:
-
-Improved power efficiency and battery lifetime during both streaming and local gameplay, with gains of up to 12%. Note: Result vary depending on framerate and content.
-
-Added user setting to control Presence Sensor Sensitivity (VR Settings -> Startup / Shutdown -> Presence Sensor).  New "high sensitivity" option keeps displays on under a wider range of conditions, such as when using glasses spacers.
-
-
-Streaming:
-
-Improved color clarity during VR streaming (fixed headset chroma regression)
-
-VR streaming reliability improvements, including fixes for “Error 17.” Note: On the PC, you must also opt into SteamVR 2.18.2 or later to reduce “Error 17” connection issues. At the time of this release,…]]></summary>
-        <author>
-            <name>4165890 RSS Feed</name>
         </author>
     </entry>
     <entry>
