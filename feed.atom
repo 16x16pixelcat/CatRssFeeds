@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-08T05:14:05.450Z</updated>
+    <updated>2026-11-09T05:26:20.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The tidal wave of AI bug reports may hopefully come to an end as Linux 7.4-rc2 got more fixes than reports]]></title>
+        <id>https://www.xda-developers.com/the-tidal-wave-of-ai-bug-reports-may-hopefully-come-to-an-end-as-linux-74-rc2-got-more-fixes-than-reports/</id>
+        <link href="https://www.xda-developers.com/the-tidal-wave-of-ai-bug-reports-may-hopefully-come-to-an-end-as-linux-74-rc2-got-more-fixes-than-reports/"/>
+        <updated>2026-11-09T05:12:17.000Z</updated>
+        <summary type="html"><![CDATA[Keyword being 'hopefully'.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave my primary phone to Android Auto and made a huge mistake until I switched to a secondhand device]]></title>
+        <id>https://www.xda-developers.com/primary-phone-android-auto-huge-mistake-switched-secondhand-device/</id>
+        <link href="https://www.xda-developers.com/primary-phone-android-auto-huge-mistake-switched-secondhand-device/"/>
+        <updated>2026-11-09T01:00:21.000Z</updated>
+        <summary type="html"><![CDATA[A cheap secondhand phone fixed everything.]]></summary>
+        <author>
+            <name>Anurag Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This one Pixel setting fix stops the Android 17 animation stutter, and it takes 30 seconds to apply]]></title>
+        <id>https://www.xda-developers.com/fix-for-android-17-performance-on-pixel-takes-30-seconds-to-apply/</id>
+        <link href="https://www.xda-developers.com/fix-for-android-17-performance-on-pixel-takes-30-seconds-to-apply/"/>
+        <updated>2026-11-09T00:01:20.000Z</updated>
+        <summary type="html"><![CDATA[A fix is on the way, but stopgap measures should suffice until they arrive]]></summary>
+        <author>
+            <name>Chandraveer Mathur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned an old PC into a retro console with Batocera, and it boots straight into my game library]]></title>
+        <id>https://www.xda-developers.com/old-pc-retro-console-batocera-boots-straight-game-library/</id>
+        <link href="https://www.xda-developers.com/old-pc-retro-console-batocera-boots-straight-game-library/"/>
+        <updated>2026-11-08T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Batocera lets me play the classics from the couch without reaching for a keyboard]]></summary>
+        <author>
+            <name>Anurag Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I ditched Inkscape for an open-source Illustrator rival built with AI]]></title>
+        <id>https://www.xda-developers.com/ditched-inkscape-for-open-source-illustrator-rival-built-with-ai/</id>
+        <link href="https://www.xda-developers.com/ditched-inkscape-for-open-source-illustrator-rival-built-with-ai/"/>
+        <updated>2026-11-08T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Five weeks old and already on my taskbar]]></summary>
+        <author>
+            <name>Nolen Jonker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia's board launches investigation into alleged spying on CEO Jensen Huang]]></title>
+        <id>https://www.xda-developers.com/the-nvidia-board-is-investigating-a-potential-case-of-spying-on-jensen-huang/</id>
+        <link href="https://www.xda-developers.com/the-nvidia-board-is-investigating-a-potential-case-of-spying-on-jensen-huang/"/>
+        <updated>2026-11-08T22:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Huang had admitted to having an affair with the alleged spy.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One hidden Android setting made my Pixel feel snappier the moment I changed it]]></title>
+        <id>https://www.xda-developers.com/disable-android-animations-on-pixel-for-faster-experience/</id>
+        <link href="https://www.xda-developers.com/disable-android-animations-on-pixel-for-faster-experience/"/>
+        <updated>2026-11-08T21:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Make your phone feel instantly faster without having to do much.]]></summary>
+        <author>
+            <name>Megan Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stopped using Amazon’s Kindle app after connecting my old e-reader to a self-hosted server]]></title>
+        <id>https://www.xda-developers.com/stopped-using-amazon-kindle-app-connecting-reader-self-hosted-server/</id>
+        <link href="https://www.xda-developers.com/stopped-using-amazon-kindle-app-connecting-reader-self-hosted-server/"/>
+        <updated>2026-11-08T21:01:20.000Z</updated>
+        <summary type="html"><![CDATA[EPUBs deserve better than Send to Kindle.]]></summary>
+        <author>
+            <name>Samir Makwana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried a cheap Raspberry Pi rival for a month, and its hardware was only a small part of the problem]]></title>
+        <id>https://www.xda-developers.com/i-tried-a-cheap-raspberry-pi-rival-for-a-month-and-its-hardware-was-only-a-small-part-of-the-problem/</id>
+        <link href="https://www.xda-developers.com/i-tried-a-cheap-raspberry-pi-rival-for-a-month-and-its-hardware-was-only-a-small-part-of-the-problem/"/>
+        <updated>2026-11-08T20:30:20.000Z</updated>
+        <summary type="html"><![CDATA[A cheap Raspberry Pi rival sounded great until I saw its software support]]></summary>
+        <author>
+            <name>Ayush Pande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emulating arcade games is harder than emulating consoles, and MAME's 30-year history shows why]]></title>
+        <id>https://www.xda-developers.com/emulating-arcade-games-is-harder-than-emulating-consoles-mame-is-trying/</id>
+        <link href="https://www.xda-developers.com/emulating-arcade-games-is-harder-than-emulating-consoles-mame-is-trying/"/>
+        <updated>2026-11-08T20:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Emulating a Super Nintendo is easy, but emulating an arcade cabinet is a different beast]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android tablets are back, but are they for you?]]></title>
+        <id>https://9to5google.com/?p=735806</id>
+        <link href="https://9to5google.com/2026/11/08/android-tablets-are-back-poll/"/>
+        <updated>2026-11-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android tablets have always been a bit of a touchy subject, but it’s abundantly clear that the form factor is making a comeback. But, as someone who’s a fan of the smaller sizes, are you actually using the gargantuan Android tablets that every company seems obsessed with? In other words – are you the customer for the Android tablets these brands are selling?
+9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of key stories from around the web by Daniel Bader. Sign up here to get Weekender delivered to your inbox every Sunday along with ‘Inbox’ on Tuesday and Thursday. You can find past issues here.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Switch 2's Zelda: Ocarina of Time is already running on PC with DLSS 5 and frame generation]]></title>
         <id>https://www.xda-developers.com/zelda-ocarina-of-time-alread-running-on-pc-with-dlss-5-frame-generation/</id>

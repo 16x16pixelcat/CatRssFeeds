@@ -535,6 +535,16 @@
       "siteUrl": "https://9to5google.com/",
       "articles": [
         {
+          "id": "https://9to5google.com/?p=735806",
+          "author": "Ben Schoon",
+          "description": "Android tablets have always been a bit of a touchy subject, but it’s abundantly clear that the form factor is making a comeback. But, as someone who’s a fan of the smaller sizes, are you actually using the gargantuan Android tablets that every company seems obsessed with? In other words – are you the customer for the Android tablets these brands are selling?\n9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of key stories from around the web by Daniel Bader. Sign up here to get Weekender delivered to your inbox every Sunday along with ‘Inbox’ on Tuesday and Thursday. You can find past issues here.\nmore…",
+          "link": "https://9to5google.com/2026/11/08/android-tablets-are-back-poll/",
+          "publishedOn": "2026-11-08T14:00:00.000Z",
+          "wordCount": 4349,
+          "title": "Android tablets are back, but are they for you?",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-tablets-amazon-lenovo-redmagic.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
           "id": "https://9to5google.com/?p=735606",
           "author": "Abner Li",
           "description": "In addition to the new app icon, Google Messages for Android is testing a big homepage redesign that has three core components.\nmore…",
@@ -3378,6 +3388,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/the-tidal-wave-of-ai-bug-reports-may-hopefully-come-to-an-end-as-linux-74-rc2-got-more-fixes-than-reports/",
+          "author": "Simon Batt",
+          "description": "Keyword being 'hopefully'.",
+          "link": "https://www.xda-developers.com/the-tidal-wave-of-ai-bug-reports-may-hopefully-come-to-an-end-as-linux-74-rc2-got-more-fixes-than-reports/",
+          "publishedOn": "2026-11-09T05:12:17.000Z",
+          "wordCount": 4288,
+          "title": "The tidal wave of AI bug reports may hopefully come to an end as Linux 7.4-rc2 got more fixes than reports",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/tux-linux-featured.jpg",
+            "length": "3015",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/tux-linux-featured.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/primary-phone-android-auto-huge-mistake-switched-secondhand-device/",
+          "author": "Anurag Singh",
+          "description": "A cheap secondhand phone fixed everything.",
+          "link": "https://www.xda-developers.com/primary-phone-android-auto-huge-mistake-switched-secondhand-device/",
+          "publishedOn": "2026-11-09T01:00:21.000Z",
+          "wordCount": 5490,
+          "title": "I gave my primary phone to Android Auto and made a huge mistake until I switched to a secondhand device",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/android-auto-hero-2.png",
+            "length": "4610",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/android-auto-hero-2.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/fix-for-android-17-performance-on-pixel-takes-30-seconds-to-apply/",
+          "author": "Chandraveer Mathur",
+          "description": "A fix is on the way, but stopgap measures should suffice until they arrive",
+          "link": "https://www.xda-developers.com/fix-for-android-17-performance-on-pixel-takes-30-seconds-to-apply/",
+          "publishedOn": "2026-11-09T00:01:20.000Z",
+          "wordCount": 4896,
+          "title": "This one Pixel setting fix stops the Android 17 animation stutter, and it takes 30 seconds to apply",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/android-17-beta-1-installing-on-pixel-7.jpg",
+            "length": "1792",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/android-17-beta-1-installing-on-pixel-7.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/old-pc-retro-console-batocera-boots-straight-game-library/",
+          "author": "Anurag Singh",
+          "description": "Batocera lets me play the classics from the couch without reaching for a keyboard",
+          "link": "https://www.xda-developers.com/old-pc-retro-console-batocera-boots-straight-game-library/",
+          "publishedOn": "2026-11-08T23:00:20.000Z",
+          "wordCount": 5515,
+          "title": "I turned an old PC into a retro console with Batocera, and it boots straight into my game library",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/batocera-windows-hero.jpg",
+            "length": "4667",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/batocera-windows-hero.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/ditched-inkscape-for-open-source-illustrator-rival-built-with-ai/",
+          "author": "Nolen Jonker",
+          "description": "Five weeks old and already on my taskbar",
+          "link": "https://www.xda-developers.com/ditched-inkscape-for-open-source-illustrator-rival-built-with-ai/",
+          "publishedOn": "2026-11-08T22:30:20.000Z",
+          "wordCount": 6757,
+          "title": "I ditched Inkscape for an open-source Illustrator rival built with AI",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/editing-with-vectorcraft-on-desktop-pc.jpeg",
+            "length": "2844",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/editing-with-vectorcraft-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/the-nvidia-board-is-investigating-a-potential-case-of-spying-on-jensen-huang/",
+          "author": "Simon Batt",
+          "description": "Huang had admitted to having an affair with the alleged spy.",
+          "link": "https://www.xda-developers.com/the-nvidia-board-is-investigating-a-potential-case-of-spying-on-jensen-huang/",
+          "publishedOn": "2026-11-08T22:08:07.000Z",
+          "wordCount": 4303,
+          "title": "Nvidia's board launches investigation into alleged spying on CEO Jensen Huang",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/05/nvidia-ceo-jensen-huang-keynote-at-computex-2025-1-31-29-screenshot.png",
+            "length": "2538",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2025/05/nvidia-ceo-jensen-huang-keynote-at-computex-2025-1-31-29-screenshot.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/disable-android-animations-on-pixel-for-faster-experience/",
+          "author": "Megan Ellis",
+          "description": "Make your phone feel instantly faster without having to do much.",
+          "link": "https://www.xda-developers.com/disable-android-animations-on-pixel-for-faster-experience/",
+          "publishedOn": "2026-11-08T21:30:20.000Z",
+          "wordCount": 5412,
+          "title": "One hidden Android setting made my Pixel feel snappier the moment I changed it",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/a-pixel-8-pro-on-a-table.jpg",
+            "length": "1629",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/a-pixel-8-pro-on-a-table.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/stopped-using-amazon-kindle-app-connecting-reader-self-hosted-server/",
+          "author": "Samir Makwana",
+          "description": "EPUBs deserve better than Send to Kindle.",
+          "link": "https://www.xda-developers.com/stopped-using-amazon-kindle-app-connecting-reader-self-hosted-server/",
+          "publishedOn": "2026-11-08T21:01:20.000Z",
+          "wordCount": 5028,
+          "title": "I stopped using Amazon’s Kindle app after connecting my old e-reader to a self-hosted server",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/old-reader-with-self-hosted-server-instead-of-kindle-app.jpg",
+            "length": "393",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/old-reader-with-self-hosted-server-instead-of-kindle-app.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-tried-a-cheap-raspberry-pi-rival-for-a-month-and-its-hardware-was-only-a-small-part-of-the-problem/",
+          "author": "Ayush Pande",
+          "description": "A cheap Raspberry Pi rival sounded great until I saw its software support",
+          "link": "https://www.xda-developers.com/i-tried-a-cheap-raspberry-pi-rival-for-a-month-and-its-hardware-was-only-a-small-part-of-the-problem/",
+          "publishedOn": "2026-11-08T20:30:20.000Z",
+          "wordCount": 5629,
+          "title": "I tried a cheap Raspberry Pi rival for a month, and its hardware was only a small part of the problem",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/armbian-alta-3.jpg",
+            "length": "10160",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/armbian-alta-3.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/emulating-arcade-games-is-harder-than-emulating-consoles-mame-is-trying/",
+          "author": "Samarveer Singh",
+          "description": "Emulating a Super Nintendo is easy, but emulating an arcade cabinet is a different beast",
+          "link": "https://www.xda-developers.com/emulating-arcade-games-is-harder-than-emulating-consoles-mame-is-trying/",
+          "publishedOn": "2026-11-08T20:00:20.000Z",
+          "wordCount": 6661,
+          "title": "Emulating arcade games is harder than emulating consoles, and MAME's 30-year history shows why",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/playing-cadillacs-and-dinosaurs-on-mame-arcade-emulator-on-pc.jpg",
+            "length": "3259",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/playing-cadillacs-and-dinosaurs-on-mame-arcade-emulator-on-pc.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/zelda-ocarina-of-time-alread-running-on-pc-with-dlss-5-frame-generation/",
           "author": "Patrick O'Rourke",
