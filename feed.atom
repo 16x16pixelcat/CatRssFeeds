@@ -2,10 +2,342 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-09T05:26:20.700Z</updated>
+    <updated>2026-11-10T06:37:30.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You, too, can build this ESP32-S3 planter that shows your plant’s status with an emoji]]></title>
+        <id>https://www.xda-developers.com/you-too-can-build-this-esp32-s3-planter-that-shows-your-plants-status-with-emoji/</id>
+        <link href="https://www.xda-developers.com/you-too-can-build-this-esp32-s3-planter-that-shows-your-plants-status-with-emoji/"/>
+        <updated>2026-11-10T06:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Never miss a watering again.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone turned an Apple II monitor into a flight tracker using an ESP32]]></title>
+        <id>https://www.xda-developers.com/someone-turned-an-apple-ii-monitor-into-a-flight-tracker-using-an-esp32/</id>
+        <link href="https://www.xda-developers.com/someone-turned-an-apple-ii-monitor-into-a-flight-tracker-using-an-esp32/"/>
+        <updated>2026-11-10T05:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Something old with something new.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distro choice doesn’t matter anymore, and that’s why 2027 is the year Linux finally goes mainstream]]></title>
+        <id>https://www.xda-developers.com/distro-choice-doesnt-matter-anymore-and-thats-why-2027-is-the-year-linux-finally-goes-mainstream/</id>
+        <link href="https://www.xda-developers.com/distro-choice-doesnt-matter-anymore-and-thats-why-2027-is-the-year-linux-finally-goes-mainstream/"/>
+        <updated>2026-11-10T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Picking your distro used to be the hard part, but it doesn't matter nearly as much as it once did]]></summary>
+        <author>
+            <name>Ty Sherback</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - November 9th]]></title>
+        <id>https://store.steampowered.com/news/group/4397053/view/713417567788598007</id>
+        <link href="https://store.steampowered.com/news/group/4397053/view/713417567788598007"/>
+        <updated>2026-11-10T00:48:39.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+General
+
+The Hardware Compatibility dialog now includes the average framerate players get in games on Steam Deck. Learn more about this update here.
+
+The prompt to opt-in to providing anonymized framerate data is now also shown in the Steam desktop client. 
+
+Steam Input
+
+Fixed a bug where the "listen for binding" mode could bind multiple things on Dpad input]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Deck Framerate]]></title>
+        <id>https://store.steampowered.com/news/app/593110/view/685269801333948419</id>
+        <link href="https://store.steampowered.com/news/app/593110/view/685269801333948419"/>
+        <updated>2026-11-10T00:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! With today’s update, you can now see the average framerate players get in games on Steam Deck.
+
+This average is calculated using data from customers who have opted in to providing framerate data, and is available for games that have been tested for Deck compatibility (Verified, Playable, and Unsupported). As of this blog post, there are thousands of games with framerate data, and this number will grow as we continue to gather data. You can find average framerate data on each game’s Steam Store detail page under Steam Deck Compatibility > Learn more. This data is also available in your Steam Library on Steam Client Beta.
+Framerate Histogram
+We've also added an expandable detail view with a histogram breaking down the percentage of data samples at each framerate. This is useful to see…]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Antigravity adds ‘Knowledge Work’ interface for non-coding work]]></title>
+        <id>https://9to5google.com/?p=736358</id>
+        <link href="https://9to5google.com/2026/11/09/google-antigravity-knowledge-work/"/>
+        <updated>2026-11-10T00:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Following last week’s big update, Google Antigravity is rolling out a “Knowledge Work” user experience. 
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can now build your own Linux desktop with HTML and CSS, and it looks better than KDE Plasma]]></title>
+        <id>https://www.xda-developers.com/built-my-own-linux-desktop-with-html-and-css/</id>
+        <link href="https://www.xda-developers.com/built-my-own-linux-desktop-with-html-and-css/"/>
+        <updated>2026-11-10T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Don't try this at home?]]></summary>
+        <author>
+            <name>Rich Edmonds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy S27 series camera specs leak, and they’re disappointing]]></title>
+        <id>https://9to5google.com/?p=736344</id>
+        <link href="https://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/"/>
+        <updated>2026-11-09T23:20:00.000Z</updated>
+        <summary type="html"><![CDATA[New leaks reveal the camera specs for Samsung’s upcoming Galaxy S27 series which includes three lenses across the lineup, but not the upgrades you want, nor what Ultra owners might expect.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave my old PC games path tracing with RTX Remix, and they look better than DLSS 5]]></title>
+        <id>https://www.xda-developers.com/old-pc-games-with-rtx-remix-path-tracing-look-better-than-dlss5/</id>
+        <link href="https://www.xda-developers.com/old-pc-games-with-rtx-remix-path-tracing-look-better-than-dlss5/"/>
+        <updated>2026-11-09T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[There's literally nothing like a lighting overhaul.]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stuck a $10 USB LED strip to the back of my monitor, and my evening eye strain completely disappeared]]></title>
+        <id>https://www.xda-developers.com/i-stuck-10-usb-led-strip-back-of-my-monitor-my-evening-eye-strain-completely-disappeared/</id>
+        <link href="https://www.xda-developers.com/i-stuck-10-usb-led-strip-back-of-my-monitor-my-evening-eye-strain-completely-disappeared/"/>
+        <updated>2026-11-09T22:31:20.000Z</updated>
+        <summary type="html"><![CDATA[It's a simple solution to the annoying problem.]]></summary>
+        <author>
+            <name>Jasmine Mannan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in Android’s November 2026 Google System Updates [U]]]></title>
+        <id>https://9to5google.com/?p=735429</id>
+        <link href="https://9to5google.com/2026/11/09/november-2026-google-system-updates/"/>
+        <updated>2026-11-09T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned my iPhone Duo into a Windows 98 gaming PC.]]></title>
+        <id>https://www.xda-developers.com/video/i-turned-my-iphone-duo-into-a-windows-98-gaming-pc/</id>
+        <link href="https://www.xda-developers.com/video/i-turned-my-iphone-duo-into-a-windows-98-gaming-pc/"/>
+        <updated>2026-11-09T22:04:27.000Z</updated>
+        <summary type="html"><![CDATA[The first foldable iPhone makes a surprisingly great vintage gaming PC, complete with virtual 3dfx card.]]></summary>
+        <author>
+            <name>Alex Dobie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesh Wi-Fi is the worst way to start a home network if you can run even one cable]]></title>
+        <id>https://www.xda-developers.com/mesh-wi-fi-is-the-worst-way-to-start-a-home-network-if-you-can-run-even-one-cable/</id>
+        <link href="https://www.xda-developers.com/mesh-wi-fi-is-the-worst-way-to-start-a-home-network-if-you-can-run-even-one-cable/"/>
+        <updated>2026-11-09T22:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Deploying even one wired link can be enough to save you from buying a mesh system]]></summary>
+        <author>
+            <name>Ty Sherback</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake memory cards are everywhere, and here's how to spot them]]></title>
+        <id>https://www.xda-developers.com/fake-memory-cards-everywhere-how-to-spot-them/</id>
+        <link href="https://www.xda-developers.com/fake-memory-cards-everywhere-how-to-spot-them/"/>
+        <updated>2026-11-09T21:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Counterfeit memory cards promise the world, but don't take them on their word]]></summary>
+        <author>
+            <name>Tanveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The TCL NXTPAPER 70 Pro is back down to its lowest all-time price]]></title>
+        <id>https://9to5google.com/?p=736068</id>
+        <link href="https://9to5google.com/2026/11/09/the-tcl-nxtpaper-70-pro-early-black-friday-deal/"/>
+        <updated>2026-11-09T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The TCL Black Friday sales have started early, beginning with the unlocked TCL NXTPAPER 70 Pro.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fitbit Sense & Versa losing 3rd-party watch faces this month, existing downloads remain]]></title>
+        <id>https://9to5google.com/?p=736323</id>
+        <link href="https://9to5google.com/2026/11/09/fitbit-sense-versa-clocks-apps/"/>
+        <updated>2026-11-09T21:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Google announced today that Fitbit Sense and Versa smartwatches will soon lose the ability to “install or update third-party apps and clocks.”
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Corsair Novablade Pro fightpad has Hall Effect switches and is 25% off]]></title>
+        <id>https://www.xda-developers.com/this-corsair-novablade-pro-leverless-fight-controller-with-rapid-trigger-is-just-18999-on-amazon-today/</id>
+        <link href="https://www.xda-developers.com/this-corsair-novablade-pro-leverless-fight-controller-with-rapid-trigger-is-just-18999-on-amazon-today/"/>
+        <updated>2026-11-09T21:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Tri-mode wireless and Hall Effect switches for fighting game precision.]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands]]></title>
+        <id>https://9to5google.com/?p=736291</id>
+        <link href="https://9to5google.com/2026/11/09/googlebook-apps-macos-features/"/>
+        <updated>2026-11-09T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Googlebooks are a bit starved of desktop-class features at launch, but one of Google’s pitches around this platform is how apps can be built for it, and the company’s own employees are showing off what that looks like with some clever apps that just so happen to add features that feel a lot like they’re replicating macOS staples.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hunter is killing Google Home, Alexa controls for its smart ceiling fans]]></title>
+        <id>https://9to5google.com/?p=736284</id>
+        <link href="https://9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support/"/>
+        <updated>2026-11-09T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Hunter, a major brand for ceiling fans in the US, is pulling the plug on its Google Home and Amazon Alexa bridge for controlling “HunterSMART” models in just a few weeks.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday’s Android app deals and freebies: Absolum, Death Worm, Minabo, more]]></title>
+        <id>https://9to5toys.com/2026/11/09/todays-highlight-google-play-deals-45/</id>
+        <link href="https://9to5toys.com/2026/11/09/todays-highlight-google-play-deals-45/"/>
+        <updated>2026-11-09T18:58:46.000Z</updated>
+        <summary type="html"><![CDATA[The new Samsung Galaxy SmartTag 3 tracker is now available for purchase alongside the ongoing all-time low on Google Home Speaker, but today’s best Google Play app and game deals are ready as well: Absolum, Death Worm Deluxe, Pixel Knight, Minabo: A walk through life, Sword of Palmira, Endurance: dead space Premium, Path to Mnemosyne, and more. Just be sure to dive into Galaxy Z Fold 8 at $300 off with a FREE set of new Galaxy Buds On ($530 off) and some of the first deals yet on the new Google Fitbit Edge. The apps await below. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Store previews Black Friday 2026 deals, starting Nov. 19]]></title>
+        <id>https://9to5google.com/?p=736146</id>
+        <link href="https://9to5google.com/2026/11/09/google-store-black-friday-2026/"/>
+        <updated>2026-11-09T18:29:32.000Z</updated>
+        <summary type="html"><![CDATA[With early deals ending yesterday, the US Google Store has now shared its upcoming Black Friday sale that starts on November 19.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year]]></title>
+        <id>https://9to5google.com/?p=736077</id>
+        <link href="https://9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year/"/>
+        <updated>2026-11-09T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung is teeing up to kick off 2027 with an all-new lineup of flagship smartphones, and despite rising prices at your local Best Buy, the brand is still hedging that you’re going to pony up for the most premium model available.
+more…]]></summary>
+        <author>
+            <name>Will Sattelberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gemini rolling out ‘Memory summary’ with everything it remembers about you]]></title>
+        <id>https://9to5google.com/?p=736073</id>
+        <link href="https://9to5google.com/2026/11/09/google-gemini-memory-summary/"/>
+        <updated>2026-11-09T16:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Google Gemini now offers a “Memory summary” to “view, edit, and delete what Gemini Apps understands about you.”
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more]]></title>
+        <id>https://9to5google.com/?p=736071</id>
+        <link href="https://9to5google.com/2026/11/09/deals-z-fold-8-with-free-galaxy-buds-google-fitbit-edge/"/>
+        <updated>2026-11-09T16:42:57.000Z</updated>
+        <summary type="html"><![CDATA[The Best Buy Week 2 early Black Friday deals are now live and we are still tracking a new all-time low on the Google Home Speaker that now sits alongside some of the first chances to save on Google Fitbit Edge from $126. Today’s 9to5Toys Lunch Break is headlined, however, by Samsung offering Galaxy Z Fold 8 at $300 off with a FREE set of new Galaxy Buds On ($530 off), as well as the ongoing $450 price drop on Samsung Galaxy S26 Ultra, and LG’s most affordable 65-inch 2026 OLED TV at $1,000 off. Head below for a closer look at the details.
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola accidentally confirms its ‘Razr Flex’ wide foldable is coming in 2027]]></title>
+        <id>https://9to5google.com/?p=736057</id>
+        <link href="https://9to5google.com/2026/11/09/motorola-razr-flex-wide-foldable-2027-leak/"/>
+        <updated>2026-11-09T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Following a past teaser, Motorola has mistakenly posted an early support page that not only confirms the name of its wide foldable as the “Razr Flex,” but also confirms it will be launching in 2027.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walmart raises prices on its entire Google TV streamer lineup]]></title>
+        <id>https://9to5google.com/?p=736038</id>
+        <link href="https://9to5google.com/2026/11/09/walmart-google-tv-streamer-lineup-price-hike/"/>
+        <updated>2026-11-09T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Walmart’s ultra-cheap Google TV streamers were never going to remain cheap in the age of RAMageddon, and now we’re seeing the second big price hike of the year with the whole Onn Google TV lineup seeing higher prices today.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s paid Galaxy AI plan leaks for $5/month, but will you pay?]]></title>
+        <id>https://9to5google.com/?p=736036</id>
+        <link href="https://9to5google.com/2026/11/09/samsung-galaxy-ai-paid-plan-leak/"/>
+        <updated>2026-11-09T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung has long left the idea of paid Galaxy AI features on the table for Galaxy devices, and now there’s finally some evidence that it’s coming and could cost $5/month.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 10a drops to $449, the best deal you’ll find after Google’s price hike]]></title>
+        <id>https://9to5google.com/?p=736042</id>
+        <link href="https://9to5google.com/2026/11/09/google-pixel-10a-deal-after-price-hike/"/>
+        <updated>2026-11-09T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Google may have hiked the price of the Pixel 10a in recent months, but a limited-time deal is the best price you’ll find at $450.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta’s Horizon+ looks to become Meta VR+ and include 3D movies]]></title>
+        <id>https://9to5google.com/?p=736035</id>
+        <link href="https://9to5google.com/2026/11/09/metas-horizon-looks-to-become-meta-vr-and-include-3d-movies/"/>
+        <updated>2026-11-09T14:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Meta Horizon+ is rumored to be changing its name to Meta VR+ and may start including movies in addition to games with the subscription price.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto cutting off older devices, now requires Android 11 or newer]]></title>
+        <id>https://9to5google.com/?p=736037</id>
+        <link href="https://9to5google.com/2026/11/09/android-auto-minimum-requirements-android-11/"/>
+        <updated>2026-11-09T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has officially dropped support for some older Android versions in Android Auto, now requiring Android 11 or newer to function.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The tidal wave of AI bug reports may hopefully come to an end as Linux 7.4-rc2 got more fixes than reports]]></title>
         <id>https://www.xda-developers.com/the-tidal-wave-of-ai-bug-reports-may-hopefully-come-to-an-end-as-linux-74-rc2-got-more-fixes-than-reports/</id>

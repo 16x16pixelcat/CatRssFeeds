@@ -12,6 +12,31 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/group/4397053/view/713417567788598007",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nThe Hardware Compatibility dialog now includes the average framerate players get in games on Steam Deck. Learn more about this update here.\n\nThe prompt to opt-in to providing anonymized framerate data is now also shown in the Steam desktop client. \n\nSteam Input\n\nFixed a bug where the \"listen for binding\" mode could bind multiple things on Dpad input",
+          "link": "https://store.steampowered.com/news/group/4397053/view/713417567788598007",
+          "publishedOn": "2026-11-10T00:48:39.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - November 9th",
+          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/593110/view/685269801333948419",
+          "author": null,
+          "description": "Hello! With today’s update, you can now see the average framerate players get in games on Steam Deck.\n\nThis average is calculated using data from customers who have opted in to providing framerate data, and is available for games that have been tested for Deck compatibility (Verified, Playable, and Unsupported). As of this blog post, there are thousands of games with framerate data, and this number will grow as we continue to gather data. You can find average framerate data on each game’s Steam Store detail page under Steam Deck Compatibility > Learn more. This data is also available in your Steam Library on Steam Client Beta.\nFramerate Histogram\nWe've also added an expandable detail view with a histogram breaking down the percentage of data samples at each framerate. This is useful to see…",
+          "link": "https://store.steampowered.com/news/app/593110/view/685269801333948419",
+          "publishedOn": "2026-11-10T00:38:00.000Z",
+          "wordCount": 389,
+          "title": "Steam Deck Framerate",
+          "enclosure": {
+            "url": "https://clan.fastly.steamstatic.com/images/27766192/7bf17b3d7658455f8b4744152b2ab6a82c4829f7.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://clan.fastly.steamstatic.com/images/27766192/7bf17b3d7658455f8b4744152b2ab6a82c4829f7.png"
+        },
+        {
           "id": "https://store.steampowered.com/news/group/4397053/view/713417567788597329",
           "author": null,
           "description": "The Steam Client Beta has been updated with the following changes:\n\nSteam Cloud\n\nMore fixes for a case where Steam Cloud Sync would incorrectly show a conflict in some games, e.g. Monster Hunter World\n\nGeneral\n\nFix for Uninstall Failure dialog not showing",
@@ -534,6 +559,186 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=736358",
+          "author": "Abner Li",
+          "description": "Following last week’s big update, Google Antigravity is rolling out a “Knowledge Work” user experience. \nmore…",
+          "link": "https://9to5google.com/2026/11/09/google-antigravity-knowledge-work/",
+          "publishedOn": "2026-11-10T00:08:37.000Z",
+          "wordCount": 3311,
+          "title": "Google Antigravity adds ‘Knowledge Work’ interface for non-coding work",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-antigravity-knowledge-work.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736344",
+          "author": "Ben Schoon",
+          "description": "New leaks reveal the camera specs for Samsung’s upcoming Galaxy S27 series which includes three lenses across the lineup, but not the upgrades you want, nor what Ultra owners might expect.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/",
+          "publishedOn": "2026-11-09T23:20:00.000Z",
+          "wordCount": 3178,
+          "title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-camera-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735429",
+          "author": "Abner Li",
+          "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/november-2026-google-system-updates/",
+          "publishedOn": "2026-11-09T22:08:00.000Z",
+          "wordCount": 3795,
+          "title": "What’s new in Android’s November 2026 Google System Updates [U]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736068",
+          "author": "Nicholas Sutrich",
+          "description": "The TCL Black Friday sales have started early, beginning with the unlocked TCL NXTPAPER 70 Pro.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/the-tcl-nxtpaper-70-pro-early-black-friday-deal/",
+          "publishedOn": "2026-11-09T21:30:00.000Z",
+          "wordCount": 3297,
+          "title": "The TCL NXTPAPER 70 Pro is back down to its lowest all-time price",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/tcl-nxtpapaper-70-pro-with-box.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736323",
+          "author": "Abner Li",
+          "description": "Google announced today that Fitbit Sense and Versa smartwatches will soon lose the ability to “install or update third-party apps and clocks.”\nmore…",
+          "link": "https://9to5google.com/2026/11/09/fitbit-sense-versa-clocks-apps/",
+          "publishedOn": "2026-11-09T21:21:22.000Z",
+          "wordCount": 2962,
+          "title": "Fitbit Sense & Versa losing 3rd-party watch faces this month, existing downloads remain",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2022/11/fitbit-sense-2-versa-4-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736291",
+          "author": "Ben Schoon",
+          "description": "Googlebooks are a bit starved of desktop-class features at launch, but one of Google’s pitches around this platform is how apps can be built for it, and the company’s own employees are showing off what that looks like with some clever apps that just so happen to add features that feel a lot like they’re replicating macOS staples.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/googlebook-apps-macos-features/",
+          "publishedOn": "2026-11-09T21:05:00.000Z",
+          "wordCount": 3712,
+          "title": "Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-4.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736284",
+          "author": "Ben Schoon",
+          "description": "Hunter, a major brand for ceiling fans in the US, is pulling the plug on its Google Home and Amazon Alexa bridge for controlling “HunterSMART” models in just a few weeks.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/hunter-ceiling-fans-google-home-amazon-alexa-support/",
+          "publishedOn": "2026-11-09T20:05:00.000Z",
+          "wordCount": 3161,
+          "title": "Hunter is killing Google Home, Alexa controls for its smart ceiling fans",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/hunter_fan_2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/11/09/todays-highlight-google-play-deals-45/",
+          "author": "9to5Toys",
+          "description": "The new Samsung Galaxy SmartTag 3 tracker is now available for purchase alongside the ongoing all-time low on Google Home Speaker, but today’s best Google Play app and game deals are ready as well: Absolum, Death Worm Deluxe, Pixel Knight, Minabo: A walk through life, Sword of Palmira, Endurance: dead space Premium, Path to Mnemosyne, and more. Just be sure to dive into Galaxy Z Fold 8 at $300 off with a FREE set of new Galaxy Buds On ($530 off) and some of the first deals yet on the new Google Fitbit Edge. The apps await below. \nmore…",
+          "link": "https://9to5toys.com/2026/11/09/todays-highlight-google-play-deals-45/",
+          "publishedOn": "2026-11-09T18:58:46.000Z",
+          "wordCount": 2991,
+          "title": "Monday’s Android app deals and freebies: Absolum, Death Worm, Minabo, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-f7a79a.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736146",
+          "author": "Abner Li",
+          "description": "With early deals ending yesterday, the US Google Store has now shared its upcoming Black Friday sale that starts on November 19.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/google-store-black-friday-2026/",
+          "publishedOn": "2026-11-09T18:29:32.000Z",
+          "wordCount": 2901,
+          "title": "Google Store previews Black Friday 2026 deals, starting Nov. 19",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Store-Black-Friday-2026.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736077",
+          "author": "Will Sattelberg",
+          "description": "Samsung is teeing up to kick off 2027 with an all-new lineup of flagship smartphones, and despite rising prices at your local Best Buy, the brand is still hedging that you’re going to pony up for the most premium model available.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year/",
+          "publishedOn": "2026-11-09T17:25:00.000Z",
+          "wordCount": 3295,
+          "title": "Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-size-comparison-onl-1.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736073",
+          "author": "Abner Li",
+          "description": "Google Gemini now offers a “Memory summary” to “view, edit, and delete what Gemini Apps understands about you.”\nmore…",
+          "link": "https://9to5google.com/2026/11/09/google-gemini-memory-summary/",
+          "publishedOn": "2026-11-09T16:47:45.000Z",
+          "wordCount": 3472,
+          "title": "Google Gemini rolling out ‘Memory summary’ with everything it remembers about you",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-desktop-app-Windows.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736071",
+          "author": "Justin Kahn",
+          "description": "The Best Buy Week 2 early Black Friday deals are now live and we are still tracking a new all-time low on the Google Home Speaker that now sits alongside some of the first chances to save on Google Fitbit Edge from $126. Today’s 9to5Toys Lunch Break is headlined, however, by Samsung offering Galaxy Z Fold 8 at $300 off with a FREE set of new Galaxy Buds On ($530 off), as well as the ongoing $450 price drop on Samsung Galaxy S26 Ultra, and LG’s most affordable 65-inch 2026 OLED TV at $1,000 off. Head below for a closer look at the details.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/deals-z-fold-8-with-free-galaxy-buds-google-fitbit-edge/",
+          "publishedOn": "2026-11-09T16:42:57.000Z",
+          "wordCount": 5446,
+          "title": "Deals: Z Fold 8 $300 off + FREE Galaxy Buds On, Google Fitbit Edge from $126, LG B6 OLED $1,000 off, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-9-3.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736057",
+          "author": "Ben Schoon",
+          "description": "Following a past teaser, Motorola has mistakenly posted an early support page that not only confirms the name of its wide foldable as the “Razr Flex,” but also confirms it will be launching in 2027.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/motorola-razr-flex-wide-foldable-2027-leak/",
+          "publishedOn": "2026-11-09T15:50:00.000Z",
+          "wordCount": 3019,
+          "title": "Motorola accidentally confirms its ‘Razr Flex’ wide foldable is coming in 2027",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Motorola-Razr-wide-teaser.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736038",
+          "author": "Ben Schoon",
+          "description": "Walmart’s ultra-cheap Google TV streamers were never going to remain cheap in the age of RAMageddon, and now we’re seeing the second big price hike of the year with the whole Onn Google TV lineup seeing higher prices today.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/walmart-google-tv-streamer-lineup-price-hike/",
+          "publishedOn": "2026-11-09T15:25:00.000Z",
+          "wordCount": 2941,
+          "title": "Walmart raises prices on its entire Google TV streamer lineup",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/walmart-onn-4k-pro-google-tv-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736036",
+          "author": "Ben Schoon",
+          "description": "Samsung has long left the idea of paid Galaxy AI features on the table for Galaxy devices, and now there’s finally some evidence that it’s coming and could cost $5/month.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/samsung-galaxy-ai-paid-plan-leak/",
+          "publishedOn": "2026-11-09T15:10:00.000Z",
+          "wordCount": 3135,
+          "title": "Samsung’s paid Galaxy AI plan leaks for $5/month, but will you pay?",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-series-ai-3.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736042",
+          "author": "Ben Schoon",
+          "description": "Google may have hiked the price of the Pixel 10a in recent months, but a limited-time deal is the best price you’ll find at $450.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/google-pixel-10a-deal-after-price-hike/",
+          "publishedOn": "2026-11-09T14:35:00.000Z",
+          "wordCount": 2953,
+          "title": "Pixel 10a drops to $449, the best deal you’ll find after Google’s price hike",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-Obsidian-11.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736035",
+          "author": "Nicholas Sutrich",
+          "description": "Meta Horizon+ is rumored to be changing its name to Meta VR+ and may start including movies in addition to games with the subscription price.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/metas-horizon-looks-to-become-meta-vr-and-include-3d-movies/",
+          "publishedOn": "2026-11-09T14:31:27.000Z",
+          "wordCount": 3371,
+          "title": "Meta’s Horizon+ looks to become Meta VR+ and include 3D movies",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-quest-3-with-amvr-bs1-headstrap-01.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736037",
+          "author": "Ben Schoon",
+          "description": "Google has officially dropped support for some older Android versions in Android Auto, now requiring Android 11 or newer to function.\nmore…",
+          "link": "https://9to5google.com/2026/11/09/android-auto-minimum-requirements-android-11/",
+          "publishedOn": "2026-11-09T14:20:00.000Z",
+          "wordCount": 2916,
+          "title": "Android Auto cutting off older devices, now requires Android 11 or newer",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=735806",
           "author": "Ben Schoon",
@@ -3388,6 +3593,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/you-too-can-build-this-esp32-s3-planter-that-shows-your-plants-status-with-emoji/",
+          "author": "Simon Batt",
+          "description": "Never miss a watering again.",
+          "link": "https://www.xda-developers.com/you-too-can-build-this-esp32-s3-planter-that-shows-your-plants-status-with-emoji/",
+          "publishedOn": "2026-11-10T06:22:39.000Z",
+          "wordCount": 4387,
+          "title": "You, too, can build this ESP32-S3 planter that shows your plant’s status with an emoji",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/fyto-featured.jpeg",
+            "length": "1733",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/fyto-featured.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/someone-turned-an-apple-ii-monitor-into-a-flight-tracker-using-an-esp32/",
+          "author": "Simon Batt",
+          "description": "Something old with something new.",
+          "link": "https://www.xda-developers.com/someone-turned-an-apple-ii-monitor-into-a-flight-tracker-using-an-esp32/",
+          "publishedOn": "2026-11-10T05:45:56.000Z",
+          "wordCount": 4278,
+          "title": "Someone turned an Apple II monitor into a flight tracker using an ESP32",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/apple-ii-flight-monitor-featured.jpg",
+            "length": "1138",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/apple-ii-flight-monitor-featured.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/distro-choice-doesnt-matter-anymore-and-thats-why-2027-is-the-year-linux-finally-goes-mainstream/",
+          "author": "Ty Sherback",
+          "description": "Picking your distro used to be the hard part, but it doesn't matter nearly as much as it once did",
+          "link": "https://www.xda-developers.com/distro-choice-doesnt-matter-anymore-and-thats-why-2027-is-the-year-linux-finally-goes-mainstream/",
+          "publishedOn": "2026-11-10T01:00:20.000Z",
+          "wordCount": 5974,
+          "title": "Distro choice doesn’t matter anymore, and that’s why 2027 is the year Linux finally goes mainstream",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_8256.jpg",
+            "length": "441",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_8256.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/built-my-own-linux-desktop-with-html-and-css/",
+          "author": "Rich Edmonds",
+          "description": "Don't try this at home?",
+          "link": "https://www.xda-developers.com/built-my-own-linux-desktop-with-html-and-css/",
+          "publishedOn": "2026-11-10T00:00:20.000Z",
+          "wordCount": 5461,
+          "title": "You can now build your own Linux desktop with HTML and CSS, and it looks better than KDE Plasma",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/debian-domocile-linux-hero.jpg",
+            "length": "861",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/debian-domocile-linux-hero.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/old-pc-games-with-rtx-remix-path-tracing-look-better-than-dlss5/",
+          "author": "Samarveer Singh",
+          "description": "There's literally nothing like a lighting overhaul.",
+          "link": "https://www.xda-developers.com/old-pc-games-with-rtx-remix-path-tracing-look-better-than-dlss5/",
+          "publishedOn": "2026-11-09T23:00:20.000Z",
+          "wordCount": 6118,
+          "title": "I gave my old PC games path tracing with RTX Remix, and they look better than DLSS 5",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/half-life-2-rtx-on-windows-pc.jpg",
+            "length": "2024",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/half-life-2-rtx-on-windows-pc.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-stuck-10-usb-led-strip-back-of-my-monitor-my-evening-eye-strain-completely-disappeared/",
+          "author": "Jasmine Mannan",
+          "description": "It's a simple solution to the annoying problem.",
+          "link": "https://www.xda-developers.com/i-stuck-10-usb-led-strip-back-of-my-monitor-my-evening-eye-strain-completely-disappeared/",
+          "publishedOn": "2026-11-09T22:31:20.000Z",
+          "wordCount": 5472,
+          "title": "I stuck a $10 USB LED strip to the back of my monitor, and my evening eye strain completely disappeared",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/whatsapp-image-2026-11-09-at-14-30-53.jpeg",
+            "length": "354",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/whatsapp-image-2026-11-09-at-14-30-53.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/video/i-turned-my-iphone-duo-into-a-windows-98-gaming-pc/",
+          "author": "Alex Dobie",
+          "description": "The first foldable iPhone makes a surprisingly great vintage gaming PC, complete with virtual 3dfx card.",
+          "link": "https://www.xda-developers.com/video/i-turned-my-iphone-duo-into-a-windows-98-gaming-pc/",
+          "publishedOn": "2026-11-09T22:04:27.000Z",
+          "wordCount": 3699,
+          "title": "I turned my iPhone Duo into a Windows 98 gaming PC.",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/duo-win98-emaki-tn.jpg",
+            "length": "158",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/duo-win98-emaki-tn.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/mesh-wi-fi-is-the-worst-way-to-start-a-home-network-if-you-can-run-even-one-cable/",
+          "author": "Ty Sherback",
+          "description": "Deploying even one wired link can be enough to save you from buying a mesh system",
+          "link": "https://www.xda-developers.com/mesh-wi-fi-is-the-worst-way-to-start-a-home-network-if-you-can-run-even-one-cable/",
+          "publishedOn": "2026-11-09T22:00:22.000Z",
+          "wordCount": 5883,
+          "title": "Mesh Wi-Fi is the worst way to start a home network if you can run even one cable",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/wi-fi-router-ethernet-port-lan-cable.png",
+            "length": "2817",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/wi-fi-router-ethernet-port-lan-cable.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/fake-memory-cards-everywhere-how-to-spot-them/",
+          "author": "Tanveer Singh",
+          "description": "Counterfeit memory cards promise the world, but don't take them on their word",
+          "link": "https://www.xda-developers.com/fake-memory-cards-everywhere-how-to-spot-them/",
+          "publishedOn": "2026-11-09T21:30:21.000Z",
+          "wordCount": 6094,
+          "title": "Fake memory cards are everywhere, and here's how to spot them",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img20261109163048.jpg",
+            "length": "424",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img20261109163048.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/this-corsair-novablade-pro-leverless-fight-controller-with-rapid-trigger-is-just-18999-on-amazon-today/",
+          "author": "XDA Deals Desk",
+          "description": "Tri-mode wireless and Hall Effect switches for fighting game precision.",
+          "link": "https://www.xda-developers.com/this-corsair-novablade-pro-leverless-fight-controller-with-rapid-trigger-is-just-18999-on-amazon-today/",
+          "publishedOn": "2026-11-09T21:20:02.000Z",
+          "wordCount": 4142,
+          "title": "The Corsair Novablade Pro fightpad has Hall Effect switches and is 25% off",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/corsair-novablade-pro-closeup.png",
+            "length": "1489",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/corsair-novablade-pro-closeup.png"
+        },
         {
           "id": "https://www.xda-developers.com/the-tidal-wave-of-ai-bug-reports-may-hopefully-come-to-an-end-as-linux-74-rc2-got-more-fixes-than-reports/",
           "author": "Simon Batt",
