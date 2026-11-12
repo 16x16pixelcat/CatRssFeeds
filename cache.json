@@ -12,6 +12,61 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/4165890/view/687522235410284763",
+          "author": null,
+          "description": "A new Steam Client update has been released and will be automatically downloaded.\n\nSteam Achievement Sets\nA new way to organize, track, and complete a game's achievements. Read more details in the announcement.\n\nGames can now organize and group achievements for base game and DLC content\n\nDLC achievements can be added via sets without breaking game completion\n\nCompleted achievement sets remain completed when new sets are added\n\nAchievements and sets can be archived if they are seasonal or can no longer be achieved\n\nUpdated Achievements page and achievement summary displays\n\n\n\n\nGeneral\n\nNotifications settings layout has been changed to be easier to work with at all window sizes.\n\nPer-friend notifications now override global notification settings correctly in all cases.\n\nSecond round of Steam…",
+          "link": "https://store.steampowered.com/news/app/4165890/view/687522235410284763",
+          "publishedOn": "2026-11-11T23:14:18.000Z",
+          "wordCount": 392,
+          "title": "Steam Client Update - November 11th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/593110/view/685269908095762671",
+          "author": null,
+          "description": "Today, the recent achievements update featuring Steam Achievement Sets and a new achievements page, is available to all Steam users.\nAchievement Sets are ideal for organizing achievements within a game, making it easier for players to track their progress and discover new achievements as games add them. They also allow games to add new achievements, or new DLC with achievements, without breaking prior game completion.\n\n\nYou can read the full blog post here, but here's a quick summary...\nTrack progress by achievement set - You can track progress across each achievement set in a game, each with their own progress bar and trophy.\nKeep game completion intact - If new achievements are added to a game, it won't break previously completed sets or take away your game completion.\nDLC achievements - Achievements can now be tied to DLC and can be organized into their own sets, with progress reflected separately from the base game.\nComplete games or sets with retired achievements - Developers can archive or retire achievements and sets when they're no longer available, preserving them for players who earned them without affecting future completion for everyone else.\n\nWe've also revamped the achievements page to bring together overall game progress, individual set progress, achievement details, Global Stats, and expanded search and filtering. Enjoy competing with friends? Players can now compare their achievements progress with up to three friends, based on a more accurate total achievement count.\n\nThroughout the beta, we've continued to make improvements based on feedback from both players and developers, and we'll continue to do so. We'd like to thank everyone who participated and took the time to share their thoughts. \n\nAre you a game developer interested in seeing how easy it is to add achievement sets? Read the Steamworks blog post here.",
+          "link": "https://store.steampowered.com/news/app/593110/view/685269908095762671",
+          "publishedOn": "2026-11-11T21:58:18.000Z",
+          "wordCount": 394,
+          "title": "Steam Achievement Sets — Now Available to Everyone",
+          "enclosure": {
+            "url": "https://clan.fastly.steamstatic.com/images/27766192/c85b11abca87211272aa4d704c222c82fc21a7dd.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://clan.fastly.steamstatic.com/images/27766192/c85b11abca87211272aa4d704c222c82fc21a7dd.png"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/593110/view/678515036155543747",
+          "author": null,
+          "description": "A new Steam Client update has been released and will be automatically downloaded.\n\nSteam Achievement Sets\nA new way to organize, track, and complete a game's achievements. Read more details in the announcement.\n\nGames can now organize and group achievements for base game and DLC content\n\nDLC achievements can be added via sets without breaking game completion\n\nCompleted achievement sets remain completed when new sets are added\n\nAchievements and sets can be archived if they are seasonal or can no longer be achieved\n\nUpdated Achievements page and achievement summary displays\n\n\n\n\nGeneral\n\nNotifications settings layout has been changed to be easier to work with at all window sizes.\n\nPer-friend notifications now override global notification settings correctly in all cases.\n\nSecond round of Steam…",
+          "link": "https://store.steampowered.com/news/app/593110/view/678515036155543747",
+          "publishedOn": "2026-11-11T21:58:00.000Z",
+          "wordCount": 392,
+          "title": "Steam Client Update - November 11th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593110/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/687522235410284741",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client update to the Stable channel.\n\nSteam Achievement Sets\nA new way to organize, track, and complete a game's achievements. Read more details in the announcement.\n\nGames can now organize and group achievements for base game and DLC content\n\nDLC achievements can be added via sets without breaking game completion\n\nCompleted achievement sets remain completed when new sets are added\n\nAchievements and sets can be archived if they are seasonal or can no longer be achieved\n\nUpdated Achievements page and achievement summary displays\n\n\n\n\nGeneral\n\nThe Hardware Compatibility dialog now includes the average framerate players get in games on Steam Deck. Learn more about this update here.\n\nGame invites from friends now have a dedicated widget in the chat tab abov…",
+          "link": "https://store.steampowered.com/news/app/1675200/view/687522235410284741",
+          "publishedOn": "2026-11-11T21:57:41.000Z",
+          "wordCount": 391,
+          "title": "Steam Client Update: November 11th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/group/4397053/view/712292033362919602",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nUpdated localization",
+          "link": "https://store.steampowered.com/news/group/4397053/view/712292033362919602",
+          "publishedOn": "2026-11-11T19:30:54.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - November 11th",
+          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/group/4397053/view/712292033362919432",
           "author": null,
           "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed a regression in the layout of the mute/deafen buttons in voice chats when in push-to-talk or push-to-mute modes\n\nUpdated the hardware compatibility modal with more information about the Steam Deck framerate histogram, clarifying how data is gathered, filtered, and shown.",
@@ -259,6 +314,16 @@
       "siteUrl": "https://store.steampowered.com/news/app/1675200/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/1675200/view/687522235410284741",
+          "author": null,
+          "description": "We have just shipped an updated Steam Client update to the Stable channel.\n\nSteam Achievement Sets\nA new way to organize, track, and complete a game's achievements. Read more details in the announcement.\n\nGames can now organize and group achievements for base game and DLC content\n\nDLC achievements can be added via sets without breaking game completion\n\nCompleted achievement sets remain completed when new sets are added\n\nAchievements and sets can be archived if they are seasonal or can no longer be achieved\n\nUpdated Achievements page and achievement summary displays\n\n\n\n\nGeneral\n\nThe Hardware Compatibility dialog now includes the average framerate players get in games on Steam Deck. Learn more about this update here.\n\nGame invites from friends now have a dedicated widget in the chat tab abov…",
+          "link": "https://store.steampowered.com/news/app/1675200/view/687522235410284741",
+          "publishedOn": "2026-11-11T21:57:41.000Z",
+          "wordCount": 391,
+          "title": "Steam Client Update: November 11th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/app/1675200/view/694276363007298389",
           "author": null,
           "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nFixed various cases where the steam windows could briefly flash black.\n\nSteam Achievement Sets\n\nCompleted achievement sets are now shown in the library when sorting by achievement completion.\n\nFixed achievement totals not counting some unlocked achievements.\n\nFixed rarity threshold on achievement page.\n\nAchievements button in the play bar now opens the achievements panel.\n\nSteam Controller Firmware\n\nReduced thumbstick touch sensitivity to reduce likelihood of early detection of touch.",
@@ -395,6 +460,16 @@
       "feedUrl": "https://store.steampowered.com/feeds/news/app/4165890/?cc=JO&l=english",
       "siteUrl": "https://store.steampowered.com/news/app/4165890/",
       "articles": [
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/687522235410284763",
+          "author": null,
+          "description": "A new Steam Client update has been released and will be automatically downloaded.\n\nSteam Achievement Sets\nA new way to organize, track, and complete a game's achievements. Read more details in the announcement.\n\nGames can now organize and group achievements for base game and DLC content\n\nDLC achievements can be added via sets without breaking game completion\n\nCompleted achievement sets remain completed when new sets are added\n\nAchievements and sets can be archived if they are seasonal or can no longer be achieved\n\nUpdated Achievements page and achievement summary displays\n\n\n\n\nGeneral\n\nNotifications settings layout has been changed to be easier to work with at all window sizes.\n\nPer-friend notifications now override global notification settings correctly in all cases.\n\nSecond round of Steam…",
+          "link": "https://store.steampowered.com/news/app/4165890/view/687522235410284763",
+          "publishedOn": "2026-11-11T23:14:18.000Z",
+          "wordCount": 392,
+          "title": "Steam Client Update - November 11th",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
         {
           "id": "https://store.steampowered.com/news/app/4165890/view/694277269707816972",
           "author": null,
@@ -559,6 +634,176 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=736723",
+          "author": "Nicholas Sutrich",
+          "description": "Get a new Switch 2 system for $459, dropping it to the lowest price we’ve seen in months.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only/",
+          "publishedOn": "2026-11-12T00:17:47.000Z",
+          "wordCount": 3276,
+          "title": "The Nintendo Switch 2 is down to its lowest price of the season tonight only",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nintendo-switch-2-zelda-ocarina-of-time.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736069",
+          "author": "Will Sattelberg",
+          "description": "For every Android-powered slate I’ve used, only Nvidia’s Shield Tablet really stands out in my memory. Part of the company’s occasional (and all-but-dead) dip into hardware products, the Shield Tablet — and its revitalized K1 follow-up, which I also owned through a recall program on the original — carried me through the back half of college, frequently keeping my Chromebook in my backpack in lieu of a mini Bluetooth keyboard or the Shield Tablet’s built-in stylus. Its front-firing speakers made it great for movie-watching, and while I’m not much of a mobile gamer, I did find it to be a great device for emulation, especially when paired with an external controller.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/lenovo-legion-tab-gen-5-review/",
+          "publishedOn": "2026-11-11T20:30:00.000Z",
+          "wordCount": 6079,
+          "title": "The Lenovo Legion Tab Gen 5 would be my perfect Steam tablet if it didn’t cost $900",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/lenovo-legion-tab-gen-5-revview-13.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736804",
+          "author": "Ben Schoon",
+          "description": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
+          "publishedOn": "2026-11-11T19:30:00.000Z",
+          "wordCount": 3365,
+          "title": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736809",
+          "author": "Abner Li",
+          "description": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/google-wallet-home-key/",
+          "publishedOn": "2026-11-11T18:58:06.000Z",
+          "wordCount": 3507,
+          "title": "Google Wallet rolling out digital Google Home keys with supported locks on Android",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Wallet-Home-key.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/11/11/todays-highlight-google-play-deals-47/",
+          "author": "9to5Toys",
+          "description": "Alongside Amazon’s early Black Friday sale, we still have an all-time low on the Google Home Speaker, the official launch of Google Pixel Tag Find Hub tracker (now available for purchase), and a fresh batch of the best Google Play app and game deals. Highlights include WINCH IT OUT, 9th Dawn Remake RPG, 9th Dawn III RPG, Box Head: Roguelike Premium, Wind Peaks, and more. Be sure to check out these new Googlebook models for as low as $680 and the Pixel Watch 5 Black Friday price now live at $100 off. The apps await below. \nmore…",
+          "link": "https://9to5toys.com/2026/11/11/todays-highlight-google-play-deals-47/",
+          "publishedOn": "2026-11-11T18:55:25.000Z",
+          "wordCount": 3238,
+          "title": "Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-fd7ec6.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736487",
+          "author": "Nicholas Sutrich",
+          "description": "Classic Google Assistant sounds for special timers are back, but the “confirm” sound for smart home commands is unexpectedly different.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video/",
+          "publishedOn": "2026-11-11T18:35:00.000Z",
+          "wordCount": 3203,
+          "title": "Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-home-speaker-green.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736758",
+          "author": "Ben Schoon",
+          "description": "It might finally be happening. A new Google Voice update plants seeds of RCS support, though the exact details remain unclear.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/google-voice-rcs-support-teardown/",
+          "publishedOn": "2026-11-11T18:30:00.000Z",
+          "wordCount": 3346,
+          "title": "Google Voice appears to finally be working on RCS support",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-voice-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735679",
+          "author": "Abner Li",
+          "description": "As teased before the launch, Henry Cavill has built a video game on Googlebook, and it’s called Mustache Protocol.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/henry-cavill-mustache-protocol-googlebook/",
+          "publishedOn": "2026-11-11T18:10:00.000Z",
+          "wordCount": 3171,
+          "title": "You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Henry-Cavill-Mustache-Protocol-Googlebook.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736616",
+          "author": "Damien Wilde",
+          "description": "The battery on the Pixel Tag is rated for about a year, but what happens when you need to replace it? Here’s how to replace it.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/how-to-replace-the-battery-on-pixel-tag-video/",
+          "publishedOn": "2026-11-11T18:00:00.000Z",
+          "wordCount": 3830,
+          "title": "How to replace the battery on Pixel Tag [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Pixel-Tag.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736712",
+          "author": "Ben Schoon",
+          "description": "With Google’s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on sale, and it’s a limited list.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/google-pixel-tag-launch-countries/",
+          "publishedOn": "2026-11-11T18:00:00.000Z",
+          "wordCount": 3015,
+          "title": "Google Pixel Tag is only available in 8 countries, and excludes Europe",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-1_232188.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736750",
+          "author": "Abner Li",
+          "description": "Like on Android Auto and Automotive, Google is bringing the Gemini app to CarPlay. This allows iOS users to converse with Gemini Live while driving. \nmore…",
+          "link": "https://9to5google.com/2026/11/11/gemini-app-carplay/",
+          "publishedOn": "2026-11-11T17:31:22.000Z",
+          "wordCount": 3150,
+          "title": "Google rolling out Gemini app for CarPlay",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-app-CarPlay.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736714",
+          "author": "Justin Kahn",
+          "description": "Amazon’s early Black Friday sale is now live alongside the Best Buy Week 2 early Black Friday deals, but we first wanted to start with the now available for purchase Google Pixel Tag – there are some deals on the accessories live today as well. Joining the ongoing all-time low on Google Home Speaker, we also have the $100 price drop on Pixel Watch 5 live well ahead of the official deals Google is advertising as well as a number of the brand new Googlebook releases with hundreds in savings starting down at $680. Those offers sit next to this Lenovo Yoga Mini deal at $460 off and a whole bunch more waiting down below. \nmore…",
+          "link": "https://9to5google.com/2026/11/11/deals-pixel-tag-pixel-watch-5-googlebook-yoga-mini/",
+          "publishedOn": "2026-11-11T16:43:11.000Z",
+          "wordCount": 4648,
+          "title": "Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook  from $680, Lenovo Yoga Mini $460 off, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-11.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736629",
+          "author": "Ben Schoon",
+          "description": "After first appearing months ago, the Motorola MA2 wireless Android Auto adapter is officially available for purchase in the US, but at a much higher price than expected.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch/",
+          "publishedOn": "2026-11-11T15:50:00.000Z",
+          "wordCount": 3687,
+          "title": "Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-ma2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736630",
+          "author": "Abner Li",
+          "description": "The Pixel Tag is now available for purchase at the Google Store and Amazon. \nmore…",
+          "link": "https://9to5google.com/2026/11/11/buy-pixel-tag/",
+          "publishedOn": "2026-11-11T15:28:54.000Z",
+          "wordCount": 3864,
+          "title": "You can now buy the Pixel Tag, cases from Bellroy & Spigen available",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-4_4e33e7.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736589",
+          "author": "Andrew Romero",
+          "description": "Dbrand says it was tasked with developing another strap option for the Fitbit Air; thus, the rugged and modern Pulse band was born.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/",
+          "publishedOn": "2026-11-11T14:00:00.000Z",
+          "wordCount": 3192,
+          "title": "Dbrand’s new Fitbit Air band launches as the first official third-party strap",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Dbrand-Pulse-Fitbit-Air-band-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736495",
+          "author": "Ben Schoon",
+          "description": "Google has confirmed that Gemini on Android Auto is adding “proactive suggestions” soon, but only for Pixel users.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel/",
+          "publishedOn": "2026-11-11T12:35:00.000Z",
+          "wordCount": 3054,
+          "title": "Android Auto is getting a Gemini upgrade, but only if you use a Pixel",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Ask-Gemini-on-Android-Auto.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736543",
+          "author": "Nicholas Sutrich",
+          "description": "Even Realities is making its first big push into the enterprise business world with a new Enterprise SDK release.\nmore…",
+          "link": "https://9to5google.com/2026/11/11/even-realities-enterprise-sdk/",
+          "publishedOn": "2026-11-11T11:03:00.000Z",
+          "wordCount": 3112,
+          "title": "Even Realities glasses are coming to a job site near you",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/even-realities-g2-in-charging-case-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=736563",
           "author": "Nicholas Sutrich",
@@ -3837,14 +4082,14 @@
       "siteUrl": "https://aluminium-os.com",
       "articles": [
         {
-          "id": "https://aluminium-os.com/?p=280748",
+          "id": "https://aluminium-os.com/?p=280760",
           "author": "ALOS",
-          "description": "If you’ve gone looking for a GooglebookOS ISO, you’ve probably noticed something odd: there isn’t one. Google doesn’t publish an installable Googlebook OS image for PCs. The only official downloads ... Read more",
-          "link": "https://aluminium-os.com/googlebookos-iso-and-how-to-run-it/",
-          "publishedOn": "2026-10-13T17:49:56.000Z",
-          "wordCount": 6168,
-          "title": "GooglebookOS ISO: Does It Exist and How to Run It",
-          "imageUrl": "https://aluminium-os.com/wp-content/uploads/2026/10/googlebookOS-iso-1024x576.jpg"
+          "description": "Googlebook OS updates tracked: the latest build, November fixes, known issues, how to install, and what Google ships next.",
+          "link": "https://aluminium-os.com/googlebook-os-november-updates/",
+          "publishedOn": "2026-11-11T16:07:59.000Z",
+          "wordCount": 5664,
+          "title": "Googlebook OS Updates: Latest Build, Fixes And History",
+          "imageUrl": "https://aluminium-os.com/wp-content/uploads/2026/11/googlebook-nov-update.webp"
         }
       ]
     },
@@ -3853,6 +4098,386 @@
       "feedUrl": "https://www.androidauthority.com/feed/",
       "siteUrl": "https://www.androidauthority.com/",
       "articles": [
+        {
+          "id": "https://www.androidauthority.com/google-home-gemini-nest-camera-fixes-3734201/",
+          "author": "Hillary Keverenge",
+          "description": "Small fixes that could make a big difference at home.",
+          "link": "https://www.androidauthority.com/google-home-gemini-nest-camera-fixes-3734201/",
+          "publishedOn": "2026-11-12T06:00:04.000Z",
+          "wordCount": 1781,
+          "title": "Google Home gets more reliable Gemini commands, faster timers, and Nest camera fixes",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Nest-Hub-vs-Home-Speaker-6-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "There's hands-free unlocking too!",
+          "link": "https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/",
+          "publishedOn": "2026-11-11T21:17:25.000Z",
+          "wordCount": 2652,
+          "title": "Google Wallet adds digital home keys to open your front door smart lock with a tap",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/06/nuki-smart-lock-ultra-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/home-assistant-connect-aux-2-launch-3733837/",
+          "author": "Hillary Keverenge",
+          "description": "That forgotten hi-fi system isn't ready for retirement.",
+          "link": "https://www.androidauthority.com/home-assistant-connect-aux-2-launch-3733837/",
+          "publishedOn": "2026-11-11T20:37:43.000Z",
+          "wordCount": 1733,
+          "title": "Home Assistant Connect AUX-2 gives your old speakers and TVs a second life for $69",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/07/HomeAssistant-widget-with-temperature-readout-scaled.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-tv-live-youtube-tv-glitch-3734124/",
+          "author": "Chandra Steele",
+          "description": "This is not the first time the problem has cropped up.",
+          "link": "https://www.androidauthority.com/google-tv-live-youtube-tv-glitch-3734124/",
+          "publishedOn": "2026-11-11T20:25:00.000Z",
+          "wordCount": 1607,
+          "title": "YouTube TV channels are missing from Google TV live tab for some users (Updated)",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/03/youtube-tv-app-logo-google-tv-2-scaled.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/henry-cavill-launches-mustache-protocol-3734108/",
+          "author": "Ryan McNeal",
+          "description": "It's time to stop those rogue CGI artists from erasing innocent mustaches.",
+          "link": "https://www.androidauthority.com/henry-cavill-launches-mustache-protocol-3734108/",
+          "publishedOn": "2026-11-11T20:11:42.000Z",
+          "wordCount": 1645,
+          "title": "Henry Cavill’s Mustache Protocol Googlebook game is now ready to play",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Henry-Cavills-Mustache-Protocol.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-gemini-live-apple-carplay-launch-3734084/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "Catching up to rivals, finally!",
+          "link": "https://www.androidauthority.com/google-gemini-live-apple-carplay-launch-3734084/",
+          "publishedOn": "2026-11-11T19:35:32.000Z",
+          "wordCount": 1972,
+          "title": "Google brings the standalone Gemini app and Gemini Live to Apple CarPlay",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-gemini-ask-gemini-command-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-voice-web-3734099/",
+          "author": "Stephen Schenck",
+          "description": "Here's hoping that RCS support will be the next big change to drop!",
+          "link": "https://www.androidauthority.com/google-voice-web-3734099/",
+          "publishedOn": "2026-11-11T19:28:57.000Z",
+          "wordCount": 1992,
+          "title": "Google Voice web app overhaul introduces new look, grouped chats, and more",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/google-voice-icon-android.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/retroid-pocket-duo-colors-shipping-3734074/",
+          "author": "Ryan McNeal",
+          "description": "However, those who pre-ordered the Pocket Duo Lite Plus are still waiting.",
+          "link": "https://www.androidauthority.com/retroid-pocket-duo-colors-shipping-3734074/",
+          "publishedOn": "2026-11-11T18:41:17.000Z",
+          "wordCount": 1502,
+          "title": "Retroid Pocket Duo pre-orders are now shipping in all 5 colors",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/Retroid-Pocket-Duo-2.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-translate-widgets-2-3733994/",
+          "author": "Stephen Schenck",
+          "description": "Google's sprucing things up with cleaner borders and labels.",
+          "link": "https://www.androidauthority.com/google-translate-widgets-2-3733994/",
+          "publishedOn": "2026-11-11T18:26:06.000Z",
+          "wordCount": 1842,
+          "title": "Google updates 8 Translate widgets with a clean, refined new design",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-translate-icon-home-screen.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/",
+          "author": "Shimul Sood",
+          "description": "Why juggle apps when your Pixel can do the juggling?",
+          "link": "https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/",
+          "publishedOn": "2026-11-11T18:00:13.000Z",
+          "wordCount": 1781,
+          "title": "Blue Phone gives Google’s Pixel 10 Pro an AI assistant that goes beyond Gemini",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-screen-on-home-screen-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-lens-chrome-bug-3734000/",
+          "author": "Chandra Steele",
+          "description": "Google says the bug is fixed, but some users are still stuck.",
+          "link": "https://www.androidauthority.com/google-lens-chrome-bug-3734000/",
+          "publishedOn": "2026-11-11T17:10:30.000Z",
+          "wordCount": 1596,
+          "title": "Google Lens bug traps Chrome users by hiding the close button",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/clever-use-cases-for-google-lens-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/sony-ult-wear-headphones-deal-amazon-3734071/",
+          "author": "Matt Horne",
+          "description": "The headphones are 42% off on Amazon, with bass-boost sound, active noise canceling, and travel-ready folding design.",
+          "link": "https://www.androidauthority.com/sony-ult-wear-headphones-deal-amazon-3734071/",
+          "publishedOn": "2026-11-11T17:06:49.000Z",
+          "wordCount": 1618,
+          "title": "Amazon cuts $105 off Sony ULT WEAR headphones",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/02/Sony-ULT-WEAR-headphones-from-Sound-Guys.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/garmin-us-armed-forces-watch-faces-3733988/",
+          "author": "Hillary Keverenge",
+          "description": "New designs honor five US military branches.",
+          "link": "https://www.androidauthority.com/garmin-us-armed-forces-watch-faces-3733988/",
+          "publishedOn": "2026-11-11T17:02:45.000Z",
+          "wordCount": 1711,
+          "title": "Garmin launches 5 US Armed Forces watch faces for veterans and military families",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/10/Garmin-Fenix-8-AMOLED-voice-controls.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-home-nest-camera-notification-previews-missing-3733975/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "You're not alone if your Nest camera notifications are text-only.",
+          "link": "https://www.androidauthority.com/google-home-nest-camera-notification-previews-missing-3733975/",
+          "publishedOn": "2026-11-11T16:38:30.000Z",
+          "wordCount": 1689,
+          "title": "Google Home bug leaves Nest camera notifications without video previews",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978/",
+          "author": "Ryan McNeal",
+          "description": "OpenAI is going all in on GPT-Live.",
+          "link": "https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978/",
+          "publishedOn": "2026-11-11T16:34:01.000Z",
+          "wordCount": 1437,
+          "title": "OpenAI is sunsetting ChatGPT Advanced and Standard voice next month",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-9.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/baseus-bowie-mc2-earbuds-deal-3733986/",
+          "author": "Matt Horne",
+          "description": "Get 38% off the Baseus Bowie MC2 on Amazon and grab open-ear clip-on earbuds with LDAC, IP67, and app support.",
+          "link": "https://www.androidauthority.com/baseus-bowie-mc2-earbuds-deal-3733986/",
+          "publishedOn": "2026-11-11T16:32:12.000Z",
+          "wordCount": 1632,
+          "title": "Baseus Bowie MC2 earbuds drop below $50 in Amazon deal",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Baseus-Bowie-MC2-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/tribit-stormbox-micro-3-deal-amazon-3734010/",
+          "author": "Matt Horne",
+          "description": "Save $15 on the new StormBox Micro 3, now at an all-time low with punchy sound, IP68 durability, and bike-ready mounting.",
+          "link": "https://www.androidauthority.com/tribit-stormbox-micro-3-deal-amazon-3734010/",
+          "publishedOn": "2026-11-11T16:13:47.000Z",
+          "wordCount": 1685,
+          "title": "Amazon drops the popular Tribit StormBox Micro 3 to just $52",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/Tribit-StormBox-Micro-3-Press-Image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-deal-amazon-3733982/",
+          "author": "Matt Horne",
+          "description": "Samsung's Galaxy Z Fold 8 Ultra drops to $2,048.39 on Amazon, with 512GB storage, 16GB RAM, and dual 120Hz screens.",
+          "link": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-deal-amazon-3733982/",
+          "publishedOn": "2026-11-11T15:27:03.000Z",
+          "wordCount": 1882,
+          "title": "Score $250 off the Galaxy Z Fold 8 Ultra",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-Ultra-unfolded-with-cover-display-and-back-panel-visible.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-create-my-widget-features-restrictions-3733943/",
+          "author": "Hillary Keverenge",
+          "description": "Five countries, an English-only rollout, and a feature gap in the UK.",
+          "link": "https://www.androidauthority.com/google-create-my-widget-features-restrictions-3733943/",
+          "publishedOn": "2026-11-11T15:26:04.000Z",
+          "wordCount": 1991,
+          "title": "Google reveals who can use Pixel’s Create My Widget, availability, and what it can access",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pro-fold-hands-on-5-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/apple-airtag-2-four-pack-deal-3733970/",
+          "author": "Matt Horne",
+          "description": "The AirTag 2nd Gen 4-Pack returns to its all-time low on Amazon at $69, with Find My support and improved Precision Finding.",
+          "link": "https://www.androidauthority.com/apple-airtag-2-four-pack-deal-3733970/",
+          "publishedOn": "2026-11-11T15:01:03.000Z",
+          "wordCount": 1657,
+          "title": "Apple AirTag 2 four-pack gets a $30 Amazon discount",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/Apple-AirTag-2-beside-car-keys.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-voice-rcs-support-apk-teardown-3733929/",
+          "author": "Chethan Rao",
+          "description": "We don’t know how long it will take, but there’s now some hope.",
+          "link": "https://www.androidauthority.com/google-voice-rcs-support-apk-teardown-3733929/",
+          "publishedOn": "2026-11-11T14:55:10.000Z",
+          "wordCount": 1530,
+          "title": "Google Voice is laying the groundwork for RCS chats",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Voice-stock-photo-2.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/amazon-eero-max-7-deals-3733963/",
+          "author": "Matt Horne",
+          "description": "Get 30% off the eero Max 7 mesh router, a Wi-Fi 7 upgrade for large homes with up to 2,500 sq. ft. coverage.",
+          "link": "https://www.androidauthority.com/amazon-eero-max-7-deals-3733963/",
+          "publishedOn": "2026-11-11T14:53:03.000Z",
+          "wordCount": 1662,
+          "title": "Amazon eero Max 7 drops $180, returns to all-time low",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/07/Eero-Max-7.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/dbrand-pulse-band-google-fitbit-air-3733624/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "It's the first third-party Fitbit Air band on the Google Store.",
+          "link": "https://www.androidauthority.com/dbrand-pulse-band-google-fitbit-air-3733624/",
+          "publishedOn": "2026-11-11T14:00:42.000Z",
+          "wordCount": 1832,
+          "title": "Google’s official Fitbit Air lineup adds dbrand’s $35 Pulse Band",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/fitbit-air-dbrand-pulse-band-hero.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-pixel-journal-audio-recording-export-3733816/",
+          "author": "Chethan Rao",
+          "description": "While the export option works as advertised, audio recording is non-functional at the moment.",
+          "link": "https://www.androidauthority.com/google-pixel-journal-audio-recording-export-3733816/",
+          "publishedOn": "2026-11-11T11:50:01.000Z",
+          "wordCount": 1627,
+          "title": "Pixel Journal update brings audio recording and export options",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-pixel-journal.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/grapheneos-for-pixel-11-almost-here-3733803/",
+          "author": "Hadlee Simons",
+          "description": "GrapheneOS on Pixel 11 phones could have similar performance as other Pixels.",
+          "link": "https://www.androidauthority.com/grapheneos-for-pixel-11-almost-here-3733803/",
+          "publishedOn": "2026-11-11T11:39:47.000Z",
+          "wordCount": 1742,
+          "title": "GrapheneOS for Pixel 11 is almost here, and there’s encouraging news for performance",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/pixel-11-pro-three-months-later-hero-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/how-to-see-edit-delete-gemini-memory-summary-3733364/",
+          "author": "Megan Ellis",
+          "description": "Memory summary gives you more control over what Gemini remembers.",
+          "link": "https://www.androidauthority.com/how-to-see-edit-delete-gemini-memory-summary-3733364/",
+          "publishedOn": "2026-11-11T11:11:45.000Z",
+          "wordCount": 3883,
+          "title": "How to see and delete what Gemini knows about you, and why you should",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/The-Gemini-app-on-a-smartphone-screen-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
+          "author": "Tushar Mehta",
+          "description": "But most of the action still happens on your phone.",
+          "link": "https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/",
+          "publishedOn": "2026-11-11T10:34:58.000Z",
+          "wordCount": 1862,
+          "title": "Your Wear OS watch can now run Meta’s Muse AI agent",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/meta-muse-ai-voice-conversations-hero-image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/how-to-install-supernova-nova-launcher-alternative-3732801/",
+          "author": "Andy Walker",
+          "description": "You don't need Nova Launcher to enjoy a Nova Launcher-like home screen.",
+          "link": "https://www.androidauthority.com/how-to-install-supernova-nova-launcher-alternative-3732801/",
+          "publishedOn": "2026-11-11T10:22:13.000Z",
+          "wordCount": 4007,
+          "title": "The best Nova Launcher alternative isn’t on the Play Store — here’s how to install it",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/supernova-launcher-home-screen-2.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/gmail-gemini-features-expansion-3733807/",
+          "author": "Shimul Sood",
+          "description": "Your inbox has 99 problems, but Gemini could solve a few.",
+          "link": "https://www.androidauthority.com/gmail-gemini-features-expansion-3733807/",
+          "publishedOn": "2026-11-11T10:18:41.000Z",
+          "wordCount": 1529,
+          "title": "Google brings Gemini email summaries and writing tools to more Gmail users",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/06/Gmail-AI-Inbox-7-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-health-missing-vitals-fitbit-3733781/",
+          "author": "Hillary Keverenge",
+          "description": "Daily health readings are disappearing after the latest Google Health update.",
+          "link": "https://www.androidauthority.com/google-health-missing-vitals-fitbit-3733781/",
+          "publishedOn": "2026-11-11T10:09:50.000Z",
+          "wordCount": 1574,
+          "title": "Can’t see daily vitals on your Fitbit? It’s not just you, but a fix might not come soon",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-health-splash-screen-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/2026-processors-vs-google-tensor-3721326/",
+          "author": "Robert Triggs",
+          "description": "Google's custom chip just isn't in the same league as its flagship rivals.",
+          "link": "https://www.androidauthority.com/2026-processors-vs-google-tensor-3721326/",
+          "publishedOn": "2026-11-11T10:00:08.000Z",
+          "wordCount": 4382,
+          "title": "Next-gen processors are leaving Google’s Tensor in the dust",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/2026-flagship-smartphones-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-galaxy-enhance-x-one-ui-9-5-3733756/",
+          "author": "Hadlee Simons",
+          "description": "Samsung's image editing app is getting a UI upgrade in One UI 9.5.",
+          "link": "https://www.androidauthority.com/samsung-galaxy-enhance-x-one-ui-9-5-3733756/",
+          "publishedOn": "2026-11-11T09:16:36.000Z",
+          "wordCount": 2046,
+          "title": "Samsung’s Galaxy Enhance-X editing app is getting an overhaul in One UI 9.5",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/04/Galaxy-Enhance-X-app-listing-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-slidable-phone-flexible-display-3733765/",
+          "author": "Tushar Mehta",
+          "description": "The rumored Samsung phone might switch between tall and wide form factors.",
+          "link": "https://www.androidauthority.com/samsung-slidable-phone-flexible-display-3733765/",
+          "publishedOn": "2026-11-11T08:42:16.000Z",
+          "wordCount": 2471,
+          "title": "Samsung’s slidable phone is still a rumor, but its dimensions might be starting to take shape",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Display-Mobile-Slidable-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/fitbit-air-google-health-blood-pressure-logging-3733477/",
+          "author": "Hillary Keverenge",
+          "description": "Manually record blood pressure readings right in Google Health.",
+          "link": "https://www.androidauthority.com/fitbit-air-google-health-blood-pressure-logging-3733477/",
+          "publishedOn": "2026-11-11T07:36:53.000Z",
+          "wordCount": 1604,
+          "title": "Google Health’s new blood pressure tracking feature is reaching Fitbit Air users",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-air-side-wrist-scaled-e1791815438152.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/claude-workplace-tools-sheets-data-whiteboards-3733706/",
+          "author": "Hadlee Simons",
+          "description": "We've even got Claude Meetings, which can take notes and update documents for you.",
+          "link": "https://www.androidauthority.com/claude-workplace-tools-sheets-data-whiteboards-3733706/",
+          "publishedOn": "2026-11-11T07:02:30.000Z",
+          "wordCount": 1688,
+          "title": "Claude now has its own workplace tools, taking on Microsoft Office, Google Workspace",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Claude-Whiteboards-and-Sheets.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-photos-save-upgrade-3733730/",
+          "author": "Adamya Sharma",
+          "description": "Saving edited images is becoming smarter and simpler.",
+          "link": "https://www.androidauthority.com/google-photos-save-upgrade-3733730/",
+          "publishedOn": "2026-11-11T06:53:55.000Z",
+          "wordCount": 1600,
+          "title": "Google Photos is getting a big save upgrade to eliminate unnecessary duplicates",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/04/Google-Photos-logo-on-smartphone-Stock-photo.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/youtube-android-app-redesign-poll-results-3733713/",
+          "author": "Andy Walker",
+          "description": "The vast majority 'hate' the changes. Are you one of them?",
+          "link": "https://www.androidauthority.com/youtube-android-app-redesign-poll-results-3733713/",
+          "publishedOn": "2026-11-11T06:44:06.000Z",
+          "wordCount": 2009,
+          "title": "Survey says YouTube’s new Android app redesign is a massive miss",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/screen-after-cancelling-youtube-premium-lite-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-gemini-4-carbon-rollout-3733702/",
+          "author": "Hillary Keverenge",
+          "description": "Google’s most capable AI model moves beyond its limited preview.",
+          "link": "https://www.androidauthority.com/google-gemini-4-carbon-rollout-3733702/",
+          "publishedOn": "2026-11-11T06:11:13.000Z",
+          "wordCount": 1465,
+          "title": "Google rolls out Gemini 4 Carbon to AI Ultra subscribers",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+        },
         {
           "id": "https://www.androidauthority.com/pixel-watch-step-by-step-workouts-details-3733691/",
           "author": "TeamPortal-Bot",
@@ -4996,6 +5621,156 @@
       "siteUrl": "https://www.androidpolice.com",
       "articles": [
         {
+          "id": "https://www.androidpolice.com/is-your-fitbit-missing-heart-rate-temperature-vitals-google-health-app-try-this-fix/",
+          "author": "Jade Bryan Jardinico",
+          "description": "Fitbit and Pixel users' vitals have vanished into thin air",
+          "link": "https://www.androidpolice.com/is-your-fitbit-missing-heart-rate-temperature-vitals-google-health-app-try-this-fix/",
+          "publishedOn": "2026-11-12T06:06:22.000Z",
+          "wordCount": 4619,
+          "title": "Fitbit not showing heart rate or temperature vitals in Google Health? Try this fix",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/fitbit-air-google-health-daily.JPG",
+            "length": "3836",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/fitbit-air-google-health-daily.JPG"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-wallet-can-now-hold-keys-to-your-home/",
+          "author": "Rajesh Pandey",
+          "description": "Google Home meet Google Wallet",
+          "link": "https://www.androidpolice.com/google-wallet-can-now-hold-keys-to-your-home/",
+          "publishedOn": "2026-11-12T05:42:10.000Z",
+          "wordCount": 4590,
+          "title": "Google Wallet can now hold the keys to your home",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/google-wallet-logo-surrounded-by-colorful-floating-digital-cards.png",
+            "length": "348",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/google-wallet-logo-surrounded-by-colorful-floating-digital-cards.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/android-auto-getting-killer-gemini-feature-every-driver-actually-wants/",
+          "author": "Jade Bryan Jardinico",
+          "description": "Gemini Intelligence is making your dashboard a smarter co-pilot",
+          "link": "https://www.androidpolice.com/android-auto-getting-killer-gemini-feature-every-driver-actually-wants/",
+          "publishedOn": "2026-11-12T03:26:25.000Z",
+          "wordCount": 4652,
+          "title": "Android Auto is getting a killer Gemini feature every driver actually wants",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/gemini-with-youtube-music-in-android-auto-1.jpg",
+            "length": "2878",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/gemini-with-youtube-music-in-android-auto-1.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/gemini-makes-the-leap-to-apple-carplay/",
+          "author": "Timi Cantisano",
+          "description": "After a long wait, iPhone users will gain access to Gemini using Apple CarPlay",
+          "link": "https://www.androidpolice.com/gemini-makes-the-leap-to-apple-carplay/",
+          "publishedOn": "2026-11-12T00:39:56.000Z",
+          "wordCount": 4615,
+          "title": "Gemini is now on Apple CarPlay",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-5.png",
+            "length": "1694",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-5.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/i-thought-lost-google-keep-notes-until-found-how-to-recover-them/",
+          "author": "Anu Joy",
+          "description": "This hidden feature brings back deleted text",
+          "link": "https://www.androidpolice.com/i-thought-lost-google-keep-notes-until-found-how-to-recover-them/",
+          "publishedOn": "2026-11-12T00:00:10.000Z",
+          "wordCount": 5142,
+          "title": "I thought I'd lost my Google Keep notes until I found how to recover them",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/hidden-google-keep-tricks.png",
+            "length": "573",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/hidden-google-keep-tricks.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/chrome-magic-cue-restaurant-recommendations/",
+          "author": "Akshay Bhalla",
+          "description": "Magic Cue ended my decision paralysis",
+          "link": "https://www.androidpolice.com/chrome-magic-cue-restaurant-recommendations/",
+          "publishedOn": "2026-11-11T22:00:10.000Z",
+          "wordCount": 5691,
+          "title": "I ended our nightly dinner debates with this experimental Chrome feature",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/google-pixel-10-magic-cue-icons.png",
+            "length": "1291",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/09/google-pixel-10-magic-cue-icons.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/tweaked-essential-android-auto-settings-to-strip-away-ui-clutter-for-safer-road-trips/",
+          "author": "Parth Shah",
+          "description": "The minimalist's guide to Android Auto",
+          "link": "https://www.androidpolice.com/tweaked-essential-android-auto-settings-to-strip-away-ui-clutter-for-safer-road-trips/",
+          "publishedOn": "2026-11-11T20:00:10.000Z",
+          "wordCount": 4957,
+          "title": "I tweaked 5 essential Android Auto settings to strip away UI clutter for safer road trips",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/driver-using-android-auto-navigation-while-keeping-a-hand-on-the-steering-wheel.png",
+            "length": "1388",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/driver-using-android-auto-navigation-while-keeping-a-hand-on-the-steering-wheel.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/just-for-today-you-can-grab-a-new-pixel-10a-for-389/",
+          "author": "Timi Cantisano",
+          "description": "Grab the app and save with this special discount",
+          "link": "https://www.androidpolice.com/just-for-today-you-can-grab-a-new-pixel-10a-for-389/",
+          "publishedOn": "2026-11-11T19:49:44.000Z",
+          "wordCount": 4468,
+          "title": "Pixel 10a is now $390 on Woot",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/pixel-10a-camera.JPG",
+            "length": "1608",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/pixel-10a-camera.JPG"
+        },
+        {
+          "id": "https://www.androidpolice.com/november-update-on-pixels-adds-a-new-notes-widget/",
+          "author": "Timi Cantisano",
+          "description": "A new way to jot down notes on the fly.",
+          "link": "https://www.androidpolice.com/november-update-on-pixels-adds-a-new-notes-widget/",
+          "publishedOn": "2026-11-11T19:03:07.000Z",
+          "wordCount": 5242,
+          "title": "November Pixel Drop features a Notes widget update",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/10/the-pixel-11-pro-is-in-another-league-from-the-iphone-18-pro-1-0-screenshot.png",
+            "length": "3101",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/10/the-pixel-11-pro-is-in-another-league-from-the-iphone-18-pro-1-0-screenshot.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/amazon-black-friday-sale-early-android-phone-deals/",
+          "author": "Patrick Farmer",
+          "description": "Early deals on everything from budget phones to premium flagships.",
+          "link": "https://www.androidpolice.com/amazon-black-friday-sale-early-android-phone-deals/",
+          "publishedOn": "2026-11-11T18:40:55.000Z",
+          "wordCount": 4926,
+          "title": "Amazon has confirmed the dates of its Black Friday sale — but these 5 Android phone deals are available NOW",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-galaxy-s26-ultra-4.jpg",
+            "length": "2870",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/samsung-galaxy-s26-ultra-4.jpg"
+        },
+        {
           "id": "https://www.androidpolice.com/motorolas-wide-razr-foldable-officially-coming-for-galaxy-z-fold-8/",
           "author": "Jade Bryan Jardinico",
           "description": "It could be the most compact passport foldable",
@@ -5302,6 +6077,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/shokz-openrun-pro-open-ear-sport-headphones-drop/",
+          "author": "XDA Deals Desk",
+          "description": "Great bone-conduction audio for runners and gym-goers",
+          "link": "https://www.xda-developers.com/shokz-openrun-pro-open-ear-sport-headphones-drop/",
+          "publishedOn": "2026-11-12T01:25:50.000Z",
+          "wordCount": 4180,
+          "title": "The Shokz OpenRun Pro open-ear sport headphones drop to $100 at Best Buy",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/shokz-openrun-pro.jpg",
+            "length": "3698",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/05/shokz-openrun-pro.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/this-file-manager-lives-entirely-in-a-terminal-window-and-its-better-than-your-gui/",
+          "author": "Ty Sherback",
+          "description": "superfile is the terminal file manager I actually reach for over my GUI",
+          "link": "https://www.xda-developers.com/this-file-manager-lives-entirely-in-a-terminal-window-and-its-better-than-your-gui/",
+          "publishedOn": "2026-11-12T01:00:20.000Z",
+          "wordCount": 5595,
+          "title": "This file manager lives entirely in a terminal window, and it’s better than your GUI",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_8289-2.jpg",
+            "length": "3888",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_8289-2.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/upgrade-your-pcs-wireless-speeds-with-this-asus-wi-fi-6-adapter/",
+          "author": "XDA Deals Desk",
+          "description": "AX1800 speeds in a very compact form",
+          "link": "https://www.xda-developers.com/upgrade-your-pcs-wireless-speeds-with-this-asus-wi-fi-6-adapter/",
+          "publishedOn": "2026-11-11T23:35:40.000Z",
+          "wordCount": 4083,
+          "title": "Upgrade your PC's wireless speeds for just $30 with this ASUS Wi-Fi 6 adapter",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/asus-usb-ax55-nano-header.png",
+            "length": "926",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/asus-usb-ax55-nano-header.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/my-ps5-pro-and-tv-are-ready-for-gta-6-the-tweaks-took-10-minutes/",
+          "author": "Samarveer Singh",
+          "description": "Don't leave performance on the table when GTA 6 drops",
+          "link": "https://www.xda-developers.com/my-ps5-pro-and-tv-are-ready-for-gta-6-the-tweaks-took-10-minutes/",
+          "publishedOn": "2026-11-11T23:00:21.000Z",
+          "wordCount": 6613,
+          "title": "My PS5 Pro and TV are ready for GTA 6, and the tweaks took less than 10 minutes",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gta-6-countdown-timer-on-playstation-5-pro.jpg",
+            "length": "2256",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gta-6-countdown-timer-on-playstation-5-pro.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/ethernet-connection-running-fraction-of-rated-speed-problem-wasnt-router/",
+          "author": "Hamlin Rozario",
+          "description": "Neither was my motherboard's Ethernet port.",
+          "link": "https://www.xda-developers.com/ethernet-connection-running-fraction-of-rated-speed-problem-wasnt-router/",
+          "publishedOn": "2026-11-11T22:30:21.000Z",
+          "wordCount": 5719,
+          "title": "My Ethernet connection was running at a fraction of its rated speed, and the problem wasn't my router",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/cat-6-connectors.jpg",
+            "length": "184",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/cat-6-connectors.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/turned-old-pixel-into-remote-security-camera-beat-buying-another-camera/",
+          "author": "Dhruv Bhutani",
+          "description": "My old Pixel is now a security camera that watches my study while I'm away.",
+          "link": "https://www.xda-developers.com/turned-old-pixel-into-remote-security-camera-beat-buying-another-camera/",
+          "publishedOn": "2026-11-11T22:00:20.000Z",
+          "wordCount": 5911,
+          "title": "I turned my old Pixel into a remote security camera, and it beat buying another camera",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/alfred-camera-on-phone.jpeg",
+            "length": "1165",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/alfred-camera-on-phone.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/razer-deathadder-v3-pro/",
+          "author": "Timi Cantisano",
+          "description": "It's time to upgrade",
+          "link": "https://www.xda-developers.com/razer-deathadder-v3-pro/",
+          "publishedOn": "2026-11-11T21:50:27.000Z",
+          "wordCount": 4778,
+          "title": "The Razer DeathAdder V3 Pro usually flies under the radar, but the 47% discount is going to bring some attention",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/06/razer-deathadder-v3-pro-claw.jpg",
+            "length": "253",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2023/06/razer-deathadder-v3-pro-claw.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/motherboard-secretly-overvolting-cpu-fix/",
+          "author": "Mainak Kumar Dey",
+          "description": "Leaving your BIOS on auto defaults could be secretly cooking your processor, but taking control of your hardware is a literal game changer.",
+          "link": "https://www.xda-developers.com/motherboard-secretly-overvolting-cpu-fix/",
+          "publishedOn": "2026-11-11T21:30:21.000Z",
+          "wordCount": 6435,
+          "title": "My motherboard was feeding my CPU too much voltage, and one BIOS tweak fixed it",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/13600k-z790-system-feature-image.jpg",
+            "length": "2226",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/13600k-z790-system-feature-image.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/turned-car-android-auto-screen-radio-45000-stations-didnt-cost-dime/",
+          "author": "Anurag Singh",
+          "description": "There's a lot more to radio than local FM stations.",
+          "link": "https://www.xda-developers.com/turned-car-android-auto-screen-radio-45000-stations-didnt-cost-dime/",
+          "publishedOn": "2026-11-11T21:01:21.000Z",
+          "wordCount": 5359,
+          "title": "I turned my car's Android Auto screen into a radio with 45,000 stations, and it didn't cost a dime",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/radioshake-aa.png",
+            "length": "5869",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/radioshake-aa.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/windows-11-has-enabled-memory-integrity-but-gamers-shouldnt-worry-that-much/",
+          "author": "Simon Batt",
+          "description": "It's not too bad.",
+          "link": "https://www.xda-developers.com/windows-11-has-enabled-memory-integrity-but-gamers-shouldnt-worry-that-much/",
+          "publishedOn": "2026-11-11T20:55:49.000Z",
+          "wordCount": 4276,
+          "title": "Windows 11 has enabled Memory Integrity, but gamers shouldn’t worry that much",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/gtx-1660-ti-gaming-pc-monitor-gaming.png",
+            "length": "11481",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/gtx-1660-ti-gaming-pc-monitor-gaming.png"
+        },
         {
           "id": "https://www.xda-developers.com/someone-used-ai-to-bring-a-nokia-n-gage-exclusive-elder-scrolls-title-to-pc/",
           "author": "Simon Batt",

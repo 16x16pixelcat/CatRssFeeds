@@ -2,10 +2,991 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-11T05:24:30.976Z</updated>
+    <updated>2026-11-12T06:27:53.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fitbit not showing heart rate or temperature vitals in Google Health? Try this fix]]></title>
+        <id>https://www.androidpolice.com/is-your-fitbit-missing-heart-rate-temperature-vitals-google-health-app-try-this-fix/</id>
+        <link href="https://www.androidpolice.com/is-your-fitbit-missing-heart-rate-temperature-vitals-google-health-app-try-this-fix/"/>
+        <updated>2026-11-12T06:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Fitbit and Pixel users' vitals have vanished into thin air]]></summary>
+        <author>
+            <name>Jade Bryan Jardinico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Home gets more reliable Gemini commands, faster timers, and Nest camera fixes]]></title>
+        <id>https://www.androidauthority.com/google-home-gemini-nest-camera-fixes-3734201/</id>
+        <link href="https://www.androidauthority.com/google-home-gemini-nest-camera-fixes-3734201/"/>
+        <updated>2026-11-12T06:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Small fixes that could make a big difference at home.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wallet can now hold the keys to your home]]></title>
+        <id>https://www.androidpolice.com/google-wallet-can-now-hold-keys-to-your-home/</id>
+        <link href="https://www.androidpolice.com/google-wallet-can-now-hold-keys-to-your-home/"/>
+        <updated>2026-11-12T05:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Google Home meet Google Wallet]]></summary>
+        <author>
+            <name>Rajesh Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto is getting a killer Gemini feature every driver actually wants]]></title>
+        <id>https://www.androidpolice.com/android-auto-getting-killer-gemini-feature-every-driver-actually-wants/</id>
+        <link href="https://www.androidpolice.com/android-auto-getting-killer-gemini-feature-every-driver-actually-wants/"/>
+        <updated>2026-11-12T03:26:25.000Z</updated>
+        <summary type="html"><![CDATA[Gemini Intelligence is making your dashboard a smarter co-pilot]]></summary>
+        <author>
+            <name>Jade Bryan Jardinico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shokz OpenRun Pro open-ear sport headphones drop to $100 at Best Buy]]></title>
+        <id>https://www.xda-developers.com/shokz-openrun-pro-open-ear-sport-headphones-drop/</id>
+        <link href="https://www.xda-developers.com/shokz-openrun-pro-open-ear-sport-headphones-drop/"/>
+        <updated>2026-11-12T01:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Great bone-conduction audio for runners and gym-goers]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This file manager lives entirely in a terminal window, and it’s better than your GUI]]></title>
+        <id>https://www.xda-developers.com/this-file-manager-lives-entirely-in-a-terminal-window-and-its-better-than-your-gui/</id>
+        <link href="https://www.xda-developers.com/this-file-manager-lives-entirely-in-a-terminal-window-and-its-better-than-your-gui/"/>
+        <updated>2026-11-12T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[superfile is the terminal file manager I actually reach for over my GUI]]></summary>
+        <author>
+            <name>Ty Sherback</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini is now on Apple CarPlay]]></title>
+        <id>https://www.androidpolice.com/gemini-makes-the-leap-to-apple-carplay/</id>
+        <link href="https://www.androidpolice.com/gemini-makes-the-leap-to-apple-carplay/"/>
+        <updated>2026-11-12T00:39:56.000Z</updated>
+        <summary type="html"><![CDATA[After a long wait, iPhone users will gain access to Gemini using Apple CarPlay]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nintendo Switch 2 is down to its lowest price of the season tonight only]]></title>
+        <id>https://9to5google.com/?p=736723</id>
+        <link href="https://9to5google.com/2026/11/11/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only/"/>
+        <updated>2026-11-12T00:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Get a new Switch 2 system for $459, dropping it to the lowest price we’ve seen in months.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I thought I'd lost my Google Keep notes until I found how to recover them]]></title>
+        <id>https://www.androidpolice.com/i-thought-lost-google-keep-notes-until-found-how-to-recover-them/</id>
+        <link href="https://www.androidpolice.com/i-thought-lost-google-keep-notes-until-found-how-to-recover-them/"/>
+        <updated>2026-11-12T00:00:10.000Z</updated>
+        <summary type="html"><![CDATA[This hidden feature brings back deleted text]]></summary>
+        <author>
+            <name>Anu Joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade your PC's wireless speeds for just $30 with this ASUS Wi-Fi 6 adapter]]></title>
+        <id>https://www.xda-developers.com/upgrade-your-pcs-wireless-speeds-with-this-asus-wi-fi-6-adapter/</id>
+        <link href="https://www.xda-developers.com/upgrade-your-pcs-wireless-speeds-with-this-asus-wi-fi-6-adapter/"/>
+        <updated>2026-11-11T23:35:40.000Z</updated>
+        <summary type="html"><![CDATA[AX1800 speeds in a very compact form]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Update - November 11th]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/687522235410284763</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/687522235410284763"/>
+        <updated>2026-11-11T23:14:18.000Z</updated>
+        <summary type="html"><![CDATA[A new Steam Client update has been released and will be automatically downloaded.
+
+Steam Achievement Sets
+A new way to organize, track, and complete a game's achievements. Read more details in the announcement.
+
+Games can now organize and group achievements for base game and DLC content
+
+DLC achievements can be added via sets without breaking game completion
+
+Completed achievement sets remain completed when new sets are added
+
+Achievements and sets can be archived if they are seasonal or can no longer be achieved
+
+Updated Achievements page and achievement summary displays
+
+
+
+
+General
+
+Notifications settings layout has been changed to be easier to work with at all window sizes.
+
+Per-friend notifications now override global notification settings correctly in all cases.
+
+Second round of Steam…]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Update - November 11th]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/687522235410284763</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/687522235410284763"/>
+        <updated>2026-11-11T23:14:18.000Z</updated>
+        <summary type="html"><![CDATA[A new Steam Client update has been released and will be automatically downloaded.
+
+Steam Achievement Sets
+A new way to organize, track, and complete a game's achievements. Read more details in the announcement.
+
+Games can now organize and group achievements for base game and DLC content
+
+DLC achievements can be added via sets without breaking game completion
+
+Completed achievement sets remain completed when new sets are added
+
+Achievements and sets can be archived if they are seasonal or can no longer be achieved
+
+Updated Achievements page and achievement summary displays
+
+
+
+
+General
+
+Notifications settings layout has been changed to be easier to work with at all window sizes.
+
+Per-friend notifications now override global notification settings correctly in all cases.
+
+Second round of Steam…]]></summary>
+        <author>
+            <name>4165890 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My PS5 Pro and TV are ready for GTA 6, and the tweaks took less than 10 minutes]]></title>
+        <id>https://www.xda-developers.com/my-ps5-pro-and-tv-are-ready-for-gta-6-the-tweaks-took-10-minutes/</id>
+        <link href="https://www.xda-developers.com/my-ps5-pro-and-tv-are-ready-for-gta-6-the-tweaks-took-10-minutes/"/>
+        <updated>2026-11-11T23:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Don't leave performance on the table when GTA 6 drops]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Ethernet connection was running at a fraction of its rated speed, and the problem wasn't my router]]></title>
+        <id>https://www.xda-developers.com/ethernet-connection-running-fraction-of-rated-speed-problem-wasnt-router/</id>
+        <link href="https://www.xda-developers.com/ethernet-connection-running-fraction-of-rated-speed-problem-wasnt-router/"/>
+        <updated>2026-11-11T22:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Neither was my motherboard's Ethernet port.]]></summary>
+        <author>
+            <name>Hamlin Rozario</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned my old Pixel into a remote security camera, and it beat buying another camera]]></title>
+        <id>https://www.xda-developers.com/turned-old-pixel-into-remote-security-camera-beat-buying-another-camera/</id>
+        <link href="https://www.xda-developers.com/turned-old-pixel-into-remote-security-camera-beat-buying-another-camera/"/>
+        <updated>2026-11-11T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[My old Pixel is now a security camera that watches my study while I'm away.]]></summary>
+        <author>
+            <name>Dhruv Bhutani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I ended our nightly dinner debates with this experimental Chrome feature]]></title>
+        <id>https://www.androidpolice.com/chrome-magic-cue-restaurant-recommendations/</id>
+        <link href="https://www.androidpolice.com/chrome-magic-cue-restaurant-recommendations/"/>
+        <updated>2026-11-11T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Magic Cue ended my decision paralysis]]></summary>
+        <author>
+            <name>Akshay Bhalla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Achievement Sets — Now Available to Everyone]]></title>
+        <id>https://store.steampowered.com/news/app/593110/view/685269908095762671</id>
+        <link href="https://store.steampowered.com/news/app/593110/view/685269908095762671"/>
+        <updated>2026-11-11T21:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Today, the recent achievements update featuring Steam Achievement Sets and a new achievements page, is available to all Steam users.
+Achievement Sets are ideal for organizing achievements within a game, making it easier for players to track their progress and discover new achievements as games add them. They also allow games to add new achievements, or new DLC with achievements, without breaking prior game completion.
+
+
+You can read the full blog post here, but here's a quick summary...
+Track progress by achievement set - You can track progress across each achievement set in a game, each with their own progress bar and trophy.
+Keep game completion intact - If new achievements are added to a game, it won't break previously completed sets or take away your game completion.
+DLC achievements - Achievements can now be tied to DLC and can be organized into their own sets, with progress reflected separately from the base game.
+Complete games or sets with retired achievements - Developers can archive or retire achievements and sets when they're no longer available, preserving them for players who earned them without affecting future completion for everyone else.
+
+We've also revamped the achievements page to bring together overall game progress, individual set progress, achievement details, Global Stats, and expanded search and filtering. Enjoy competing with friends? Players can now compare their achievements progress with up to three friends, based on a more accurate total achievement count.
+
+Throughout the beta, we've continued to make improvements based on feedback from both players and developers, and we'll continue to do so. We'd like to thank everyone who participated and took the time to share their thoughts. 
+
+Are you a game developer interested in seeing how easy it is to add achievement sets? Read the Steamworks blog post here.]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Update - November 11th]]></title>
+        <id>https://store.steampowered.com/news/app/593110/view/678515036155543747</id>
+        <link href="https://store.steampowered.com/news/app/593110/view/678515036155543747"/>
+        <updated>2026-11-11T21:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Steam Client update has been released and will be automatically downloaded.
+
+Steam Achievement Sets
+A new way to organize, track, and complete a game's achievements. Read more details in the announcement.
+
+Games can now organize and group achievements for base game and DLC content
+
+DLC achievements can be added via sets without breaking game completion
+
+Completed achievement sets remain completed when new sets are added
+
+Achievements and sets can be archived if they are seasonal or can no longer be achieved
+
+Updated Achievements page and achievement summary displays
+
+
+
+
+General
+
+Notifications settings layout has been changed to be easier to work with at all window sizes.
+
+Per-friend notifications now override global notification settings correctly in all cases.
+
+Second round of Steam…]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Update: November 11th]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/687522235410284741</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/687522235410284741"/>
+        <updated>2026-11-11T21:57:41.000Z</updated>
+        <summary type="html"><![CDATA[We have just shipped an updated Steam Client update to the Stable channel.
+
+Steam Achievement Sets
+A new way to organize, track, and complete a game's achievements. Read more details in the announcement.
+
+Games can now organize and group achievements for base game and DLC content
+
+DLC achievements can be added via sets without breaking game completion
+
+Completed achievement sets remain completed when new sets are added
+
+Achievements and sets can be archived if they are seasonal or can no longer be achieved
+
+Updated Achievements page and achievement summary displays
+
+
+
+
+General
+
+The Hardware Compatibility dialog now includes the average framerate players get in games on Steam Deck. Learn more about this update here.
+
+Game invites from friends now have a dedicated widget in the chat tab abov…]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Update: November 11th]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/687522235410284741</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/687522235410284741"/>
+        <updated>2026-11-11T21:57:41.000Z</updated>
+        <summary type="html"><![CDATA[We have just shipped an updated Steam Client update to the Stable channel.
+
+Steam Achievement Sets
+A new way to organize, track, and complete a game's achievements. Read more details in the announcement.
+
+Games can now organize and group achievements for base game and DLC content
+
+DLC achievements can be added via sets without breaking game completion
+
+Completed achievement sets remain completed when new sets are added
+
+Achievements and sets can be archived if they are seasonal or can no longer be achieved
+
+Updated Achievements page and achievement summary displays
+
+
+
+
+General
+
+The Hardware Compatibility dialog now includes the average framerate players get in games on Steam Deck. Learn more about this update here.
+
+Game invites from friends now have a dedicated widget in the chat tab abov…]]></summary>
+        <author>
+            <name>1675200 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Razer DeathAdder V3 Pro usually flies under the radar, but the 47% discount is going to bring some attention]]></title>
+        <id>https://www.xda-developers.com/razer-deathadder-v3-pro/</id>
+        <link href="https://www.xda-developers.com/razer-deathadder-v3-pro/"/>
+        <updated>2026-11-11T21:50:27.000Z</updated>
+        <summary type="html"><![CDATA[It's time to upgrade]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My motherboard was feeding my CPU too much voltage, and one BIOS tweak fixed it]]></title>
+        <id>https://www.xda-developers.com/motherboard-secretly-overvolting-cpu-fix/</id>
+        <link href="https://www.xda-developers.com/motherboard-secretly-overvolting-cpu-fix/"/>
+        <updated>2026-11-11T21:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Leaving your BIOS on auto defaults could be secretly cooking your processor, but taking control of your hardware is a literal game changer.]]></summary>
+        <author>
+            <name>Mainak Kumar Dey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wallet adds digital home keys to open your front door smart lock with a tap]]></title>
+        <id>https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/</id>
+        <link href="https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/"/>
+        <updated>2026-11-11T21:17:25.000Z</updated>
+        <summary type="html"><![CDATA[There's hands-free unlocking too!]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned my car's Android Auto screen into a radio with 45,000 stations, and it didn't cost a dime]]></title>
+        <id>https://www.xda-developers.com/turned-car-android-auto-screen-radio-45000-stations-didnt-cost-dime/</id>
+        <link href="https://www.xda-developers.com/turned-car-android-auto-screen-radio-45000-stations-didnt-cost-dime/"/>
+        <updated>2026-11-11T21:01:21.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot more to radio than local FM stations.]]></summary>
+        <author>
+            <name>Anurag Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 has enabled Memory Integrity, but gamers shouldn’t worry that much]]></title>
+        <id>https://www.xda-developers.com/windows-11-has-enabled-memory-integrity-but-gamers-shouldnt-worry-that-much/</id>
+        <link href="https://www.xda-developers.com/windows-11-has-enabled-memory-integrity-but-gamers-shouldnt-worry-that-much/"/>
+        <updated>2026-11-11T20:55:49.000Z</updated>
+        <summary type="html"><![CDATA[It's not too bad.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Assistant Connect AUX-2 gives your old speakers and TVs a second life for $69]]></title>
+        <id>https://www.androidauthority.com/home-assistant-connect-aux-2-launch-3733837/</id>
+        <link href="https://www.androidauthority.com/home-assistant-connect-aux-2-launch-3733837/"/>
+        <updated>2026-11-11T20:37:43.000Z</updated>
+        <summary type="html"><![CDATA[That forgotten hi-fi system isn't ready for retirement.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lenovo Legion Tab Gen 5 would be my perfect Steam tablet if it didn’t cost $900]]></title>
+        <id>https://9to5google.com/?p=736069</id>
+        <link href="https://9to5google.com/2026/11/11/lenovo-legion-tab-gen-5-review/"/>
+        <updated>2026-11-11T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For every Android-powered slate I’ve used, only Nvidia’s Shield Tablet really stands out in my memory. Part of the company’s occasional (and all-but-dead) dip into hardware products, the Shield Tablet — and its revitalized K1 follow-up, which I also owned through a recall program on the original — carried me through the back half of college, frequently keeping my Chromebook in my backpack in lieu of a mini Bluetooth keyboard or the Shield Tablet’s built-in stylus. Its front-firing speakers made it great for movie-watching, and while I’m not much of a mobile gamer, I did find it to be a great device for emulation, especially when paired with an external controller.
+more…]]></summary>
+        <author>
+            <name>Will Sattelberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube TV channels are missing from Google TV live tab for some users (Updated)]]></title>
+        <id>https://www.androidauthority.com/google-tv-live-youtube-tv-glitch-3734124/</id>
+        <link href="https://www.androidauthority.com/google-tv-live-youtube-tv-glitch-3734124/"/>
+        <updated>2026-11-11T20:25:00.000Z</updated>
+        <summary type="html"><![CDATA[This is not the first time the problem has cropped up.]]></summary>
+        <author>
+            <name>Chandra Steele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Henry Cavill’s Mustache Protocol Googlebook game is now ready to play]]></title>
+        <id>https://www.androidauthority.com/henry-cavill-launches-mustache-protocol-3734108/</id>
+        <link href="https://www.androidauthority.com/henry-cavill-launches-mustache-protocol-3734108/"/>
+        <updated>2026-11-11T20:11:42.000Z</updated>
+        <summary type="html"><![CDATA[It's time to stop those rogue CGI artists from erasing innocent mustaches.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tweaked 5 essential Android Auto settings to strip away UI clutter for safer road trips]]></title>
+        <id>https://www.androidpolice.com/tweaked-essential-android-auto-settings-to-strip-away-ui-clutter-for-safer-road-trips/</id>
+        <link href="https://www.androidpolice.com/tweaked-essential-android-auto-settings-to-strip-away-ui-clutter-for-safer-road-trips/"/>
+        <updated>2026-11-11T20:00:10.000Z</updated>
+        <summary type="html"><![CDATA[The minimalist's guide to Android Auto]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 10a is now $390 on Woot]]></title>
+        <id>https://www.androidpolice.com/just-for-today-you-can-grab-a-new-pixel-10a-for-389/</id>
+        <link href="https://www.androidpolice.com/just-for-today-you-can-grab-a-new-pixel-10a-for-389/"/>
+        <updated>2026-11-11T19:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Grab the app and save with this special discount]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google brings the standalone Gemini app and Gemini Live to Apple CarPlay]]></title>
+        <id>https://www.androidauthority.com/google-gemini-live-apple-carplay-launch-3734084/</id>
+        <link href="https://www.androidauthority.com/google-gemini-live-apple-carplay-launch-3734084/"/>
+        <updated>2026-11-11T19:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Catching up to rivals, finally!]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - November 11th]]></title>
+        <id>https://store.steampowered.com/news/group/4397053/view/712292033362919602</id>
+        <link href="https://store.steampowered.com/news/group/4397053/view/712292033362919602"/>
+        <updated>2026-11-11T19:30:54.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+General
+
+Updated localization]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers]]></title>
+        <id>https://9to5google.com/?p=736804</id>
+        <link href="https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/"/>
+        <updated>2026-11-11T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Voice web app overhaul introduces new look, grouped chats, and more]]></title>
+        <id>https://www.androidauthority.com/google-voice-web-3734099/</id>
+        <link href="https://www.androidauthority.com/google-voice-web-3734099/"/>
+        <updated>2026-11-11T19:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Here's hoping that RCS support will be the next big change to drop!]]></summary>
+        <author>
+            <name>Stephen Schenck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November Pixel Drop features a Notes widget update]]></title>
+        <id>https://www.androidpolice.com/november-update-on-pixels-adds-a-new-notes-widget/</id>
+        <link href="https://www.androidpolice.com/november-update-on-pixels-adds-a-new-notes-widget/"/>
+        <updated>2026-11-11T19:03:07.000Z</updated>
+        <summary type="html"><![CDATA[A new way to jot down notes on the fly.]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wallet rolling out digital Google Home keys with supported locks on Android]]></title>
+        <id>https://9to5google.com/?p=736809</id>
+        <link href="https://9to5google.com/2026/11/11/google-wallet-home-key/"/>
+        <updated>2026-11-11T18:58:06.000Z</updated>
+        <summary type="html"><![CDATA[Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more]]></title>
+        <id>https://9to5toys.com/2026/11/11/todays-highlight-google-play-deals-47/</id>
+        <link href="https://9to5toys.com/2026/11/11/todays-highlight-google-play-deals-47/"/>
+        <updated>2026-11-11T18:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Alongside Amazon’s early Black Friday sale, we still have an all-time low on the Google Home Speaker, the official launch of Google Pixel Tag Find Hub tracker (now available for purchase), and a fresh batch of the best Google Play app and game deals. Highlights include WINCH IT OUT, 9th Dawn Remake RPG, 9th Dawn III RPG, Box Head: Roguelike Premium, Wind Peaks, and more. Be sure to check out these new Googlebook models for as low as $680 and the Pixel Watch 5 Black Friday price now live at $100 off. The apps await below. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retroid Pocket Duo pre-orders are now shipping in all 5 colors]]></title>
+        <id>https://www.androidauthority.com/retroid-pocket-duo-colors-shipping-3734074/</id>
+        <link href="https://www.androidauthority.com/retroid-pocket-duo-colors-shipping-3734074/"/>
+        <updated>2026-11-11T18:41:17.000Z</updated>
+        <summary type="html"><![CDATA[However, those who pre-ordered the Pocket Duo Lite Plus are still waiting.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon has confirmed the dates of its Black Friday sale — but these 5 Android phone deals are available NOW]]></title>
+        <id>https://www.androidpolice.com/amazon-black-friday-sale-early-android-phone-deals/</id>
+        <link href="https://www.androidpolice.com/amazon-black-friday-sale-early-android-phone-deals/"/>
+        <updated>2026-11-11T18:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Early deals on everything from budget phones to premium flagships.]]></summary>
+        <author>
+            <name>Patrick Farmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Home brings back sounds for Gemini, and I’m both elated and irritated [Video]]]></title>
+        <id>https://9to5google.com/?p=736487</id>
+        <link href="https://9to5google.com/2026/11/11/google-home-brings-back-sounds-for-gemini-and-im-both-elated-and-irritated-video/"/>
+        <updated>2026-11-11T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Classic Google Assistant sounds for special timers are back, but the “confirm” sound for smart home commands is unexpectedly different.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Voice appears to finally be working on RCS support]]></title>
+        <id>https://9to5google.com/?p=736758</id>
+        <link href="https://9to5google.com/2026/11/11/google-voice-rcs-support-teardown/"/>
+        <updated>2026-11-11T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It might finally be happening. A new Google Voice update plants seeds of RCS support, though the exact details remain unclear.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google updates 8 Translate widgets with a clean, refined new design]]></title>
+        <id>https://www.androidauthority.com/google-translate-widgets-2-3733994/</id>
+        <link href="https://www.androidauthority.com/google-translate-widgets-2-3733994/"/>
+        <updated>2026-11-11T18:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Google's sprucing things up with cleaner borders and labels.]]></summary>
+        <author>
+            <name>Stephen Schenck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]]]></title>
+        <id>https://9to5google.com/?p=735679</id>
+        <link href="https://9to5google.com/2026/11/11/henry-cavill-mustache-protocol-googlebook/"/>
+        <updated>2026-11-11T18:10:00.000Z</updated>
+        <summary type="html"><![CDATA[As teased before the launch, Henry Cavill has built a video game on Googlebook, and it’s called Mustache Protocol.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue Phone gives Google’s Pixel 10 Pro an AI assistant that goes beyond Gemini]]></title>
+        <id>https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/</id>
+        <link href="https://www.androidauthority.com/blue-os-google-pixel-10-pro-3733835/"/>
+        <updated>2026-11-11T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Why juggle apps when your Pixel can do the juggling?]]></summary>
+        <author>
+            <name>Shimul Sood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to replace the battery on Pixel Tag [Video]]]></title>
+        <id>https://9to5google.com/?p=736616</id>
+        <link href="https://9to5google.com/2026/11/11/how-to-replace-the-battery-on-pixel-tag-video/"/>
+        <updated>2026-11-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The battery on the Pixel Tag is rated for about a year, but what happens when you need to replace it? Here’s how to replace it.
+more…]]></summary>
+        <author>
+            <name>Damien Wilde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel Tag is only available in 8 countries, and excludes Europe]]></title>
+        <id>https://9to5google.com/?p=736712</id>
+        <link href="https://9to5google.com/2026/11/11/google-pixel-tag-launch-countries/"/>
+        <updated>2026-11-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With Google’s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on sale, and it’s a limited list.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google rolling out Gemini app for CarPlay]]></title>
+        <id>https://9to5google.com/?p=736750</id>
+        <link href="https://9to5google.com/2026/11/11/gemini-app-carplay/"/>
+        <updated>2026-11-11T17:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Like on Android Auto and Automotive, Google is bringing the Gemini app to CarPlay. This allows iOS users to converse with Gemini Live while driving. 
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Lens bug traps Chrome users by hiding the close button]]></title>
+        <id>https://www.androidauthority.com/google-lens-chrome-bug-3734000/</id>
+        <link href="https://www.androidauthority.com/google-lens-chrome-bug-3734000/"/>
+        <updated>2026-11-11T17:10:30.000Z</updated>
+        <summary type="html"><![CDATA[Google says the bug is fixed, but some users are still stuck.]]></summary>
+        <author>
+            <name>Chandra Steele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon cuts $105 off Sony ULT WEAR headphones]]></title>
+        <id>https://www.androidauthority.com/sony-ult-wear-headphones-deal-amazon-3734071/</id>
+        <link href="https://www.androidauthority.com/sony-ult-wear-headphones-deal-amazon-3734071/"/>
+        <updated>2026-11-11T17:06:49.000Z</updated>
+        <summary type="html"><![CDATA[The headphones are 42% off on Amazon, with bass-boost sound, active noise canceling, and travel-ready folding design.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garmin launches 5 US Armed Forces watch faces for veterans and military families]]></title>
+        <id>https://www.androidauthority.com/garmin-us-armed-forces-watch-faces-3733988/</id>
+        <link href="https://www.androidauthority.com/garmin-us-armed-forces-watch-faces-3733988/"/>
+        <updated>2026-11-11T17:02:45.000Z</updated>
+        <summary type="html"><![CDATA[New designs honor five US military branches.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Google Pixel Tag, Pixel Watch 5 $100 off, Googlebook  from $680, Lenovo Yoga Mini $460 off, more]]></title>
+        <id>https://9to5google.com/?p=736714</id>
+        <link href="https://9to5google.com/2026/11/11/deals-pixel-tag-pixel-watch-5-googlebook-yoga-mini/"/>
+        <updated>2026-11-11T16:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazon’s early Black Friday sale is now live alongside the Best Buy Week 2 early Black Friday deals, but we first wanted to start with the now available for purchase Google Pixel Tag – there are some deals on the accessories live today as well. Joining the ongoing all-time low on Google Home Speaker, we also have the $100 price drop on Pixel Watch 5 live well ahead of the official deals Google is advertising as well as a number of the brand new Googlebook releases with hundreds in savings starting down at $680. Those offers sit next to this Lenovo Yoga Mini deal at $460 off and a whole bunch more waiting down below. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Home bug leaves Nest camera notifications without video previews]]></title>
+        <id>https://www.androidauthority.com/google-home-nest-camera-notification-previews-missing-3733975/</id>
+        <link href="https://www.androidauthority.com/google-home-nest-camera-notification-previews-missing-3733975/"/>
+        <updated>2026-11-11T16:38:30.000Z</updated>
+        <summary type="html"><![CDATA[You're not alone if your Nest camera notifications are text-only.]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI is sunsetting ChatGPT Advanced and Standard voice next month]]></title>
+        <id>https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978/</id>
+        <link href="https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978/"/>
+        <updated>2026-11-11T16:34:01.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI is going all in on GPT-Live.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baseus Bowie MC2 earbuds drop below $50 in Amazon deal]]></title>
+        <id>https://www.androidauthority.com/baseus-bowie-mc2-earbuds-deal-3733986/</id>
+        <link href="https://www.androidauthority.com/baseus-bowie-mc2-earbuds-deal-3733986/"/>
+        <updated>2026-11-11T16:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Get 38% off the Baseus Bowie MC2 on Amazon and grab open-ear clip-on earbuds with LDAC, IP67, and app support.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon drops the popular Tribit StormBox Micro 3 to just $52]]></title>
+        <id>https://www.androidauthority.com/tribit-stormbox-micro-3-deal-amazon-3734010/</id>
+        <link href="https://www.androidauthority.com/tribit-stormbox-micro-3-deal-amazon-3734010/"/>
+        <updated>2026-11-11T16:13:47.000Z</updated>
+        <summary type="html"><![CDATA[Save $15 on the new StormBox Micro 3, now at an all-time low with punchy sound, IP68 durability, and bike-ready mounting.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googlebook OS Updates: Latest Build, Fixes And History]]></title>
+        <id>https://aluminium-os.com/?p=280760</id>
+        <link href="https://aluminium-os.com/googlebook-os-november-updates/"/>
+        <updated>2026-11-11T16:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Googlebook OS updates tracked: the latest build, November fixes, known issues, how to install, and what Google ships next.]]></summary>
+        <author>
+            <name>ALOS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola MA2 wireless Android Auto adapter is now available, but at nearly twice the price]]></title>
+        <id>https://9to5google.com/?p=736629</id>
+        <link href="https://9to5google.com/2026/11/11/motorola-ma2-wireless-android-auto-adapter-launch/"/>
+        <updated>2026-11-11T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[After first appearing months ago, the Motorola MA2 wireless Android Auto adapter is officially available for purchase in the US, but at a much higher price than expected.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can now buy the Pixel Tag, cases from Bellroy & Spigen available]]></title>
+        <id>https://9to5google.com/?p=736630</id>
+        <link href="https://9to5google.com/2026/11/11/buy-pixel-tag/"/>
+        <updated>2026-11-11T15:28:54.000Z</updated>
+        <summary type="html"><![CDATA[The Pixel Tag is now available for purchase at the Google Store and Amazon. 
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Score $250 off the Galaxy Z Fold 8 Ultra]]></title>
+        <id>https://www.androidauthority.com/galaxy-z-fold-8-ultra-deal-amazon-3733982/</id>
+        <link href="https://www.androidauthority.com/galaxy-z-fold-8-ultra-deal-amazon-3733982/"/>
+        <updated>2026-11-11T15:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Samsung's Galaxy Z Fold 8 Ultra drops to $2,048.39 on Amazon, with 512GB storage, 16GB RAM, and dual 120Hz screens.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google reveals who can use Pixel’s Create My Widget, availability, and what it can access]]></title>
+        <id>https://www.androidauthority.com/google-create-my-widget-features-restrictions-3733943/</id>
+        <link href="https://www.androidauthority.com/google-create-my-widget-features-restrictions-3733943/"/>
+        <updated>2026-11-11T15:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Five countries, an English-only rollout, and a feature gap in the UK.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple AirTag 2 four-pack gets a $30 Amazon discount]]></title>
+        <id>https://www.androidauthority.com/apple-airtag-2-four-pack-deal-3733970/</id>
+        <link href="https://www.androidauthority.com/apple-airtag-2-four-pack-deal-3733970/"/>
+        <updated>2026-11-11T15:01:03.000Z</updated>
+        <summary type="html"><![CDATA[The AirTag 2nd Gen 4-Pack returns to its all-time low on Amazon at $69, with Find My support and improved Precision Finding.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Voice is laying the groundwork for RCS chats]]></title>
+        <id>https://www.androidauthority.com/google-voice-rcs-support-apk-teardown-3733929/</id>
+        <link href="https://www.androidauthority.com/google-voice-rcs-support-apk-teardown-3733929/"/>
+        <updated>2026-11-11T14:55:10.000Z</updated>
+        <summary type="html"><![CDATA[We don’t know how long it will take, but there’s now some hope.]]></summary>
+        <author>
+            <name>Chethan Rao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon eero Max 7 drops $180, returns to all-time low]]></title>
+        <id>https://www.androidauthority.com/amazon-eero-max-7-deals-3733963/</id>
+        <link href="https://www.androidauthority.com/amazon-eero-max-7-deals-3733963/"/>
+        <updated>2026-11-11T14:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Get 30% off the eero Max 7 mesh router, a Wi-Fi 7 upgrade for large homes with up to 2,500 sq. ft. coverage.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s official Fitbit Air lineup adds dbrand’s $35 Pulse Band]]></title>
+        <id>https://www.androidauthority.com/dbrand-pulse-band-google-fitbit-air-3733624/</id>
+        <link href="https://www.androidauthority.com/dbrand-pulse-band-google-fitbit-air-3733624/"/>
+        <updated>2026-11-11T14:00:42.000Z</updated>
+        <summary type="html"><![CDATA[It's the first third-party Fitbit Air band on the Google Store.]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dbrand’s new Fitbit Air band launches as the first official third-party strap]]></title>
+        <id>https://9to5google.com/?p=736589</id>
+        <link href="https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/"/>
+        <updated>2026-11-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dbrand says it was tasked with developing another strap option for the Fitbit Air; thus, the rugged and modern Pulse band was born.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto is getting a Gemini upgrade, but only if you use a Pixel]]></title>
+        <id>https://9to5google.com/?p=736495</id>
+        <link href="https://9to5google.com/2026/11/11/android-auto-gemini-intelligence-pixel/"/>
+        <updated>2026-11-11T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has confirmed that Gemini on Android Auto is adding “proactive suggestions” soon, but only for Pixel users.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Journal update brings audio recording and export options]]></title>
+        <id>https://www.androidauthority.com/google-pixel-journal-audio-recording-export-3733816/</id>
+        <link href="https://www.androidauthority.com/google-pixel-journal-audio-recording-export-3733816/"/>
+        <updated>2026-11-11T11:50:01.000Z</updated>
+        <summary type="html"><![CDATA[While the export option works as advertised, audio recording is non-functional at the moment.]]></summary>
+        <author>
+            <name>Chethan Rao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GrapheneOS for Pixel 11 is almost here, and there’s encouraging news for performance]]></title>
+        <id>https://www.androidauthority.com/grapheneos-for-pixel-11-almost-here-3733803/</id>
+        <link href="https://www.androidauthority.com/grapheneos-for-pixel-11-almost-here-3733803/"/>
+        <updated>2026-11-11T11:39:47.000Z</updated>
+        <summary type="html"><![CDATA[GrapheneOS on Pixel 11 phones could have similar performance as other Pixels.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to see and delete what Gemini knows about you, and why you should]]></title>
+        <id>https://www.androidauthority.com/how-to-see-edit-delete-gemini-memory-summary-3733364/</id>
+        <link href="https://www.androidauthority.com/how-to-see-edit-delete-gemini-memory-summary-3733364/"/>
+        <updated>2026-11-11T11:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Memory summary gives you more control over what Gemini remembers.]]></summary>
+        <author>
+            <name>Megan Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even Realities glasses are coming to a job site near you]]></title>
+        <id>https://9to5google.com/?p=736543</id>
+        <link href="https://9to5google.com/2026/11/11/even-realities-enterprise-sdk/"/>
+        <updated>2026-11-11T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Even Realities is making its first big push into the enterprise business world with a new Enterprise SDK release.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Wear OS watch can now run Meta’s Muse AI agent]]></title>
+        <id>https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/</id>
+        <link href="https://www.androidauthority.com/meta-muse-ai-wear-os-3733785/"/>
+        <updated>2026-11-11T10:34:58.000Z</updated>
+        <summary type="html"><![CDATA[But most of the action still happens on your phone.]]></summary>
+        <author>
+            <name>Tushar Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best Nova Launcher alternative isn’t on the Play Store — here’s how to install it]]></title>
+        <id>https://www.androidauthority.com/how-to-install-supernova-nova-launcher-alternative-3732801/</id>
+        <link href="https://www.androidauthority.com/how-to-install-supernova-nova-launcher-alternative-3732801/"/>
+        <updated>2026-11-11T10:22:13.000Z</updated>
+        <summary type="html"><![CDATA[You don't need Nova Launcher to enjoy a Nova Launcher-like home screen.]]></summary>
+        <author>
+            <name>Andy Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google brings Gemini email summaries and writing tools to more Gmail users]]></title>
+        <id>https://www.androidauthority.com/gmail-gemini-features-expansion-3733807/</id>
+        <link href="https://www.androidauthority.com/gmail-gemini-features-expansion-3733807/"/>
+        <updated>2026-11-11T10:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Your inbox has 99 problems, but Gemini could solve a few.]]></summary>
+        <author>
+            <name>Shimul Sood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can’t see daily vitals on your Fitbit? It’s not just you, but a fix might not come soon]]></title>
+        <id>https://www.androidauthority.com/google-health-missing-vitals-fitbit-3733781/</id>
+        <link href="https://www.androidauthority.com/google-health-missing-vitals-fitbit-3733781/"/>
+        <updated>2026-11-11T10:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Daily health readings are disappearing after the latest Google Health update.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next-gen processors are leaving Google’s Tensor in the dust]]></title>
+        <id>https://www.androidauthority.com/2026-processors-vs-google-tensor-3721326/</id>
+        <link href="https://www.androidauthority.com/2026-processors-vs-google-tensor-3721326/"/>
+        <updated>2026-11-11T10:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Google's custom chip just isn't in the same league as its flagship rivals.]]></summary>
+        <author>
+            <name>Robert Triggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s Galaxy Enhance-X editing app is getting an overhaul in One UI 9.5]]></title>
+        <id>https://www.androidauthority.com/samsung-galaxy-enhance-x-one-ui-9-5-3733756/</id>
+        <link href="https://www.androidauthority.com/samsung-galaxy-enhance-x-one-ui-9-5-3733756/"/>
+        <updated>2026-11-11T09:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Samsung's image editing app is getting a UI upgrade in One UI 9.5.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s slidable phone is still a rumor, but its dimensions might be starting to take shape]]></title>
+        <id>https://www.androidauthority.com/samsung-slidable-phone-flexible-display-3733765/</id>
+        <link href="https://www.androidauthority.com/samsung-slidable-phone-flexible-display-3733765/"/>
+        <updated>2026-11-11T08:42:16.000Z</updated>
+        <summary type="html"><![CDATA[The rumored Samsung phone might switch between tall and wide form factors.]]></summary>
+        <author>
+            <name>Tushar Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Health’s new blood pressure tracking feature is reaching Fitbit Air users]]></title>
+        <id>https://www.androidauthority.com/fitbit-air-google-health-blood-pressure-logging-3733477/</id>
+        <link href="https://www.androidauthority.com/fitbit-air-google-health-blood-pressure-logging-3733477/"/>
+        <updated>2026-11-11T07:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Manually record blood pressure readings right in Google Health.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude now has its own workplace tools, taking on Microsoft Office, Google Workspace]]></title>
+        <id>https://www.androidauthority.com/claude-workplace-tools-sheets-data-whiteboards-3733706/</id>
+        <link href="https://www.androidauthority.com/claude-workplace-tools-sheets-data-whiteboards-3733706/"/>
+        <updated>2026-11-11T07:02:30.000Z</updated>
+        <summary type="html"><![CDATA[We've even got Claude Meetings, which can take notes and update documents for you.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Photos is getting a big save upgrade to eliminate unnecessary duplicates]]></title>
+        <id>https://www.androidauthority.com/google-photos-save-upgrade-3733730/</id>
+        <link href="https://www.androidauthority.com/google-photos-save-upgrade-3733730/"/>
+        <updated>2026-11-11T06:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Saving edited images is becoming smarter and simpler.]]></summary>
+        <author>
+            <name>Adamya Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Survey says YouTube’s new Android app redesign is a massive miss]]></title>
+        <id>https://www.androidauthority.com/youtube-android-app-redesign-poll-results-3733713/</id>
+        <link href="https://www.androidauthority.com/youtube-android-app-redesign-poll-results-3733713/"/>
+        <updated>2026-11-11T06:44:06.000Z</updated>
+        <summary type="html"><![CDATA[The vast majority 'hate' the changes. Are you one of them?]]></summary>
+        <author>
+            <name>Andy Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google rolls out Gemini 4 Carbon to AI Ultra subscribers]]></title>
+        <id>https://www.androidauthority.com/google-gemini-4-carbon-rollout-3733702/</id>
+        <link href="https://www.androidauthority.com/google-gemini-4-carbon-rollout-3733702/"/>
+        <updated>2026-11-11T06:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Google’s most capable AI model moves beyond its limited preview.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Motorola’s wide Razr foldable is officially coming for the Galaxy Z Fold 8]]></title>
         <id>https://www.androidpolice.com/motorolas-wide-razr-foldable-officially-coming-for-galaxy-z-fold-8/</id>
@@ -7619,16 +8600,6 @@ A retro inspired bouncing logo screensaver
 Custom screensavers are also supported. Similar to startup movies, they can be placed in directories at ~/.steam/root/config/uioverrides/screensavers/. You can use the bouncing logo screensaver (in the steamui/scr…]]></summary>
         <author>
             <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GooglebookOS ISO: Does It Exist and How to Run It]]></title>
-        <id>https://aluminium-os.com/?p=280748</id>
-        <link href="https://aluminium-os.com/googlebookos-iso-and-how-to-run-it/"/>
-        <updated>2026-10-13T17:49:56.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve gone looking for a GooglebookOS ISO, you’ve probably noticed something odd: there isn’t one. Google doesn’t publish an installable Googlebook OS image for PCs. The only official downloads ... Read more]]></summary>
-        <author>
-            <name>ALOS</name>
         </author>
     </entry>
 </feed>
