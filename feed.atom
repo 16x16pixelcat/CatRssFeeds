@@ -2,10 +2,892 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-12T06:27:53.373Z</updated>
+    <updated>2026-11-13T05:47:53.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steam Client Beta - November 12th]]></title>
+        <id>https://store.steampowered.com/news/group/4397053/view/712292033362919969</id>
+        <link href="https://store.steampowered.com/news/group/4397053/view/712292033362919969"/>
+        <updated>2026-11-13T02:32:05.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
+
+General
+
+Fixed game art not showing in the library when logging in offline
+
+Linux
+
+Fixed a rare startup crash
+
+Fixed a failure to load custom Proton versions or other compatibility tools from the /usr folder
+
+SteamVR
+
+Fixed a bug preventing some keys from being typed into Steam.]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.9.6 Beta]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/687522235410285093</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/687522235410285093"/>
+        <updated>2026-11-13T02:05:23.000Z</updated>
+        <summary type="html"><![CDATA[This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+
+These notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below
+
+New in SteamOS 3.9.6
+General
+
+Security and stability updates.
+
+Improved frame timing when using the framerate limiter with VRR.
+
+Improved frame timing when using the framerate limiter without VRR. A capped game whose framerate is a multiple of the limit no longer drops below it, e.g. a 30 FPS game with a 60 FPS limit at 120 Hz running at 24 FPS.
+
+Reduced missed frames on fixed refresh caused by slow wakeups from deep CPU idle states.
+
+Fixed a black screen in R…]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.9.6 Beta]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/687522235410285093</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/687522235410285093"/>
+        <updated>2026-11-13T02:05:23.000Z</updated>
+        <summary type="html"><![CDATA[This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+
+These notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below
+
+New in SteamOS 3.9.6
+General
+
+Security and stability updates.
+
+Improved frame timing when using the framerate limiter with VRR.
+
+Improved frame timing when using the framerate limiter without VRR. A capped game whose framerate is a multiple of the limit no longer drops below it, e.g. a 30 FPS game with a 60 FPS limit at 120 Hz running at 24 FPS.
+
+Reduced missed frames on fixed refresh caused by slow wakeups from deep CPU idle states.
+
+Fixed a black screen in R…]]></summary>
+        <author>
+            <name>1675200 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned a basic Windows recovery USB into the ultimate PC troubleshooting toolkit]]></title>
+        <id>https://www.xda-developers.com/turn-a-basic-windows-recovery-usb-into-pc-troubleshooting-toolkit/</id>
+        <link href="https://www.xda-developers.com/turn-a-basic-windows-recovery-usb-into-pc-troubleshooting-toolkit/"/>
+        <updated>2026-11-13T01:01:20.000Z</updated>
+        <summary type="html"><![CDATA[A single bootable stick that hosts installers, disk wipers and rescue environments to diagnose hardware and software failures.]]></summary>
+        <author>
+            <name>Abhishek Kumar Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fairphone and Boost Mobile enter new partnership]]></title>
+        <id>https://www.androidpolice.com/fairphone-gen-6-boost-mobile/</id>
+        <link href="https://www.androidpolice.com/fairphone-gen-6-boost-mobile/"/>
+        <updated>2026-11-13T00:25:44.000Z</updated>
+        <summary type="html"><![CDATA[It's not what we wanted to see, but it's a start]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape is good enough to replace Illustrator for everything I make, once I fixed the defaults]]></title>
+        <id>https://www.xda-developers.com/inkscape-good-enough-to-replace-illustrator-once-i-fixed-the-defaults/</id>
+        <link href="https://www.xda-developers.com/inkscape-good-enough-to-replace-illustrator-once-i-fixed-the-defaults/"/>
+        <updated>2026-11-13T00:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Making free design software feel premium]]></summary>
+        <author>
+            <name>Nolen Jonker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I traded Spotify's endless choices for a Android Auto radio app, and my drives feel better]]></title>
+        <id>https://www.androidpolice.com/android-auto-app-stopped-me-from-endless-spotify-swiping/</id>
+        <link href="https://www.androidpolice.com/android-auto-app-stopped-me-from-endless-spotify-swiping/"/>
+        <updated>2026-11-13T00:00:48.000Z</updated>
+        <summary type="html"><![CDATA[The radio used to rule cars, and it's about time we brought it back.]]></summary>
+        <author>
+            <name>Mark Jansen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Magic Mouse hits an all-time low at $59.99 on Amazon]]></title>
+        <id>https://www.xda-developers.com/apple-magic-mouse-hits-an-all-time-low-at-5999-on-amazon/</id>
+        <link href="https://www.xda-developers.com/apple-magic-mouse-hits-an-all-time-low-at-5999-on-amazon/"/>
+        <updated>2026-11-12T23:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Touch scrolling, USB-C charging, and a month of battery life.]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sonos Ace Ultra are deeply integrated into the Sonos ecosystem, and that's their biggest strength]]></title>
+        <id>https://www.xda-developers.com/sonos-ace-ultra-review/</id>
+        <link href="https://www.xda-developers.com/sonos-ace-ultra-review/"/>
+        <updated>2026-11-12T23:00:44.000Z</updated>
+        <summary type="html"><![CDATA[You don't need other Sonos products to enjoy them but the experience is elevated if you do]]></summary>
+        <author>
+            <name>Joe Rice-Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Fitbit Air syncing issues leave some iPhone users unable to access health data]]></title>
+        <id>https://www.androidauthority.com/google-fitbit-air-iphone-syncing-issues-3734762/</id>
+        <link href="https://www.androidauthority.com/google-fitbit-air-iphone-syncing-issues-3734762/"/>
+        <updated>2026-11-12T22:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Google reportedly knows about the issue.]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is officially entering its ‘Hey Gemini’ era]]></title>
+        <id>https://www.androidauthority.com/hey-gemini-3734702/</id>
+        <link href="https://www.androidauthority.com/hey-gemini-3734702/"/>
+        <updated>2026-11-12T22:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Support for the latest wake word arrives with Intelligent Eyewear Android XR smart glasses.]]></summary>
+        <author>
+            <name>Stephen Schenck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've used MSI Afterburner for years, but Intel PresentMon showed me what I was missing]]></title>
+        <id>https://www.xda-developers.com/ive-used-msi-afterburner-for-years-but-intel-presentmon-showed-me-what-i-was-missing/</id>
+        <link href="https://www.xda-developers.com/ive-used-msi-afterburner-for-years-but-intel-presentmon-showed-me-what-i-was-missing/"/>
+        <updated>2026-11-12T22:30:39.000Z</updated>
+        <summary type="html"><![CDATA[If only Afterburner had this one metric.]]></summary>
+        <author>
+            <name>Hamlin Rozario</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech G PRO X 60 wireless gaming keyboard hits $100 ahead of Black Friday]]></title>
+        <id>https://www.xda-developers.com/logitech-g-pro-x-60-wireless-gaming-keyboard-100-deal/</id>
+        <link href="https://www.xda-developers.com/logitech-g-pro-x-60-wireless-gaming-keyboard-100-deal/"/>
+        <updated>2026-11-12T22:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Compact, wireless, and built for competitive play]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHOOP Humans turns your sleep, recovery, and workouts into an AI-free social feed]]></title>
+        <id>https://www.androidauthority.com/whoop-humans-launch-3734748/</id>
+        <link href="https://www.androidauthority.com/whoop-humans-launch-3734748/"/>
+        <updated>2026-11-12T22:25:16.000Z</updated>
+        <summary type="html"><![CDATA[WHOOP Humans wants to replace social media bots with a human-only network built on your health data.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy SmartTag 3 at $20 makes a compelling case to skip the Google Pixel Tag]]></title>
+        <id>https://9to5google.com/?p=737267</id>
+        <link href="https://9to5google.com/2026/11/12/samsungs-galaxy-smarttag-3-deal/"/>
+        <updated>2026-11-12T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Barely a week after its launch, Samsung’s Galaxy SmartTag 3 is already on sale for as little as $20, making it a fairly compelling alternative to Google’s new Pixel Tag, assuming you have a Galaxy phone, of course.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A “weak” Raspberry Pi Zero solved the biggest problem plaguing my Proxmox setup]]></title>
+        <id>https://www.xda-developers.com/a-weak-raspberry-pi-zero-solved-the-biggest-problem-plaguing-my-proxmox-setup/</id>
+        <link href="https://www.xda-developers.com/a-weak-raspberry-pi-zero-solved-the-biggest-problem-plaguing-my-proxmox-setup/"/>
+        <updated>2026-11-12T22:00:32.000Z</updated>
+        <summary type="html"><![CDATA[The Raspberry Pi Zero isn't fast, but it's the reason my high-availability PVE cluster remains operational]]></summary>
+        <author>
+            <name>Ayush Pande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 phone jobs I still trust Gemini and Claude with after 8 months of agentic AI]]></title>
+        <id>https://www.androidpolice.com/agentic-ai-errands-gemini-claude/</id>
+        <link href="https://www.androidpolice.com/agentic-ai-errands-gemini-claude/"/>
+        <updated>2026-11-12T22:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Spoiler: Gemini lost one of my phone tasks to Claude]]></summary>
+        <author>
+            <name>Ben Khalesi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Contacts is getting ready to go social with Gaming Hub integration for One UI 9.5]]></title>
+        <id>https://www.androidauthority.com/samsung-contacts-gaming-hub-integration-3734708/</id>
+        <link href="https://www.androidauthority.com/samsung-contacts-gaming-hub-integration-3734708/"/>
+        <updated>2026-11-12T21:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Users would get the ability to add Gaming Hub friends, join guilds, and chat right from the app.]]></summary>
+        <author>
+            <name>Chandra Steele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Black Friday discount knocks the Arlo Essential Security Camera HD to just $10]]></title>
+        <id>https://www.xda-developers.com/arlo-essential-security-camera-hd-for-10/</id>
+        <link href="https://www.xda-developers.com/arlo-essential-security-camera-hd-for-10/"/>
+        <updated>2026-11-12T21:45:57.000Z</updated>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I replaced Windows File Explorer with a free open-source alternative, and Microsoft has some catching up to do]]></title>
+        <id>https://www.xda-developers.com/replace-windows-file-explorer-with-a-free-open-source-alternative/</id>
+        <link href="https://www.xda-developers.com/replace-windows-file-explorer-with-a-free-open-source-alternative/"/>
+        <updated>2026-11-12T21:30:22.000Z</updated>
+        <summary type="html"><![CDATA[A fresh open source file manager rethinks Windows file browsing with modern UI, tags, dual panes, and deep customization.]]></summary>
+        <author>
+            <name>Abhishek Kumar Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 17 QPR3 Beta 4 brings back missing Bluetooth absolute volume setting]]></title>
+        <id>https://www.androidauthority.com/android-17-qpr3-beta-4-3734744/</id>
+        <link href="https://www.androidauthority.com/android-17-qpr3-beta-4-3734744/"/>
+        <updated>2026-11-12T21:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Google's latest preview build brings testers an early look at what's coming to Android in 2027.]]></summary>
+        <author>
+            <name>Stephen Schenck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google rolling out Android 17 QPR3 Beta 4 for Pixel]]></title>
+        <id>https://9to5google.com/?p=737294</id>
+        <link href="https://9to5google.com/2026/11/12/android-17-qpr3-beta-3-pixel-2/"/>
+        <updated>2026-11-12T21:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Following the early stable launch of QPR2, Android 17 QPR3 Beta 4 is rolling out to Pixel devices today.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube TV ‘Video unavailable’ screen is interrupting shows and sporting events]]></title>
+        <id>https://www.androidauthority.com/youtube-tv-video-unavailable-screen-3734695/</id>
+        <link href="https://www.androidauthority.com/youtube-tv-video-unavailable-screen-3734695/"/>
+        <updated>2026-11-12T21:01:07.000Z</updated>
+        <summary type="html"><![CDATA[YouTube TV viewers report that their shows are getting disrupted by a black screen.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tested 3 free file recovery tools on the same deleted files, and only one got everything back]]></title>
+        <id>https://www.xda-developers.com/i-tested-x-free-file-recovery-tools-on-the-same-deleted-files-and-only-one-got-everything-back/</id>
+        <link href="https://www.xda-developers.com/i-tested-x-free-file-recovery-tools-on-the-same-deleted-files-and-only-one-got-everything-back/"/>
+        <updated>2026-11-12T21:00:23.000Z</updated>
+        <summary type="html"><![CDATA[EaseUS surprised me with its range of utility and the thoroughness of its scan.]]></summary>
+        <author>
+            <name>Patrick Hearn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hisense's 100-inch Mini-LED QLED Google TV just dropped $2,000]]></title>
+        <id>https://www.androidpolice.com/this-gigantic-100-inch-mini-led-qled-4k-google-tv-is-now-2000-off/</id>
+        <link href="https://www.androidpolice.com/this-gigantic-100-inch-mini-led-qled-4k-google-tv-is-now-2000-off/"/>
+        <updated>2026-11-12T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[An early Black Friday deal you don't want to miss]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung is working on a central hub to track all your blocked calls]]></title>
+        <id>https://www.androidauthority.com/samsung-one-ui-9-5-phone-blocked-calls-dashboard-3734645/</id>
+        <link href="https://www.androidauthority.com/samsung-one-ui-9-5-phone-blocked-calls-dashboard-3734645/"/>
+        <updated>2026-11-12T20:22:05.000Z</updated>
+        <summary type="html"><![CDATA[This could likely be a One UI 9.5 special.]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I changed 5 Android display settings to reduce eye strain while reading mobile articles]]></title>
+        <id>https://www.androidpolice.com/changed-android-display-settings-reduce-eye-strain-reading-mobile-articles/</id>
+        <link href="https://www.androidpolice.com/changed-android-display-settings-reduce-eye-strain-reading-mobile-articles/"/>
+        <updated>2026-11-12T20:00:11.000Z</updated>
+        <summary type="html"><![CDATA[I fixed my phone's worst reading annoyances]]></summary>
+        <author>
+            <name>Anu Joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today’s Android app deals and freebies: Agent A, Swim Out, The Mutiny, more]]></title>
+        <id>https://9to5toys.com/2026/11/12/todays-highlight-google-play-deals-48/</id>
+        <link href="https://9to5toys.com/2026/11/12/todays-highlight-google-play-deals-48/"/>
+        <updated>2026-11-12T19:48:31.000Z</updated>
+        <summary type="html"><![CDATA[The early Black Friday sales are now live at Amazon, Best Buy, and Walmart, and so are today’s best Google Play app and game deals: Agent A: A puzzle in disguise, Swim Out, Potion Permit, Burst Busters: Action Survival, The Mutiny, Stop Santa: Tower Defense, KORG Kaossilator for Android, and more. Just be sure to scope out the ongoing all-time low on the Google Home Speaker, the very first deals on the new new Samsung Galaxy SmartTag 3, and the now available Google Pixel Tag Find Hub tracker as well. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Intelligent Eyewear is great at translation, but I wouldn’t use it to have a conversation]]></title>
+        <id>https://www.androidauthority.com/smart-glasses-translation-3734126/</id>
+        <link href="https://www.androidauthority.com/smart-glasses-translation-3734126/"/>
+        <updated>2026-11-12T19:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Getting the most out of smart glasses translation tools means knowing their limitations.]]></summary>
+        <author>
+            <name>Stephen Schenck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google brings Gemini 4 Hydrogen to Search with smarter answers and better visuals]]></title>
+        <id>https://www.androidauthority.com/gemini-4-hydrogen-on-google-search-3734653/</id>
+        <link href="https://www.androidauthority.com/gemini-4-hydrogen-on-google-search-3734653/"/>
+        <updated>2026-11-12T19:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Google Search is learning to read between the lines, and typos.]]></summary>
+        <author>
+            <name>Shimul Sood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Outlook is experiencing a major outage]]></title>
+        <id>https://www.androidauthority.com/microsoft-outlook-outage-nov-2026-3734664/</id>
+        <link href="https://www.androidauthority.com/microsoft-outlook-outage-nov-2026-3734664/"/>
+        <updated>2026-11-12T19:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Here's what's going on with Microsoft Outlook.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pebblebee’s latest Android Find Hub trackers try some festive colors, but fall short on sparkle]]></title>
+        <id>https://9to5google.com/?p=737133</id>
+        <link href="https://9to5google.com/2026/11/12/pebblebees-latest-android-find-hub-trackers-try-some-festive-colors-but-fall-short-on-sparkle/"/>
+        <updated>2026-11-12T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Available now, Pebblebee’s latest Android Find Hub tracker color drop might also be the first real miss, with the festive theme falling short of what it’s supposed to look like.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New OnePlus update gives phones and tablets the ability to auto-unlock PCs]]></title>
+        <id>https://www.androidauthority.com/oneplus-oxygenos-16-update-pc-unlock-3734600/</id>
+        <link href="https://www.androidauthority.com/oneplus-oxygenos-16-update-pc-unlock-3734600/"/>
+        <updated>2026-11-12T18:35:22.000Z</updated>
+        <summary type="html"><![CDATA[Your OnePlus device now acts as a key to unlock your computer.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireless charging isn't working for some Pixel devices after November update]]></title>
+        <id>https://www.androidpolice.com/november-update-breaking-wireless-charging-on-pixel/</id>
+        <link href="https://www.androidpolice.com/november-update-breaking-wireless-charging-on-pixel/"/>
+        <updated>2026-11-12T18:33:01.000Z</updated>
+        <summary type="html"><![CDATA[This is how it goes sometimes.]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google announces Gemini 4 Hydrogen with ‘significant leaps’ in speed, intelligence]]></title>
+        <id>https://9to5google.com/?p=736670</id>
+        <link href="https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/"/>
+        <updated>2026-11-12T18:01:41.000Z</updated>
+        <summary type="html"><![CDATA[After this week’s Carbon availability, Google today unveiled Gemini 4 Hydrogen instead of keeping the “Flash” branding. This model is billed as bringing “cutting-edge intelligence to everyone.”
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family Link can't stop Gemini from doing your kid's homework, but 5 settings make it harder]]></title>
+        <id>https://www.androidpolice.com/family-link-settings-kids-gemini/</id>
+        <link href="https://www.androidpolice.com/family-link-settings-kids-gemini/"/>
+        <updated>2026-11-12T18:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Your kid's homework helper might be doing the homework]]></summary>
+        <author>
+            <name>Ben Khalesi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four excellent Garmin watches are on deep discount ahead of Black Friday]]></title>
+        <id>https://9to5google.com/?p=737109</id>
+        <link href="https://9to5google.com/2026/11/12/four-excellent-garmin-watches-are-on-deep-discount-ahead-of-black-friday/"/>
+        <updated>2026-11-12T17:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Garmin has a watch for every budget this year, and it’s clear the company is working on shipping more watches than ever at these prices.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 11 Vs. Pixel 8 reveals a strange quirk. [Video]]]></title>
+        <id>https://www.androidpolice.com/video/pixel-11-vs-pixel-8-reveals-a-strange-quirk-video/</id>
+        <link href="https://www.androidpolice.com/video/pixel-11-vs-pixel-8-reveals-a-strange-quirk-video/"/>
+        <updated>2026-11-12T17:33:10.000Z</updated>
+        <summary type="html"><![CDATA[There have been some changes.]]></summary>
+        <author>
+            <name>Ryan-Thomas Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing’s screen-less new gadget really looks like yet another AI recorder]]></title>
+        <id>https://9to5google.com/?p=737100</id>
+        <link href="https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/"/>
+        <updated>2026-11-12T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Nothing has been teasing its first dedicated AI product and, as we expected, it really looks like an AI recorder.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s November update is breaking Pixel cameras, but there’s an easy fix]]></title>
+        <id>https://www.androidauthority.com/pixel-camera-not-working-after-november-update-3734529/</id>
+        <link href="https://www.androidauthority.com/pixel-camera-not-working-after-november-update-3734529/"/>
+        <updated>2026-11-12T17:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Cameras are going dark, literally.]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive: Google’s hidden list of 134 apps that support Gemini task automation]]></title>
+        <id>https://www.androidauthority.com/google-gemini-task-automation-target-apps-list-3734443/</id>
+        <link href="https://www.androidauthority.com/google-gemini-task-automation-target-apps-list-3734443/"/>
+        <updated>2026-11-12T17:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Android 17 QPR2 lists 114 apps, while Android Canary 2611 reveals 20 more in further testing.]]></summary>
+        <author>
+            <name>Aamir Siddiqui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garmin’s beginner-friendly Forerunner 70 hits a record low under $200]]></title>
+        <id>https://www.androidauthority.com/garmin-forerunner-70-deal-3734606/</id>
+        <link href="https://www.androidauthority.com/garmin-forerunner-70-deal-3734606/"/>
+        <updated>2026-11-12T17:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Garmin's newest entry-level running watch is $50 off in Whitestone, its lowest price since launching in May.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCL NXTPAPER 14 gets a $100 Amazon discount in Lightning Deal]]></title>
+        <id>https://www.androidauthority.com/tcl-nxtpaper-14-tablet-deal-3734603/</id>
+        <link href="https://www.androidauthority.com/tcl-nxtpaper-14-tablet-deal-3734603/"/>
+        <updated>2026-11-12T16:54:36.000Z</updated>
+        <summary type="html"><![CDATA[This Amazon deal cuts 22% off the TCL NXTPAPER 14, a big-screen Android tablet with a paper-like display.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Galaxy SmartTag 3 up to 30% off, Chromebooks, Google Home Speaker, Walmart early Black Friday now live, more]]></title>
+        <id>https://9to5google.com/?p=737102</id>
+        <link href="https://9to5google.com/2026/11/12/deals-smarttag-3-chromebook-walmart-early-black-friday/"/>
+        <updated>2026-11-12T16:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The early Black Friday sales are now flying at Amazon, Best Buy, and, as of this morning, Walmart with all-time lows on Google Home Speaker, the $100 price drop on Pixel Watch 5, and even some early savings options for the all-new Google Pixel Tag. But we are also now tracking the first chance to save on the brand-new Samsung Galaxy SmartTag 3 at $20 each (up to 30% off), TCL’s NXTPAPER 14-inch Android tablet at $100 off, and this Acer touchscreen Chromebook at $319 (46% off). Just be sure to also dive today’s Black Friday Deals of the Day at Best Buy – Samsung Galaxy Watch, Christmas tree, Windows laptops, more from just $22 – and then head below for a closer look at everything. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The price of your Android XR glasses can quickly skyrocket with add-ons]]></title>
+        <id>https://9to5google.com/?p=737061</id>
+        <link href="https://9to5google.com/2026/11/12/android-xr-glasses-add-on-prices/"/>
+        <updated>2026-11-12T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s first collection of Intelligent Eyewear has arrived and, oh boy, the prices are not cheap. While this first batch starts at $395, you’ll be paying a fair bit more for a pair of Android XR glasses if you need to add anything on. Here’s a quick overview.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Watch and Fitbit Air will be able to control Android XR glasses with gestures]]></title>
+        <id>https://9to5google.com/?p=737086</id>
+        <link href="https://9to5google.com/2026/11/12/android-xr-will-support-piel-watch-and-fitbit-air-control/"/>
+        <updated>2026-11-12T16:39:04.000Z</updated>
+        <summary type="html"><![CDATA[Android XR glasses get their own control wearable, but you might already own it. Google says the Fitbit Air and Pixel Watch will be able to control Android XR glasses.
+more…]]></summary>
+        <author>
+            <name>Andrew Romero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Contacts is working on taking the hassle out of tracking birthdays]]></title>
+        <id>https://www.androidauthority.com/samsung-contacts-could-get-a-birthdays-section-3734463/</id>
+        <link href="https://www.androidauthority.com/samsung-contacts-could-get-a-birthdays-section-3734463/"/>
+        <updated>2026-11-12T16:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Tired of forgetting birthdays? Samsung Contacts is working on something just for you.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US carriers start warming up to Fairphone as Gen 6 Plus reaches Boost Mobile]]></title>
+        <id>https://www.androidauthority.com/fairphone-gen-6-boost-mobile-launch-3734481/</id>
+        <link href="https://www.androidauthority.com/fairphone-gen-6-boost-mobile-launch-3734481/"/>
+        <updated>2026-11-12T16:31:05.000Z</updated>
+        <summary type="html"><![CDATA[The repair-friendly phone is promised software support through 2033.]]></summary>
+        <author>
+            <name>Chethan Rao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sennheiser Momentum 4 headphones are $100 off with 60-hour battery]]></title>
+        <id>https://www.androidauthority.com/sennheiser-momentum-4-deal-amazon-3734570/</id>
+        <link href="https://www.androidauthority.com/sennheiser-momentum-4-deal-amazon-3734570/"/>
+        <updated>2026-11-12T16:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Sennheiser's long-lasting noise canceling headphones are down to $199.95 on Amazon in Black and White.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA CEO Jensen Huang resigns amid mounting scandals]]></title>
+        <id>https://www.androidauthority.com/jensen-huang-nvidia-resignation-3734527/</id>
+        <link href="https://www.androidauthority.com/jensen-huang-nvidia-resignation-3734527/"/>
+        <updated>2026-11-12T16:10:20.000Z</updated>
+        <summary type="html"><![CDATA[CFO Colette Kress will serve as interim CEO.]]></summary>
+        <author>
+            <name>Chandra Steele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnePlus 12 owners are getting Android 17 earlier than expected]]></title>
+        <id>https://www.androidauthority.com/oneplus-12-android-17-update-3734513/</id>
+        <link href="https://www.androidauthority.com/oneplus-12-android-17-update-3734513/"/>
+        <updated>2026-11-12T16:08:53.000Z</updated>
+        <summary type="html"><![CDATA[ColorOS 17 arrives early with plenty of upgrades.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s 27-inch QD-OLED gaming monitor gets a 36% discount]]></title>
+        <id>https://www.androidauthority.com/samsung-27-inch-odyssey-oled-g5-deal-3734559/</id>
+        <link href="https://www.androidauthority.com/samsung-27-inch-odyssey-oled-g5-deal-3734559/"/>
+        <updated>2026-11-12T16:04:58.000Z</updated>
+        <summary type="html"><![CDATA[Samsung's 27-inch Odyssey OLED G5 drops to $319.99 on Amazon, bringing QD-OLED, 180Hz speed, and QHD gaming for less.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung and Google's first Android XR glasses are here, starting at $395]]></title>
+        <id>https://www.androidpolice.com/samsung-android-xr-glasses-pre-order-start/</id>
+        <link href="https://www.androidpolice.com/samsung-android-xr-glasses-pre-order-start/"/>
+        <updated>2026-11-12T16:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Google is giving smart glasses another try]]></summary>
+        <author>
+            <name>Sanuj Bhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to set up Google's new selfie sign-in to bypass passwords entirely]]></title>
+        <id>https://www.androidpolice.com/how-to-set-up-googles-new-selfie-sign-in-to-bypass-passwords-entirely/</id>
+        <link href="https://www.androidpolice.com/how-to-set-up-googles-new-selfie-sign-in-to-bypass-passwords-entirely/"/>
+        <updated>2026-11-12T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Do it before you lose access to your Google account]]></summary>
+        <author>
+            <name>Rajesh Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon cuts $35 off the Xiaomi Redmi Watch 6]]></title>
+        <id>https://www.androidauthority.com/xiaomi-redmi-watch-6-deal-3734533/</id>
+        <link href="https://www.androidauthority.com/xiaomi-redmi-watch-6-deal-3734533/"/>
+        <updated>2026-11-12T15:50:12.000Z</updated>
+        <summary type="html"><![CDATA[The Watch 6 drops to an all-time low of $84.99 on Amazon with a bright 2.07-inch AMOLED display and up to 24-day battery.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Pixel users say Google’s November update broke wireless charging]]></title>
+        <id>https://www.androidauthority.com/pixel-wireless-charging-issues-november-update-3734451/</id>
+        <link href="https://www.androidauthority.com/pixel-wireless-charging-issues-november-update-3734451/"/>
+        <updated>2026-11-12T15:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Users report Pixel phones discharging while showing they're charging.]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundcore Q31i headphones are $25 off at a record low price]]></title>
+        <id>https://www.androidauthority.com/soundcore-q31i-headphones-deal-3734503/</id>
+        <link href="https://www.androidauthority.com/soundcore-q31i-headphones-deal-3734503/"/>
+        <updated>2026-11-12T15:10:32.000Z</updated>
+        <summary type="html"><![CDATA[Anker's 2026 over-ears add LDAC and up to 50 hours of ANC playback, now 28% off.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Server Error 400 on Android is now fixed, Google confirms]]></title>
+        <id>https://www.androidauthority.com/youtube-server-error-400-android-fixed-3734468/</id>
+        <link href="https://www.androidauthority.com/youtube-server-error-400-android-fixed-3734468/"/>
+        <updated>2026-11-12T15:05:27.000Z</updated>
+        <summary type="html"><![CDATA[The second fix comes after Google's initial attempt failed to resolve the problem for everyone.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Hey Gemini’ hotword debuts on Android XR glasses]]></title>
+        <id>https://9to5google.com/?p=736760</id>
+        <link href="https://9to5google.com/2026/11/12/hey-gemini-hotword-debuts-on-android-xr-glasses/"/>
+        <updated>2026-11-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is finally introducing a “Hey Gemini” hotword for its AI assistant, but it’s only on Android XR glasses to start.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save $299 on Apple’s 1TB M5 iPad Pro 11-inch on Amazon]]></title>
+        <id>https://www.androidauthority.com/apple-m5-ipad-pro-deal-3734459/</id>
+        <link href="https://www.androidauthority.com/apple-m5-ipad-pro-deal-3734459/"/>
+        <updated>2026-11-12T14:26:42.000Z</updated>
+        <summary type="html"><![CDATA[The 1TB M5 iPad Pro is $299 off on Amazon, its lowest price since July and $200 below this week's price.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s how Google’s Android XR glasses are handling the camera & privacy]]></title>
+        <id>https://9to5google.com/?p=736482</id>
+        <link href="https://9to5google.com/2026/11/12/google-android-xr-glasses-camera-privacy/"/>
+        <updated>2026-11-12T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s Intelligent Eyewear push with the first Android XR glasses from Warby Parker and Gentle Monster are forced into an unfortunate uphill battle. The “perv glasses” stigma is very real because, frankly, early movers in this category didn’t respect privacy. Here’s how Android XR and Gemini are handling the camera and privacy on “Intelligent Eyewear,” and why I think Google has struck a near-perfect balance.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s new Android XR glasses work with iOS, Made for iPhone certified]]></title>
+        <id>https://9to5google.com/?p=736979</id>
+        <link href="https://9to5google.com/2026/11/12/google-glasses-iphone-support/"/>
+        <updated>2026-11-12T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Google today announced Android XR audio glasses called Intelligent Eyewear that notably support iOS with Made for iPhone certification.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20]]></title>
+        <id>https://9to5google.com/?p=736776</id>
+        <link href="https://9to5google.com/2026/11/12/google-glasses-hands-on/"/>
+        <updated>2026-11-12T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[While I acknowledge Meta’s role in bringing smart glasses to a mainstream audience, it has proven to be an irresponsible steward. Its “growth at all costs” mindset has actively poisoned people’s perception of the form factor. Under Meta’s watch, glasses have gained a creepy connotation before their utility has been fully realized.
+Google’s second take on smart glasses is the exact opposite of what Meta has done. Every single aspect has been considered, and the result is worthy of being most people’s introduction to the form factor.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can now buy Nothing headphones and earbuds at select Target stores in the US]]></title>
+        <id>https://www.androidauthority.com/nothing-audio-at-target-stores-3734345/</id>
+        <link href="https://www.androidauthority.com/nothing-audio-at-target-stores-3734345/"/>
+        <updated>2026-11-12T14:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Nothing's making its way onto Target shelves, just in time for gifting.]]></summary>
+        <author>
+            <name>Shimul Sood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung and Google’s new smart glasses support iPhones but leave most Android brands out]]></title>
+        <id>https://www.androidauthority.com/samsung-google-smart-glasses-phone-compatibility-3734240/</id>
+        <link href="https://www.androidauthority.com/samsung-google-smart-glasses-phone-compatibility-3734240/"/>
+        <updated>2026-11-12T14:00:43.000Z</updated>
+        <summary type="html"><![CDATA[iPhones make the cut, but most Android brands don't.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can finally pre-order Samsung’s smart glasses with Android XR]]></title>
+        <id>https://www.androidauthority.com/samsung-android-xr-smart-glass-pre-order-3734248/</id>
+        <link href="https://www.androidauthority.com/samsung-android-xr-smart-glass-pre-order-3734248/"/>
+        <updated>2026-11-12T14:00:35.000Z</updated>
+        <summary type="html"><![CDATA[These smart glasses made by Gentle Monster and Warby Parker will be available starting December 10.]]></summary>
+        <author>
+            <name>Tushar Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tested Google’s $395 Intelligent Eyewear smart glasses — I’m not sure why I’d buy them]]></title>
+        <id>https://www.androidauthority.com/google-intelligent-eyewear-hands-on-3734091/</id>
+        <link href="https://www.androidauthority.com/google-intelligent-eyewear-hands-on-3734091/"/>
+        <updated>2026-11-12T14:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Google's big return to smart glasses is here.]]></summary>
+        <author>
+            <name>C. Scott Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10]]></title>
+        <id>https://9to5google.com/?p=736529</id>
+        <link href="https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/"/>
+        <updated>2026-11-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of development, Google is launching its second foray into smart glasses with Intelligent Eyewear that supports Android and iOS. Pre-orders start today at Gentle Monster and Warby Parker, with the audio glasses shipping on December 10.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses’ release]]></title>
+        <id>https://9to5google.com/?p=737025</id>
+        <link href="https://9to5google.com/2026/11/12/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses-release/"/>
+        <updated>2026-11-12T13:50:57.000Z</updated>
+        <summary type="html"><![CDATA[All available 3D movies are included with your Disney+ subscription and come with extras you can only experience in VR.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy S27 wallpapers leak, giving us early clues on expected colors]]></title>
+        <id>https://www.androidauthority.com/samsung-galaxy-s27-series-wallpapers-leak-3734394/</id>
+        <link href="https://www.androidauthority.com/samsung-galaxy-s27-series-wallpapers-leak-3734394/"/>
+        <updated>2026-11-12T13:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Although we’re still a couple of months away from the Galaxy S26 series launch, their wallpapers are already here.]]></summary>
+        <author>
+            <name>Chethan Rao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not just S26, Samsung is already testing One UI 9.5 on the Galaxy S25]]></title>
+        <id>https://www.androidauthority.com/galaxy-s25-one-ui-9-5-beta-rumor-3734322/</id>
+        <link href="https://www.androidauthority.com/galaxy-s25-one-ui-9-5-beta-rumor-3734322/"/>
+        <updated>2026-11-12T13:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Internal One UI 9.5 testing suggests a beta for the Galaxy S25 may follow that on Galaxy S26.]]></summary>
+        <author>
+            <name>Tushar Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tested: This unofficial AMD driver let me play Tears of the Kingdom on an Exynos phone]]></title>
+        <id>https://www.androidauthority.com/samsung-custom-driver-emulation-exynos-3734301/</id>
+        <link href="https://www.androidauthority.com/samsung-custom-driver-emulation-exynos-3734301/"/>
+        <updated>2026-11-12T13:21:46.000Z</updated>
+        <summary type="html"><![CDATA[Our own testing sees mixed results in other games, but there's great news if you're a Zelda fan.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The iPhone Duo’s rocky launch is a reminder of how far Android foldables have come]]></title>
+        <id>https://9to5google.com/?p=736873</id>
+        <link href="https://9to5google.com/2026/11/12/the-iphone-duos-rocky-launch-is-a-reminder-of-how-far-android-foldables-have-come/"/>
+        <updated>2026-11-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Good morning. Today I’m finding open source alternatives to all of my apps, poring through Pitchfork’s list of the 100 best indie rock albums to find ones I haven’t listened to, and preparing my body for November 19th by pre-loading GTA VI (and replaying GTA IV in the meantime). 
+Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe.
+more…]]></summary>
+        <author>
+            <name>Daniel Bader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto’s next Gemini upgrade is leaving non-Pixel phones behind]]></title>
+        <id>https://www.androidauthority.com/gemini-intelligence-android-auto-3734304/</id>
+        <link href="https://www.androidauthority.com/gemini-intelligence-android-auto-3734304/"/>
+        <updated>2026-11-12T11:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Samsung and Motorola flagships aren't invited to this Gemini upgrade.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missing Gboard’s Rambler on your Pixel 10? Here’s how to manually enable it]]></title>
+        <id>https://www.androidauthority.com/how-to-enable-gboard-rambler-pixel-10-3734305/</id>
+        <link href="https://www.androidauthority.com/how-to-enable-gboard-rambler-pixel-10-3734305/"/>
+        <updated>2026-11-12T11:07:22.000Z</updated>
+        <summary type="html"><![CDATA[You might need to force a manual update for Android AI Core.]]></summary>
+        <author>
+            <name>Aamir Siddiqui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The vivo X500 Pro Max is the most fun I’ve had with video capture on a phone]]></title>
+        <id>https://www.androidauthority.com/vivo-x500-pro-max-favorite-video-capture-phone-3731185/</id>
+        <link href="https://www.androidauthority.com/vivo-x500-pro-max-favorite-video-capture-phone-3731185/"/>
+        <updated>2026-11-12T11:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Vivo's latest flagship is a fun time when it comes to video capture, even though some features are a miss.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stopped letting my old Amazon Fire tablets collect dust — here are 5 ways I use them]]></title>
+        <id>https://www.androidauthority.com/i-stopped-letting-my-old-amazon-fire-tablets-collect-dust-3733012/</id>
+        <link href="https://www.androidauthority.com/i-stopped-letting-my-old-amazon-fire-tablets-collect-dust-3733012/"/>
+        <updated>2026-11-12T10:30:28.000Z</updated>
+        <summary type="html"><![CDATA[There is still plenty of life left.]]></summary>
+        <author>
+            <name>Stephen Radochia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Galaxy S27 Ultra camera leak has me worried Samsung learned nothing]]></title>
+        <id>https://www.androidauthority.com/galaxy-s27-ultra-camera-concerns-3733812/</id>
+        <link href="https://www.androidauthority.com/galaxy-s27-ultra-camera-concerns-3733812/"/>
+        <updated>2026-11-12T10:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Samsung is still putting its best 200MP camera behind the wrong lens.]]></summary>
+        <author>
+            <name>Robert Triggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s new Tabletop experiment wants to fix the worst part of making plans with friends]]></title>
+        <id>https://www.androidauthority.com/google-labs-tabletop-3734236/</id>
+        <link href="https://www.androidauthority.com/google-labs-tabletop-3734236/"/>
+        <updated>2026-11-12T08:52:25.000Z</updated>
+        <summary type="html"><![CDATA[Your group chat's biggest problem might finally have a solution.]]></summary>
+        <author>
+            <name>Shimul Sood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s Phone app in One UI 9.5 could bring a more convenient bottom search bar]]></title>
+        <id>https://www.androidauthority.com/samsung-phone-app-one-ui-9-5-search-3734233/</id>
+        <link href="https://www.androidauthority.com/samsung-phone-app-one-ui-9-5-search-3734233/"/>
+        <updated>2026-11-12T08:33:42.000Z</updated>
+        <summary type="html"><![CDATA[It's a small touch, but the new search button location should make life a little easier if you have a big phone.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google says it’s working to fix missing daily vitals in Health app]]></title>
+        <id>https://www.androidauthority.com/google-confirms-health-missing-vitals-bug-3734221/</id>
+        <link href="https://www.androidauthority.com/google-confirms-health-missing-vitals-bug-3734221/"/>
+        <updated>2026-11-12T07:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Google Health's missing vitals problem is officially on the company's radar.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola’s new wireless Android Auto dongle is finally here, but it has a big price hike]]></title>
+        <id>https://www.androidauthority.com/motorola-ma2-android-auto-dongle-price-increase-3734208/</id>
+        <link href="https://www.androidauthority.com/motorola-ma2-android-auto-dongle-price-increase-3734208/"/>
+        <updated>2026-11-12T06:25:29.000Z</updated>
+        <summary type="html"><![CDATA[The Motorola MA2 is ~$30 more expensive than first claimed.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fitbit not showing heart rate or temperature vitals in Google Health? Try this fix]]></title>
         <id>https://www.androidpolice.com/is-your-fitbit-missing-heart-rate-temperature-vitals-google-health-app-try-this-fix/</id>
@@ -8571,35 +9453,6 @@ Audio:
 Add echo cancellation and noise suppression for external microphones.]]></summary>
         <author>
             <name>4165890 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Client Update: October 13th]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/675134162359815513</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/675134162359815513"/>
-        <updated>2026-10-13T23:38:40.000Z</updated>
-        <summary type="html"><![CDATA[We have just shipped an updated Steam Client update to the Stable channel.
-
-Home Screen
-
-Added a new 'Big Art Mode' option for the home screen. This can be enabled in Settings > Home.
-
-Added Personal Calendar to the Recommended tab on the home screen.
-[carousel][/carousel]
-
-
-Screensavers
-
-Added a new screensaver feature, accessible in Settings > Customization. There are two screensavers available:
-
-The default is a game art slideshow that can be configured to show artwork from recently played games and your recent in-game screenshots.
-
-A retro inspired bouncing logo screensaver
-
-
-Custom screensavers are also supported. Similar to startup movies, they can be placed in directories at ~/.steam/root/config/uioverrides/screensavers/. You can use the bouncing logo screensaver (in the steamui/scr…]]></summary>
-        <author>
-            <name>1675200 RSS Feed</name>
         </author>
     </entry>
 </feed>
