@@ -12,6 +12,26 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/1675200/view/687522235410285333",
+          "author": null,
+          "description": "Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nNote on Preview Releases\nThis is an early Preview build of SteamOS 3.10, and may contain unexpected bugs or stability issues.  If you encounter problems, please consider filing a bug on the SteamOS issue tracker.\nThe following notes are an overview, and may not include all changes since the previous SteamOS 3.9 Stable Release.\n\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.7.3 to Plasma 6.8.2\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.8.0/\n\n\nMany security and stability improvements\n\nFixed an issue where the \"Slow Charger\" alert could erroneously appear\n\nFixed Bluetooth audio disconnection when switching between desktop and game modes\n\nUpdate timezone data for Cuba, and Canada's Northwest Territories and Manitoba\n\nGame Mode\n\nAdded support for VK_EXT_present_timing\n\nAdded support for ASUS ROG Xbox Ally X20 HDR and brightness adjustment\n\nImproved frame timing when using the framerate limiter with VRR\n\nImproved screen flickering when VRR is enabled while navigating the Steam UI or leaving it idle\n\nImproved cursor movement under VRR. It should now match the game's framerate over 30FPS, and stop spiking the panel's refresh rate up to the maximum refresh rate\n\nFixed scaling causing overexposure in certain HDR titles, such as Control\n\nFixed an issue with certain games, such as UBOAT and The Fruit of Grisaia, where the image would flicker and present stale frames in Game Mode\n\nAMD Graphics\n\nAdded support for HDMI 2.1 VRR, FRL, and ALLM\n\nKnown issue: display may remain blank with the Dell G3223Q\n\n\nNVIDIA Graphics\n\nGeneral stability and performance improvements\n\nAdded support for Mesh Shaders on Turing and newer\n\nFixes rendering corruption in Shadow of the Tomb Raider and The Surge 2\n\nDeveloper\n\nLinux kernel rebased on Linux 7.3",
+          "link": "https://store.steampowered.com/news/app/1675200/view/687522235410285333",
+          "publishedOn": "2026-11-14T02:04:19.000Z",
+          "wordCount": 389,
+          "title": "SteamOS 3.10.0 Preview",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/687522235410285323",
+          "author": null,
+          "description": "SteamOS 0.5.9 (for Steam Frame) has just been released.\nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested.\nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nCamera Pass Through / Room View:\n\nPC Streaming now supports chroma key to allow Room View to be shown on VR content.\n\nSettings are located on the PC side in the Camera section, including a mode switch between Protect Content and Key Content. Key Content will allow any game to simply draw the key color to control Room View transparency.  \n\nNote: this feature requires also opting into the beta branch of SteamVR on PC\nTo opt into the beta branch of SteamVR on PC, right-click on SteamVR in your Steam library, select Properties, Game Versions & Beta, and choose beta.\n\n\nGeneral\n\nFoveated sharpening is now applied when streaming VR through Steam Link.\n\nAdded accessibility settings for prism correction (diplopia).\nToggle Advanced Settings, then General > Accessibility > Prism Correction. Needs to restart the headset to take effect.\n\nFixed a visual glitch when opening/closing the dashboard in some games.\n\nFixed WebXR support in Chrome/Chromium when installed as user (instead of system-wide) from Discover.\n\nFixed a system lock-up caused by certain apps installed from Discover (eg: VLC).\n\nLinked the Show Perf Overlay in VR and Draw Performance Assessment toggles together. Turning off Show Perf Overlay in VR also disables the developer overlay.\n\n\nSteamVR has been updated to version 2.19.3.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/687522235410285323",
+          "publishedOn": "2026-11-14T01:36:35.000Z",
+          "wordCount": 392,
+          "title": "SteamOS 0.5.9 Beta for Steam Frame",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/group/4397053/view/712292033362919969",
           "author": null,
           "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed game art not showing in the library when logging in offline\n\nLinux\n\nFixed a rare startup crash\n\nFixed a failure to load custom Proton versions or other compatibility tools from the /usr folder\n\nSteamVR\n\nFixed a bug preventing some keys from being typed into Steam.",
@@ -334,6 +354,16 @@
       "siteUrl": "https://store.steampowered.com/news/app/1675200/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/1675200/view/687522235410285333",
+          "author": null,
+          "description": "Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nNote on Preview Releases\nThis is an early Preview build of SteamOS 3.10, and may contain unexpected bugs or stability issues.  If you encounter problems, please consider filing a bug on the SteamOS issue tracker.\nThe following notes are an overview, and may not include all changes since the previous SteamOS 3.9 Stable Release.\n\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.7.3 to Plasma 6.8.2\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.8.0/\n\n\nMany security and stability improvements\n\nFixed an issue where the \"Slow Charger\" alert could erroneously appear\n\nFixed Bluetooth audio disconnection when switching between desktop and game modes\n\nUpdate timezone data for Cuba, and Canada's Northwest Territories and Manitoba\n\nGame Mode\n\nAdded support for VK_EXT_present_timing\n\nAdded support for ASUS ROG Xbox Ally X20 HDR and brightness adjustment\n\nImproved frame timing when using the framerate limiter with VRR\n\nImproved screen flickering when VRR is enabled while navigating the Steam UI or leaving it idle\n\nImproved cursor movement under VRR. It should now match the game's framerate over 30FPS, and stop spiking the panel's refresh rate up to the maximum refresh rate\n\nFixed scaling causing overexposure in certain HDR titles, such as Control\n\nFixed an issue with certain games, such as UBOAT and The Fruit of Grisaia, where the image would flicker and present stale frames in Game Mode\n\nAMD Graphics\n\nAdded support for HDMI 2.1 VRR, FRL, and ALLM\n\nKnown issue: display may remain blank with the Dell G3223Q\n\n\nNVIDIA Graphics\n\nGeneral stability and performance improvements\n\nAdded support for Mesh Shaders on Turing and newer\n\nFixes rendering corruption in Shadow of the Tomb Raider and The Surge 2\n\nDeveloper\n\nLinux kernel rebased on Linux 7.3",
+          "link": "https://store.steampowered.com/news/app/1675200/view/687522235410285333",
+          "publishedOn": "2026-11-14T02:04:19.000Z",
+          "wordCount": 389,
+          "title": "SteamOS 3.10.0 Preview",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/app/1675200/view/687522235410285093",
           "author": null,
           "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.6\nGeneral\n\nSecurity and stability updates.\n\nImproved frame timing when using the framerate limiter with VRR.\n\nImproved frame timing when using the framerate limiter without VRR. A capped game whose framerate is a multiple of the limit no longer drops below it, e.g. a 30 FPS game with a 60 FPS limit at 120 Hz running at 24 FPS.\n\nReduced missed frames on fixed refresh caused by slow wakeups from deep CPU idle states.\n\nFixed a black screen in R…",
@@ -480,6 +510,16 @@
       "feedUrl": "https://store.steampowered.com/feeds/news/app/4165890/?cc=JO&l=english",
       "siteUrl": "https://store.steampowered.com/news/app/4165890/",
       "articles": [
+        {
+          "id": "https://store.steampowered.com/news/app/4165890/view/687522235410285323",
+          "author": null,
+          "description": "SteamOS 0.5.9 (for Steam Frame) has just been released.\nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested.\nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nCamera Pass Through / Room View:\n\nPC Streaming now supports chroma key to allow Room View to be shown on VR content.\n\nSettings are located on the PC side in the Camera section, including a mode switch between Protect Content and Key Content. Key Content will allow any game to simply draw the key color to control Room View transparency.  \n\nNote: this feature requires also opting into the beta branch of SteamVR on PC\nTo opt into the beta branch of SteamVR on PC, right-click on SteamVR in your Steam library, select Properties, Game Versions & Beta, and choose beta.\n\n\nGeneral\n\nFoveated sharpening is now applied when streaming VR through Steam Link.\n\nAdded accessibility settings for prism correction (diplopia).\nToggle Advanced Settings, then General > Accessibility > Prism Correction. Needs to restart the headset to take effect.\n\nFixed a visual glitch when opening/closing the dashboard in some games.\n\nFixed WebXR support in Chrome/Chromium when installed as user (instead of system-wide) from Discover.\n\nFixed a system lock-up caused by certain apps installed from Discover (eg: VLC).\n\nLinked the Show Perf Overlay in VR and Draw Performance Assessment toggles together. Turning off Show Perf Overlay in VR also disables the developer overlay.\n\n\nSteamVR has been updated to version 2.19.3.",
+          "link": "https://store.steampowered.com/news/app/4165890/view/687522235410285323",
+          "publishedOn": "2026-11-14T01:36:35.000Z",
+          "wordCount": 392,
+          "title": "SteamOS 0.5.9 Beta for Steam Frame",
+          "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
+        },
         {
           "id": "https://store.steampowered.com/news/app/4165890/view/687522235410284763",
           "author": null,
@@ -654,6 +694,156 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=737520",
+          "author": "Will Sattelberg",
+          "description": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much work as the company’s doing, only time might tell.\nEnjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode.\nSponsored by Proton Unlimited: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link. Thanks to Proton Unlimited for sponsoring the podcast.\n\n\n\n\nSubscribe\nYouTube Podcasts\nPocket Casts\nSpotify\nAmazon Music\nApple Podcasts\nOvercast\nmore…",
+          "link": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
+          "publishedOn": "2026-11-13T22:00:00.000Z",
+          "wordCount": 3029,
+          "title": "Pixelated 125: Google’s glasses, Meta’s baggage",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=732295",
+          "author": "Sponsored Post",
+          "description": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection, delivering cameras, speakers, and more that bring the bulk of the functionality and processing directly to your home.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
+          "publishedOn": "2026-11-13T21:23:59.000Z",
+          "wordCount": 3784,
+          "title": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/ugreen-homeagent-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737451",
+          "author": "Ben Schoon",
+          "description": "The long-awaited Motorola MA2 wireless Android Auto adapter is gone just days after it went on sale.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/motorola-ma2-android-auto-amazon-delay/",
+          "publishedOn": "2026-11-13T19:30:00.000Z",
+          "wordCount": 3167,
+          "title": "Motorola MA2 wireless Android Auto adapter just vanished days after finally going on sale",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/motorola-ma2-android-auto-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737379",
+          "author": "Ben Schoon",
+          "description": "Phone plans are incredibly expensive, but they don’t always have to be. With Black Friday deals in full swing, you can currently score a new phone plan for as little as $6.50 per month.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/black-friday-phone-plan-deals/",
+          "publishedOn": "2026-11-13T19:00:00.000Z",
+          "wordCount": 3180,
+          "title": "You can get a new phone plan for as low as $6.50/month for Black Friday",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Canyon-9.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/11/13/todays-highlight-google-play-deals-49/",
+          "author": "9to5Toys",
+          "description": "The early Black Friday sales are in full swing at Amazon, Walmart, and Best Buy has now launched a suite of new Doorbusters, but we also have Friday’s Google Play app and game deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN X DiVE Offline, Streets of Rage 4, Ace Attorney Trilogy, Legend of Keepers, [Premium] RPG Onigo Hunter, Premium-RPG Wizards of Brandel, and more. Alongside the all-time low on the Google Home Speaker and the now available Google Pixel Tag, the Nothing early Black Friday deals exploded today with new all-time lows Headphone (a), the brand new Nothing CMF milk carton speakers, and the Nothing CMF Buds Neo at just just $17, among a whole lot more. The apps await below. \nmore…",
+          "link": "https://9to5toys.com/2026/11/13/todays-highlight-google-play-deals-49/",
+          "publishedOn": "2026-11-13T18:53:06.000Z",
+          "wordCount": 3076,
+          "title": "Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-508a5e.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737483",
+          "author": "Abner Li",
+          "description": "As we spotted in September, the Gemini app is adding Google Wallet integration in the US that makes possible “responses informed by your spending habits.”\nmore…",
+          "link": "https://9to5google.com/2026/11/13/gemini-google-wallet/",
+          "publishedOn": "2026-11-13T17:51:44.000Z",
+          "wordCount": 3225,
+          "title": "You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-Google-Wallet-cover.png?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737433",
+          "author": "Nicholas Sutrich",
+          "description": "The Xiaomi 18 Pro series’ rear displays might actually be useful, after all.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
+          "publishedOn": "2026-11-13T16:45:47.000Z",
+          "wordCount": 3660,
+          "title": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737401",
+          "author": "Ben Schoon",
+          "description": "Google has started rolling out the Android Auto 18.2 update, but don’t expect much to change on your car’s display.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/android-auto-18-2-update-beta-release/",
+          "publishedOn": "2026-11-13T16:45:00.000Z",
+          "wordCount": 3182,
+          "title": "Android Auto 18.2 update starts rolling out with more light mode teases",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Android-Auto-Immersive-View-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737446",
+          "author": "Justin Kahn",
+          "description": "As part of Amazon’s now live early Black Friday sale, Nothing is taking over today’s 9to5Toys Lunch Break deal post with loads of new all-time lows at up to nearly 50% off. We have a new Amazon all-time low on Nothing Headphone (a) today at 45% off, its ultra-affordable CMF Buds Neo at just $16.99 Prime shipped, the brand new CMF Speaker S at $39, and the larger CMF Speaker M is down at $79. Those offers join Nothing Phone (4a) Pro at under $400 while Nothing Phone (3) is now as much as $300 off its original price, alongside Lenovo’s latest ThinkTab X11 Rugged Android tablet at the lowest price we have tracked to date. Get a closer look down below. \nmore…",
+          "link": "https://9to5google.com/2026/11/13/early-black-friday-nothing-headphone-a-buds-neo-phone/",
+          "publishedOn": "2026-11-13T16:40:07.000Z",
+          "wordCount": 5035,
+          "title": "Deals: Nothing early Black Friday now live – Headphone (a) 45% off, Buds Neo $17, Phone up to $300 off, much more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-13.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737381",
+          "author": "Ben Schoon",
+          "description": "Nothing is selling a lot of its products at huge discounts today, with up to half off select products, bringing devices like Phone (3) down to $499, Buds (3a) to $69.99, and more.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/nothing-discounts-early-black-friday/",
+          "publishedOn": "2026-11-13T16:10:00.000Z",
+          "wordCount": 3825,
+          "title": "Everything Nothing sells is up to 49% off today; Phone (3) for $499, $17 Buds, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/nothing-phone-3-1-20.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737386",
+          "author": "Ben Schoon",
+          "description": "Google has been at its gradient redesign schtick for a while now to varying levels of success, but its latest redesign has just landed on the Pixel Watch for the Media Controls app, and I love it.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/google-pixel-watch-media-controls-redesign-update/",
+          "publishedOn": "2026-11-13T15:55:00.000Z",
+          "wordCount": 3521,
+          "title": "Pixel Watch update brings a sweet redesign I wish was on more apps",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-Watch-4-Apps-Screen.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737123",
+          "author": "Sponsored Post",
+          "description": "There’s a familiar interruption that comes with shopping online: you’ve found what you want, you’re ready to check out, and the store asks you to sign in. Was this the account with your usual password? Did you change it last time? Is it easier to reset it again?\nProton Pass is designed to take that friction out of your day. It creates strong, unique passwords, remembers them for you, and fills them in when you log in. But it also handles something a password alone can’t: keeping your real email address out of another retailer’s database.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/",
+          "publishedOn": "2026-11-13T15:15:00.000Z",
+          "wordCount": 3850,
+          "title": "Proton Pass is up to 60% off for Black Friday—and it does way more than just store your passwords",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/lifestyle-laptop-pass-2048x1365-1.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737370",
+          "author": "Nicholas Sutrich",
+          "description": "Meta is including nearly $100 of free stuff with this year’s Meta Quest 3S Black Friday sale, including a $50 Best Buy gift card.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/this-years-meta-quest-3s-black-friday-doorbuster-deal-is-the-best-ive-ever-seen/",
+          "publishedOn": "2026-11-13T15:04:52.000Z",
+          "wordCount": 3219,
+          "title": "This year’s Meta Quest 3S early Black Friday doorbuster deal is the best I’ve ever seen",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/quest-3s-black-friday-with-club-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736384",
+          "author": "Nicholas Sutrich",
+          "description": "The AMVR GA2 is a fresh take on a Quest 3 golf club accessory, and I was pleasantly surprised with what it did for my scores.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/amvr-ga2-golf-club-meta-quest-review/",
+          "publishedOn": "2026-11-13T14:16:45.000Z",
+          "wordCount": 4053,
+          "title": "This Quest 3 golf club actually improved my scores, but it comes at a cost",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amvr-ga2-02.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736483",
+          "author": "Ben Schoon",
+          "description": "In trying out Google’s Intelligent Eyewear Android XR glasses for the first time, one of my main takeaways is that it’s the app, not necessarily the glasses themselves that would push me into using them over the mainstay Meta Ray-Bans.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/id-rather-use-android-xr-glasses-over-meta-ray-bans-for-the-app-alone/",
+          "publishedOn": "2026-11-13T13:30:00.000Z",
+          "wordCount": 3904,
+          "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-glasses-app-7.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=737267",
           "author": "Ben Schoon",
@@ -4289,6 +4479,446 @@
       "siteUrl": "https://www.androidauthority.com/",
       "articles": [
         {
+          "id": "https://www.androidauthority.com/tested-in-the-wild-best-survival-tech-3735211/",
+          "author": "Team AA",
+          "description": "Our team of intrepid adventurers went out into the Canadian wilderness to test some of the best outdoor tech you can buy.",
+          "link": "https://www.androidauthority.com/tested-in-the-wild-best-survival-tech-3735211/",
+          "publishedOn": "2026-11-13T23:20:29.000Z",
+          "wordCount": 4997,
+          "title": "Tested in the wild: Best survival tech!",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/survival-tech-article-hero-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-pixel-private-space-persistent-bug-3735167/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "Google’s November update fixed plenty of bugs, but this Private Space issue wasn’t one of them.",
+          "link": "https://www.androidauthority.com/google-pixel-private-space-persistent-bug-3735167/",
+          "publishedOn": "2026-11-13T21:17:51.000Z",
+          "wordCount": 2086,
+          "title": "Google Pixel bug reveals hidden Private Space when switching between light and dark mode",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/02/android-15-pixel-private-space.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/nothing-headphone-a-black-friday-3735126/",
+          "author": "Matt Horne",
+          "description": "Nothing's long-lasting over-ear headphones are $90 off, matching their all-time low on Amazon.",
+          "link": "https://www.androidauthority.com/nothing-headphone-a-black-friday-3735126/",
+          "publishedOn": "2026-11-13T21:14:23.000Z",
+          "wordCount": 1683,
+          "title": "Nothing Headphone (a) with 135-hour battery is 45% off on Amazon",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/Headphone-a-yellow.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-kill-magic-cue-3735173/",
+          "author": "Stephen Schenck",
+          "description": "Google appears to be preparing to pull the plug on Magic Cue by the end of 2027.",
+          "link": "https://www.androidauthority.com/google-kill-magic-cue-3735173/",
+          "publishedOn": "2026-11-13T21:10:02.000Z",
+          "wordCount": 2554,
+          "title": "Google gets ready to kill off Pixel 10 Magic Cue in favor of Proactive Assistance",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/pixel-10-pro-magic-cue-settings-app-hero-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/xiaomi-18-pro-rear-display-features-3735180/",
+          "author": "Shimul Sood",
+          "description": "Xiaomi wants you to spend more time looking at your phone's back.",
+          "link": "https://www.androidauthority.com/xiaomi-18-pro-rear-display-features-3735180/",
+          "publishedOn": "2026-11-13T20:19:37.000Z",
+          "wordCount": 1491,
+          "title": "Google Maps, Spotify, and more are coming to Xiaomi 18 Pro’s rear display",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xiaomi-18-Pro-Max-White-4-of-4.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/youtube-apple-tv-4k-problems-3735158/",
+          "author": "Ryan McNeal",
+          "description": "YouTube won't work on Apple's Google TV Streamer rival.",
+          "link": "https://www.androidauthority.com/youtube-apple-tv-4k-problems-3735158/",
+          "publishedOn": "2026-11-13T19:45:19.000Z",
+          "wordCount": 1741,
+          "title": "YouTube is having problems with the new Apple TV 4K",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/08/YouTube-app-logo-scaled-e1724175112162.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/chatgpt-wallet-3735154/",
+          "author": "Chandra Steele",
+          "description": "Wallet is available to US-based ChatGPT Pro subscribers.",
+          "link": "https://www.androidauthority.com/chatgpt-wallet-3735154/",
+          "publishedOn": "2026-11-13T19:05:13.000Z",
+          "wordCount": 1480,
+          "title": "OpenAI rolls out ChatGPT Wallet to let Dots AI agents make purchases",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-wallet-gemini-integration-us-3735150/",
+          "author": "Shimul Sood",
+          "description": "Gemini now knows where your money goes, even when you don't.",
+          "link": "https://www.androidauthority.com/google-wallet-gemini-integration-us-3735150/",
+          "publishedOn": "2026-11-13T18:42:12.000Z",
+          "wordCount": 1629,
+          "title": "Google Wallet now lets Gemini analyze your spending and suggest ways to save",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/04/google-wallet-2026-redesign-new-passes-hero-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/kasa-smart-plug-ultra-mini-amazon-deal-3735143/",
+          "author": "Matt Horne",
+          "description": "Get $9 off four compact Wi-Fi plugs that work with Alexa and Google Assistant, no hub needed.",
+          "link": "https://www.androidauthority.com/kasa-smart-plug-ultra-mini-amazon-deal-3735143/",
+          "publishedOn": "2026-11-13T18:11:55.000Z",
+          "wordCount": 1650,
+          "title": "Save 30% on a four-pack of Kasa Smart Plug Ultra Minis",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/10/Kasa-Smart-Plug-Ultra-Mini-featured-image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/recompa-android-app-for-handhelds-3735102/",
+          "author": "Ryan McNeal",
+          "description": "Recompa aims to make your life easier by simplifying Android handheld installs.",
+          "link": "https://www.androidauthority.com/recompa-android-app-for-handhelds-3735102/",
+          "publishedOn": "2026-11-13T18:05:10.000Z",
+          "wordCount": 2073,
+          "title": "Recompa simplifies Android handheld installs so you can spend more time playing",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/11/iiSU-on-AYN-Thor.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-pixel-november-update-enterprise-wifi-issues-3735105/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "Google is looking into the complaints.",
+          "link": "https://www.androidauthority.com/google-pixel-november-update-enterprise-wifi-issues-3735105/",
+          "publishedOn": "2026-11-13T17:55:59.000Z",
+          "wordCount": 1720,
+          "title": "Pixel users report workplace and school Wi-Fi connectivity issues after November update",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/12/Image-of-Android-Wi-Fi-network-details-page.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/garmin-vivoactive-6-deal-amazon-3735139/",
+          "author": "Matt Horne",
+          "description": "Garmin's all-round AMOLED fitness watch, with 80+ sports modes and up to 11 days of battery, is down to $249.99.",
+          "link": "https://www.androidauthority.com/garmin-vivoactive-6-deal-amazon-3735139/",
+          "publishedOn": "2026-11-13T17:47:12.000Z",
+          "wordCount": 1697,
+          "title": "Garmin’s Vivoactive 6 fitness watch is $50 off on Amazon",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/05/Garmin-Vivoactive-6-Face-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/bose-soundlink-flex-2nd-gen-deal-3735128/",
+          "author": "Matt Horne",
+          "description": "Bose's rugged, floating Bluetooth speaker is down to $89 on Amazon in Blue Dusk, its lowest price yet.",
+          "link": "https://www.androidauthority.com/bose-soundlink-flex-2nd-gen-deal-3735128/",
+          "publishedOn": "2026-11-13T17:37:04.000Z",
+          "wordCount": 1684,
+          "title": "Bose SoundLink Flex (2nd Gen) hits a record low with $60 off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2021/10/Bose-SoundLink-Flex-blue-backpack-bluetooth-speaker-e1634145336688.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/nothing-phone-3-black-friday-deal-amazon-3735110/",
+          "author": "Matt Horne",
+          "description": "Nothing Phone (3) drops to $499 on Amazon, returning to its all-time low with a standout design and four 50MP cameras.",
+          "link": "https://www.androidauthority.com/nothing-phone-3-black-friday-deal-amazon-3735110/",
+          "publishedOn": "2026-11-13T16:40:27.000Z",
+          "wordCount": 1714,
+          "title": "Amazon cuts Nothing Phone (3) by $200 in early Black Friday deal",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/08/Nothing-Phone-3-Glyph-battery.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/nothing-ear-3a-deal-3735098/",
+          "author": "Matt Horne",
+          "description": "Nothing Ear (3a) earbuds are 30% off in an Early Black Friday Deal, cutting the price to an all-time low on Amazon.",
+          "link": "https://www.androidauthority.com/nothing-ear-3a-deal-3735098/",
+          "publishedOn": "2026-11-13T15:58:47.000Z",
+          "wordCount": 1643,
+          "title": "Nothing Ear (3a) earbuds get a $30 discount, now $69",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/07/Nothing-Ear-3a-Yellow.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-pixel-screensaver-dimming-broken-november-update-3735044/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "The update seemingly broke low-light mode for screensavers.",
+          "link": "https://www.androidauthority.com/google-pixel-screensaver-dimming-broken-november-update-3735044/",
+          "publishedOn": "2026-11-13T15:38:46.000Z",
+          "wordCount": 1988,
+          "title": "Google’s November Pixel update is leaving screensavers stuck at full brightness",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-screen-saver-4-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/anthropic-claude-outage-nov-2026-3735078/",
+          "author": "Ryan McNeal",
+          "description": "It not just you, Claude is down.",
+          "link": "https://www.androidauthority.com/anthropic-claude-outage-nov-2026-3735078/",
+          "publishedOn": "2026-11-13T15:25:42.000Z",
+          "wordCount": 1476,
+          "title": "Anthropic’s Claude is experiencing a widespread outage, causing elevated errors (Update: Back up)",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/12/claude-homepage.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/garmin-instinct-3-amoled-deal-3735085/",
+          "author": "Matt Horne",
+          "description": "The Instinct 3 AMOLED drops to $249.99 on Amazon, bringing this rugged GPS smartwatch back to its lowest price ever.",
+          "link": "https://www.androidauthority.com/garmin-instinct-3-amoled-deal-3735085/",
+          "publishedOn": "2026-11-13T15:22:18.000Z",
+          "wordCount": 1668,
+          "title": "Garmin Instinct 3 AMOLED falls by $200 in early Black Friday deal",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/01/Garmin-Instinct-3-AMOLED-choose-activities.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/best-black-friday-2026-deals-3733655/",
+          "author": "Matt Horne",
+          "description": "The biggest sale of the year is underway, and prices are plunging already. Here are the best tech deals you can grab now.",
+          "link": "https://www.androidauthority.com/best-black-friday-2026-deals-3733655/",
+          "publishedOn": "2026-11-13T15:11:00.000Z",
+          "wordCount": 6552,
+          "title": "Best Black Friday deals: Early discounts on phones, smartwatches, and more",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Best-Black-Friday-Deals-Feature-2026.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/att-app-down-3735059/",
+          "author": "Ryan McNeal",
+          "description": "The AT&T app has gone offline amid potential network issues.",
+          "link": "https://www.androidauthority.com/att-app-down-3735059/",
+          "publishedOn": "2026-11-13T15:01:22.000Z",
+          "wordCount": 1494,
+          "title": "AT&T app has gone offline and some users report network outages (Update: Back online)",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/ATT-logo-on-phone-stock-photo-3.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/nothing-headphone-1-deal-amazon-3735065/",
+          "author": "Matt Horne",
+          "description": "Save $130 on the Nothing Headphone (1) and get hybrid ANC, Bluetooth 5.3, and up to 80 hours of playback for $169.",
+          "link": "https://www.androidauthority.com/nothing-headphone-1-deal-amazon-3735065/",
+          "publishedOn": "2026-11-13T14:49:13.000Z",
+          "wordCount": 1732,
+          "title": "Nothing Headphone (1) drops to record-low $169 on Amazon",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/06/Nothing-Headphone-1-being-worn.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/android-auto-music-double-skipping-bug-3735036/",
+          "author": "Hillary Keverenge",
+          "description": "One button press, two skipped songs, and no fix in sight.",
+          "link": "https://www.androidauthority.com/android-auto-music-double-skipping-bug-3735036/",
+          "publishedOn": "2026-11-13T14:46:57.000Z",
+          "wordCount": 1730,
+          "title": "Android Auto’s music controls are still skipping two songs with one press",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/10/android-auto-launcher-home-screen-2.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/nothing-phone-4a-pro-deal-amazon-3735060/",
+          "author": "Matt Horne",
+          "description": "Nothing Phone (4a) Pro falls to a record-low $398 on Amazon, with 3.5x optical zoom and a standout transparent design.",
+          "link": "https://www.androidauthority.com/nothing-phone-4a-pro-deal-amazon-3735060/",
+          "publishedOn": "2026-11-13T14:36:34.000Z",
+          "wordCount": 1692,
+          "title": "Amazon drops Nothing Phone (4a) Pro by $101 to record low",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Phone-4a-Pro-all-colors.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/pixel-transit-mode-automatic-motion-assist-take-a-message-3734960/",
+          "author": "Tushar Mehta",
+          "description": "And we now have screenshots for the automatic Motion Assist integration.",
+          "link": "https://www.androidauthority.com/pixel-transit-mode-automatic-motion-assist-take-a-message-3734960/",
+          "publishedOn": "2026-11-13T14:32:01.000Z",
+          "wordCount": 2620,
+          "title": "Google is testing automatic triggers for Motion Assist and Take a Message in Transit Mode",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/Pixel-Transit-Mode-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-wallet-updated-floating-bar-test-apk-teardown-3734961/",
+          "author": "Chethan Rao",
+          "description": "This redesign would let users seamlessly switch between the Home and Search tabs.",
+          "link": "https://www.androidauthority.com/google-wallet-updated-floating-bar-test-apk-teardown-3734961/",
+          "publishedOn": "2026-11-13T13:22:22.000Z",
+          "wordCount": 1893,
+          "title": "Google Wallet tests floating bar redesign with Home button and new animation",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-wallet-card-redesign-hero-2026-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/peanuts-native-switch-games-android-3734983/",
+          "author": "Aamir Siddiqui",
+          "description": "The open-source translation layer builds on BananaNative, and supports dual-screen Android handhelds.",
+          "link": "https://www.androidauthority.com/peanuts-native-switch-games-android-3734983/",
+          "publishedOn": "2026-11-13T13:03:14.000Z",
+          "wordCount": 2349,
+          "title": "Peanuts Native brings 12 Switch games to Android without an emulator layer",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/08/AYN-Thor-dual-screen-android-handheld.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/gmail-material-3-expressive-settings-redesign-rollout-3734964/",
+          "author": "Hillary Keverenge",
+          "description": "A fresh look makes Gmail's settings easier to navigate.",
+          "link": "https://www.androidauthority.com/gmail-material-3-expressive-settings-redesign-rollout-3734964/",
+          "publishedOn": "2026-11-13T12:56:09.000Z",
+          "wordCount": 1725,
+          "title": "Gmail’s Material 3 Expressive settings redesign is starting to reach Android users",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/gmail-android-app-no-meet-tab-hero-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/huawei-continuous-glucose-monitor-cgm-3734906/",
+          "author": "Tushar Mehta",
+          "description": "Data from the CGM can also be viewed directly on a HUAWEI smartwatch.",
+          "link": "https://www.androidauthority.com/huawei-continuous-glucose-monitor-cgm-3734906/",
+          "publishedOn": "2026-11-13T11:22:39.000Z",
+          "wordCount": 1900,
+          "title": "After BP monitoring smartwatches, HUAWEI reveals its first continuous glucose monitor",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Huawei-cgm.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/best-ai-agents-android-2026-3731766/",
+          "author": "Andrew Grush",
+          "description": "There are many options, but let's explore 5 popular options out there.",
+          "link": "https://www.androidauthority.com/best-ai-agents-android-2026-3731766/",
+          "publishedOn": "2026-11-13T11:00:33.000Z",
+          "wordCount": 5563,
+          "title": "5 AI agents you can actually use on Android in 2026 (and who should use them)",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/06/gemini-and-claude-on-two-smartphones-next-to-each-other-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-pixel-weather-inaccurate-forecast-user-report-apk-teardown-3734890/",
+          "author": "Chethan Rao",
+          "description": "A new card at the bottom of the weather details page features a new user feedback option.",
+          "link": "https://www.androidauthority.com/google-pixel-weather-inaccurate-forecast-user-report-apk-teardown-3734890/",
+          "publishedOn": "2026-11-13T10:56:40.000Z",
+          "wordCount": 1689,
+          "title": "Pixel Weather now lets you report inaccurate weather conditions",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/04/google-pixel-weather-forecast-boxes-details.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/motorola-razr-plus-2024-android-17-update-3734901/",
+          "author": "Hillary Keverenge",
+          "description": "Months of beta testing are giving way to a stable release.",
+          "link": "https://www.androidauthority.com/motorola-razr-plus-2024-android-17-update-3734901/",
+          "publishedOn": "2026-11-13T10:53:26.000Z",
+          "wordCount": 1425,
+          "title": "Motorola Razr Plus 2024 starts receiving Android 17, but US owners still have to wait",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/07/Motorola-Razr-Plus-weather-app.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-calculator-unit-conversion-demo-3734899/",
+          "author": "Aamir Siddiqui",
+          "description": "The November 2026 Pixel Drop is supposed to bring these features, but many users don't have them yet.",
+          "link": "https://www.androidauthority.com/google-calculator-unit-conversion-demo-3734899/",
+          "publishedOn": "2026-11-13T10:53:00.000Z",
+          "wordCount": 2918,
+          "title": "Here’s a demo of Google Calculator’s new Unit Conversion feature and a preview of Pixel Solver",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/google_calculator_2.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-messages-pinned-chats-redesign-hands-on-how-to-3733526/",
+          "author": "Joe Maring",
+          "description": "A very nice fresh coat of paint.",
+          "link": "https://www.androidauthority.com/google-messages-pinned-chats-redesign-hands-on-how-to-3733526/",
+          "publishedOn": "2026-11-13T10:30:12.000Z",
+          "wordCount": 2775,
+          "title": "I finally have Google Messages’ new pinned chats UI. Here’s how to get it on your phone now",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-messges-2026-redesign-hero-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/motorola-signature-27-battery-downgrade-3734887/",
+          "author": "Hadlee Simons",
+          "description": "It looks like Motorola's flagship phone won't have a 7,000mAh battery everywhere.",
+          "link": "https://www.androidauthority.com/motorola-signature-27-battery-downgrade-3734887/",
+          "publishedOn": "2026-11-13T10:19:14.000Z",
+          "wordCount": 1991,
+          "title": "Motorola Signature 27 could have a downgraded 5,500mAh battery in some markets (Update)",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/motorola-signature-27-entire-back-view-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-motorola-signature-27-3732992/",
+          "author": "Robert Triggs",
+          "description": "The Motorola Signature 27 looks impressive, but Samsung's S26 Ultra still has a few tricks up its sleeve.",
+          "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-motorola-signature-27-3732992/",
+          "publishedOn": "2026-11-13T10:00:36.000Z",
+          "wordCount": 4000,
+          "title": "6 reasons I’d still buy the Galaxy S26 Ultra instead of the Motorola Signature 27",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-galaxy-s26-ultra-pine-tree-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/pixel-november-2026-update-bugs-3734840/",
+          "author": "Tushar Mehta",
+          "description": "Bugs introduced with the November 2026 update continue to pile up for Pixel owners.",
+          "link": "https://www.androidauthority.com/pixel-november-2026-update-bugs-3734840/",
+          "publishedOn": "2026-11-13T09:49:30.000Z",
+          "wordCount": 3122,
+          "title": "Pixel’s November update is breaking AOD, lock screen, and notifications for some users",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-and-pro-xl-installing-system-update.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-messages-search-redesign-beta-rollout-3734872/",
+          "author": "Hillary Keverenge",
+          "description": "Finding old texts, photos, and links is getting easier.",
+          "link": "https://www.androidauthority.com/google-messages-search-redesign-beta-rollout-3734872/",
+          "publishedOn": "2026-11-13T09:20:32.000Z",
+          "wordCount": 1821,
+          "title": "Google Messages’ big search redesign is now rolling out to beta testers",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-messages-2026-redesign-search-button-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/lenovo-googlebook-15-best-buy-3734380/",
+          "author": "Ankit Banerjee",
+          "description": "High-end laptop with easy access to Google's best features.",
+          "link": "https://www.androidauthority.com/lenovo-googlebook-15-best-buy-3734380/",
+          "publishedOn": "2026-11-13T09:06:56.000Z",
+          "wordCount": 2776,
+          "title": "Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Lenovo-Googlebook-15-featured.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-pixel-journal-recorder-app-recording-support-3734817/",
+          "author": "Hadlee Simons",
+          "description": "The 'Record new audio' button appeared a few days ago, but it wasn't functional at the time. That changes today.",
+          "link": "https://www.androidauthority.com/google-pixel-journal-recorder-app-recording-support-3734817/",
+          "publishedOn": "2026-11-13T09:06:06.000Z",
+          "wordCount": 2047,
+          "title": "The Pixel Journal app now lets you record and add audio via Recorder",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-pixel-journal.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/oneplus-oxygenos-vs-coloros-poll-results-3734814/",
+          "author": "Andy Walker",
+          "description": "OxygenOS is dead, yet the backlash to its replacement isn't nearly as bad as we expected.",
+          "link": "https://www.androidauthority.com/oneplus-oxygenos-vs-coloros-poll-results-3734814/",
+          "publishedOn": "2026-11-13T08:10:07.000Z",
+          "wordCount": 1884,
+          "title": "Color OS wins over more OnePlus fans than expected in our latest poll",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/ColorOS-17-on-OnePlus-15-oneplus-folder.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/meta-muse-phone-calls-us-paid-subscribers-3734830/",
+          "author": "Hillary Keverenge",
+          "description": "Muse can now handle business calls, just like Google's Pixel.",
+          "link": "https://www.androidauthority.com/meta-muse-phone-calls-us-paid-subscribers-3734830/",
+          "publishedOn": "2026-11-13T07:58:33.000Z",
+          "wordCount": 1511,
+          "title": "Meta brings Pixel-like Call for Me features to Muse for $20/month",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/chatgpt-meta-muse-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/",
+          "author": "Shimul Sood",
+          "description": "Let your data do the talking, without revealing everything else.",
+          "link": "https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/",
+          "publishedOn": "2026-11-13T06:26:40.000Z",
+          "wordCount": 1362,
+          "title": "Google Sheets now lets others explore your data without accessing your spreadsheet",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Sheets-next-to-calculator-stock-photo-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-health-missing-vitals-fixed-3734799/",
+          "author": "Hillary Keverenge",
+          "description": "Affected readings were never deleted.",
+          "link": "https://www.androidauthority.com/google-health-missing-vitals-fixed-3734799/",
+          "publishedOn": "2026-11-13T06:17:50.000Z",
+          "wordCount": 1452,
+          "title": "Google rolls out a fix for missing Health app vitals and step counts",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/fitbit-edge-review-google-health-app-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/microsoft-outlook-still-down-3734796/",
+          "author": "Hadlee Simons",
+          "description": "Outlook and other Microsoft 365 services are still down, almost 12 hours after the initial outage.",
+          "link": "https://www.androidauthority.com/microsoft-outlook-still-down-3734796/",
+          "publishedOn": "2026-11-13T05:53:08.000Z",
+          "wordCount": 1770,
+          "title": "Outlook, Teams, and other Microsoft 365 services are still down as exec expresses ‘regret’",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/02/Outlook-logo-stock-photo-6.jpg"
+        },
+        {
           "id": "https://www.androidauthority.com/google-fitbit-air-iphone-syncing-issues-3734762/",
           "author": "Karandeep Singh Oberoi",
           "description": "Google reportedly knows about the issue.",
@@ -6231,6 +6861,156 @@
       "siteUrl": "https://www.androidpolice.com",
       "articles": [
         {
+          "id": "https://www.androidpolice.com/android-xr-smart-glasses-will-hide-faces-from-gemini-ban-real-time-facial-recognition/",
+          "author": "Jade Bryan Jardinico",
+          "description": "Faces will be blurred before they are sent to Gemini",
+          "link": "https://www.androidpolice.com/android-xr-smart-glasses-will-hide-faces-from-gemini-ban-real-time-facial-recognition/",
+          "publishedOn": "2026-11-14T04:29:17.000Z",
+          "wordCount": 5515,
+          "title": "Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/samsung-warby-parker-smart-android-xr-glasses-privacy-led-indicator-light-up-feature.jpg",
+            "length": "835",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/samsung-warby-parker-smart-android-xr-glasses-privacy-led-indicator-light-up-feature.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/samsung-might-leaked-galaxy-s27-most-eye-catching-feature-colors/",
+          "author": "Jade Bryan Jardinico",
+          "description": "Violet is out, Red is in",
+          "link": "https://www.androidpolice.com/samsung-might-leaked-galaxy-s27-most-eye-catching-feature-colors/",
+          "publishedOn": "2026-11-14T01:16:14.000Z",
+          "wordCount": 5843,
+          "title": "Samsung might have accidentally shown off Galaxy S27's most eye-catching feature",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-hand-back.JPG",
+            "length": "2108",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-hand-back.JPG"
+        },
+        {
+          "id": "https://www.androidpolice.com/these-3-apps-fix-everything-i-dislike-about-the-pixel-launcher/",
+          "author": "Jon Gilbert",
+          "description": "Subtle, but powerful",
+          "link": "https://www.androidpolice.com/these-3-apps-fix-everything-i-dislike-about-the-pixel-launcher/",
+          "publishedOn": "2026-11-14T00:00:10.000Z",
+          "wordCount": 4960,
+          "title": "3 apps that turn my Pixel's launcher from good into great",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/pixel-launcher-home-screen.jpg",
+            "length": "4021",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/pixel-launcher-home-screen.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/you-can-report-inaccurate-weather-conditions-in-pixel-weather/",
+          "author": "Timi Cantisano",
+          "description": "Pixel Weather's new report button lets you call out bad forecasts",
+          "link": "https://www.androidpolice.com/you-can-report-inaccurate-weather-conditions-in-pixel-weather/",
+          "publishedOn": "2026-11-13T22:48:55.000Z",
+          "wordCount": 4437,
+          "title": "Pixel Weather finally lets you flag inaccurate conditions",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-9-weather-app-1.jpg",
+            "length": "1277",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-9-weather-app-1.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/i-left-google-maps-for-an-ad-free-open-source-navigation-app-and-i-couldnt-be-happier/",
+          "author": "Dhruv Bhutani",
+          "description": "No accounts, no ads, local-only trip logs, and a simple Mapbox setup that unlocks reliable offline navigation",
+          "link": "https://www.androidpolice.com/i-left-google-maps-for-an-ad-free-open-source-navigation-app-and-i-couldnt-be-happier/",
+          "publishedOn": "2026-11-13T22:00:10.000Z",
+          "wordCount": 5593,
+          "title": "I replaced Google Maps with an ad-free, open source navigation app; I couldn't be happier",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/horizon-nav-homepage.jpeg",
+            "length": "1385",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/horizon-nav-homepage.jpeg"
+        },
+        {
+          "id": "https://www.androidpolice.com/android-auto-182-beta-update-light-mode-hints/",
+          "author": "Timi Cantisano",
+          "description": "Google updated over 100 Android Auto assets for light mode",
+          "link": "https://www.androidpolice.com/android-auto-182-beta-update-light-mode-hints/",
+          "publishedOn": "2026-11-13T21:37:32.000Z",
+          "wordCount": 4616,
+          "title": "Android Auto's light mode is closer than ever, according to new code",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/10/android-auto-calendar-1.jpeg",
+            "length": "46",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/10/android-auto-calendar-1.jpeg"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-wallet-and-gemini-integration/",
+          "author": "Sanuj Bhatia",
+          "description": "Gemini could help you save more money",
+          "link": "https://www.androidpolice.com/google-wallet-and-gemini-integration/",
+          "publishedOn": "2026-11-13T21:25:18.000Z",
+          "wordCount": 4541,
+          "title": "Gemini can now tell you where your money is going, and how to save more of it",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/a-hand-holding-a-google-wallet-icon-against-a-background-of-colorful-floating-gemini-logos.png",
+            "length": "656",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/a-hand-holding-a-google-wallet-icon-against-a-background-of-colorful-floating-gemini-logos.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/unexpected-keyboard-on-android-open-source-app-worth-challenging-gboard/",
+          "author": "Anu Joy",
+          "description": "This developer-focused keyboard not only impressed me, it changed how I typed",
+          "link": "https://www.androidpolice.com/unexpected-keyboard-on-android-open-source-app-worth-challenging-gboard/",
+          "publishedOn": "2026-11-13T20:00:10.000Z",
+          "wordCount": 5172,
+          "title": "I tried Unexpected Keyboard on Android; it's the first open source app worth challenging Gboard",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/android-mascot-holding-the-unexpected-keyboard-surrounded-by-struck-through-gboard-logos.png",
+            "length": "558",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/android-mascot-holding-the-unexpected-keyboard-surrounded-by-struck-through-gboard-logos.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/garmin-venu-4-deal-early-black-friday-amazon/",
+          "author": "Patrick Farmer",
+          "description": "It's the perfect fitness watch for athletes of all skill levels.",
+          "link": "https://www.androidpolice.com/garmin-venu-4-deal-early-black-friday-amazon/",
+          "publishedOn": "2026-11-13T19:08:40.000Z",
+          "wordCount": 4440,
+          "title": "The Garmin Venu 4 transformed my workouts, and now it’s cheaper than ever before",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/garmin-venu-4-lifestyle-169.png",
+            "length": "3157",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/garmin-venu-4-lifestyle-169.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/garmin-instinct-3-solar-250-lowest-price/",
+          "author": "Timi Cantisano",
+          "description": "Tired of nightly charging? This Garmin solar watch just dropped to $250",
+          "link": "https://www.androidpolice.com/garmin-instinct-3-solar-250-lowest-price/",
+          "publishedOn": "2026-11-13T18:52:42.000Z",
+          "wordCount": 4395,
+          "title": "Garmin Instinct 3 Solar runs on sunlight alone, and it's 38% off",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-7.png",
+            "length": "3882",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-7.png"
+        },
+        {
           "id": "https://www.androidpolice.com/fairphone-gen-6-boost-mobile/",
           "author": "Timi Cantisano",
           "description": "It's not what we wanted to see, but it's a start",
@@ -6837,6 +7617,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/a-free-windows-app-just-replaced-raspberry-pi-for-dualsense-users-on-pc/",
+          "author": "Samarveer Singh",
+          "description": "One free app for the full magic of DualSense",
+          "link": "https://www.xda-developers.com/a-free-windows-app-just-replaced-raspberry-pi-for-dualsense-users-on-pc/",
+          "publishedOn": "2026-11-14T01:00:20.000Z",
+          "wordCount": 6113,
+          "title": "This free Windows app just replaced a Raspberry Pi for DualSense users on PC",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/holding-a-dualsense-controller-next-to-a-gaming-pc.jpg",
+            "length": "1842",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/holding-a-dualsense-controller-next-to-a-gaming-pc.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/logitechs-logitech-g733-is-a-no-brainer-at-its-current-price/",
+          "author": "XDA Deals Desk",
+          "description": "A reliable wireless option for gaming and calls",
+          "link": "https://www.xda-developers.com/logitechs-logitech-g733-is-a-no-brainer-at-its-current-price/",
+          "publishedOn": "2026-11-14T00:45:03.000Z",
+          "wordCount": 4495,
+          "title": "Logitech's Logitech G733 is a no-brainer at its current price",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2023/11/xda-14.png",
+            "length": "3986",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2023/11/xda-14.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/someone-paid-45-for-claude-fable-52-to-make-an-ms-paint-image-and-the-results-arent-too-bad/",
+          "author": "Simon Batt",
+          "description": "Truly the pinnacle of AI development.",
+          "link": "https://www.xda-developers.com/someone-paid-45-for-claude-fable-52-to-make-an-ms-paint-image-and-the-results-arent-too-bad/",
+          "publishedOn": "2026-11-14T00:39:52.000Z",
+          "wordCount": 4658,
+          "title": "Someone paid $45 for Claude Fable 5.2 to make an MS Paint image, and the results aren’t too bad",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-code-screen.JPEG",
+            "length": "16695",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-code-screen.JPEG"
+        },
+        {
+          "id": "https://www.xda-developers.com/this-2tb-pcie-gen-4-ssd-with-a-heatsink-drops-to-just-29999-half-off-its-regular-price/",
+          "author": "XDA Deals Desk",
+          "description": "Made for PS5, but worth comparing for PC builds",
+          "link": "https://www.xda-developers.com/this-2tb-pcie-gen-4-ssd-with-a-heatsink-drops-to-just-29999-half-off-its-regular-price/",
+          "publishedOn": "2026-11-14T00:24:11.000Z",
+          "wordCount": 4639,
+          "title": "This 2TB PCIe Gen 4 SSD with a heatsink is half off its regular price",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2023/07/xda-34.png",
+            "length": "4669",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2023/07/xda-34.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/the-garmin-forerunner-965-is-down-to-44999-its-lowest-price-since-launch/",
+          "author": "XDA Deals Desk",
+          "description": "A serious upgrade for runners who want real data on their wrist.",
+          "link": "https://www.xda-developers.com/the-garmin-forerunner-965-is-down-to-44999-its-lowest-price-since-launch/",
+          "publishedOn": "2026-11-14T00:12:34.000Z",
+          "wordCount": 4634,
+          "title": "The Garmin Forerunner 965 is down to $450, its lowest price since launch",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/05/garmin-forerunner-965-smartwatch-edited.jpg",
+            "length": "100",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/05/garmin-forerunner-965-smartwatch-edited.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/stopped-chasing-ai-first-code-editors-went-back-plain-vs-code-getting-more-done/",
+          "author": "Anurag Singh",
+          "description": "I don't need another editor",
+          "link": "https://www.xda-developers.com/stopped-chasing-ai-first-code-editors-went-back-plain-vs-code-getting-more-done/",
+          "publishedOn": "2026-11-14T00:01:20.000Z",
+          "wordCount": 5839,
+          "title": "I stopped chasing AI-first code editors and went back to plain VS Code, and I'm getting more done",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/vs-code-local-model.jpg",
+            "length": "2667",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/vs-code-local-model.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/shokz-openfit-2-open-ear-earbuds-hit-9995-for-early-black-friday-matching-the-lowest-price-weve-seen/",
+          "author": "XDA Deals Desk",
+          "description": "Get half off a pair that usually sells near full price",
+          "link": "https://www.xda-developers.com/shokz-openfit-2-open-ear-earbuds-hit-9995-for-early-black-friday-matching-the-lowest-price-weve-seen/",
+          "publishedOn": "2026-11-13T23:13:32.000Z",
+          "wordCount": 4672,
+          "title": "These open-ear earbuds from Shokz are more than worth it at just $99.95",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/shokz-openfit-2-open-ear-earbuds-3-edited.jpg",
+            "length": "132",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/shokz-openfit-2-open-ear-earbuds-3-edited.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/lossless-audio-wasted-on-bluetooth-headphones-but-2027-might-bring-solution/",
+          "author": "Shivansh Raj Srivastava",
+          "description": "My earbuds' Hi-Res badge didn't survive my phone's developer options.",
+          "link": "https://www.xda-developers.com/lossless-audio-wasted-on-bluetooth-headphones-but-2027-might-bring-solution/",
+          "publishedOn": "2026-11-13T23:00:21.000Z",
+          "wordCount": 6215,
+          "title": "Lossless audio is wasted on Bluetooth headphones, but 2027 might bring the solution",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_20261101_155734.jpg",
+            "length": "1422",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_20261101_155734.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/replaced-obsidian-onenote-with-17-year-old-app-and-i-could-not-be-happier/",
+          "author": "Parth Shah",
+          "description": "A forgotten classic replaced my favorites",
+          "link": "https://www.xda-developers.com/replaced-obsidian-onenote-with-17-year-old-app-and-i-could-not-be-happier/",
+          "publishedOn": "2026-11-13T22:30:21.000Z",
+          "wordCount": 5781,
+          "title": "I replaced Obsidian and OneNote with a 17-year-old app and I couldn't be happier",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/using-evernote-over-obsidian-onenote.jpg",
+            "length": "2038",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/using-evernote-over-obsidian-onenote.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/favorite-smart-home-addition-cost-me-less-than-1-took-60-seconds-set-up/",
+          "author": "Jasmine Mannan",
+          "description": "And I can use them outside of my home too.",
+          "link": "https://www.xda-developers.com/favorite-smart-home-addition-cost-me-less-than-1-took-60-seconds-set-up/",
+          "publishedOn": "2026-11-13T22:00:21.000Z",
+          "wordCount": 6169,
+          "title": "My favorite smart home addition cost me less than $1 and took 60 seconds to set up",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/whatsapp-image-2026-11-10-at-13-20-53.jpeg",
+            "length": "99",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/whatsapp-image-2026-11-10-at-13-20-53.jpeg"
+        },
         {
           "id": "https://www.xda-developers.com/turn-a-basic-windows-recovery-usb-into-pc-troubleshooting-toolkit/",
           "author": "Abhishek Kumar Mishra",

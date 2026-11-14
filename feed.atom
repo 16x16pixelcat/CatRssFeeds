@@ -2,10 +2,1047 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-13T05:47:53.362Z</updated>
+    <updated>2026-11-14T05:37:32.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition]]></title>
+        <id>https://www.androidpolice.com/android-xr-smart-glasses-will-hide-faces-from-gemini-ban-real-time-facial-recognition/</id>
+        <link href="https://www.androidpolice.com/android-xr-smart-glasses-will-hide-faces-from-gemini-ban-real-time-facial-recognition/"/>
+        <updated>2026-11-14T04:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Faces will be blurred before they are sent to Gemini]]></summary>
+        <author>
+            <name>Jade Bryan Jardinico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.10.0 Preview]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/687522235410285333</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/687522235410285333"/>
+        <updated>2026-11-14T02:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+
+Note on Preview Releases
+This is an early Preview build of SteamOS 3.10, and may contain unexpected bugs or stability issues.  If you encounter problems, please consider filing a bug on the SteamOS issue tracker.
+The following notes are an overview, and may not include all changes since the previous SteamOS 3.9 Stable Release.
+
+General
+
+Updated Arch Linux base
+
+Updated Desktop Mode from Plasma 6.7.3 to Plasma 6.8.2
+
+For more information, see
+https://kde.org/announcements/plasma/6/6.8.0/
+
+
+Many security and stability improvements
+
+Fixed an issue where the "Slow Charger" alert could erroneously appear
+
+Fixed Bluetooth audio disconnection when switching between desktop and game modes
+
+Update timezone data for Cuba, and Canada's Northwest Territories and Manitoba
+
+Game Mode
+
+Added support for VK_EXT_present_timing
+
+Added support for ASUS ROG Xbox Ally X20 HDR and brightness adjustment
+
+Improved frame timing when using the framerate limiter with VRR
+
+Improved screen flickering when VRR is enabled while navigating the Steam UI or leaving it idle
+
+Improved cursor movement under VRR. It should now match the game's framerate over 30FPS, and stop spiking the panel's refresh rate up to the maximum refresh rate
+
+Fixed scaling causing overexposure in certain HDR titles, such as Control
+
+Fixed an issue with certain games, such as UBOAT and The Fruit of Grisaia, where the image would flicker and present stale frames in Game Mode
+
+AMD Graphics
+
+Added support for HDMI 2.1 VRR, FRL, and ALLM
+
+Known issue: display may remain blank with the Dell G3223Q
+
+
+NVIDIA Graphics
+
+General stability and performance improvements
+
+Added support for Mesh Shaders on Turing and newer
+
+Fixes rendering corruption in Shadow of the Tomb Raider and The Surge 2
+
+Developer
+
+Linux kernel rebased on Linux 7.3]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.10.0 Preview]]></title>
+        <id>https://store.steampowered.com/news/app/1675200/view/687522235410285333</id>
+        <link href="https://store.steampowered.com/news/app/1675200/view/687522235410285333"/>
+        <updated>2026-11-14T02:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
+
+Note on Preview Releases
+This is an early Preview build of SteamOS 3.10, and may contain unexpected bugs or stability issues.  If you encounter problems, please consider filing a bug on the SteamOS issue tracker.
+The following notes are an overview, and may not include all changes since the previous SteamOS 3.9 Stable Release.
+
+General
+
+Updated Arch Linux base
+
+Updated Desktop Mode from Plasma 6.7.3 to Plasma 6.8.2
+
+For more information, see
+https://kde.org/announcements/plasma/6/6.8.0/
+
+
+Many security and stability improvements
+
+Fixed an issue where the "Slow Charger" alert could erroneously appear
+
+Fixed Bluetooth audio disconnection when switching between desktop and game modes
+
+Update timezone data for Cuba, and Canada's Northwest Territories and Manitoba
+
+Game Mode
+
+Added support for VK_EXT_present_timing
+
+Added support for ASUS ROG Xbox Ally X20 HDR and brightness adjustment
+
+Improved frame timing when using the framerate limiter with VRR
+
+Improved screen flickering when VRR is enabled while navigating the Steam UI or leaving it idle
+
+Improved cursor movement under VRR. It should now match the game's framerate over 30FPS, and stop spiking the panel's refresh rate up to the maximum refresh rate
+
+Fixed scaling causing overexposure in certain HDR titles, such as Control
+
+Fixed an issue with certain games, such as UBOAT and The Fruit of Grisaia, where the image would flicker and present stale frames in Game Mode
+
+AMD Graphics
+
+Added support for HDMI 2.1 VRR, FRL, and ALLM
+
+Known issue: display may remain blank with the Dell G3223Q
+
+
+NVIDIA Graphics
+
+General stability and performance improvements
+
+Added support for Mesh Shaders on Turing and newer
+
+Fixes rendering corruption in Shadow of the Tomb Raider and The Surge 2
+
+Developer
+
+Linux kernel rebased on Linux 7.3]]></summary>
+        <author>
+            <name>1675200 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 0.5.9 Beta for Steam Frame]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/687522235410285323</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/687522235410285323"/>
+        <updated>2026-11-14T01:36:35.000Z</updated>
+        <summary type="html"><![CDATA[SteamOS 0.5.9 (for Steam Frame) has just been released.
+This update is for the Steam Frame Beta channel, and includes new features that are still being tested.
+You can opt into this in Settings > System > System Update Channel.
+
+
+
+Camera Pass Through / Room View:
+
+PC Streaming now supports chroma key to allow Room View to be shown on VR content.
+
+Settings are located on the PC side in the Camera section, including a mode switch between Protect Content and Key Content. Key Content will allow any game to simply draw the key color to control Room View transparency.  
+
+Note: this feature requires also opting into the beta branch of SteamVR on PC
+To opt into the beta branch of SteamVR on PC, right-click on SteamVR in your Steam library, select Properties, Game Versions & Beta, and choose beta.
+
+
+General
+
+Foveated sharpening is now applied when streaming VR through Steam Link.
+
+Added accessibility settings for prism correction (diplopia).
+Toggle Advanced Settings, then General > Accessibility > Prism Correction. Needs to restart the headset to take effect.
+
+Fixed a visual glitch when opening/closing the dashboard in some games.
+
+Fixed WebXR support in Chrome/Chromium when installed as user (instead of system-wide) from Discover.
+
+Fixed a system lock-up caused by certain apps installed from Discover (eg: VLC).
+
+Linked the Show Perf Overlay in VR and Draw Performance Assessment toggles together. Turning off Show Perf Overlay in VR also disables the developer overlay.
+
+
+SteamVR has been updated to version 2.19.3.]]></summary>
+        <author>
+            <name>steam RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 0.5.9 Beta for Steam Frame]]></title>
+        <id>https://store.steampowered.com/news/app/4165890/view/687522235410285323</id>
+        <link href="https://store.steampowered.com/news/app/4165890/view/687522235410285323"/>
+        <updated>2026-11-14T01:36:35.000Z</updated>
+        <summary type="html"><![CDATA[SteamOS 0.5.9 (for Steam Frame) has just been released.
+This update is for the Steam Frame Beta channel, and includes new features that are still being tested.
+You can opt into this in Settings > System > System Update Channel.
+
+
+
+Camera Pass Through / Room View:
+
+PC Streaming now supports chroma key to allow Room View to be shown on VR content.
+
+Settings are located on the PC side in the Camera section, including a mode switch between Protect Content and Key Content. Key Content will allow any game to simply draw the key color to control Room View transparency.  
+
+Note: this feature requires also opting into the beta branch of SteamVR on PC
+To opt into the beta branch of SteamVR on PC, right-click on SteamVR in your Steam library, select Properties, Game Versions & Beta, and choose beta.
+
+
+General
+
+Foveated sharpening is now applied when streaming VR through Steam Link.
+
+Added accessibility settings for prism correction (diplopia).
+Toggle Advanced Settings, then General > Accessibility > Prism Correction. Needs to restart the headset to take effect.
+
+Fixed a visual glitch when opening/closing the dashboard in some games.
+
+Fixed WebXR support in Chrome/Chromium when installed as user (instead of system-wide) from Discover.
+
+Fixed a system lock-up caused by certain apps installed from Discover (eg: VLC).
+
+Linked the Show Perf Overlay in VR and Draw Performance Assessment toggles together. Turning off Show Perf Overlay in VR also disables the developer overlay.
+
+
+SteamVR has been updated to version 2.19.3.]]></summary>
+        <author>
+            <name>4165890 RSS Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung might have accidentally shown off Galaxy S27's most eye-catching feature]]></title>
+        <id>https://www.androidpolice.com/samsung-might-leaked-galaxy-s27-most-eye-catching-feature-colors/</id>
+        <link href="https://www.androidpolice.com/samsung-might-leaked-galaxy-s27-most-eye-catching-feature-colors/"/>
+        <updated>2026-11-14T01:16:14.000Z</updated>
+        <summary type="html"><![CDATA[Violet is out, Red is in]]></summary>
+        <author>
+            <name>Jade Bryan Jardinico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This free Windows app just replaced a Raspberry Pi for DualSense users on PC]]></title>
+        <id>https://www.xda-developers.com/a-free-windows-app-just-replaced-raspberry-pi-for-dualsense-users-on-pc/</id>
+        <link href="https://www.xda-developers.com/a-free-windows-app-just-replaced-raspberry-pi-for-dualsense-users-on-pc/"/>
+        <updated>2026-11-14T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[One free app for the full magic of DualSense]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech's Logitech G733 is a no-brainer at its current price]]></title>
+        <id>https://www.xda-developers.com/logitechs-logitech-g733-is-a-no-brainer-at-its-current-price/</id>
+        <link href="https://www.xda-developers.com/logitechs-logitech-g733-is-a-no-brainer-at-its-current-price/"/>
+        <updated>2026-11-14T00:45:03.000Z</updated>
+        <summary type="html"><![CDATA[A reliable wireless option for gaming and calls]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone paid $45 for Claude Fable 5.2 to make an MS Paint image, and the results aren’t too bad]]></title>
+        <id>https://www.xda-developers.com/someone-paid-45-for-claude-fable-52-to-make-an-ms-paint-image-and-the-results-arent-too-bad/</id>
+        <link href="https://www.xda-developers.com/someone-paid-45-for-claude-fable-52-to-make-an-ms-paint-image-and-the-results-arent-too-bad/"/>
+        <updated>2026-11-14T00:39:52.000Z</updated>
+        <summary type="html"><![CDATA[Truly the pinnacle of AI development.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This 2TB PCIe Gen 4 SSD with a heatsink is half off its regular price]]></title>
+        <id>https://www.xda-developers.com/this-2tb-pcie-gen-4-ssd-with-a-heatsink-drops-to-just-29999-half-off-its-regular-price/</id>
+        <link href="https://www.xda-developers.com/this-2tb-pcie-gen-4-ssd-with-a-heatsink-drops-to-just-29999-half-off-its-regular-price/"/>
+        <updated>2026-11-14T00:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Made for PS5, but worth comparing for PC builds]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Garmin Forerunner 965 is down to $450, its lowest price since launch]]></title>
+        <id>https://www.xda-developers.com/the-garmin-forerunner-965-is-down-to-44999-its-lowest-price-since-launch/</id>
+        <link href="https://www.xda-developers.com/the-garmin-forerunner-965-is-down-to-44999-its-lowest-price-since-launch/"/>
+        <updated>2026-11-14T00:12:34.000Z</updated>
+        <summary type="html"><![CDATA[A serious upgrade for runners who want real data on their wrist.]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stopped chasing AI-first code editors and went back to plain VS Code, and I'm getting more done]]></title>
+        <id>https://www.xda-developers.com/stopped-chasing-ai-first-code-editors-went-back-plain-vs-code-getting-more-done/</id>
+        <link href="https://www.xda-developers.com/stopped-chasing-ai-first-code-editors-went-back-plain-vs-code-getting-more-done/"/>
+        <updated>2026-11-14T00:01:20.000Z</updated>
+        <summary type="html"><![CDATA[I don't need another editor]]></summary>
+        <author>
+            <name>Anurag Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 apps that turn my Pixel's launcher from good into great]]></title>
+        <id>https://www.androidpolice.com/these-3-apps-fix-everything-i-dislike-about-the-pixel-launcher/</id>
+        <link href="https://www.androidpolice.com/these-3-apps-fix-everything-i-dislike-about-the-pixel-launcher/"/>
+        <updated>2026-11-14T00:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Subtle, but powerful]]></summary>
+        <author>
+            <name>Jon Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tested in the wild: Best survival tech!]]></title>
+        <id>https://www.androidauthority.com/tested-in-the-wild-best-survival-tech-3735211/</id>
+        <link href="https://www.androidauthority.com/tested-in-the-wild-best-survival-tech-3735211/"/>
+        <updated>2026-11-13T23:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Our team of intrepid adventurers went out into the Canadian wilderness to test some of the best outdoor tech you can buy.]]></summary>
+        <author>
+            <name>Team AA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These open-ear earbuds from Shokz are more than worth it at just $99.95]]></title>
+        <id>https://www.xda-developers.com/shokz-openfit-2-open-ear-earbuds-hit-9995-for-early-black-friday-matching-the-lowest-price-weve-seen/</id>
+        <link href="https://www.xda-developers.com/shokz-openfit-2-open-ear-earbuds-hit-9995-for-early-black-friday-matching-the-lowest-price-weve-seen/"/>
+        <updated>2026-11-13T23:13:32.000Z</updated>
+        <summary type="html"><![CDATA[Get half off a pair that usually sells near full price]]></summary>
+        <author>
+            <name>XDA Deals Desk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lossless audio is wasted on Bluetooth headphones, but 2027 might bring the solution]]></title>
+        <id>https://www.xda-developers.com/lossless-audio-wasted-on-bluetooth-headphones-but-2027-might-bring-solution/</id>
+        <link href="https://www.xda-developers.com/lossless-audio-wasted-on-bluetooth-headphones-but-2027-might-bring-solution/"/>
+        <updated>2026-11-13T23:00:21.000Z</updated>
+        <summary type="html"><![CDATA[My earbuds' Hi-Res badge didn't survive my phone's developer options.]]></summary>
+        <author>
+            <name>Shivansh Raj Srivastava</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Weather finally lets you flag inaccurate conditions]]></title>
+        <id>https://www.androidpolice.com/you-can-report-inaccurate-weather-conditions-in-pixel-weather/</id>
+        <link href="https://www.androidpolice.com/you-can-report-inaccurate-weather-conditions-in-pixel-weather/"/>
+        <updated>2026-11-13T22:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Pixel Weather's new report button lets you call out bad forecasts]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I replaced Obsidian and OneNote with a 17-year-old app and I couldn't be happier]]></title>
+        <id>https://www.xda-developers.com/replaced-obsidian-onenote-with-17-year-old-app-and-i-could-not-be-happier/</id>
+        <link href="https://www.xda-developers.com/replaced-obsidian-onenote-with-17-year-old-app-and-i-could-not-be-happier/"/>
+        <updated>2026-11-13T22:30:21.000Z</updated>
+        <summary type="html"><![CDATA[A forgotten classic replaced my favorites]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My favorite smart home addition cost me less than $1 and took 60 seconds to set up]]></title>
+        <id>https://www.xda-developers.com/favorite-smart-home-addition-cost-me-less-than-1-took-60-seconds-set-up/</id>
+        <link href="https://www.xda-developers.com/favorite-smart-home-addition-cost-me-less-than-1-took-60-seconds-set-up/"/>
+        <updated>2026-11-13T22:00:21.000Z</updated>
+        <summary type="html"><![CDATA[And I can use them outside of my home too.]]></summary>
+        <author>
+            <name>Jasmine Mannan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I replaced Google Maps with an ad-free, open source navigation app; I couldn't be happier]]></title>
+        <id>https://www.androidpolice.com/i-left-google-maps-for-an-ad-free-open-source-navigation-app-and-i-couldnt-be-happier/</id>
+        <link href="https://www.androidpolice.com/i-left-google-maps-for-an-ad-free-open-source-navigation-app-and-i-couldnt-be-happier/"/>
+        <updated>2026-11-13T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[No accounts, no ads, local-only trip logs, and a simple Mapbox setup that unlocks reliable offline navigation]]></summary>
+        <author>
+            <name>Dhruv Bhutani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixelated 125: Google’s glasses, Meta’s baggage]]></title>
+        <id>https://9to5google.com/?p=737520</id>
+        <link href="https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/"/>
+        <updated>2026-11-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much work as the company’s doing, only time might tell.
+Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode.
+Sponsored by Proton Unlimited: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link. Thanks to Proton Unlimited for sponsoring the podcast.
+
+
+
+
+Subscribe
+YouTube Podcasts
+Pocket Casts
+Spotify
+Amazon Music
+Apple Podcasts
+Overcast
+more…]]></summary>
+        <author>
+            <name>Will Sattelberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto's light mode is closer than ever, according to new code]]></title>
+        <id>https://www.androidpolice.com/android-auto-182-beta-update-light-mode-hints/</id>
+        <link href="https://www.androidpolice.com/android-auto-182-beta-update-light-mode-hints/"/>
+        <updated>2026-11-13T21:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Google updated over 100 Android Auto assets for light mode]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini can now tell you where your money is going, and how to save more of it]]></title>
+        <id>https://www.androidpolice.com/google-wallet-and-gemini-integration/</id>
+        <link href="https://www.androidpolice.com/google-wallet-and-gemini-integration/"/>
+        <updated>2026-11-13T21:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Gemini could help you save more money]]></summary>
+        <author>
+            <name>Sanuj Bhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter]]></title>
+        <id>https://9to5google.com/?p=732295</id>
+        <link href="https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/"/>
+        <updated>2026-11-13T21:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection, delivering cameras, speakers, and more that bring the bulk of the functionality and processing directly to your home.
+more…]]></summary>
+        <author>
+            <name>Sponsored Post</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel bug reveals hidden Private Space when switching between light and dark mode]]></title>
+        <id>https://www.androidauthority.com/google-pixel-private-space-persistent-bug-3735167/</id>
+        <link href="https://www.androidauthority.com/google-pixel-private-space-persistent-bug-3735167/"/>
+        <updated>2026-11-13T21:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Google’s November update fixed plenty of bugs, but this Private Space issue wasn’t one of them.]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Headphone (a) with 135-hour battery is 45% off on Amazon]]></title>
+        <id>https://www.androidauthority.com/nothing-headphone-a-black-friday-3735126/</id>
+        <link href="https://www.androidauthority.com/nothing-headphone-a-black-friday-3735126/"/>
+        <updated>2026-11-13T21:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Nothing's long-lasting over-ear headphones are $90 off, matching their all-time low on Amazon.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google gets ready to kill off Pixel 10 Magic Cue in favor of Proactive Assistance]]></title>
+        <id>https://www.androidauthority.com/google-kill-magic-cue-3735173/</id>
+        <link href="https://www.androidauthority.com/google-kill-magic-cue-3735173/"/>
+        <updated>2026-11-13T21:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Google appears to be preparing to pull the plug on Magic Cue by the end of 2027.]]></summary>
+        <author>
+            <name>Stephen Schenck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Maps, Spotify, and more are coming to Xiaomi 18 Pro’s rear display]]></title>
+        <id>https://www.androidauthority.com/xiaomi-18-pro-rear-display-features-3735180/</id>
+        <link href="https://www.androidauthority.com/xiaomi-18-pro-rear-display-features-3735180/"/>
+        <updated>2026-11-13T20:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomi wants you to spend more time looking at your phone's back.]]></summary>
+        <author>
+            <name>Shimul Sood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried Unexpected Keyboard on Android; it's the first open source app worth challenging Gboard]]></title>
+        <id>https://www.androidpolice.com/unexpected-keyboard-on-android-open-source-app-worth-challenging-gboard/</id>
+        <link href="https://www.androidpolice.com/unexpected-keyboard-on-android-open-source-app-worth-challenging-gboard/"/>
+        <updated>2026-11-13T20:00:10.000Z</updated>
+        <summary type="html"><![CDATA[This developer-focused keyboard not only impressed me, it changed how I typed]]></summary>
+        <author>
+            <name>Anu Joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube is having problems with the new Apple TV 4K]]></title>
+        <id>https://www.androidauthority.com/youtube-apple-tv-4k-problems-3735158/</id>
+        <link href="https://www.androidauthority.com/youtube-apple-tv-4k-problems-3735158/"/>
+        <updated>2026-11-13T19:45:19.000Z</updated>
+        <summary type="html"><![CDATA[YouTube won't work on Apple's Google TV Streamer rival.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola MA2 wireless Android Auto adapter just vanished days after finally going on sale]]></title>
+        <id>https://9to5google.com/?p=737451</id>
+        <link href="https://9to5google.com/2026/11/13/motorola-ma2-android-auto-amazon-delay/"/>
+        <updated>2026-11-13T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The long-awaited Motorola MA2 wireless Android Auto adapter is gone just days after it went on sale.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Garmin Venu 4 transformed my workouts, and now it’s cheaper than ever before]]></title>
+        <id>https://www.androidpolice.com/garmin-venu-4-deal-early-black-friday-amazon/</id>
+        <link href="https://www.androidpolice.com/garmin-venu-4-deal-early-black-friday-amazon/"/>
+        <updated>2026-11-13T19:08:40.000Z</updated>
+        <summary type="html"><![CDATA[It's the perfect fitness watch for athletes of all skill levels.]]></summary>
+        <author>
+            <name>Patrick Farmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI rolls out ChatGPT Wallet to let Dots AI agents make purchases]]></title>
+        <id>https://www.androidauthority.com/chatgpt-wallet-3735154/</id>
+        <link href="https://www.androidauthority.com/chatgpt-wallet-3735154/"/>
+        <updated>2026-11-13T19:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Wallet is available to US-based ChatGPT Pro subscribers.]]></summary>
+        <author>
+            <name>Chandra Steele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can get a new phone plan for as low as $6.50/month for Black Friday]]></title>
+        <id>https://9to5google.com/?p=737379</id>
+        <link href="https://9to5google.com/2026/11/13/black-friday-phone-plan-deals/"/>
+        <updated>2026-11-13T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Phone plans are incredibly expensive, but they don’t always have to be. With Black Friday deals in full swing, you can currently score a new phone plan for as little as $6.50 per month.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more]]></title>
+        <id>https://9to5toys.com/2026/11/13/todays-highlight-google-play-deals-49/</id>
+        <link href="https://9to5toys.com/2026/11/13/todays-highlight-google-play-deals-49/"/>
+        <updated>2026-11-13T18:53:06.000Z</updated>
+        <summary type="html"><![CDATA[The early Black Friday sales are in full swing at Amazon, Walmart, and Best Buy has now launched a suite of new Doorbusters, but we also have Friday’s Google Play app and game deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN X DiVE Offline, Streets of Rage 4, Ace Attorney Trilogy, Legend of Keepers, [Premium] RPG Onigo Hunter, Premium-RPG Wizards of Brandel, and more. Alongside the all-time low on the Google Home Speaker and the now available Google Pixel Tag, the Nothing early Black Friday deals exploded today with new all-time lows Headphone (a), the brand new Nothing CMF milk carton speakers, and the Nothing CMF Buds Neo at just just $17, among a whole lot more. The apps await below. 
+more…]]></summary>
+        <author>
+            <name>9to5Toys</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garmin Instinct 3 Solar runs on sunlight alone, and it's 38% off]]></title>
+        <id>https://www.androidpolice.com/garmin-instinct-3-solar-250-lowest-price/</id>
+        <link href="https://www.androidpolice.com/garmin-instinct-3-solar-250-lowest-price/"/>
+        <updated>2026-11-13T18:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Tired of nightly charging? This Garmin solar watch just dropped to $250]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wallet now lets Gemini analyze your spending and suggest ways to save]]></title>
+        <id>https://www.androidauthority.com/google-wallet-gemini-integration-us-3735150/</id>
+        <link href="https://www.androidauthority.com/google-wallet-gemini-integration-us-3735150/"/>
+        <updated>2026-11-13T18:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Gemini now knows where your money goes, even when you don't.]]></summary>
+        <author>
+            <name>Shimul Sood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save 30% on a four-pack of Kasa Smart Plug Ultra Minis]]></title>
+        <id>https://www.androidauthority.com/kasa-smart-plug-ultra-mini-amazon-deal-3735143/</id>
+        <link href="https://www.androidauthority.com/kasa-smart-plug-ultra-mini-amazon-deal-3735143/"/>
+        <updated>2026-11-13T18:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Get $9 off four compact Wi-Fi plugs that work with Alexa and Google Assistant, no hub needed.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recompa simplifies Android handheld installs so you can spend more time playing]]></title>
+        <id>https://www.androidauthority.com/recompa-android-app-for-handhelds-3735102/</id>
+        <link href="https://www.androidauthority.com/recompa-android-app-for-handhelds-3735102/"/>
+        <updated>2026-11-13T18:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Recompa aims to make your life easier by simplifying Android handheld installs.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel users report workplace and school Wi-Fi connectivity issues after November update]]></title>
+        <id>https://www.androidauthority.com/google-pixel-november-update-enterprise-wifi-issues-3735105/</id>
+        <link href="https://www.androidauthority.com/google-pixel-november-update-enterprise-wifi-issues-3735105/"/>
+        <updated>2026-11-13T17:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Google is looking into the complaints.]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’]]></title>
+        <id>https://9to5google.com/?p=737483</id>
+        <link href="https://9to5google.com/2026/11/13/gemini-google-wallet/"/>
+        <updated>2026-11-13T17:51:44.000Z</updated>
+        <summary type="html"><![CDATA[As we spotted in September, the Gemini app is adding Google Wallet integration in the US that makes possible “responses informed by your spending habits.”
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garmin’s Vivoactive 6 fitness watch is $50 off on Amazon]]></title>
+        <id>https://www.androidauthority.com/garmin-vivoactive-6-deal-amazon-3735139/</id>
+        <link href="https://www.androidauthority.com/garmin-vivoactive-6-deal-amazon-3735139/"/>
+        <updated>2026-11-13T17:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Garmin's all-round AMOLED fitness watch, with 80+ sports modes and up to 11 days of battery, is down to $249.99.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bose SoundLink Flex (2nd Gen) hits a record low with $60 off]]></title>
+        <id>https://www.androidauthority.com/bose-soundlink-flex-2nd-gen-deal-3735128/</id>
+        <link href="https://www.androidauthority.com/bose-soundlink-flex-2nd-gen-deal-3735128/"/>
+        <updated>2026-11-13T17:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Bose's rugged, floating Bluetooth speaker is down to $89 on Amazon in Blue Dusk, its lowest price yet.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps]]></title>
+        <id>https://9to5google.com/?p=737433</id>
+        <link href="https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/"/>
+        <updated>2026-11-13T16:45:47.000Z</updated>
+        <summary type="html"><![CDATA[The Xiaomi 18 Pro series’ rear displays might actually be useful, after all.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto 18.2 update starts rolling out with more light mode teases]]></title>
+        <id>https://9to5google.com/?p=737401</id>
+        <link href="https://9to5google.com/2026/11/13/android-auto-18-2-update-beta-release/"/>
+        <updated>2026-11-13T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has started rolling out the Android Auto 18.2 update, but don’t expect much to change on your car’s display.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon cuts Nothing Phone (3) by $200 in early Black Friday deal]]></title>
+        <id>https://www.androidauthority.com/nothing-phone-3-black-friday-deal-amazon-3735110/</id>
+        <link href="https://www.androidauthority.com/nothing-phone-3-black-friday-deal-amazon-3735110/"/>
+        <updated>2026-11-13T16:40:27.000Z</updated>
+        <summary type="html"><![CDATA[Nothing Phone (3) drops to $499 on Amazon, returning to its all-time low with a standout design and four 50MP cameras.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deals: Nothing early Black Friday now live – Headphone (a) 45% off, Buds Neo $17, Phone up to $300 off, much more]]></title>
+        <id>https://9to5google.com/?p=737446</id>
+        <link href="https://9to5google.com/2026/11/13/early-black-friday-nothing-headphone-a-buds-neo-phone/"/>
+        <updated>2026-11-13T16:40:07.000Z</updated>
+        <summary type="html"><![CDATA[As part of Amazon’s now live early Black Friday sale, Nothing is taking over today’s 9to5Toys Lunch Break deal post with loads of new all-time lows at up to nearly 50% off. We have a new Amazon all-time low on Nothing Headphone (a) today at 45% off, its ultra-affordable CMF Buds Neo at just $16.99 Prime shipped, the brand new CMF Speaker S at $39, and the larger CMF Speaker M is down at $79. Those offers join Nothing Phone (4a) Pro at under $400 while Nothing Phone (3) is now as much as $300 off its original price, alongside Lenovo’s latest ThinkTab X11 Rugged Android tablet at the lowest price we have tracked to date. Get a closer look down below. 
+more…]]></summary>
+        <author>
+            <name>Justin Kahn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything Nothing sells is up to 49% off today; Phone (3) for $499, $17 Buds, more]]></title>
+        <id>https://9to5google.com/?p=737381</id>
+        <link href="https://9to5google.com/2026/11/13/nothing-discounts-early-black-friday/"/>
+        <updated>2026-11-13T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Nothing is selling a lot of its products at huge discounts today, with up to half off select products, bringing devices like Phone (3) down to $499, Buds (3a) to $69.99, and more.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Ear (3a) earbuds get a $30 discount, now $69]]></title>
+        <id>https://www.androidauthority.com/nothing-ear-3a-deal-3735098/</id>
+        <link href="https://www.androidauthority.com/nothing-ear-3a-deal-3735098/"/>
+        <updated>2026-11-13T15:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Nothing Ear (3a) earbuds are 30% off in an Early Black Friday Deal, cutting the price to an all-time low on Amazon.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Watch update brings a sweet redesign I wish was on more apps]]></title>
+        <id>https://9to5google.com/?p=737386</id>
+        <link href="https://9to5google.com/2026/11/13/google-pixel-watch-media-controls-redesign-update/"/>
+        <updated>2026-11-13T15:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has been at its gradient redesign schtick for a while now to varying levels of success, but its latest redesign has just landed on the Pixel Watch for the Media Controls app, and I love it.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s November Pixel update is leaving screensavers stuck at full brightness]]></title>
+        <id>https://www.androidauthority.com/google-pixel-screensaver-dimming-broken-november-update-3735044/</id>
+        <link href="https://www.androidauthority.com/google-pixel-screensaver-dimming-broken-november-update-3735044/"/>
+        <updated>2026-11-13T15:38:46.000Z</updated>
+        <summary type="html"><![CDATA[The update seemingly broke low-light mode for screensavers.]]></summary>
+        <author>
+            <name>Karandeep Singh Oberoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s Claude is experiencing a widespread outage, causing elevated errors (Update: Back up)]]></title>
+        <id>https://www.androidauthority.com/anthropic-claude-outage-nov-2026-3735078/</id>
+        <link href="https://www.androidauthority.com/anthropic-claude-outage-nov-2026-3735078/"/>
+        <updated>2026-11-13T15:25:42.000Z</updated>
+        <summary type="html"><![CDATA[It not just you, Claude is down.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garmin Instinct 3 AMOLED falls by $200 in early Black Friday deal]]></title>
+        <id>https://www.androidauthority.com/garmin-instinct-3-amoled-deal-3735085/</id>
+        <link href="https://www.androidauthority.com/garmin-instinct-3-amoled-deal-3735085/"/>
+        <updated>2026-11-13T15:22:18.000Z</updated>
+        <summary type="html"><![CDATA[The Instinct 3 AMOLED drops to $249.99 on Amazon, bringing this rugged GPS smartwatch back to its lowest price ever.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton Pass is up to 60% off for Black Friday—and it does way more than just store your passwords]]></title>
+        <id>https://9to5google.com/?p=737123</id>
+        <link href="https://9to5google.com/2026/11/13/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/"/>
+        <updated>2026-11-13T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a familiar interruption that comes with shopping online: you’ve found what you want, you’re ready to check out, and the store asks you to sign in. Was this the account with your usual password? Did you change it last time? Is it easier to reset it again?
+Proton Pass is designed to take that friction out of your day. It creates strong, unique passwords, remembers them for you, and fills them in when you log in. But it also handles something a password alone can’t: keeping your real email address out of another retailer’s database.
+more…]]></summary>
+        <author>
+            <name>Sponsored Post</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Black Friday deals: Early discounts on phones, smartwatches, and more]]></title>
+        <id>https://www.androidauthority.com/best-black-friday-2026-deals-3733655/</id>
+        <link href="https://www.androidauthority.com/best-black-friday-2026-deals-3733655/"/>
+        <updated>2026-11-13T15:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The biggest sale of the year is underway, and prices are plunging already. Here are the best tech deals you can grab now.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This year’s Meta Quest 3S early Black Friday doorbuster deal is the best I’ve ever seen]]></title>
+        <id>https://9to5google.com/?p=737370</id>
+        <link href="https://9to5google.com/2026/11/13/this-years-meta-quest-3s-black-friday-doorbuster-deal-is-the-best-ive-ever-seen/"/>
+        <updated>2026-11-13T15:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Meta is including nearly $100 of free stuff with this year’s Meta Quest 3S Black Friday sale, including a $50 Best Buy gift card.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T app has gone offline and some users report network outages (Update: Back online)]]></title>
+        <id>https://www.androidauthority.com/att-app-down-3735059/</id>
+        <link href="https://www.androidauthority.com/att-app-down-3735059/"/>
+        <updated>2026-11-13T15:01:22.000Z</updated>
+        <summary type="html"><![CDATA[The AT&T app has gone offline amid potential network issues.]]></summary>
+        <author>
+            <name>Ryan McNeal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Headphone (1) drops to record-low $169 on Amazon]]></title>
+        <id>https://www.androidauthority.com/nothing-headphone-1-deal-amazon-3735065/</id>
+        <link href="https://www.androidauthority.com/nothing-headphone-1-deal-amazon-3735065/"/>
+        <updated>2026-11-13T14:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Save $130 on the Nothing Headphone (1) and get hybrid ANC, Bluetooth 5.3, and up to 80 hours of playback for $169.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto’s music controls are still skipping two songs with one press]]></title>
+        <id>https://www.androidauthority.com/android-auto-music-double-skipping-bug-3735036/</id>
+        <link href="https://www.androidauthority.com/android-auto-music-double-skipping-bug-3735036/"/>
+        <updated>2026-11-13T14:46:57.000Z</updated>
+        <summary type="html"><![CDATA[One button press, two skipped songs, and no fix in sight.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon drops Nothing Phone (4a) Pro by $101 to record low]]></title>
+        <id>https://www.androidauthority.com/nothing-phone-4a-pro-deal-amazon-3735060/</id>
+        <link href="https://www.androidauthority.com/nothing-phone-4a-pro-deal-amazon-3735060/"/>
+        <updated>2026-11-13T14:36:34.000Z</updated>
+        <summary type="html"><![CDATA[Nothing Phone (4a) Pro falls to a record-low $398 on Amazon, with 3.5x optical zoom and a standout transparent design.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google is testing automatic triggers for Motion Assist and Take a Message in Transit Mode]]></title>
+        <id>https://www.androidauthority.com/pixel-transit-mode-automatic-motion-assist-take-a-message-3734960/</id>
+        <link href="https://www.androidauthority.com/pixel-transit-mode-automatic-motion-assist-take-a-message-3734960/"/>
+        <updated>2026-11-13T14:32:01.000Z</updated>
+        <summary type="html"><![CDATA[And we now have screenshots for the automatic Motion Assist integration.]]></summary>
+        <author>
+            <name>Tushar Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Quest 3 golf club actually improved my scores, but it comes at a cost]]></title>
+        <id>https://9to5google.com/?p=736384</id>
+        <link href="https://9to5google.com/2026/11/13/amvr-ga2-golf-club-meta-quest-review/"/>
+        <updated>2026-11-13T14:16:45.000Z</updated>
+        <summary type="html"><![CDATA[The AMVR GA2 is a fresh take on a Quest 3 golf club accessory, and I was pleasantly surprised with what it did for my scores.
+more…]]></summary>
+        <author>
+            <name>Nicholas Sutrich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’d rather use Android XR glasses over Meta Ray-Bans for the app alone]]></title>
+        <id>https://9to5google.com/?p=736483</id>
+        <link href="https://9to5google.com/2026/11/13/id-rather-use-android-xr-glasses-over-meta-ray-bans-for-the-app-alone/"/>
+        <updated>2026-11-13T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In trying out Google’s Intelligent Eyewear Android XR glasses for the first time, one of my main takeaways is that it’s the app, not necessarily the glasses themselves that would push me into using them over the mainstay Meta Ray-Bans.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wallet tests floating bar redesign with Home button and new animation]]></title>
+        <id>https://www.androidauthority.com/google-wallet-updated-floating-bar-test-apk-teardown-3734961/</id>
+        <link href="https://www.androidauthority.com/google-wallet-updated-floating-bar-test-apk-teardown-3734961/"/>
+        <updated>2026-11-13T13:22:22.000Z</updated>
+        <summary type="html"><![CDATA[This redesign would let users seamlessly switch between the Home and Search tabs.]]></summary>
+        <author>
+            <name>Chethan Rao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peanuts Native brings 12 Switch games to Android without an emulator layer]]></title>
+        <id>https://www.androidauthority.com/peanuts-native-switch-games-android-3734983/</id>
+        <link href="https://www.androidauthority.com/peanuts-native-switch-games-android-3734983/"/>
+        <updated>2026-11-13T13:03:14.000Z</updated>
+        <summary type="html"><![CDATA[The open-source translation layer builds on BananaNative, and supports dual-screen Android handhelds.]]></summary>
+        <author>
+            <name>Aamir Siddiqui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gmail’s Material 3 Expressive settings redesign is starting to reach Android users]]></title>
+        <id>https://www.androidauthority.com/gmail-material-3-expressive-settings-redesign-rollout-3734964/</id>
+        <link href="https://www.androidauthority.com/gmail-material-3-expressive-settings-redesign-rollout-3734964/"/>
+        <updated>2026-11-13T12:56:09.000Z</updated>
+        <summary type="html"><![CDATA[A fresh look makes Gmail's settings easier to navigate.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After BP monitoring smartwatches, HUAWEI reveals its first continuous glucose monitor]]></title>
+        <id>https://www.androidauthority.com/huawei-continuous-glucose-monitor-cgm-3734906/</id>
+        <link href="https://www.androidauthority.com/huawei-continuous-glucose-monitor-cgm-3734906/"/>
+        <updated>2026-11-13T11:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Data from the CGM can also be viewed directly on a HUAWEI smartwatch.]]></summary>
+        <author>
+            <name>Tushar Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 AI agents you can actually use on Android in 2026 (and who should use them)]]></title>
+        <id>https://www.androidauthority.com/best-ai-agents-android-2026-3731766/</id>
+        <link href="https://www.androidauthority.com/best-ai-agents-android-2026-3731766/"/>
+        <updated>2026-11-13T11:00:33.000Z</updated>
+        <summary type="html"><![CDATA[There are many options, but let's explore 5 popular options out there.]]></summary>
+        <author>
+            <name>Andrew Grush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Weather now lets you report inaccurate weather conditions]]></title>
+        <id>https://www.androidauthority.com/google-pixel-weather-inaccurate-forecast-user-report-apk-teardown-3734890/</id>
+        <link href="https://www.androidauthority.com/google-pixel-weather-inaccurate-forecast-user-report-apk-teardown-3734890/"/>
+        <updated>2026-11-13T10:56:40.000Z</updated>
+        <summary type="html"><![CDATA[A new card at the bottom of the weather details page features a new user feedback option.]]></summary>
+        <author>
+            <name>Chethan Rao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola Razr Plus 2024 starts receiving Android 17, but US owners still have to wait]]></title>
+        <id>https://www.androidauthority.com/motorola-razr-plus-2024-android-17-update-3734901/</id>
+        <link href="https://www.androidauthority.com/motorola-razr-plus-2024-android-17-update-3734901/"/>
+        <updated>2026-11-13T10:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Months of beta testing are giving way to a stable release.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s a demo of Google Calculator’s new Unit Conversion feature and a preview of Pixel Solver]]></title>
+        <id>https://www.androidauthority.com/google-calculator-unit-conversion-demo-3734899/</id>
+        <link href="https://www.androidauthority.com/google-calculator-unit-conversion-demo-3734899/"/>
+        <updated>2026-11-13T10:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The November 2026 Pixel Drop is supposed to bring these features, but many users don't have them yet.]]></summary>
+        <author>
+            <name>Aamir Siddiqui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I finally have Google Messages’ new pinned chats UI. Here’s how to get it on your phone now]]></title>
+        <id>https://www.androidauthority.com/google-messages-pinned-chats-redesign-hands-on-how-to-3733526/</id>
+        <link href="https://www.androidauthority.com/google-messages-pinned-chats-redesign-hands-on-how-to-3733526/"/>
+        <updated>2026-11-13T10:30:12.000Z</updated>
+        <summary type="html"><![CDATA[A very nice fresh coat of paint.]]></summary>
+        <author>
+            <name>Joe Maring</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorola Signature 27 could have a downgraded 5,500mAh battery in some markets (Update)]]></title>
+        <id>https://www.androidauthority.com/motorola-signature-27-battery-downgrade-3734887/</id>
+        <link href="https://www.androidauthority.com/motorola-signature-27-battery-downgrade-3734887/"/>
+        <updated>2026-11-13T10:19:14.000Z</updated>
+        <summary type="html"><![CDATA[It looks like Motorola's flagship phone won't have a 7,000mAh battery everywhere.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 reasons I’d still buy the Galaxy S26 Ultra instead of the Motorola Signature 27]]></title>
+        <id>https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-motorola-signature-27-3732992/</id>
+        <link href="https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-motorola-signature-27-3732992/"/>
+        <updated>2026-11-13T10:00:36.000Z</updated>
+        <summary type="html"><![CDATA[The Motorola Signature 27 looks impressive, but Samsung's S26 Ultra still has a few tricks up its sleeve.]]></summary>
+        <author>
+            <name>Robert Triggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel’s November update is breaking AOD, lock screen, and notifications for some users]]></title>
+        <id>https://www.androidauthority.com/pixel-november-2026-update-bugs-3734840/</id>
+        <link href="https://www.androidauthority.com/pixel-november-2026-update-bugs-3734840/"/>
+        <updated>2026-11-13T09:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Bugs introduced with the November 2026 update continue to pile up for Pixel owners.]]></summary>
+        <author>
+            <name>Tushar Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Messages’ big search redesign is now rolling out to beta testers]]></title>
+        <id>https://www.androidauthority.com/google-messages-search-redesign-beta-rollout-3734872/</id>
+        <link href="https://www.androidauthority.com/google-messages-search-redesign-beta-rollout-3734872/"/>
+        <updated>2026-11-13T09:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Finding old texts, photos, and links is getting easier.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop]]></title>
+        <id>https://www.androidauthority.com/lenovo-googlebook-15-best-buy-3734380/</id>
+        <link href="https://www.androidauthority.com/lenovo-googlebook-15-best-buy-3734380/"/>
+        <updated>2026-11-13T09:06:56.000Z</updated>
+        <summary type="html"><![CDATA[High-end laptop with easy access to Google's best features.]]></summary>
+        <author>
+            <name>Ankit Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pixel Journal app now lets you record and add audio via Recorder]]></title>
+        <id>https://www.androidauthority.com/google-pixel-journal-recorder-app-recording-support-3734817/</id>
+        <link href="https://www.androidauthority.com/google-pixel-journal-recorder-app-recording-support-3734817/"/>
+        <updated>2026-11-13T09:06:06.000Z</updated>
+        <summary type="html"><![CDATA[The 'Record new audio' button appeared a few days ago, but it wasn't functional at the time. That changes today.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color OS wins over more OnePlus fans than expected in our latest poll]]></title>
+        <id>https://www.androidauthority.com/oneplus-oxygenos-vs-coloros-poll-results-3734814/</id>
+        <link href="https://www.androidauthority.com/oneplus-oxygenos-vs-coloros-poll-results-3734814/"/>
+        <updated>2026-11-13T08:10:07.000Z</updated>
+        <summary type="html"><![CDATA[OxygenOS is dead, yet the backlash to its replacement isn't nearly as bad as we expected.]]></summary>
+        <author>
+            <name>Andy Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta brings Pixel-like Call for Me features to Muse for $20/month]]></title>
+        <id>https://www.androidauthority.com/meta-muse-phone-calls-us-paid-subscribers-3734830/</id>
+        <link href="https://www.androidauthority.com/meta-muse-phone-calls-us-paid-subscribers-3734830/"/>
+        <updated>2026-11-13T07:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Muse can now handle business calls, just like Google's Pixel.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Sheets now lets others explore your data without accessing your spreadsheet]]></title>
+        <id>https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/</id>
+        <link href="https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/"/>
+        <updated>2026-11-13T06:26:40.000Z</updated>
+        <summary type="html"><![CDATA[Let your data do the talking, without revealing everything else.]]></summary>
+        <author>
+            <name>Shimul Sood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google rolls out a fix for missing Health app vitals and step counts]]></title>
+        <id>https://www.androidauthority.com/google-health-missing-vitals-fixed-3734799/</id>
+        <link href="https://www.androidauthority.com/google-health-missing-vitals-fixed-3734799/"/>
+        <updated>2026-11-13T06:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Affected readings were never deleted.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outlook, Teams, and other Microsoft 365 services are still down as exec expresses ‘regret’]]></title>
+        <id>https://www.androidauthority.com/microsoft-outlook-still-down-3734796/</id>
+        <link href="https://www.androidauthority.com/microsoft-outlook-still-down-3734796/"/>
+        <updated>2026-11-13T05:53:08.000Z</updated>
+        <summary type="html"><![CDATA[Outlook and other Microsoft 365 services are still down, almost 12 hours after the initial outage.]]></summary>
+        <author>
+            <name>Hadlee Simons</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Client Beta - November 12th]]></title>
         <id>https://store.steampowered.com/news/group/4397053/view/712292033362919969</id>
