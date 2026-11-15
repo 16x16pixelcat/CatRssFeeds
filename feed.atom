@@ -2,10 +2,271 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-14T05:37:32.417Z</updated>
+    <updated>2026-11-15T05:36:05.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows ships with a disposable sandbox, and it's the safest way to open anything sketchy]]></title>
+        <id>https://www.xda-developers.com/windows-has-a-disposable-sandbox-its-the-safest-way-to-run-sketchy-files/</id>
+        <link href="https://www.xda-developers.com/windows-has-a-disposable-sandbox-its-the-safest-way-to-run-sketchy-files/"/>
+        <updated>2026-11-15T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Windows has a sandbox. Your PC has plausible deniability.]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My old gaming GPU now handles 3 jobs I used to pay Claude for]]></title>
+        <id>https://www.xda-developers.com/old-gaming-gpu-handles-jobs-i-used-to-pay-claude-for/</id>
+        <link href="https://www.xda-developers.com/old-gaming-gpu-handles-jobs-i-used-to-pay-claude-for/"/>
+        <updated>2026-11-15T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[My gaming PC has a second job now]]></summary>
+        <author>
+            <name>Nolen Jonker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun]]></title>
+        <id>https://www.androidpolice.com/gemini-android-auto-privacy-tweak/</id>
+        <link href="https://www.androidpolice.com/gemini-android-auto-privacy-tweak/"/>
+        <updated>2026-11-15T00:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Don't let your passenger ask Gemini for your data]]></summary>
+        <author>
+            <name>Ben Khalesi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Jellyfin app resurrects Netflix on the Wii, and the nostalgia hits hard]]></title>
+        <id>https://www.xda-developers.com/this-jellyfin-app-resurrects-netflix-wii-and-nostalgia-hits-hard/</id>
+        <link href="https://www.xda-developers.com/this-jellyfin-app-resurrects-netflix-wii-and-nostalgia-hits-hard/"/>
+        <updated>2026-11-14T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Remember using Netflix on the Wii? It was a big deal at the time, and now you can bring back that feeling with a Jellyfin app.]]></summary>
+        <author>
+            <name>João Carrasqueira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]]]></title>
+        <id>https://9to5google.com/?p=737539</id>
+        <link href="https://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/"/>
+        <updated>2026-11-14T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[First appearing earlier this month, Google Pixel phones are rolling out a handy new Family feature in the Settings menu. Here’s what it can do.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave an open-source PDF reader a local AI instead of paying Adobe $25 a month to chat with my PDFs]]></title>
+        <id>https://www.xda-developers.com/i-gave-an-open-source-pdf-reader-a-local-ai-and-it-does-what-adobe-charges-extra-for/</id>
+        <link href="https://www.xda-developers.com/i-gave-an-open-source-pdf-reader-a-local-ai-and-it-does-what-adobe-charges-extra-for/"/>
+        <updated>2026-11-14T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[My local AI takes down another needless subscription on my statement]]></summary>
+        <author>
+            <name>Abhinav Raj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Task Scheduler can automate half the things people install third-party utilities to do]]></title>
+        <id>https://www.xda-developers.com/windows-task-scheduler-can-automate-actions-on-your-pc/</id>
+        <link href="https://www.xda-developers.com/windows-task-scheduler-can-automate-actions-on-your-pc/"/>
+        <updated>2026-11-14T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Windows tools power repeatable routines with scripts that launch VMs, browser profiles, and SSH sessions.]]></summary>
+        <author>
+            <name>Abhishek Kumar Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I used Gemini to track my credit card bills; I never missed a payment ever again]]></title>
+        <id>https://www.androidpolice.com/gemini-track-credit-card-bills-payments/</id>
+        <link href="https://www.androidpolice.com/gemini-track-credit-card-bills-payments/"/>
+        <updated>2026-11-14T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[I was sick of missing payments and paying fees]]></summary>
+        <author>
+            <name>Akshay Bhalla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stopped paying for motherboard features I never use, and a cheaper board made a better PC]]></title>
+        <id>https://www.xda-developers.com/stopped-paying-for-motherboard-features-never-use-cheaper-board-better-pc/</id>
+        <link href="https://www.xda-developers.com/stopped-paying-for-motherboard-features-never-use-cheaper-board-better-pc/"/>
+        <updated>2026-11-14T21:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Mid-range is the sweet spot.]]></summary>
+        <author>
+            <name>Hamlin Rozario</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Argon is the first model that made me seriously consider cutting my Claude and ChatGPT subscriptions]]></title>
+        <id>https://www.xda-developers.com/gemini-4-argon-made-me-consider-cutting-claude-and-chatgpt-subscriptions/</id>
+        <link href="https://www.xda-developers.com/gemini-4-argon-made-me-consider-cutting-claude-and-chatgpt-subscriptions/"/>
+        <updated>2026-11-14T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[I was using it wrong at first, until I adjusted my prompts]]></summary>
+        <author>
+            <name>Nolen Jonker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I replaced my Raspberry Pi router with an x86 SBC, and it was the network upgrade my home lab needed]]></title>
+        <id>https://www.xda-developers.com/i-replaced-my-raspberry-pi-router-with-a-powerful-sbc/</id>
+        <link href="https://www.xda-developers.com/i-replaced-my-raspberry-pi-router-with-a-powerful-sbc/"/>
+        <updated>2026-11-14T20:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Ditching my Raspberry Pi for an x86 SBC fixed my home router, and it only took one afternoon]]></summary>
+        <author>
+            <name>Ayush Pande</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My smart TV's Ethernet port turned out to be slower than Wi-Fi, and the spec sheet never mentioned it]]></title>
+        <id>https://www.xda-developers.com/my-tv-ethernet-port-was-slower-than-wi-fi-the-spec-sheet-never-said-so/</id>
+        <link href="https://www.xda-developers.com/my-tv-ethernet-port-was-slower-than-wi-fi-the-spec-sheet-never-said-so/"/>
+        <updated>2026-11-14T20:00:20.000Z</updated>
+        <summary type="html"><![CDATA[My smart TV has an Ethernet port from the wrong decade.]]></summary>
+        <author>
+            <name>Samarveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I replaced learning apps with Gemini Guided Learning; it remembers my progress and adapts to my pace]]></title>
+        <id>https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace/</id>
+        <link href="https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace/"/>
+        <updated>2026-11-14T20:00:10.000Z</updated>
+        <summary type="html"><![CDATA[I deleted half my learning apps; it made learning surprisingly addictive]]></summary>
+        <author>
+            <name>Anu Joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 cheap network gadgets that made my home network troubleshooting so much easier]]></title>
+        <id>https://www.xda-developers.com/cheap-network-gadgets-added-home-made-troubleshooting-dramatically-easier/</id>
+        <link href="https://www.xda-developers.com/cheap-network-gadgets-added-home-made-troubleshooting-dramatically-easier/"/>
+        <updated>2026-11-14T19:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Troubleshooting used to be something I dreaded.]]></summary>
+        <author>
+            <name>Jasmine Mannan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wallet now lets you scan and track receipts; here's how to use it]]></title>
+        <id>https://www.androidpolice.com/google-wallet-now-lets-you-scan-and-track-receipts-heres-how-to-use-it/</id>
+        <link href="https://www.androidpolice.com/google-wallet-now-lets-you-scan-and-track-receipts-heres-how-to-use-it/"/>
+        <updated>2026-11-14T18:00:10.000Z</updated>
+        <summary type="html"><![CDATA[It's the best place to store receipts]]></summary>
+        <author>
+            <name>Jon Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I star flight details and door codes in Google Messages to skip frustrating search menus]]></title>
+        <id>https://www.androidpolice.com/star-flight-details-door-codes-google-messages-skip-frustrating-search-menus/</id>
+        <link href="https://www.androidpolice.com/star-flight-details-door-codes-google-messages-skip-frustrating-search-menus/"/>
+        <updated>2026-11-14T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[A simple star workflow turns scattered flight numbers and door codes into an instant one-tap travel snapshot you can trust]]></summary>
+        <author>
+            <name>Jesse Hollington</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bose's Noise Cancelling Wired Earbuds made me miss simple tech]]></title>
+        <id>https://www.androidpolice.com/bose-noise-cancelling-wired-earbuds-review/</id>
+        <link href="https://www.androidpolice.com/bose-noise-cancelling-wired-earbuds-review/"/>
+        <updated>2026-11-14T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[I can see why wired is making a comeback]]></summary>
+        <author>
+            <name>Sara Gitkos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini's true power comes from the tweaks nobody wants to talk about]]></title>
+        <id>https://www.androidpolice.com/gemini-true-power-comes-from-the-tweaks-nobody-wants-to-talk-about/</id>
+        <link href="https://www.androidpolice.com/gemini-true-power-comes-from-the-tweaks-nobody-wants-to-talk-about/"/>
+        <updated>2026-11-14T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Small changes unlock a smarter assistant]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This $100 Google Play gift card is down to $92 right now]]></title>
+        <id>https://www.androidpolice.com/dont-miss-out-this-google-play-100-gift-card-is-now-just-92/</id>
+        <link href="https://www.androidpolice.com/dont-miss-out-this-google-play-100-gift-card-is-now-just-92/"/>
+        <updated>2026-11-14T15:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Save $8 on a Google Play gift card for a limited time]]></summary>
+        <author>
+            <name>Timi Cantisano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I played WoW Forever on my Galaxy Z Fold 8, and it performed perfectly]]></title>
+        <id>https://www.androidpolice.com/heres-how-to-play-world-of-warcraft-forever-on-your-smartphone/</id>
+        <link href="https://www.androidpolice.com/heres-how-to-play-world-of-warcraft-forever-on-your-smartphone/"/>
+        <updated>2026-11-14T13:45:10.000Z</updated>
+        <summary type="html"><![CDATA[This amazing Github project means you can play WoW on your phone.]]></summary>
+        <author>
+            <name>Mark Jansen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Motorola Signature 27 is a spec monster, but that's not enough to beat Samsung]]></title>
+        <id>https://www.androidpolice.com/motorola-signature-27-spec-monster-not-enough-to-beat-samsung/</id>
+        <link href="https://www.androidpolice.com/motorola-signature-27-spec-monster-not-enough-to-beat-samsung/"/>
+        <updated>2026-11-14T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[That $1,599 price tag is hard to justify]]></summary>
+        <author>
+            <name>Anu Joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I freed up 36GB on my Android phone without deleting a single photo]]></title>
+        <id>https://www.androidauthority.com/free-up-android-storage-tips-3734228/</id>
+        <link href="https://www.androidauthority.com/free-up-android-storage-tips-3734228/"/>
+        <updated>2026-11-14T12:00:31.000Z</updated>
+        <summary type="html"><![CDATA[No SD card, no problem.]]></summary>
+        <author>
+            <name>Pankil Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to tell if a Black Friday deal is actually worth it]]></title>
+        <id>https://www.androidauthority.com/how-to-tell-if-a-black-friday-deal-is-worth-it-3734185/</id>
+        <link href="https://www.androidauthority.com/how-to-tell-if-a-black-friday-deal-is-worth-it-3734185/"/>
+        <updated>2026-11-14T11:30:46.000Z</updated>
+        <summary type="html"><![CDATA[After years of hunting Black Friday deals, here's the key to separating the bargains from the bluster.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tested Meta Muse and ChatGPT Dots, and here’s the one I’m sticking with]]></title>
+        <id>https://www.androidauthority.com/i-used-meta-muse-and-chatgpt-dots-3733591/</id>
+        <link href="https://www.androidauthority.com/i-used-meta-muse-and-chatgpt-dots-3733591/"/>
+        <updated>2026-11-14T11:00:30.000Z</updated>
+        <summary type="html"><![CDATA[AI agent are here to stay.]]></summary>
+        <author>
+            <name>Stephen Radochia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vela Maps is the closest thing to Google Maps without Google — here’s how to install it]]></title>
+        <id>https://www.androidauthority.com/vela-maps-vs-google-maps-android-3733791/</id>
+        <link href="https://www.androidauthority.com/vela-maps-vs-google-maps-android-3733791/"/>
+        <updated>2026-11-14T10:30:18.000Z</updated>
+        <summary type="html"><![CDATA[This open-source app looks, feels, and acts like Google Maps, but it's more than just a copy.]]></summary>
+        <author>
+            <name>Andy Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 apps you can use instead of Google Messages]]></title>
+        <id>https://www.androidauthority.com/google-messages-alternative-messaging-apps-3733535/</id>
+        <link href="https://www.androidauthority.com/google-messages-alternative-messaging-apps-3733535/"/>
+        <updated>2026-11-14T10:00:32.000Z</updated>
+        <summary type="html"><![CDATA[These apps might not have RCS, but they stand out in other ways.]]></summary>
+        <author>
+            <name>Andrew Grush</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google's Android XR smart glasses will hide faces from Gemini and ban real-time facial recognition]]></title>
         <id>https://www.androidpolice.com/android-xr-smart-glasses-will-hide-faces-from-gemini-ban-real-time-facial-recognition/</id>
@@ -242,6 +503,17 @@ SteamVR has been updated to version 2.19.3.]]></summary>
         <summary type="html"><![CDATA[Violet is out, Red is in]]></summary>
         <author>
             <name>Jade Bryan Jardinico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages]]></title>
+        <id>https://9to5google.com/?p=737533</id>
+        <link href="https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/"/>
+        <updated>2026-11-14T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
         </author>
     </entry>
     <entry>
@@ -10368,128 +10640,6 @@ Updated Arch Linux base
 Updated De…]]></summary>
         <author>
             <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Beta Client Update: October 15th]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/687519694976975613</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/687519694976975613"/>
-        <updated>2026-10-15T22:04:03.000Z</updated>
-        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
-
-Steam Achievement Sets
-A new way to organize, track, and complete a game's achievements. Read more details in the announcement.
-
-Games can now organize and group achievements for base game and DLC content
-
-DLC achievements can be added via sets without breaking game completion
-
-Completed achievement sets remain completed when new sets are added
-
-Achievements and sets can be archived if they are seasonal or can no longer be achieved
-
-Updated Achievements page and achievement rollup displays
-
-
-General
-
-Notifications settings layout has been changed to be easier to work with on all screen sizes
-
-Fixed multiple edge cases that could cause memory leaks in game streaming and controller code
-
-Multiple general stability improvements and fixes for rare crashes affecting small numbers of users
-
-Fixed an error displaying dates for users in British Columbia
-
-Library
-
-Improved offline support for the activity feed and fixed cases where it could previously skip loading some events.
-
-Linux
-
-The Steam client is now a 64bit application.
-
-The Steam client now runs inside a Steam Runtime container.
-
-This will help the Steam client provide a more consistent experience across multiple distributions. This is the same technology used by Steam games.
-
-
-Fixed a case where Steam updater UI would fail to show for some users.
-
-Remote Play
-
-Added a "Display Style" setting to allow stretching and zooming when the stream is a different aspect ratio than the client display.
-
-Steam Controller Firmware
-
-Fixed an issue where shutting down a controller while docked to the puck could cause it to turn back on
-
-Accessibility
-
-Background art will appear on the home screen when High Contrast is enabled]]></summary>
-        <author>
-            <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Client Update For Frame: October 15th]]></title>
-        <id>https://store.steampowered.com/news/app/4165890/view/687519694976975615</id>
-        <link href="https://store.steampowered.com/news/app/4165890/view/687519694976975615"/>
-        <updated>2026-10-15T21:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Steam Client (for Steam Frame) has just been released for all users with the following changes: 
-
-Steam Frame
-
-Improve reliability of pairing with the Steam Frame Wireless Adapter.
-
-Show progress of initial connection with the Steam Frame Wireless Adapter after pairing.
-
-Added a Playtime Mode icon to the notification area. 
-
-Fixed an issue where Wi-Fi power saving was enabled at startup, despite being disabled in settings.
-
-Improved Steam Frame Wireless Adapter reliability on Windows by preventing the adapter from going to sleep.
-
-Fixed a crash in the Steam Frame Wireless Adapter driver when it fails to initialize.
-
-
-General
-This update for Steam Frame also includes a large number of other Steam Client improvements. 
-Please refer to the Steam Client patch notes for more details: 
-
-https://store.steampowered.com/news/app/593110/view/710037059469839720]]></summary>
-        <author>
-            <name>4165890 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 0.5.6 Beta for Steam Frame]]></title>
-        <id>https://store.steampowered.com/news/app/4165890/view/687519694976975601</id>
-        <link href="https://store.steampowered.com/news/app/4165890/view/687519694976975601"/>
-        <updated>2026-10-15T21:53:10.000Z</updated>
-        <summary type="html"><![CDATA[SteamOS 0.5.6 (for Steam Frame) has just been released. 
-This update is for the Steam Frame Beta channel, and includes new features that are still being tested. 
-You can opt into this in Settings > System > System Update Channel.
-
-
-
-OS:
-
-Disable avahi-daemon publishing mDNS, causing polluting frame-XXXX.local mDNS mappings, and in some cases delaying shutdown.
-
-Allow .apk files in right-click "add to steam" context menu in Desktop mode.
-
-Improve performance overlay battery and memory usage reporting.
-
-Streaming:
-
-Improve robustness of connecting using the Steam Frame Wireless Adapter, making it able to connect in some situations it previously could not.
-
-Audio:
-
-Add echo cancellation and noise suppression for external microphones.]]></summary>
-        <author>
-            <name>4165890 RSS Feed</name>
         </author>
     </entry>
 </feed>

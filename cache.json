@@ -492,16 +492,6 @@
           "wordCount": 389,
           "title": "SteamOS 3.9.3 Beta",
           "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976975613",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nSteam Achievement Sets\nA new way to organize, track, and complete a game's achievements. Read more details in the announcement.\n\nGames can now organize and group achievements for base game and DLC content\n\nDLC achievements can be added via sets without breaking game completion\n\nCompleted achievement sets remain completed when new sets are added\n\nAchievements and sets can be archived if they are seasonal or can no longer be achieved\n\nUpdated Achievements page and achievement rollup displays\n\n\nGeneral\n\nNotifications settings layout has been changed to be easier to work with on all screen sizes\n\nFixed multiple edge cases that could cause memory leaks in game streaming and controller code\n\nMultiple general stability improvements and fixes for rare crashes affecting small numbers of users\n\nFixed an error displaying dates for users in British Columbia\n\nLibrary\n\nImproved offline support for the activity feed and fixed cases where it could previously skip loading some events.\n\nLinux\n\nThe Steam client is now a 64bit application.\n\nThe Steam client now runs inside a Steam Runtime container.\n\nThis will help the Steam client provide a more consistent experience across multiple distributions. This is the same technology used by Steam games.\n\n\nFixed a case where Steam updater UI would fail to show for some users.\n\nRemote Play\n\nAdded a \"Display Style\" setting to allow stretching and zooming when the stream is a different aspect ratio than the client display.\n\nSteam Controller Firmware\n\nFixed an issue where shutting down a controller while docked to the puck could cause it to turn back on\n\nAccessibility\n\nBackground art will appear on the home screen when High Contrast is enabled",
-          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976975613",
-          "publishedOn": "2026-10-15T22:04:03.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 15th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
         }
       ]
     },
@@ -558,26 +548,6 @@
           "publishedOn": "2026-11-04T00:36:51.000Z",
           "wordCount": 392,
           "title": "SteamOS 0.5.7 Beta for Steam Frame",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/687519694976975615",
-          "author": null,
-          "description": "Steam Client (for Steam Frame) has just been released for all users with the following changes: \n\nSteam Frame\n\nImprove reliability of pairing with the Steam Frame Wireless Adapter.\n\nShow progress of initial connection with the Steam Frame Wireless Adapter after pairing.\n\nAdded a Playtime Mode icon to the notification area. \n\nFixed an issue where Wi-Fi power saving was enabled at startup, despite being disabled in settings.\n\nImproved Steam Frame Wireless Adapter reliability on Windows by preventing the adapter from going to sleep.\n\nFixed a crash in the Steam Frame Wireless Adapter driver when it fails to initialize.\n\n\nGeneral\nThis update for Steam Frame also includes a large number of other Steam Client improvements. \nPlease refer to the Steam Client patch notes for more details: \n\nhttps://store.steampowered.com/news/app/593110/view/710037059469839720",
-          "link": "https://store.steampowered.com/news/app/4165890/view/687519694976975615",
-          "publishedOn": "2026-10-15T21:53:38.000Z",
-          "wordCount": 393,
-          "title": "Steam Client Update For Frame: October 15th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/4165890/view/687519694976975601",
-          "author": null,
-          "description": "SteamOS 0.5.6 (for Steam Frame) has just been released. \nThis update is for the Steam Frame Beta channel, and includes new features that are still being tested. \nYou can opt into this in Settings > System > System Update Channel.\n\n\n\nOS:\n\nDisable avahi-daemon publishing mDNS, causing polluting frame-XXXX.local mDNS mappings, and in some cases delaying shutdown.\n\nAllow .apk files in right-click \"add to steam\" context menu in Desktop mode.\n\nImprove performance overlay battery and memory usage reporting.\n\nStreaming:\n\nImprove robustness of connecting using the Steam Frame Wireless Adapter, making it able to connect in some situations it previously could not.\n\nAudio:\n\nAdd echo cancellation and noise suppression for external microphones.",
-          "link": "https://store.steampowered.com/news/app/4165890/view/687519694976975601",
-          "publishedOn": "2026-10-15T21:53:10.000Z",
-          "wordCount": 392,
-          "title": "SteamOS 0.5.6 Beta for Steam Frame",
           "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/6bd6853f3271dd0c2ed557d7cc9c04506711462f/capsule_616x353.jpg"
         }
       ]
@@ -694,6 +664,26 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=737539",
+          "author": "Ben Schoon",
+          "description": "First appearing earlier this month, Google Pixel phones are rolling out a handy new Family feature in the Settings menu. Here’s what it can do.\nmore…",
+          "link": "https://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
+          "publishedOn": "2026-11-14T23:00:00.000Z",
+          "wordCount": 3648,
+          "title": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-camera-close-up.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737533",
+          "author": "Ben Schoon",
+          "description": "After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp.\nmore…",
+          "link": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
+          "publishedOn": "2026-11-14T01:15:00.000Z",
+          "wordCount": 3077,
+          "title": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Hilight-Phone-Call.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=737520",
           "author": "Will Sattelberg",
@@ -4479,6 +4469,56 @@
       "siteUrl": "https://www.androidauthority.com/",
       "articles": [
         {
+          "id": "https://www.androidauthority.com/free-up-android-storage-tips-3734228/",
+          "author": "Pankil Shah",
+          "description": "No SD card, no problem.",
+          "link": "https://www.androidauthority.com/free-up-android-storage-tips-3734228/",
+          "publishedOn": "2026-11-14T12:00:31.000Z",
+          "wordCount": null,
+          "title": "How I freed up 36GB on my Android phone without deleting a single photo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/how-to-tell-if-a-black-friday-deal-is-worth-it-3734185/",
+          "author": "Matt Horne",
+          "description": "After years of hunting Black Friday deals, here's the key to separating the bargains from the bluster.",
+          "link": "https://www.androidauthority.com/how-to-tell-if-a-black-friday-deal-is-worth-it-3734185/",
+          "publishedOn": "2026-11-14T11:30:46.000Z",
+          "wordCount": null,
+          "title": "How to tell if a Black Friday deal is actually worth it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/i-used-meta-muse-and-chatgpt-dots-3733591/",
+          "author": "Stephen Radochia",
+          "description": "AI agent are here to stay.",
+          "link": "https://www.androidauthority.com/i-used-meta-muse-and-chatgpt-dots-3733591/",
+          "publishedOn": "2026-11-14T11:00:30.000Z",
+          "wordCount": null,
+          "title": "I tested Meta Muse and ChatGPT Dots, and here’s the one I’m sticking with",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/vela-maps-vs-google-maps-android-3733791/",
+          "author": "Andy Walker",
+          "description": "This open-source app looks, feels, and acts like Google Maps, but it's more than just a copy.",
+          "link": "https://www.androidauthority.com/vela-maps-vs-google-maps-android-3733791/",
+          "publishedOn": "2026-11-14T10:30:18.000Z",
+          "wordCount": null,
+          "title": "Vela Maps is the closest thing to Google Maps without Google — here’s how to install it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/google-messages-alternative-messaging-apps-3733535/",
+          "author": "Andrew Grush",
+          "description": "These apps might not have RCS, but they stand out in other ways.",
+          "link": "https://www.androidauthority.com/google-messages-alternative-messaging-apps-3733535/",
+          "publishedOn": "2026-11-14T10:00:32.000Z",
+          "wordCount": null,
+          "title": "5 apps you can use instead of Google Messages",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.androidauthority.com/tested-in-the-wild-best-survival-tech-3735211/",
           "author": "Team AA",
           "description": "Our team of intrepid adventurers went out into the Canadian wilderness to test some of the best outdoor tech you can buy.",
@@ -6861,6 +6901,156 @@
       "siteUrl": "https://www.androidpolice.com",
       "articles": [
         {
+          "id": "https://www.androidpolice.com/gemini-android-auto-privacy-tweak/",
+          "author": "Ben Khalesi",
+          "description": "Don't let your passenger ask Gemini for your data",
+          "link": "https://www.androidpolice.com/gemini-android-auto-privacy-tweak/",
+          "publishedOn": "2026-11-15T00:00:10.000Z",
+          "wordCount": 4775,
+          "title": "Android Auto with Gemini needs a 5-minute privacy check before anyone rides shotgun",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/family-enjoying-a-car-ride-with-a-large-android-auto-logo-in-the-foreground.png",
+            "length": "2701",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/family-enjoying-a-car-ride-with-a-large-android-auto-logo-in-the-foreground.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/gemini-track-credit-card-bills-payments/",
+          "author": "Akshay Bhalla",
+          "description": "I was sick of missing payments and paying fees",
+          "link": "https://www.androidpolice.com/gemini-track-credit-card-bills-payments/",
+          "publishedOn": "2026-11-14T22:00:10.000Z",
+          "wordCount": 5596,
+          "title": "I used Gemini to track my credit card bills; I never missed a payment ever again",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/keysmart-dual-band-card-with-credit-card.JPG",
+            "length": "1983",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/keysmart-dual-band-card-with-credit-card.JPG"
+        },
+        {
+          "id": "https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace/",
+          "author": "Anu Joy",
+          "description": "I deleted half my learning apps; it made learning surprisingly addictive",
+          "link": "https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace/",
+          "publishedOn": "2026-11-14T20:00:10.000Z",
+          "wordCount": 5167,
+          "title": "I replaced learning apps with Gemini Guided Learning; it remembers my progress and adapts to my pace",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/01/hand-holding-a-stack-of-books-topped-with-the-google-gemini-logo.png",
+            "length": "658",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/01/hand-holding-a-stack-of-books-topped-with-the-google-gemini-logo.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-wallet-now-lets-you-scan-and-track-receipts-heres-how-to-use-it/",
+          "author": "Jon Gilbert",
+          "description": "It's the best place to store receipts",
+          "link": "https://www.androidpolice.com/google-wallet-now-lets-you-scan-and-track-receipts-heres-how-to-use-it/",
+          "publishedOn": "2026-11-14T18:00:10.000Z",
+          "wordCount": 4851,
+          "title": "Google Wallet now lets you scan and track receipts; here's how to use it",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/google-wallet-add-to-wallet-16-9.jpg",
+            "length": "182",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/google-wallet-add-to-wallet-16-9.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/star-flight-details-door-codes-google-messages-skip-frustrating-search-menus/",
+          "author": "Jesse Hollington",
+          "description": "A simple star workflow turns scattered flight numbers and door codes into an instant one-tap travel snapshot you can trust",
+          "link": "https://www.androidpolice.com/star-flight-details-door-codes-google-messages-skip-frustrating-search-menus/",
+          "publishedOn": "2026-11-14T17:00:10.000Z",
+          "wordCount": 6672,
+          "title": "I star flight details and door codes in Google Messages to skip frustrating search menus",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-messages-starred-for-travel.jpg",
+            "length": "149",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-messages-starred-for-travel.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/bose-noise-cancelling-wired-earbuds-review/",
+          "author": "Sara Gitkos",
+          "description": "I can see why wired is making a comeback",
+          "link": "https://www.androidpolice.com/bose-noise-cancelling-wired-earbuds-review/",
+          "publishedOn": "2026-11-14T17:00:10.000Z",
+          "wordCount": 5806,
+          "title": "Bose's Noise Cancelling Wired Earbuds made me miss simple tech",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/bose-nc-wired-earbuds-buds-in-tree.jpg",
+            "length": "1338",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/bose-nc-wired-earbuds-buds-in-tree.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/gemini-true-power-comes-from-the-tweaks-nobody-wants-to-talk-about/",
+          "author": "Parth Shah",
+          "description": "Small changes unlock a smarter assistant",
+          "link": "https://www.androidpolice.com/gemini-true-power-comes-from-the-tweaks-nobody-wants-to-talk-about/",
+          "publishedOn": "2026-11-14T16:00:10.000Z",
+          "wordCount": 5020,
+          "title": "Gemini's true power comes from the tweaks nobody wants to talk about",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/two-robotic-hands-pointing-at-a-3d-colorful-gemini-app-icon-1.png",
+            "length": "1534",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/two-robotic-hands-pointing-at-a-3d-colorful-gemini-app-icon-1.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/dont-miss-out-this-google-play-100-gift-card-is-now-just-92/",
+          "author": "Timi Cantisano",
+          "description": "Save $8 on a Google Play gift card for a limited time",
+          "link": "https://www.androidpolice.com/dont-miss-out-this-google-play-100-gift-card-is-now-just-92/",
+          "publishedOn": "2026-11-14T15:05:39.000Z",
+          "wordCount": 4541,
+          "title": "This $100 Google Play gift card is down to $92 right now",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/06/google-play-store-hero-new-logo.jpg",
+            "length": "1",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/06/google-play-store-hero-new-logo.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/heres-how-to-play-world-of-warcraft-forever-on-your-smartphone/",
+          "author": "Mark Jansen",
+          "description": "This amazing Github project means you can play WoW on your phone.",
+          "link": "https://www.androidpolice.com/heres-how-to-play-world-of-warcraft-forever-on-your-smartphone/",
+          "publishedOn": "2026-11-14T13:45:10.000Z",
+          "wordCount": 5286,
+          "title": "I played WoW Forever on my Galaxy Z Fold 8, and it performed perfectly",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/wow-forever-on-z-fold-8-on-cata-box.jpg",
+            "length": "1417",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/wow-forever-on-z-fold-8-on-cata-box.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/motorola-signature-27-spec-monster-not-enough-to-beat-samsung/",
+          "author": "Anu Joy",
+          "description": "That $1,599 price tag is hard to justify",
+          "link": "https://www.androidpolice.com/motorola-signature-27-spec-monster-not-enough-to-beat-samsung/",
+          "publishedOn": "2026-11-14T13:00:10.000Z",
+          "wordCount": 6137,
+          "title": "The Motorola Signature 27 is a spec monster, but that's not enough to beat Samsung",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/motorola-signature-27-smartphone-showing-its-rear-cameras-against-a-brown-leather-background.png",
+            "length": "2070",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/motorola-signature-27-smartphone-showing-its-rear-cameras-against-a-brown-leather-background.png"
+        },
+        {
           "id": "https://www.androidpolice.com/android-xr-smart-glasses-will-hide-faces-from-gemini-ban-real-time-facial-recognition/",
           "author": "Jade Bryan Jardinico",
           "description": "Faces will be blurred before they are sent to Gemini",
@@ -7617,6 +7807,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/windows-has-a-disposable-sandbox-its-the-safest-way-to-run-sketchy-files/",
+          "author": "Samarveer Singh",
+          "description": "Windows has a sandbox. Your PC has plausible deniability.",
+          "link": "https://www.xda-developers.com/windows-has-a-disposable-sandbox-its-the-safest-way-to-run-sketchy-files/",
+          "publishedOn": "2026-11-15T01:00:20.000Z",
+          "wordCount": 6441,
+          "title": "Windows ships with a disposable sandbox, and it's the safest way to open anything sketchy",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/using-windows-sandbox-mode-in-windows-11-pro-desktop.jpg",
+            "length": "3043",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/using-windows-sandbox-mode-in-windows-11-pro-desktop.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/old-gaming-gpu-handles-jobs-i-used-to-pay-claude-for/",
+          "author": "Nolen Jonker",
+          "description": "My gaming PC has a second job now",
+          "link": "https://www.xda-developers.com/old-gaming-gpu-handles-jobs-i-used-to-pay-claude-for/",
+          "publishedOn": "2026-11-15T00:00:20.000Z",
+          "wordCount": 6934,
+          "title": "My old gaming GPU now handles 3 jobs I used to pay Claude for",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/qwythos-9b-in-lm-studio-on-desktop-pc.jpeg",
+            "length": "2822",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/qwythos-9b-in-lm-studio-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/this-jellyfin-app-resurrects-netflix-wii-and-nostalgia-hits-hard/",
+          "author": "João Carrasqueira",
+          "description": "Remember using Netflix on the Wii? It was a big deal at the time, and now you can bring back that feeling with a Jellyfin app.",
+          "link": "https://www.xda-developers.com/this-jellyfin-app-resurrects-netflix-wii-and-nostalgia-hits-hard/",
+          "publishedOn": "2026-11-14T23:00:20.000Z",
+          "wordCount": 6294,
+          "title": "This Jellyfin app resurrects Netflix on the Wii, and the nostalgia hits hard",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/wiiflix-media-list.jpg",
+            "length": "20435",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/wiiflix-media-list.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-gave-an-open-source-pdf-reader-a-local-ai-and-it-does-what-adobe-charges-extra-for/",
+          "author": "Abhinav Raj",
+          "description": "My local AI takes down another needless subscription on my statement",
+          "link": "https://www.xda-developers.com/i-gave-an-open-source-pdf-reader-a-local-ai-and-it-does-what-adobe-charges-extra-for/",
+          "publishedOn": "2026-11-14T22:30:20.000Z",
+          "wordCount": 6042,
+          "title": "I gave an open-source PDF reader a local AI instead of paying Adobe $25 a month to chat with my PDFs",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/main-fi-adobe.jpg",
+            "length": "2067",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/main-fi-adobe.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/windows-task-scheduler-can-automate-actions-on-your-pc/",
+          "author": "Abhishek Kumar Mishra",
+          "description": "Hidden Windows tools power repeatable routines with scripts that launch VMs, browser profiles, and SSH sessions.",
+          "link": "https://www.xda-developers.com/windows-task-scheduler-can-automate-actions-on-your-pc/",
+          "publishedOn": "2026-11-14T22:00:20.000Z",
+          "wordCount": 6087,
+          "title": "Windows Task Scheduler can automate half the things people install third-party utilities to do",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/task-scheduler-windows.jpg",
+            "length": "5024",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/task-scheduler-windows.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/stopped-paying-for-motherboard-features-never-use-cheaper-board-better-pc/",
+          "author": "Hamlin Rozario",
+          "description": "Mid-range is the sweet spot.",
+          "link": "https://www.xda-developers.com/stopped-paying-for-motherboard-features-never-use-cheaper-board-better-pc/",
+          "publishedOn": "2026-11-14T21:30:20.000Z",
+          "wordCount": 8171,
+          "title": "I stopped paying for motherboard features I never use, and a cheaper board made a better PC",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/01/asus-rog-strix-b850-f-gaming-wifi-cpu-area.jpg",
+            "length": "1054",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/01/asus-rog-strix-b850-f-gaming-wifi-cpu-area.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/gemini-4-argon-made-me-consider-cutting-claude-and-chatgpt-subscriptions/",
+          "author": "Nolen Jonker",
+          "description": "I was using it wrong at first, until I adjusted my prompts",
+          "link": "https://www.xda-developers.com/gemini-4-argon-made-me-consider-cutting-claude-and-chatgpt-subscriptions/",
+          "publishedOn": "2026-11-14T21:00:20.000Z",
+          "wordCount": 7139,
+          "title": "Gemini 4 Argon is the first model that made me seriously consider cutting my Claude and ChatGPT subscriptions",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gemini-4-argon-building-app-on-desktop-pc.jpeg",
+            "length": "3088",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gemini-4-argon-building-app-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-replaced-my-raspberry-pi-router-with-a-powerful-sbc/",
+          "author": "Ayush Pande",
+          "description": "Ditching my Raspberry Pi for an x86 SBC fixed my home router, and it only took one afternoon",
+          "link": "https://www.xda-developers.com/i-replaced-my-raspberry-pi-router-with-a-powerful-sbc/",
+          "publishedOn": "2026-11-14T20:30:21.000Z",
+          "wordCount": 6027,
+          "title": "I replaced my Raspberry Pi router with an x86 SBC, and it was the network upgrade my home lab needed",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/zimaboard-2-router.jpg",
+            "length": "4513",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/zimaboard-2-router.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/my-tv-ethernet-port-was-slower-than-wi-fi-the-spec-sheet-never-said-so/",
+          "author": "Samarveer Singh",
+          "description": "My smart TV has an Ethernet port from the wrong decade.",
+          "link": "https://www.xda-developers.com/my-tv-ethernet-port-was-slower-than-wi-fi-the-spec-sheet-never-said-so/",
+          "publishedOn": "2026-11-14T20:00:20.000Z",
+          "wordCount": 6040,
+          "title": "My smart TV's Ethernet port turned out to be slower than Wi-Fi, and the spec sheet never mentioned it",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/usb-adapter-tv.jpg",
+            "length": "454",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/usb-adapter-tv.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/cheap-network-gadgets-added-home-made-troubleshooting-dramatically-easier/",
+          "author": "Jasmine Mannan",
+          "description": "Troubleshooting used to be something I dreaded.",
+          "link": "https://www.xda-developers.com/cheap-network-gadgets-added-home-made-troubleshooting-dramatically-easier/",
+          "publishedOn": "2026-11-14T19:30:21.000Z",
+          "wordCount": 6009,
+          "title": "3 cheap network gadgets that made my home network troubleshooting so much easier",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/old-router-handling-smart-home-network.jpg",
+            "length": "359",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/old-router-handling-smart-home-network.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/a-free-windows-app-just-replaced-raspberry-pi-for-dualsense-users-on-pc/",
           "author": "Samarveer Singh",
