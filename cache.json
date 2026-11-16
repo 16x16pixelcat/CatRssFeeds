@@ -472,26 +472,6 @@
           "wordCount": 391,
           "title": "Steam Client Update: October 21st",
           "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976975837",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nGeneral\n\nSecond round of Steam startup performance improvements following shipping of prior round in public client\n\nFixed some cases the Steam Service Error dialog was showing incorrectly if you quit/restarted Steam quickly\n\nFixed another error displaying dates for our friends in British Columbia.\n\nFixed Steam Frame native-only content showing as installable on Windows.\n\nFixed the layout of the volume slider in the voice chat context menu\n\nOutput volume settings for friends in voice chat will now persist between Steam sessions rather than resetting on restart\n\nFixed a bug that caused some native non-steam games to fail to launch.\n\nDesktop Mode\n\nFixed Vulkan games hanging after alt-tab.\n\nSteam Input\n\nFixed NCAA Football 27 not getting the game configuration applied at game startup",
-          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976975837",
-          "publishedOn": "2026-10-16T23:40:19.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 16th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/687519694976975287",
-          "author": null,
-          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.3\nGeneral\n\nFixed performance issues in STAR WARS: Galactic Racer on resume from suspend on Steam Machine\n\nFixed an issue that could lead to GPU errors in The Crew Motorfest\n\nFixed audio issues on hotplug of certain monitors in a multi-monitor setup\n\nImproved support for Steam Frame wireless adapter\n\nSecurity and stability updates\n\nDeveloper\n\nReintroduce support for Android binder IPC\n\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated De…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/687519694976975287",
-          "publishedOn": "2026-10-16T19:02:10.000Z",
-          "wordCount": 389,
-          "title": "SteamOS 3.9.3 Beta",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
         }
       ]
     },
@@ -664,6 +644,26 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=737565",
+          "author": "Abner Li",
+          "description": "Google teased last month that detachable Googlebooks are coming soon, and a leak today provides the best look at the “Lenovo Googlebook Duet 13” yet.\nmore…",
+          "link": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
+          "publishedOn": "2026-11-15T21:36:43.000Z",
+          "wordCount": 3551,
+          "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Lenovo-Googlebook-Duet-13-3.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=736450",
+          "author": "Ben Schoon",
+          "description": "The Google Pixel Tag is here and, at least so far, it’s really good. But fresh hardware and some new features can’t fix the core problem. Google’s Find Hub network has been restricted from the very start, and it’s not something Google can easily fix.\n9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of key stories from around the web by Daniel Bader. Sign up here to get Weekender delivered to your inbox every Sunday along with ‘Inbox’ on Tuesday and Thursday. You can find past issues here.\nSign up below to access the web version.\nmore…",
+          "link": "https://9to5google.com/2026/11/15/google-pixel-tag-find-hub-problems/",
+          "publishedOn": "2026-11-15T14:00:00.000Z",
+          "wordCount": 4107,
+          "title": "Pixel Tag is a brilliant Band-Aid on a Find Hub network Google can’t easily fix",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-8.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=737539",
           "author": "Ben Schoon",
@@ -4423,26 +4423,6 @@
           "wordCount": 3640,
           "title": "The biggest reason not to buy a Googlebook is all about timing",
           "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/XPS-Googlebook-Homescreen-3.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733470",
-          "author": "Ben Schoon",
-          "description": "As prices skyrocket on virtually everything else, Walmart’s $60 Onn 4K Pro streamer with Google TV might be the only good deal left — if you can find it in stock.\nmore…",
-          "link": "https://9to5google.com/2026/10/17/walmart-onn-4k-pro-google-tv-review/",
-          "publishedOn": "2026-10-17T14:05:00.000Z",
-          "wordCount": 3947,
-          "title": "Walmart’s $60 Google TV streamer might be the only good deal left in streaming",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/walmart-onn-4k-pro-google-tv-3.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733592",
-          "author": "Ben Schoon",
-          "description": "Following a report that Samsung might skip the latest Snapdragon flagship, Qualcomm says that rumors about the Snapdragon 8 Elite Extreme Gen 6 running into overheating issues are “inaccurate.”\nmore…",
-          "link": "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/",
-          "publishedOn": "2026-10-17T11:05:00.000Z",
-          "wordCount": 3108,
-          "title": "Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are ‘inaccurate’",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/snapdragon-8-elite-gen-5-for-galaxy.jpg?quality=82&strip=all&resize=1200,628"
         }
       ]
     },
@@ -4468,6 +4448,96 @@
       "feedUrl": "https://www.androidauthority.com/feed/",
       "siteUrl": "https://www.androidauthority.com/",
       "articles": [
+        {
+          "id": "https://www.androidauthority.com/lenovo-googlebook-duet-13-launch-date-leak-3735290/",
+          "author": "Hillary Keverenge",
+          "description": "The Chromebook Duet’s spiritual successor is taking shape.",
+          "link": "https://www.androidauthority.com/lenovo-googlebook-duet-13-launch-date-leak-3735290/",
+          "publishedOn": "2026-11-16T05:27:52.000Z",
+          "wordCount": null,
+          "title": "Lenovo’s first detachable Googlebook tipped to debut in January 2027",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/november-pixel-drop-rollout-status-missing-features-3735295/",
+          "author": "Adamya Sharma",
+          "description": "A week after Google announced it, the November Pixel Drop and its biggest features are still missing on plenty of phones.",
+          "link": "https://www.androidauthority.com/november-pixel-drop-rollout-status-missing-features-3735295/",
+          "publishedOn": "2026-11-16T05:06:49.000Z",
+          "wordCount": null,
+          "title": "November Pixel Drop status: Here’s where the rollout stands right now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-galaxy-claw-3735274/",
+          "author": "Adamya Sharma",
+          "description": "Is this the major Galaxy AI upgrade we've been waiting for?",
+          "link": "https://www.androidauthority.com/samsung-galaxy-claw-3735274/",
+          "publishedOn": "2026-11-16T03:39:54.000Z",
+          "wordCount": null,
+          "title": "Samsung’s ‘Galaxy Claw’ is no longer a mystery, and it looks pretty ambitious",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/google-messages-pinned-chats-automatic-layout-change-3735269/",
+          "author": "Adamya Sharma",
+          "description": "You may soon be able to pin more than six chats again and the layout will switch automatically.",
+          "link": "https://www.androidauthority.com/google-messages-pinned-chats-automatic-layout-change-3735269/",
+          "publishedOn": "2026-11-16T02:21:03.000Z",
+          "wordCount": null,
+          "title": "Google Messages could soon make pinned chats better with a clever layout switching trick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/favorite-samsung-galaxy-watch-9-features-3734323/",
+          "author": "Megan Ellis",
+          "description": "I expected more battery life but found other highlights instead.",
+          "link": "https://www.androidauthority.com/favorite-samsung-galaxy-watch-9-features-3734323/",
+          "publishedOn": "2026-11-15T12:00:09.000Z",
+          "wordCount": null,
+          "title": "After three months with the Samsung Galaxy Watch 9, these are my favorite features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/google-find-hub-tracker-left-behind-alerts-setup-3733720/",
+          "author": "Pankil Shah",
+          "description": "Never leave your stuff behind again.",
+          "link": "https://www.androidauthority.com/google-find-hub-tracker-left-behind-alerts-setup-3733720/",
+          "publishedOn": "2026-11-15T11:30:27.000Z",
+          "wordCount": null,
+          "title": "How to enable tracker left-behind alerts in Google Find Hub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/best-apps-for-foldables-3733555/",
+          "author": "Andrew Grush",
+          "description": "Looking for a few decent foldable apps? Look no further.",
+          "link": "https://www.androidauthority.com/best-apps-for-foldables-3733555/",
+          "publishedOn": "2026-11-15T11:00:20.000Z",
+          "wordCount": null,
+          "title": "The best apps that are actually built for foldables",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/moto-watch-2-fit-alternatives-3733918/",
+          "author": "Karandeep Singh",
+          "description": "Motorola's latest fitness tracker looks promising, but it isn't your only option.",
+          "link": "https://www.androidauthority.com/moto-watch-2-fit-alternatives-3733918/",
+          "publishedOn": "2026-11-15T10:30:35.000Z",
+          "wordCount": null,
+          "title": "5 fitness trackers you should buy instead of the Moto Watch 2 Fit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/bluetooth-hdt-one-big-problem-3733124/",
+          "author": "Robert Triggs",
+          "description": "HDT will be one of the biggest changes to Bluetooth audio in years.",
+          "link": "https://www.androidauthority.com/bluetooth-hdt-one-big-problem-3733124/",
+          "publishedOn": "2026-11-15T10:00:20.000Z",
+          "wordCount": null,
+          "title": "Bluetooth HDT could finally fix wireless audio quality, but there’s still one big problem",
+          "imageUrl": null
+        },
         {
           "id": "https://www.androidauthority.com/free-up-android-storage-tips-3734228/",
           "author": "Pankil Shah",
@@ -6901,6 +6971,156 @@
       "siteUrl": "https://www.androidpolice.com",
       "articles": [
         {
+          "id": "https://www.androidpolice.com/i-use-google-photos-for-years-but-samsung-new-gallery-sync-won-me-back/",
+          "author": "Jade Bryan Jardinico",
+          "description": "Google storage is the simple upgrade that brings me back to Samsung Gallery",
+          "link": "https://www.androidpolice.com/i-use-google-photos-for-years-but-samsung-new-gallery-sync-won-me-back/",
+          "publishedOn": "2026-11-16T00:00:10.000Z",
+          "wordCount": 6295,
+          "title": "I've been using Google Photos for years, but Samsung Gallery's new sync finally won me back",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/samsung-galaxy-phone-running-the-gallery-app-with-samsung-gallery-and-google-photos-icons.jpg",
+            "length": "202",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/samsung-galaxy-phone-running-the-gallery-app-with-samsung-gallery-and-google-photos-icons.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/im-ditching-google-keep-good-claude-chatgpt-are-why/",
+          "author": "Rajesh Pandey",
+          "description": "Keep can't talk to AI assistants",
+          "link": "https://www.androidpolice.com/im-ditching-google-keep-good-claude-chatgpt-are-why/",
+          "publishedOn": "2026-11-15T22:00:10.000Z",
+          "wordCount": 5239,
+          "title": "I'm ditching Google Keep for good; Claude and ChatGPT are why",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-keep-google-icon.jpeg",
+            "length": "1522",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-keep-google-icon.jpeg"
+        },
+        {
+          "id": "https://www.androidpolice.com/gemini-storybook-fantasy-book-lotr/",
+          "author": "Akshay Bhalla",
+          "description": "I wanted to simplify my favorite fantasy series",
+          "link": "https://www.androidpolice.com/gemini-storybook-fantasy-book-lotr/",
+          "publishedOn": "2026-11-15T20:00:10.000Z",
+          "wordCount": 6305,
+          "title": "I used Gemini to convert my favorite fantasy book into a storybook; my child loved it",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/gemini-recap-prompt-displayed-in-front-of-books-from-the-stormlight-archive-series.png",
+            "length": "1620",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/gemini-recap-prompt-displayed-in-front-of-books-from-the-stormlight-archive-series.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-messages-tricks-cut-down-daily-texting-friction/",
+          "author": "Marvin Velasco",
+          "description": "Make texting a lot simpler by following these tips and tricks.",
+          "link": "https://www.androidpolice.com/google-messages-tricks-cut-down-daily-texting-friction/",
+          "publishedOn": "2026-11-15T18:00:10.000Z",
+          "wordCount": 4961,
+          "title": "5 Google Messages tricks that cut down my daily texting friction",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-messages-app-displayed-on-google-play-on-nothing-phone-1.jpeg",
+            "length": "447",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-messages-app-displayed-on-google-play-on-nothing-phone-1.jpeg"
+        },
+        {
+          "id": "https://www.androidpolice.com/video/this-is-the-perfect-upgrade-cadence-video/",
+          "author": "Ryan-Thomas Shaw",
+          "description": "There's a sweet spot.",
+          "link": "https://www.androidpolice.com/video/this-is-the-perfect-upgrade-cadence-video/",
+          "publishedOn": "2026-11-15T17:34:10.000Z",
+          "wordCount": 3796,
+          "title": "This is the perfect upgrade cadence. [Video]",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/this-is-the-perfect-upgrade-cadence.jpg",
+            "length": "347",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/this-is-the-perfect-upgrade-cadence.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/i-turned-off-these-google-messages-features-to-bring-back-simpler-texting/",
+          "author": "Tamizharasan Govindaraj",
+          "description": "Do more features make a better texting app? I turned several off to find out",
+          "link": "https://www.androidpolice.com/i-turned-off-these-google-messages-features-to-bring-back-simpler-texting/",
+          "publishedOn": "2026-11-15T17:00:11.000Z",
+          "wordCount": 6229,
+          "title": "I turned off these Google Messages features to bring back simpler texting",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-messages-texting-features.jpg",
+            "length": "823",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-messages-texting-features.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/asked-gemini-chatgpt-claude-to-spot-amazon-scams/",
+          "author": "Haroun Adamu",
+          "description": "I tested Gemini, ChatGPT, and Claude on 20 fake and real Amazon messages. All three caught the scams, but only one trusted the real emails.",
+          "link": "https://www.androidpolice.com/asked-gemini-chatgpt-claude-to-spot-amazon-scams/",
+          "publishedOn": "2026-11-15T16:00:10.000Z",
+          "wordCount": 5174,
+          "title": "I asked Gemini, ChatGPT, and Claude to spot Amazon scams",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/amazon-scam-ai-chatgpt.jpg",
+            "length": "818",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/amazon-scam-ai-chatgpt.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/why-a-galaxy-ai-paywall-would-drive-me-away-from-samsungs-ai-features/",
+          "author": "Jon Gilbert",
+          "description": "It's already not worth using for free",
+          "link": "https://www.androidpolice.com/why-a-galaxy-ai-paywall-would-drive-me-away-from-samsungs-ai-features/",
+          "publishedOn": "2026-11-15T13:45:10.000Z",
+          "wordCount": 4851,
+          "title": "Why a Galaxy AI paywall would drive me away from Samsung's AI features",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/07/samsung-galaxy-z-fold-6-ai-drawing-5.jpg",
+            "length": "604",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/07/samsung-galaxy-z-fold-6-ai-drawing-5.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-messages-pinned-ui-chats-hands-on/",
+          "author": "Sanuj Bhatia",
+          "description": "Looks better, works worse",
+          "link": "https://www.androidpolice.com/google-messages-pinned-ui-chats-hands-on/",
+          "publishedOn": "2026-11-15T13:00:10.000Z",
+          "wordCount": 5129,
+          "title": "I've been using the new Google Messages UI; one change is driving me crazy",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/08/smiling-woman-using-a-smartphone-surrounded-by-google-messages-icons-and-feature-labels-on-a-blue-themed-background.png",
+            "length": "1016",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/08/smiling-woman-using-a-smartphone-surrounded-by-google-messages-icons-and-feature-labels-on-a-blue-themed-background.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/forget-the-wh-1000xm6-sonys-6-year-old-xm4-is-still-the-smarter-buy-in-2026/",
+          "author": "Justice Ekaeze",
+          "description": "I compared the WH-1000XM4 against Sony's latest flagship. The XM4 delivers LDAC, solid ANC, and multipoint for a fraction of the price",
+          "link": "https://www.androidpolice.com/forget-the-wh-1000xm6-sonys-6-year-old-xm4-is-still-the-smarter-buy-in-2026/",
+          "publishedOn": "2026-11-15T12:00:10.000Z",
+          "wordCount": 4866,
+          "title": "Forget the WH-1000XM6: Sony’s 6-year-old XM4 is still the smarter buy in 2026",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/headphones_1080p-1.jpg",
+            "length": "253",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/headphones_1080p-1.jpg"
+        },
+        {
           "id": "https://www.androidpolice.com/gemini-android-auto-privacy-tweak/",
           "author": "Ben Khalesi",
           "description": "Don't let your passenger ask Gemini for your data",
@@ -7807,6 +8027,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/someone-got-windows-running-on-the-iphone-duo-and-you-can-too/",
+          "author": "Simon Batt",
+          "description": "The Duo isn't even a month old.",
+          "link": "https://www.xda-developers.com/someone-got-windows-running-on-the-iphone-duo-and-you-can-too/",
+          "publishedOn": "2026-11-16T05:18:08.000Z",
+          "wordCount": 4842,
+          "title": "Someone got Windows running on the iPhone Duo, and you can too",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/windows-11-iphone-duo-featured.jpg",
+            "length": "1528",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/windows-11-iphone-duo-featured.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/samsung-dex-is-the-best-thing-a-galaxy-phone-can-do/",
+          "author": "Abhishek Kumar Mishra",
+          "description": "A compact desktop built from your Galaxy phone with windowed apps, taskbar navigation, and full-screen Google Docs support.",
+          "link": "https://www.xda-developers.com/samsung-dex-is-the-best-thing-a-galaxy-phone-can-do/",
+          "publishedOn": "2026-11-16T01:00:20.000Z",
+          "wordCount": 6078,
+          "title": "Samsung DeX is the best thing a Galaxy phone can do, and most owners have never plugged theirs into a monitor",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/samsung-dex-monitor.jpg",
+            "length": "1737",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/samsung-dex-monitor.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/tested-free-open-source-replacements-for-adobe-and-affinity-design-trio/",
+          "author": "Nolen Jonker",
+          "description": "An open-source version of the trio matters even if Affinity is free to use",
+          "link": "https://www.xda-developers.com/tested-free-open-source-replacements-for-adobe-and-affinity-design-trio/",
+          "publishedOn": "2026-11-16T00:00:20.000Z",
+          "wordCount": 6718,
+          "title": "I tested free, open-source replacements for Adobe and Affinity's design trio, and they're much closer than I expected",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/editing-image-in-photocraft-on-desktop-pc.jpeg",
+            "length": "2528",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/editing-image-in-photocraft-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/my-streaming-box-was-forcing-hdr-onto-everything-and-one-setting-made-my-tvs-picture-look-better/",
+          "author": "Brian Burgess",
+          "description": "I didn't want HDR everywhere on my TV screen, so I changed this setting to fix it.",
+          "link": "https://www.xda-developers.com/my-streaming-box-was-forcing-hdr-onto-everything-and-one-setting-made-my-tvs-picture-look-better/",
+          "publishedOn": "2026-11-15T23:00:20.000Z",
+          "wordCount": 5887,
+          "title": "My streaming box was forcing HDR onto everything, and one setting made my TV's picture look better",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/shows-sdr-dvd-rip-info-from-google-tv-streamer-with-hdr-enabled.JPEG",
+            "length": "251",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/shows-sdr-dvd-rip-info-from-google-tv-streamer-with-hdr-enabled.JPEG"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-asked-claude-code-antigravity-and-codex-to-build-the-same-game-and-only-one-made-something-i-wanted-to-keep-playing/",
+          "author": "Abhinav Raj",
+          "description": "One of them built their own engine, and I couldn't believe my eyes",
+          "link": "https://www.xda-developers.com/i-asked-claude-code-antigravity-and-codex-to-build-the-same-game-and-only-one-made-something-i-wanted-to-keep-playing/",
+          "publishedOn": "2026-11-15T22:30:20.000Z",
+          "wordCount": 6542,
+          "title": "I asked Claude Code, Google Antigravity, and ChatGPT Codex to build the same game, and only one made something I wanted to keep playing",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/game-created-by-claude-code.jpg",
+            "length": "1647",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/game-created-by-claude-code.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/smart-doorbell-records-locally-to-nas-cancelled-its-cloud-subscription/",
+          "author": "Jasmine Mannan",
+          "description": "After deploying a workaround, I can finally have peace of mind.",
+          "link": "https://www.xda-developers.com/smart-doorbell-records-locally-to-nas-cancelled-its-cloud-subscription/",
+          "publishedOn": "2026-11-15T22:00:20.000Z",
+          "wordCount": 6172,
+          "title": "My smart doorbell records locally to my NAS now, and I cancelled its cloud subscription",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/whatsapp-image-2026-03-05-at-11-32-54-1.jpeg",
+            "length": "100",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/whatsapp-image-2026-03-05-at-11-32-54-1.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/this-nvidia-app-feature-brings-frame-generation-to-games-that-never-supported-it/",
+          "author": "Hamlin Rozario",
+          "description": "No more counting on developers.",
+          "link": "https://www.xda-developers.com/this-nvidia-app-feature-brings-frame-generation-to-games-that-never-supported-it/",
+          "publishedOn": "2026-11-15T21:30:20.000Z",
+          "wordCount": 7415,
+          "title": "This Nvidia App feature brings frame generation to games that never supported it",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/valorant-on-monitor-1.jpg",
+            "length": "7657",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/valorant-on-monitor-1.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/paying-for-claude-chatgpt-gemini-at-same-time-8gb-gpu-made-one-of-them-pointless/",
+          "author": "Nolen Jonker",
+          "description": "Why pay for three of them when I only need two?",
+          "link": "https://www.xda-developers.com/paying-for-claude-chatgpt-gemini-at-same-time-8gb-gpu-made-one-of-them-pointless/",
+          "publishedOn": "2026-11-15T21:00:21.000Z",
+          "wordCount": 6311,
+          "title": "I’ve been paying for Claude, ChatGPT, and Gemini at the same time, and my 8GB GPU just made one of them pointless",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/chatgpt-and-gemini-free-plans-on-desktop-pc.jpeg",
+            "length": "3038",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/chatgpt-and-gemini-free-plans-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/turned-raspberry-pi-pico-w-into-home-assistant-bluetooth-proxy/",
+          "author": "Samir Makwana",
+          "description": "Active BLE connections now work on the Pico W",
+          "link": "https://www.xda-developers.com/turned-raspberry-pi-pico-w-into-home-assistant-bluetooth-proxy/",
+          "publishedOn": "2026-11-15T20:30:20.000Z",
+          "wordCount": 6011,
+          "title": "I turned a $6 Raspberry Pi Pico W into a full Home Assistant Bluetooth proxy, and it can handle active connections now",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/pi-pico-w-as-bluetooth-proxy-1.JPG",
+            "length": "314",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/pi-pico-w-as-bluetooth-proxy-1.JPG"
+        },
+        {
+          "id": "https://www.xda-developers.com/hidden-android-setting-make-bluetooth-audio-sound-better/",
+          "author": "Chandraveer Mathur",
+          "description": "An unlikely suspect that works wonders when toggled",
+          "link": "https://www.xda-developers.com/hidden-android-setting-make-bluetooth-audio-sound-better/",
+          "publishedOn": "2026-11-15T20:00:21.000Z",
+          "wordCount": 5359,
+          "title": "One hidden Developer Options switch made my car's Bluetooth audio sound dramatically better",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/bluetooth-hardware-offload-hero.jpg",
+            "length": "1594",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/bluetooth-hardware-offload-hero.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/windows-has-a-disposable-sandbox-its-the-safest-way-to-run-sketchy-files/",
           "author": "Samarveer Singh",
