@@ -12,6 +12,16 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/group/4397053/view/712292033362921462",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nGet UI onscreen quickly during startup so it doesn't feel like \"nothing happened\" for a few seconds after launch.\n\nFurther startup performance improvements for some scenarios.\n\n\nGame Recording\n\nFix an issue which prevented recording audio in games using spatial audio APIs on Windows.\n\n\nAchievement Sets\n\nAdd sorting to the achievements page to enable sorting by achievement rarity in addition to unlock date.\n\nFixed achievement totals when losing access to a game (for example, after a free weekend).\n\nPinned achievements: global rate is now shown, can now reorder list with a controller.\n\nImproved controller navigation of the achievements page.\n\nDesktop overlay: more compact and efficient layout for achievements panel.…",
+          "link": "https://store.steampowered.com/news/group/4397053/view/712292033362921462",
+          "publishedOn": "2026-11-19T00:57:17.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - November 18th",
+          "imageUrl": "https://store.fastly.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/app/1675200/view/687522235410285838",
           "author": null,
           "description": "Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nNote on Preview Releases\nThis is an early Preview build of SteamOS 3.10, and may contain unexpected bugs or stability issues.  If you encounter problems, please consider filing a bug on the SteamOS issue tracker.\nThe following notes are an overview, and may not include all changes since the previous SteamOS 3.9 Stable Release.\n\nNew in SteamOS 3.10.1\nGeneral\n\nFixed a 3.10 regression causing launch failures with titles such as the Forza Horizon series\n\nFixed a 3.10 regression causing certain displays to show an 'invalid signal' error\n\n\nSteamOS 3.10\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma…",
@@ -709,6 +719,216 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=738712",
+          "author": "Abner Li",
+          "description": "Google this week completed the rollout of its new gradient icons with updates for Messages and Contacts.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/google-messages-contacts-gradient/",
+          "publishedOn": "2026-11-19T05:14:27.000Z",
+          "wordCount": 3000,
+          "title": "New gradient icons roll out to Google Messages & Contacts",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738683",
+          "author": "Abner Li",
+          "description": "Google today updated its flagship AI Ultra tier to include YouTube Premium Family after previously limiting subscribers to the Individual plan.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/google-ai-ultra-youtube-premium-family/",
+          "publishedOn": "2026-11-18T23:42:00.000Z",
+          "wordCount": 2946,
+          "title": "Google AI Ultra upgrade adds YouTube Premium Family",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/youtube-premium.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738624",
+          "author": "Ben Schoon",
+          "description": "Motorola has kicked off its Android 17 rollout for the Razr Fold, marking the first major update for the company’s first book-style foldable, and the start of a potentially interest 7 years of software support.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/motorola-razr-fold-android-17-update/",
+          "publishedOn": "2026-11-18T21:35:00.000Z",
+          "wordCount": 3199,
+          "title": "Motorola Razr Fold finally gets its Android 17 update – hopefully the next 7 years go faster",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/motorola-razr-fold-review-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738569",
+          "author": "Abner Li",
+          "description": "Following last week’s release of Carbon and Hydrogen, Google today is rolling out Gemini 4 Neon. The model offers “frontier-level reasoning for complex, high-frequency workflows faster and more cost efficiently.”\nmore…",
+          "link": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+          "publishedOn": "2026-11-18T21:34:27.000Z",
+          "wordCount": 4013,
+          "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/gemini-4-neon-cover.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738610",
+          "author": "Ben Schoon",
+          "description": "It’s been a wild ride for Google Pixel’s App Lock feature, but the company is officially re-releasing the feature today, right alongside its debut on Samsung Galaxy devices.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/google-pixel-app-lock-release-beta/",
+          "publishedOn": "2026-11-18T21:20:00.000Z",
+          "wordCount": 3309,
+          "title": "Google Pixel officially re-releases App Lock in beta, Samsung Galaxy gets it too",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-app-lock.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738486",
+          "author": "Ben Schoon",
+          "description": "Amazon shocked everyone in October when it launched its new Alexa Tablet series with Google Play support built-in, addressing the biggest shortcoming of its older Fire Tablets. For Black Friday 2026, the Alexa Tablet 8 is a mere $150 and, with Google Play on board, this feels like a Fire Tablet that’s all grown up.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/amazon-alexa-tablet-8-review/",
+          "publishedOn": "2026-11-18T21:00:00.000Z",
+          "wordCount": 4583,
+          "title": "Review: Amazon’s Alexa Tablet 8 is a Fire Tablet with Google Play for $150 – what’s not to love?",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-alexa-tablet-8-1_420fa9.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/11/18/todays-highlight-google-play-deals-51/",
+          "author": "9to5Toys",
+          "description": "Joining the updated Amazon early Black Friday sale, ongoing all-time low on Google Home Speaker, lowest prices ever on Android Alexa tablets, and the $350 price drop on Galaxy Z Fold , today’s Android game and app deals are now ready to roll. We have Dungeon Merge!, ISLANDERS: Mobile, LEGO Bricktales, Baldur’s Gate II: Enhanced Ed., Siege of Dragonspear, and more. Just be sure to also scope out the Black Friday pricing already live on Pixel Watch 5 at $100 off and the best price ever on the brand new Fire TV Stick 4K at just $20. \nmore…",
+          "link": "https://9to5toys.com/2026/11/18/todays-highlight-google-play-deals-51/",
+          "publishedOn": "2026-11-18T20:07:39.000Z",
+          "wordCount": 3197,
+          "title": "Mid-week Android app deals and freebies: Dungeon Merge!, ISLANDERS, LEGO Bricktales, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-deals-November.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738357",
+          "author": "Abner Li",
+          "description": "Google Play is introducing new adaptive app and game quality requirements next year to elevate the Android foldable experience.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/android-foldable-apps-google-play/",
+          "publishedOn": "2026-11-18T18:00:00.000Z",
+          "wordCount": 3832,
+          "title": "Google Play wants Android apps to nail foldable basics by April 2027",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/pixel-at-10-google-pixel-fold-galaxy-z-fold-8-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738380",
+          "author": "Nicholas Sutrich",
+          "description": "The compact Vivo X500 Pro has some camera downgrades compared to the Pro Max, so are you better off saving money and getting the base Vivo X500 instead?\nmore…",
+          "link": "https://9to5google.com/2026/11/18/vivo-x500-and-vivo-x500-pro-camera-review/",
+          "publishedOn": "2026-11-18T17:48:17.000Z",
+          "wordCount": 3926,
+          "title": "Vivo X500 Pro camera review: Battle of the small(er) phones vs Pixel 11 Pro",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/vivo-x500-vivo-x500-pro-google-pixel-11-pro.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=735292",
+          "author": "Damien Wilde",
+          "description": "The biggest compliment you can pay Google at the moment is that alongside the Pixel Watch, recent Fitbit releases have been a huge return to form – the Fitbit Edge included.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/fitbit-edge-after-30-days-life-in-the-middle-lane-video/",
+          "publishedOn": "2026-11-18T17:00:00.000Z",
+          "wordCount": 5187,
+          "title": "Fitbit Edge after 30 days: Life in the middle lane [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-6-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738518",
+          "author": "Justin Kahn",
+          "description": "Alongside the updated Amazon early Black Friday sale, ongoing all-time low on Google Home Speaker, new all-time lows on the brand new Android Alexa tablets starting from $150, and the $350 price drop on Galaxy Z Fold 8, we have some fresh deals to scope out today as well. Firstly, some Android-ready smartwatches – lucky users can land a solid $110 off Galaxy Watch 9 down at $270 right now and the advertised Black Friday price on the most affordable Pixel Watch 5 is already live at $100 off. We also at least $300 off the current-generation Samsung Galaxy Tab S11 and Samsung’s 2026 4K/5K ViewFinity and M-series monitors at 50% off, but you’ll find a whole lot more below including the lowest price ever on the brand new Fire TV Stick 4K at just $20. \nmore…",
+          "link": "https://9to5google.com/2026/11/18/deals-pixel-watch-5-galaxy-watch-9-galaxy-tabs/",
+          "publishedOn": "2026-11-18T16:50:32.000Z",
+          "wordCount": 5205,
+          "title": "Deals: Pixel Watch 5 hits Black Friday price at $100 off, Galaxy Watch 9 $110 off, Galaxy Tabs $300 off, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-18.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738519",
+          "author": "Abner Li",
+          "description": "Besides removing the Samples tab, YouTube Music for Android and iOS is rolling out instant access to Ask Music with a new Gemini icon in the top-right corner.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/youtube-music-ask-gemini-2/",
+          "publishedOn": "2026-11-18T16:49:55.000Z",
+          "wordCount": 3593,
+          "title": "YouTube Music rolling out corner Gemini icon to launch Ask Music",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/YouTube-Music-Ask-1-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738471",
+          "author": "Andrew Romero",
+          "description": "Samsung’s beta train has officially left the station, so to speak. One UI 9.5 is starting to roll out to these devices, and with it, some major changes to its Galaxy phones.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/how-to-install-samsung-one-ui-9-5-beta/",
+          "publishedOn": "2026-11-18T16:33:14.000Z",
+          "wordCount": 4442,
+          "title": "One UI 9.5 Beta is out now for these Galaxy devices – how to install it",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Galaxy-S26-Ultra-in-Blue.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738419",
+          "author": "Ben Schoon",
+          "description": "Google Wallet is preparing another form of digital ID storage, with support for your Social Security card apparently on the way.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/google-wallet-may-soon-be-able-to-store-your-social-security-card/",
+          "publishedOn": "2026-11-18T15:40:00.000Z",
+          "wordCount": 2940,
+          "title": "Google Wallet may soon be able to store your Social Security card",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-wallet-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738329",
+          "author": "Nicholas Sutrich",
+          "description": "The smart glasses race is heating up as Meta and Samsung are about to go head-to-head, but could a new Meta glasses style fix the privacy stigma, or are things too far gone?\nmore…",
+          "link": "https://9to5google.com/2026/11/18/could-meta-fix-its-glasses-privacy-issues-with-an-led-redesign/",
+          "publishedOn": "2026-11-18T15:35:58.000Z",
+          "wordCount": 3418,
+          "title": "Could Meta fix its glasses privacy issues with an LED redesign?",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/meta-fury-privacy-camera-led.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738444",
+          "author": "Will Sattelberg",
+          "description": "It’s been nearly three years since Best Buy decided to ditch selling physical copies of movies, stripping its inventory from both its brick-and-mortar stores and its online catalog. But with the growing rise of 4K Blu-ray collections as a vinyl-esque collector’s item, the electronics giant has slowly begun dipping its toes back into the physical media game.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/best-buy-brings-back-4k-blu-ray-discs-with-a-slowly-expanding-collection/",
+          "publishedOn": "2026-11-18T15:25:00.000Z",
+          "wordCount": 3085,
+          "title": "Best Buy brings back 4K Blu-ray discs with a slowly expanding collection",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2020/03/Best-Buy-Store-Front.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737971",
+          "author": "Ben Schoon",
+          "description": "While many services are turning to AI in place of an actual human being, Pebblebee’s new Alert Dispatch brings the help of a real person into an emergency situation, and it all starts with your Find Hub tracker.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/pebblebee-alert-dispatch-emergency/",
+          "publishedOn": "2026-11-18T14:10:00.000Z",
+          "wordCount": 3090,
+          "title": "Pebblebee Alert Dispatch lets an actual human respond to your emergency, triggered by Find Hub trackers",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/pebblebee-neon-find-hub-trackers.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737158",
+          "author": "Ben Schoon",
+          "description": "AAWireless, the original wireless Android Auto adapter brand, is introducing new hardware this week with its compact Nexus and Nano adapters.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/aawireless-nexus-nano-adapters-release/",
+          "publishedOn": "2026-11-18T14:00:00.000Z",
+          "wordCount": 3344,
+          "title": "AAWireless releases new, smaller Nexus and Nano wireless Android Auto adapters",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/aawireless-nano-nexus-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738398",
+          "author": "Ben Schoon",
+          "description": "Samsung is officially launching its One UI 9.5 beta program today on Galaxy S26 series devices, and it’s packing some features we didn’t expect.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/samsung-one-ui-9-5-beta-release/",
+          "publishedOn": "2026-11-18T13:45:00.000Z",
+          "wordCount": 3192,
+          "title": "Samsung releases its next major update, One UI 9.5, in beta for Galaxy S26 – what’s new",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738231",
+          "author": "Ben Schoon",
+          "description": "Google has confirmed that a big update is in store for the Gemini experience on Google Home speakers, but it’ll only be available to paid subscribers.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/google-home-gemini-live-update-coming/",
+          "publishedOn": "2026-11-18T12:00:00.000Z",
+          "wordCount": 3158,
+          "title": "Google Home speakers get a major Gemini upgrade ‘soon,’ but only for paid subscribers",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-10.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=738356",
+          "author": "Ben Schoon",
+          "description": "VWFNDR + MBL, an Android camera app that doesn’t overprocess and delivers high-quality DNG (RAW) files, is getting a 2.0 release with improved color grading and an expansion to the iPhone.\nmore…",
+          "link": "https://9to5google.com/2026/11/18/vwfndr-mbl-camera-app-color-grading-android-iphone-release/",
+          "publishedOn": "2026-11-18T11:00:00.000Z",
+          "wordCount": 3537,
+          "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/vwfndr-android-camera-app.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=738338",
           "author": "Abner Li",
@@ -4588,196 +4808,6 @@
           "wordCount": 3157,
           "title": "Google upgrading Gemini for Android Auto with Personal Intelligence",
           "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734041",
-          "author": "Ben Schoon",
-          "description": "After removing dislike counts years ago, new UI tests at YouTube are making it harder to even using the dislike button at all.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/youtube-hidden-dislike-button-test/",
-          "publishedOn": "2026-10-20T18:10:00.000Z",
-          "wordCount": 3193,
-          "title": "YouTube starts hiding the dislike button on normal videos",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/youtube-logo-desktop-3.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5toys.com/2026/10/20/todays-highlight-google-play-deals-32/",
-          "author": "9to5Toys",
-          "description": "Today’s best Google Play app and game deals are ready, including DRAGON QUEST IV, Next Level, Not A Bot, Eco inc. Save the Earth, Cafeteria Nipponica, Spin Miner: Idle Gold Tycoon, Chrono Trigger, and more. If you’re quick you might also still have a shot at Galaxy S26 Ultra at a giant $455 off as well as Best Buy’s 1-day Samsung flash sale, and TCL’s TAB 10 Gen 4 Android Tablet at just $150. The apps await below. \nmore…",
-          "link": "https://9to5toys.com/2026/10/20/todays-highlight-google-play-deals-32/",
-          "publishedOn": "2026-10-20T18:06:17.000Z",
-          "wordCount": 3123,
-          "title": "Today’s Android app deals and freebies: Chrono Trigger, Next Level, Not A Bot, more",
-          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Google-Play-collage-c9c028.webp?resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733971",
-          "author": "Ben Schoon",
-          "description": "Mint Mobile has two killer offers going for cell service and/or a Google Pixel 11, both of which can save you hundreds compared to the alternatives.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/mint-mobile-10-month-deal-pixel-11-deals/",
-          "publishedOn": "2026-10-20T17:15:00.000Z",
-          "wordCount": 3256,
-          "title": "You can cut your cell phone bill to $10/month or get a Pixel 11 for $400 right now – here’s how",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-in-Obsidian-various-2.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733789",
-          "author": "Abner Li",
-          "description": "Chrome today announced the latest features for Safe Browsing Enhanced Protection. Google says this mode makes users ten times safer from phishing, social engineering, notification abuse, and other scams compared to Standard Protection.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/safe-browsing-enhanced-protection-updates/",
-          "publishedOn": "2026-10-20T17:00:00.000Z",
-          "wordCount": 3665,
-          "title": "Google says Chrome’s Safe Browsing Enhanced Protection mode makes users 10x safer",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Chrome-Suspicious-Site-Warnings.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733974",
-          "author": "Andrew Romero",
-          "description": "Google’s redesigned 3D emoji library debuted on the Pixel 11, but might now be slowly appearing on older Pixel devices.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/older-pixels-getting-3d-emoji/",
-          "publishedOn": "2026-10-20T16:06:33.000Z",
-          "wordCount": 3026,
-          "title": "Older Pixel phones appear to be getting Google’s new 3D emoji",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Updated-Emoji.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733994",
-          "author": "Nicholas Sutrich",
-          "description": "Snap Specs are available for pre-order now, and actor Robert Downey Jr. is joining the team after he said he “was absolutely sold on Specs within 40 seconds.”\nmore…",
-          "link": "https://9to5google.com/2026/10/20/iron-man-now-officially-endorses-snap-specs/",
-          "publishedOn": "2026-10-20T16:05:00.000Z",
-          "wordCount": 3109,
-          "title": "Iron Man himself now officially endorses Snap’s latest smart glasses",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/snap-specs-robert-downey-jr.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734001",
-          "author": "Justin Kahn",
-          "description": "Alongside $455 price drop on Samsung Galaxy S26 Ultra (could disappear at any minute). We also have  2026 TCL TAB 10 Gen 4 Android Tablet down at $150, launch deals on the new smart display-equipped Baseus Spacemate RD1 docks at up to 35% off, Anker’s 2026 Prime 25W 3-in-1 Foldable magnetic charger at 35% off, and UGREEN’s all-new 10,000mAh Smart Display power bank at the $60 low. Check it all out below. \nmore…",
-          "link": "https://9to5google.com/2026/10/20/deals-galaxy-s26-ultra-tcl-android-tab-magnetic-chargers/",
-          "publishedOn": "2026-10-20T15:46:47.000Z",
-          "wordCount": 5682,
-          "title": "Deals: Galaxy S26 Ultra $455 off brand new, TCL Android tab at $150, docks, magnetic chargers, more",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-20.webp?resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733960",
-          "author": "Nicholas Sutrich",
-          "description": "Get month-long battery life, physical watch hands, all the health tracking you need, and more for just $249 with this Garmin Instinct Crossover deal.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/hybrid-garmin-instinct-crossover-deal-oct-2026/",
-          "publishedOn": "2026-10-20T15:20:00.000Z",
-          "wordCount": 3306,
-          "title": "This Garmin Instinct Crossover deal makes it $400 less than the latest model",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/garmin-instinct-crossover-render-with-gradient.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733961",
-          "author": "Ben Schoon",
-          "description": "Spotify may not be a dedicated podcast platform, but it is launching a big new feature in podcast memberships that let you support your favorite shows in exchange for added perks.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/spotify-podcast-memberships-let-you-support-your-favorite-shows-and-get-added-perks/",
-          "publishedOn": "2026-10-20T14:55:00.000Z",
-          "wordCount": 3113,
-          "title": "Spotify podcast memberships let you support your favorite shows and get added perks",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/spotify-podcast-memberships-2.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733910",
-          "author": "Nicholas Sutrich",
-          "description": "The Vivo V80 sports flagship design quality, a massive 7200mAh battery, Center-Stage selfie camera, IP68/69 ingress protection, and one of the wildest AI camera modes I’ve seen yet.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/vivo-v80-ai-creation-camera-mode/",
-          "publishedOn": "2026-10-20T14:45:00.000Z",
-          "wordCount": 4185,
-          "title": "The real reason to care about Vivo’s latest phone is the camera [Gallery]",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/vivo-ai-creation-vivo-x500.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733950",
-          "author": "Ben Schoon",
-          "description": "Ouch. That’s the reaction many will probably have around pricing for the Xiaomi 18 Pro series when it lands globally, with prices starting at €1,449 according to a new leak.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/xiaomi-18-pro-global-debut-price-battery-rumors/",
-          "publishedOn": "2026-10-20T14:30:00.000Z",
-          "wordCount": 3023,
-          "title": "Xiaomi 18 Pro gears up for global debut with rumored battery cuts and €1,449 starting price",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-colors-1-copy.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733681",
-          "author": "Damien Wilde",
-          "description": "As a retro gamer, I’ve tried all manner of consoles aiming to replace my OG Game Boy Color, but not many that scratch the itch of the recently released Chromatic Transparent from Modretro. It’s, honestly, the best way to replicate the feeling of the original hardware while improving in so many key ways.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/modretro-chromatic-transparent/",
-          "publishedOn": "2026-10-20T14:00:00.000Z",
-          "wordCount": 4464,
-          "title": "Modretro’s Chromatic is more transparent and cheaper than ever; how could I not love it?",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Chromatic-Transparent-and-Chromatic-1st-Edition.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733925",
-          "author": "Damien Wilde",
-          "description": "If you are in the market for a new device, you cannot go wrong with the Galaxy S26 Ultra with a deal bringing the device below $950 on Amazon right now.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/galaxy-s26-ultra-deal/",
-          "publishedOn": "2026-10-20T13:54:48.000Z",
-          "wordCount": 3257,
-          "title": "The Galaxy S26 Ultra just hit its lowest price in months",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-2.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733918",
-          "author": "Ben Schoon",
-          "description": "As the AI industry continues to directly cause a crisis in the availability of RAM, new rumors suggest that the Galaxy S27 could downgrade to 8GB of RAM, while other Android brands could go back to 4GB for some models.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/samsung-galaxy-s27-8gb-ram-rumor/",
-          "publishedOn": "2026-10-20T13:40:00.000Z",
-          "wordCount": 3185,
-          "title": "Galaxy S27 might drop to 8GB of RAM; other Android phones could go back to 4GB",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-in-white-1.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733675",
-          "author": "Ben Schoon",
-          "description": "Wyze is launching a new Solar Cam that has a camera that matches the best Google Nest has to offer, while needing just an hour of sunlight to avoid needing to manually recharge.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/wyze-solar-cam-price-battery-camera/",
-          "publishedOn": "2026-10-20T13:00:00.000Z",
-          "wordCount": 3208,
-          "title": "Wyze Solar Cam has a 2K camera and needs just an hour of sunlight to keep recording",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/wyze-solar-cam-1.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733732",
-          "author": "Daniel Bader",
-          "description": "Good morning. Today I’m reading about an incredible medical plagiarism scandal, replaying the original Ocarina of Time ahead of its remake’s November 5th release, jamming to the dark new Fontaines D.C. album, and using Gemini to prep for the upcoming fantasy basketball season.\nAs a reminder, Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe.\nmore…",
-          "link": "https://9to5google.com/2026/10/20/foldables-are-about-to-get-huge/",
-          "publishedOn": "2026-10-20T11:00:00.000Z",
-          "wordCount": 4971,
-          "title": "Foldables are about to get huge",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-1.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733815",
-          "author": "Abner Li",
-          "description": "The new Google Home Speaker has an issue where it downloads hundreds of gigabytes of data in the background for some owners.\nmore…",
-          "link": "https://9to5google.com/2026/10/19/google-home-speaker-downloads/",
-          "publishedOn": "2026-10-19T22:54:46.000Z",
-          "wordCount": 3516,
-          "title": "Some Google Home Speakers downloading massive amounts of data in the background",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-6.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=732605",
-          "author": "Abner Li",
-          "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.\nmore…",
-          "link": "https://9to5google.com/2026/10/19/october-2026-google-system-updates/",
-          "publishedOn": "2026-10-19T22:43:00.000Z",
-          "wordCount": 4087,
-          "title": "What’s new in Android’s October 2026 Google System Updates [U]",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5toys.com/2026/10/19/todays-highlight-google-play-deals-31/",
-          "author": "9to5Toys",
-          "description": "Today’s best Google Play app and game deals are ready, including Troll Parkour, A Good Snowman, Dream Breach Survivor, Harvest Moon: Skytree Village, Harvest Moon: Home Sweet Home, Harvest Moon: The Lost Valley, A Humble Hero, Cosmic Express, RPG Knight Bewitched, Newtro Boxing, and more. Just be sure to dive into a chance to score Galaxy Z Fold 8 up to $570 off and what might be one of your last chances at the Galaxy Tab S12 launch deals – $550+ off with trades, FREE $200 Amazon credit, and more. The apps await below. \nmore…",
-          "link": "https://9to5toys.com/2026/10/19/todays-highlight-google-play-deals-31/",
-          "publishedOn": "2026-10-19T18:57:35.000Z",
-          "wordCount": 2941,
-          "title": "Monday’s Android app deals and freebies: Troll Parkour, Good Snowman, Harvest Moon, more",
-          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Google-Play-collage-cbf68c.webp?resize=1200,628"
         }
       ]
     },
@@ -4803,6 +4833,586 @@
       "feedUrl": "https://www.androidauthority.com/feed/",
       "siteUrl": "https://www.androidauthority.com/",
       "articles": [
+        {
+          "id": "https://www.androidauthority.com/samsung-galaxy-buds-active-features-design-leak-3736998/",
+          "author": "Hillary Keverenge",
+          "description": "Samsung's next earbuds are built to stay put during workouts.",
+          "link": "https://www.androidauthority.com/samsung-galaxy-buds-active-features-design-leak-3736998/",
+          "publishedOn": "2026-11-19T06:29:58.000Z",
+          "wordCount": 1676,
+          "title": "Galaxy Buds Active leak shows workout earbuds with ANC, ear hooks, IP68, and one odd omission",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/07/Samsung-Galaxy-Buds-3-Pro-Case-Bottom-with-USB-C-Port.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/one-ui-9-5-native-open-gate-recording-camera-apk-teardown-3736993/",
+          "author": "Akshay Gangwar",
+          "description": "It can give you more framing options when you're editing your videos later.",
+          "link": "https://www.androidauthority.com/one-ui-9-5-native-open-gate-recording-camera-apk-teardown-3736993/",
+          "publishedOn": "2026-11-19T05:20:36.000Z",
+          "wordCount": 2090,
+          "title": "One UI 9.5 could bring native full-sensor video recording to Galaxy phones",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/",
+          "author": "Hillary Keverenge",
+          "description": "Up to six household members can enjoy ad-free YouTube.",
+          "link": "https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/",
+          "publishedOn": "2026-11-19T04:58:33.000Z",
+          "wordCount": 1454,
+          "title": "Google AI Ultra now includes YouTube Premium Family at no extra cost",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/02/youtube-premium-landing-page-2026-hero-3-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-horizontal-leveling-selfie-videos-one-ui-9-5-3736963/",
+          "author": "Adamya Sharma",
+          "description": "\"Horizontal Leveling\" could be Samsung's attempt at making selfie videos super stable.",
+          "link": "https://www.androidauthority.com/samsung-horizontal-leveling-selfie-videos-one-ui-9-5-3736963/",
+          "publishedOn": "2026-11-19T03:06:28.000Z",
+          "wordCount": 2482,
+          "title": "Samsung is bringing a lighter version of Galaxy S26’s Horizontal Lock to selfie cameras",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/Galaxy-S26-tips-horizon-lock.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/playstation-outage-nov-2026-3736853/",
+          "author": "Ryan McNeal",
+          "description": "You're not the only one having issues with PlayStation.",
+          "link": "https://www.androidauthority.com/playstation-outage-nov-2026-3736853/",
+          "publishedOn": "2026-11-19T02:18:18.000Z",
+          "wordCount": 1316,
+          "title": "PlayStation outage hits right before GTA VI launch",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2020/11/ps5-logo-review-scaled.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/gemini-4-neon-3736931/",
+          "author": "Stephen Schenck",
+          "description": "What a noble addition to Gemini's model lineup!",
+          "link": "https://www.androidauthority.com/gemini-4-neon-3736931/",
+          "publishedOn": "2026-11-18T23:00:31.000Z",
+          "wordCount": 1762,
+          "title": "Gemini 4 Neon is ready to get some work done for AI Pro power users",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/01/Samsung-Galaxy-A56-gemini-app.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/youtube-music-web-interface-3736889/",
+          "author": "Stephen Schenck",
+          "description": "Have you gotten it yet? We want to hear what you think.",
+          "link": "https://www.androidauthority.com/youtube-music-web-interface-3736889/",
+          "publishedOn": "2026-11-18T22:08:36.000Z",
+          "wordCount": 2308,
+          "title": "YouTube Music’s new web interface is slowly hitting more users, but not everyone’s a fan",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/02/youtube-music-logo-phone-hero-feb-2026-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-store-black-friday-coupons-3736896/",
+          "author": "Chandra Steele",
+          "description": "The sale runs until December 5.",
+          "link": "https://www.androidauthority.com/google-store-black-friday-coupons-3736896/",
+          "publishedOn": "2026-11-18T21:54:36.000Z",
+          "wordCount": 1569,
+          "title": "Check your inbox: Google Store’s Black Friday coupons are in the mail",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/11/Google-Store-Mountain-View-Google-Store-Sign.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/galaxy-z-fold-8-gta-vi-edition-3736869/",
+          "author": "Ryan McNeal",
+          "description": "The Galaxy Z Fold 8 just got a GTA VI makeover.",
+          "link": "https://www.androidauthority.com/galaxy-z-fold-8-gta-vi-edition-3736869/",
+          "publishedOn": "2026-11-18T21:17:06.000Z",
+          "wordCount": 2091,
+          "title": "The Galaxy Z Fold 8 series just got a special edition that celebrates GTA VI",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Galaxy-Z-Fold-8-Ultra-Ocean-Drive-edition-9.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/motorola-razr-fold-android-17-update-rollout-3736847/",
+          "author": "Hillary Keverenge",
+          "description": "Europe gets the update first, with US users next in line.",
+          "link": "https://www.androidauthority.com/motorola-razr-fold-android-17-update-rollout-3736847/",
+          "publishedOn": "2026-11-18T20:16:25.000Z",
+          "wordCount": 1446,
+          "title": "Motorola Razr Fold receives its first major OS upgrade with Android 17",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/07/motorola-razr-fold-cover-screen-holding-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/bose-soundlink-micro-2nd-gen-amazon-deal-3736856/",
+          "author": "Matt Horne",
+          "description": "Save $50 on Bose's pocket-sized Bluetooth speaker, now 39% off on Amazon.",
+          "link": "https://www.androidauthority.com/bose-soundlink-micro-2nd-gen-amazon-deal-3736856/",
+          "publishedOn": "2026-11-18T19:45:10.000Z",
+          "wordCount": 1672,
+          "title": "Bose SoundLink Micro (2nd Gen) drops to $79, its lowest price",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2019/06/Bose-Soundlink-Micro.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-one-ui-9-5-lost-phone-recovery-imei-3736790/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "Here's how that works.",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-lost-phone-recovery-imei-3736790/",
+          "publishedOn": "2026-11-18T19:37:41.000Z",
+          "wordCount": 2294,
+          "title": "One UI 9.5 could give lost phones a better chance of finding their way home with lock screen IMEI",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-secure-erase-3736783/",
+          "author": "Stephen Schenck",
+          "description": "For when you want to make sure that deleted phone data can never, ever be recovered.",
+          "link": "https://www.androidauthority.com/samsung-secure-erase-3736783/",
+          "publishedOn": "2026-11-18T19:22:20.000Z",
+          "wordCount": 2531,
+          "title": "Samsung is building a secure way for Galaxy users to erase their phones in One UI 9.5",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-Ultra-in-a-persons-hand.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-now-nudge-audio-eraser-integration-3736780/",
+          "author": "Ryan McNeal",
+          "description": "Accessing Audio Eraser could soon be much easier.",
+          "link": "https://www.androidauthority.com/samsung-now-nudge-audio-eraser-integration-3736780/",
+          "publishedOn": "2026-11-18T18:51:26.000Z",
+          "wordCount": 2216,
+          "title": "Samsung is preparing to use Now Nudge to make Audio Eraser more convenient",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/Galaxy-S26-tips-youtube-audio-eraser.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/youtube-music-ask-music-gemini-shortcut-3736815/",
+          "author": "Hillary Keverenge",
+          "description": "Ask Music is no longer tucked away in the Home feed.",
+          "link": "https://www.androidauthority.com/youtube-music-ask-music-gemini-shortcut-3736815/",
+          "publishedOn": "2026-11-18T18:46:08.000Z",
+          "wordCount": 1694,
+          "title": "YouTube Music is making Ask Music easier to access with a dedicated Gemini button",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/04/YouTube-Music-quick-picks-opened-on-Google-Pixel-10a.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/pixel-watch-verizon-connectivity-issues-3736793/",
+          "author": "Chandra Steele",
+          "description": "Some users are ditching LTE models when they upgrade.",
+          "link": "https://www.androidauthority.com/pixel-watch-verizon-connectivity-issues-3736793/",
+          "publishedOn": "2026-11-18T18:05:53.000Z",
+          "wordCount": 1791,
+          "title": "Pixel Watch owners keep running into trouble activating service on Verizon",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-pixel-watch-5-notifications-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-foldable-app-optimization-guidelines-3736653/",
+          "author": "Akshay Gangwar",
+          "description": "Google is getting serious about app optimization for foldables.",
+          "link": "https://www.androidauthority.com/google-foldable-app-optimization-guidelines-3736653/",
+          "publishedOn": "2026-11-18T18:00:54.000Z",
+          "wordCount": 1609,
+          "title": "Google’s mandatory foldable app guidelines are here, and optimized apps are coming in 2027",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-Z-Fold-8-splitview-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-play-the-auction-las-vegas-f1-grand-prix-3736404/",
+          "author": "Akshay Gangwar",
+          "description": "You can get your hands on some cool McLaren F1-themed collectibles.",
+          "link": "https://www.androidauthority.com/google-play-the-auction-las-vegas-f1-grand-prix-3736404/",
+          "publishedOn": "2026-11-18T18:00:49.000Z",
+          "wordCount": 1561,
+          "title": "Google Play Points members can score F1-themed rewards during Las Vegas race week",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Play-Store-logo-on-smartphone-stock-photo-6.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/soundpeats-air-6-pro-deal-3736777/",
+          "author": "Matt Horne",
+          "description": "Save $58 on the SoundPEATS Air 6 Pro with an on-page coupon, and get adaptive ANC, LDAC, and up to 12 hours per charge.",
+          "link": "https://www.androidauthority.com/soundpeats-air-6-pro-deal-3736777/",
+          "publishedOn": "2026-11-18T17:21:31.000Z",
+          "wordCount": 1638,
+          "title": "SoundPEATS Air 6 Pro earbuds hit a record low at 45% off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/SoundPEATS-Air-6-Pro-Featured-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/textra-sms-google-messages-alternatives-poll-3736700/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "Readers seem to prefer Textra over the likes of WhatsApp and Signal.",
+          "link": "https://www.androidauthority.com/textra-sms-google-messages-alternatives-poll-3736700/",
+          "publishedOn": "2026-11-18T17:17:05.000Z",
+          "wordCount": 2071,
+          "title": "Textra SMS takes the top spot among these five Google Messages alternatives",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/textra2026-scaled.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-9100-pro-1tb-deal-3736776/",
+          "author": "Matt Horne",
+          "description": "Samsung's PCIe 5.0 9100 PRO 1TB is 26% off on Amazon, with read speeds of up to 14,700MB/s.",
+          "link": "https://www.androidauthority.com/samsung-9100-pro-1tb-deal-3736776/",
+          "publishedOn": "2026-11-18T17:11:53.000Z",
+          "wordCount": 1583,
+          "title": "Save $90 on Samsung’s blazing-fast 9100 PRO 1TB SSD",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-SSD-9100-PRO-1TB-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/hisense-85-inch-u8-deal-3736775/",
+          "author": "Matt Horne",
+          "description": "Hisense's 2025 85-inch U8 Mini-LED Google TV is 28% off, with a native 165Hz panel and up to 5,000 nits of brightness.",
+          "link": "https://www.androidauthority.com/hisense-85-inch-u8-deal-3736775/",
+          "publishedOn": "2026-11-18T17:07:57.000Z",
+          "wordCount": 1639,
+          "title": "Hisense’s 85-inch U8 Mini-LED TV gets a $702 price cut",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/06/Hisense-85-Inch-U8-Mini-LED-ULED-4K-UHD-Google-Smart-TV-Promo-Image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/pixel-lock-screen-animation-goes-missing-3736727/",
+          "author": "Ryan McNeal",
+          "description": "Did your Pixel lose its lock screen animation? You’re not alone.",
+          "link": "https://www.androidauthority.com/pixel-lock-screen-animation-goes-missing-3736727/",
+          "publishedOn": "2026-11-18T16:52:15.000Z",
+          "wordCount": 1537,
+          "title": "Google Pixel bug is making lock screen transition animations disappear",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-10a-review-lock-screen-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/apple-watch-se-3-cellular-deal-3736748/",
+          "author": "Matt Horne",
+          "description": "The 44mm Apple Watch SE 3 with cellular is back to $279 on Amazon, the easiest way to leave your iPhone at home.",
+          "link": "https://www.androidauthority.com/apple-watch-se-3-cellular-deal-3736748/",
+          "publishedOn": "2026-11-18T16:40:42.000Z",
+          "wordCount": 1653,
+          "title": "Score $50 off the cellular Apple Watch SE 3 on Amazon",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-Watch-SE-3-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/ecoflow-rapid-power-bank-25000mah-deal-3736747/",
+          "author": "Matt Horne",
+          "description": "Save $42 on EcoFlow's 25,000mAh RAPID power bank, with two 140W USB-C ports that can fast charge a laptop.",
+          "link": "https://www.androidauthority.com/ecoflow-rapid-power-bank-25000mah-deal-3736747/",
+          "publishedOn": "2026-11-18T16:35:39.000Z",
+          "wordCount": 1640,
+          "title": "EcoFlow’s 170W RAPID power bank is 48% off at a record low",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/EcoFlow-Rapid-Power-Bank-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-pixel-watch-5-deal-black-friday-3736298/",
+          "author": "Matt Horne",
+          "description": "The 41mm Wi-Fi Pixel Watch 5 is 25% off, a nice saving on Google's newest smartwatch.",
+          "link": "https://www.androidauthority.com/google-pixel-watch-5-deal-black-friday-3736298/",
+          "publishedOn": "2026-11-18T16:01:45.000Z",
+          "wordCount": 1780,
+          "title": "Google’s Pixel Watch 5 gets a $100 price cut on Amazon",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-pixel-watch-5-on-wrist-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/life360-tile-4-pack-deal-3736736/",
+          "author": "Matt Horne",
+          "description": "Save $40 on four Tile trackers with IP68 protection, a 350-foot range, and an SOS button that alerts your Life360 Circle.",
+          "link": "https://www.androidauthority.com/life360-tile-4-pack-deal-3736736/",
+          "publishedOn": "2026-11-18T15:55:47.000Z",
+          "wordCount": 1635,
+          "title": "Life360 Tile four-pack hits a record low at half off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/09/Tile-Bluetooth-Tracker-Life360-App-Press-Image-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/garmin-instinct-3-solar-deal-3736735/",
+          "author": "Matt Horne",
+          "description": "Garmin's rugged 50mm Instinct 3 Solar is 36% off, with up to 40 days of battery and unlimited smartwatch life in enough sun.",
+          "link": "https://www.androidauthority.com/garmin-instinct-3-solar-deal-3736735/",
+          "publishedOn": "2026-11-18T15:52:18.000Z",
+          "wordCount": 1624,
+          "title": "Garmin Instinct 3 Solar drops $160 to its lowest Amazon price",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/01/Garmin-Instinct-3-Solar-on-wrist.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/jbl-boombox-4-deal-3736697/",
+          "author": "Matt Horne",
+          "description": "JBL's biggest Boombox is 27% off on Amazon, with IP68 protection, Auracast, and up to 34 hours of playtime.",
+          "link": "https://www.androidauthority.com/jbl-boombox-4-deal-3736697/",
+          "publishedOn": "2026-11-18T15:20:31.000Z",
+          "wordCount": 1678,
+          "title": "JBL Boombox 4 drops $150 in early Black Friday deal",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/JBL-Boombox-4-SoundGuys-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-live-effect-wallpaper-3736668/",
+          "author": "Chethan Rao",
+          "description": "The beta also includes a brand-new lock screen-to-home screen transition animation.",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-live-effect-wallpaper-3736668/",
+          "publishedOn": "2026-11-18T15:14:02.000Z",
+          "wordCount": 1871,
+          "title": "One UI 9.5 beta turns still photos into dynamic 3D wallpapers",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/S26-in-hand-showing-One-UI-9.5-welcome-screen-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/psa-googlebooks-great-switch-emulation-3736645/",
+          "author": "Hadlee Simons",
+          "description": "Intel-powered Googlebooks can run Switch games thanks to a version of the Eden emulator that's gone under the radar.",
+          "link": "https://www.androidauthority.com/psa-googlebooks-great-switch-emulation-3736645/",
+          "publishedOn": "2026-11-18T14:33:12.000Z",
+          "wordCount": 1961,
+          "title": "Tested: Googlebooks are actually great for playing Switch games",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Eden-emulator-on-Googlebook.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/aawireless-nexus-nano-android-auto-adapters-3735860/",
+          "author": "Adamya Sharma",
+          "description": "They're also up to 80% smaller now.",
+          "link": "https://www.androidauthority.com/aawireless-nexus-nano-android-auto-adapters-3735860/",
+          "publishedOn": "2026-11-18T14:00:20.000Z",
+          "wordCount": 1987,
+          "title": "AAWireless unveils two new wireless Android Auto adapters with a big connectivity upgrade",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/AAWireless-NANO-NEXUS.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-download-how-to-download-and-roll-back-3736611/",
+          "author": "Pankil Shah",
+          "description": "Try One UI 9.5 before everyone else.",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-download-how-to-download-and-roll-back-3736611/",
+          "publishedOn": "2026-11-18T13:26:47.000Z",
+          "wordCount": 2919,
+          "title": "How to install One UI 9.5 beta on your Galaxy S26 right now (and how to roll back)",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-One-UI-9_5-beta-installing-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/fire-tv-stick-4k-plus-deal-amazon-3736255/",
+          "author": "Matt Horne",
+          "description": "The Fire TV Stick 4K Plus is 57% off on Amazon, back to its lowest price in 90 days.",
+          "link": "https://www.androidauthority.com/fire-tv-stick-4k-plus-deal-amazon-3736255/",
+          "publishedOn": "2026-11-18T13:08:36.000Z",
+          "wordCount": 1652,
+          "title": "Save $40 on the Fire TV Stick 4K Plus with Dolby Vision and Wi-Fi 6",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/10/Amazon-Fire-TV-Stick-4K-Plus-featureds-image-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-search-quick-panel-controls-3736565/",
+          "author": "Hadlee Simons",
+          "description": "Adding quick panel controls is about to get a lot easier.",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-search-quick-panel-controls-3736565/",
+          "publishedOn": "2026-11-18T12:46:11.000Z",
+          "wordCount": 1735,
+          "title": "Samsung now lets you search for quick panel controls in One UI 9.5 beta",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-Quick-Settings-OneUI.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/5-create-my-widgets-pixel-3736343/",
+          "author": "Brady Snyder",
+          "description": "I used Create My Widget to shake up my Pixel home screen and Googlebook desktop.",
+          "link": "https://www.androidauthority.com/5-create-my-widgets-pixel-3736343/",
+          "publishedOn": "2026-11-18T12:33:50.000Z",
+          "wordCount": 4179,
+          "title": "I built these 5 widgets with Create My Widget, and it’s one of my Pixel’s best features",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Create-My-Widget-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-one-ui-9-5-privacy-display-improvements-3736569/",
+          "author": "Hillary Keverenge",
+          "description": "More privacy without unnecessarily shielding entire apps.",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-privacy-display-improvements-3736569/",
+          "publishedOn": "2026-11-18T12:28:53.000Z",
+          "wordCount": 1719,
+          "title": "The Galaxy S26 Ultra’s Privacy Display just got a lot more useful with One UI 9.5",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-Privacy-Display-settings-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/fire-tv-stick-hd-2026-deal-3736254/",
+          "author": "Matt Horne",
+          "description": "Save $24 on the newest Fire TV Stick HD on Amazon, a slimmer streamer that can run on your TV's USB power.",
+          "link": "https://www.androidauthority.com/fire-tv-stick-hd-2026-deal-3736254/",
+          "publishedOn": "2026-11-18T12:20:10.000Z",
+          "wordCount": 1637,
+          "title": "Amazon’s newest Fire TV Stick HD hits a record low at 60% off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/04/amazon-fire-tv-stick-hd-2026.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/eero-outdoor-7-deal-3736225/",
+          "author": "Matt Horne",
+          "description": "The eero Outdoor 7 is $309.99 on Amazon, its lowest price yet, for weatherproof Wi-Fi 7 coverage outdoors.",
+          "link": "https://www.androidauthority.com/eero-outdoor-7-deal-3736225/",
+          "publishedOn": "2026-11-18T11:50:41.000Z",
+          "wordCount": 1666,
+          "title": "Bring Wi-Fi 7 to your backyard with $90 off the eero Outdoor 7",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Eero-Outdoor-7-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/galaxy-tab-s11-300-off-deal-3736226/",
+          "author": "Matt Horne",
+          "description": "The Samsung Galaxy Tab S11 is $699.99 on Amazon, 30% off and its lowest price in 90 days.",
+          "link": "https://www.androidauthority.com/galaxy-tab-s11-300-off-deal-3736226/",
+          "publishedOn": "2026-11-18T11:46:00.000Z",
+          "wordCount": 1601,
+          "title": "Samsung’s Galaxy Tab S11 is $300 off on Amazon",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/Samsung-Galaxy-Tab-S11-standing-and-showing-home-screen.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-photos-ai-wardrobe-outfit-suggestions-apk-teardown-3736554/",
+          "author": "Akshay Gangwar",
+          "description": "Your virtual stylist is getting an upgrade.",
+          "link": "https://www.androidauthority.com/google-photos-ai-wardrobe-outfit-suggestions-apk-teardown-3736554/",
+          "publishedOn": "2026-11-18T11:27:12.000Z",
+          "wordCount": 1673,
+          "title": "Can’t decide what to wear? Google Photos could soon pick outfits for you",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Photos-AI-wardrobe-options-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-photos-memories-people-and-pets-widget-setup-apk-teardown-3736501/",
+          "author": "Chethan Rao",
+          "description": "A new bottom sheet interface could streamline the process.",
+          "link": "https://www.androidauthority.com/google-photos-memories-people-and-pets-widget-setup-apk-teardown-3736501/",
+          "publishedOn": "2026-11-18T11:24:26.000Z",
+          "wordCount": 1958,
+          "title": "Google Photos is testing an easier way to set up home screen widgets",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-photos-date-grid-hero-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-wallet-social-security-number-credential-apk-teardown-3736528/",
+          "author": "Aamir Siddiqui",
+          "description": "We've spotted support for masked SSNs, Medicare details, and benefit amounts.",
+          "link": "https://www.androidauthority.com/google-wallet-social-security-number-credential-apk-teardown-3736528/",
+          "publishedOn": "2026-11-18T11:22:12.000Z",
+          "wordCount": 2510,
+          "title": "Google Wallet is preparing digital Social Security cards that show your benefits",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/google-wallet-card-redesign-hero-2026-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/vocci-desktop-black-friday-3735988/",
+          "author": "Ankit Banerjee",
+          "description": "Go from conversation to first draft, using just one app.",
+          "link": "https://www.androidauthority.com/vocci-desktop-black-friday-3735988/",
+          "publishedOn": "2026-11-18T11:08:03.000Z",
+          "wordCount": 2820,
+          "title": "From interview to outline: How Vocci Desktop and the Vocci ring work together",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Vocci-Desktop-Intro-Image-01.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-one-ui-10-banner-leak-liquid-glass-3736542/",
+          "author": "Aamir Siddiqui",
+          "description": "The graphic features a frosted \"10\" with translucent edges, and you can see the Apple inspiration from a mile away.",
+          "link": "https://www.androidauthority.com/samsung-one-ui-10-banner-leak-liquid-glass-3736542/",
+          "publishedOn": "2026-11-18T10:47:27.000Z",
+          "wordCount": 2159,
+          "title": "Samsung One UI 10 banner leak hints at Liquid Glass design",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/one-ui-9-frowning-plush-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-one-ui-9-5-changelog-3736494/",
+          "author": "Hadlee Simons",
+          "description": "Expect app lock, more customizable pro camera modes, a journal option, and lock screen improvements.",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-changelog-3736494/",
+          "publishedOn": "2026-11-18T10:33:33.000Z",
+          "wordCount": 3542,
+          "title": "Here’s everything new in Samsung One UI 9.5 beta",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-review-screen-on-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/best-motorola-signature-27-alternatives-3735691/",
+          "author": "Andrew Grush",
+          "description": "The Signature 27 is a powerful device, but it's not for everybody.",
+          "link": "https://www.androidauthority.com/best-motorola-signature-27-alternatives-3735691/",
+          "publishedOn": "2026-11-18T10:30:52.000Z",
+          "wordCount": 4762,
+          "title": "5 Android phones you should buy instead of the Motorola Signature 27",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/motorola-signature-27-city-streets-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-one-ui-9-5-native-app-lock-3736482/",
+          "author": "Hillary Keverenge",
+          "description": "Protect your apps without moving them to Secure Folder.",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-native-app-lock-3736482/",
+          "publishedOn": "2026-11-18T10:18:33.000Z",
+          "wordCount": 1713,
+          "title": "Samsung brings native app lock to Galaxy phones with One UI 9.5",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/samsung-galaxy-s26-base-and-s26-plus-review-3-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-fitbit-accessibility-gap-3729741/",
+          "author": "Jerry Hildenbrand",
+          "description": "If any company can build a great wearable for disabled people, it's Google.",
+          "link": "https://www.androidauthority.com/google-fitbit-accessibility-gap-3729741/",
+          "publishedOn": "2026-11-18T10:00:23.000Z",
+          "wordCount": 3085,
+          "title": "There’s a glaring accessibility gap in Google’s Fitbit ambitions, and it’s time to fix it",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/Fitbit-Air-Analog-Watch-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-pics-nano-banana-2-1-3736470/",
+          "author": "Akshay Gangwar",
+          "description": "It's now less likely to make edits you never asked for.",
+          "link": "https://www.androidauthority.com/google-pics-nano-banana-2-1-3736470/",
+          "publishedOn": "2026-11-18T09:48:36.000Z",
+          "wordCount": 1427,
+          "title": "Google Pics gets Nano Banana 2.1 for sharper text and more accurate edits",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Pics-official-image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/t-mobile-t-mix-plan-3734152/",
+          "author": "Andrew Grush",
+          "description": "T-Mix feels more like a side grade, but there are a few situations where it could be worth it.",
+          "link": "https://www.androidauthority.com/t-mobile-t-mix-plan-3734152/",
+          "publishedOn": "2026-11-18T09:30:32.000Z",
+          "wordCount": 3903,
+          "title": "T-Mobile’s T-Mix Standard is the only new plan I’d actually consider",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/T-Mobile-logo.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/openai-gpt-6-2-astra-sol-3736420/",
+          "author": "Hillary Keverenge",
+          "description": "Last-minute GPT-6.2 changes may explain the negative early reviews.",
+          "link": "https://www.androidauthority.com/openai-gpt-6-2-astra-sol-3736420/",
+          "publishedOn": "2026-11-18T09:11:04.000Z",
+          "wordCount": 1678,
+          "title": "OpenAI launches GPT-6.2 Astra and Sol, but not everyone is sold on the cheaper upgrade",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/Open-AI-ChatGPT-logo-on-phone-stock-photo-10.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/one-ui-9-5-beta-galaxy-s26-rollout-3736464/",
+          "author": "Hadlee Simons",
+          "description": "The beta update is also rolling out in the US.",
+          "link": "https://www.androidauthority.com/one-ui-9-5-beta-galaxy-s26-rollout-3736464/",
+          "publishedOn": "2026-11-18T09:05:47.000Z",
+          "wordCount": 1738,
+          "title": "Breaking: One UI 9.5 beta is rolling out to Galaxy S26 series right now",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-screens.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/switch-2-emulator-native-ports-banana-native-3736425/",
+          "author": "Hadlee Simons",
+          "description": "Emulation or native port? This updated emulator doesn't force you to choose.",
+          "link": "https://www.androidauthority.com/switch-2-emulator-native-ports-banana-native-3736425/",
+          "publishedOn": "2026-11-18T08:49:06.000Z",
+          "wordCount": 1884,
+          "title": "Hokkaido is a Switch 2 emulator for Android that now also offers native ports",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/06/Nintendo-Switch-2-left-joy-con-scaled.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-voice-android-redesign-rcs-support-3736431/",
+          "author": "Akshay Gangwar",
+          "description": "Google Voice is finally getting a fresh coat of paint.",
+          "link": "https://www.androidauthority.com/google-voice-android-redesign-rcs-support-3736431/",
+          "publishedOn": "2026-11-18T08:45:10.000Z",
+          "wordCount": 1508,
+          "title": "Google Voice on Android gets redesign, hints at future RCS support",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/05/google-voice-icon-android.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/youtube-music-removes-samples-tab-3736439/",
+          "author": "Aamir Siddiqui",
+          "description": "Samples tab, you will (not) be missed.",
+          "link": "https://www.androidauthority.com/youtube-music-removes-samples-tab-3736439/",
+          "publishedOn": "2026-11-18T08:38:45.000Z",
+          "wordCount": 2369,
+          "title": "YouTube Music removes Samples tab from its bottom bar on Android and iOS",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/YouTube-Music-vs-Spotify-Moods-Filter.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-keep-notes-filters-apk-teardown-3736360/",
+          "author": "Hadlee Simons",
+          "description": "Google Keep already offers a search bar and labels, but filters could make it much easier to find your notes.",
+          "link": "https://www.androidauthority.com/google-keep-notes-filters-apk-teardown-3736360/",
+          "publishedOn": "2026-11-18T07:24:43.000Z",
+          "wordCount": 2027,
+          "title": "Google Keep could soon get filters to help you quickly find your notes",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/02/google-keep-text-formatting-1-scaled.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-one-ui-9-5-now-brief-daily-briefing-leak-3736393/",
+          "author": "Hillary Keverenge",
+          "description": "Think Gemini Daily Brief, but built into Now Brief.",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-now-brief-daily-briefing-leak-3736393/",
+          "publishedOn": "2026-11-18T07:16:03.000Z",
+          "wordCount": 1926,
+          "title": "Samsung’s upcoming Daily Briefing feature could take the hassle out of setting reminders",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/Samsung-Galaxy-S26-FE-Now-Brief-with-custom-card-prompt.jpg"
+        },
         {
           "id": "https://www.androidauthority.com/samsung-one-ui-9-5-beta-launch-date-leak-3736355/",
           "author": "Hillary Keverenge",
@@ -8336,6 +8946,156 @@
       "siteUrl": "https://www.androidpolice.com",
       "articles": [
         {
+          "id": "https://www.androidpolice.com/google-ai-ultra-plan-brings-ad-free-youtube-whole-family/",
+          "author": "Rajesh Pandey",
+          "description": "YouTube Premium Individual goes Family on the Ultra tier",
+          "link": "https://www.androidpolice.com/google-ai-ultra-plan-brings-ad-free-youtube-whole-family/",
+          "publishedOn": "2026-11-19T04:57:02.000Z",
+          "wordCount": 4999,
+          "title": "Google AI Ultra plan brings ad-free YouTube to the whole family",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/05/google-ai-ultra-plan.jpg",
+            "length": "143",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/05/google-ai-ultra-plan.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/i-made-youtube-music-a-far-better-player-with-this-free-extension/",
+          "author": "Rahul Naskar",
+          "description": "This web extension shows how to do it",
+          "link": "https://www.androidpolice.com/i-made-youtube-music-a-far-better-player-with-this-free-extension/",
+          "publishedOn": "2026-11-19T00:00:10.000Z",
+          "wordCount": 5402,
+          "title": "I made YouTube Music a far better player with this free extension",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/youtube-music-web-2.jpg",
+            "length": "3368",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/youtube-music-web-2.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-play-is-getting-serious-about-foldables/",
+          "author": "Timi Cantisano",
+          "description": "There's a new April 2027 deadline for foldable-ready apps",
+          "link": "https://www.androidpolice.com/google-play-is-getting-serious-about-foldables/",
+          "publishedOn": "2026-11-18T22:49:49.000Z",
+          "wordCount": 4870,
+          "title": "Foldable phones are finally getting the app support they deserve",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/img_2392-2.jpeg",
+            "length": "1447",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/img_2392-2.jpeg"
+        },
+        {
+          "id": "https://www.androidpolice.com/chatgpt-go-ads-vs-gemini-ai-plus/",
+          "author": "Calvin Wankhede",
+          "description": "ChatGPT now feels like a digital billboard, even though I pay for it",
+          "link": "https://www.androidpolice.com/chatgpt-go-ads-vs-gemini-ai-plus/",
+          "publishedOn": "2026-11-18T22:00:11.000Z",
+          "wordCount": 5416,
+          "title": "I pay for ChatGPT, but this change has convinced me to revive my Gemini subscription",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/chatgpt-upgrade.JPG",
+            "length": "2499",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/chatgpt-upgrade.JPG"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-wallet-could-hold-your-social-security-card/",
+          "author": "Timi Cantisano",
+          "description": "Not live yet but it's being worked on",
+          "link": "https://www.androidpolice.com/google-wallet-could-hold-your-social-security-card/",
+          "publishedOn": "2026-11-18T20:58:39.000Z",
+          "wordCount": 4706,
+          "title": "Google Wallet may soon store your Social Security card and federal benefits",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/google-wallet-app-with-card-debit-membership-ids-feature-on-pixel-9-pro-xl.jpg",
+            "length": "1918",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/google-wallet-app-with-card-debit-membership-ids-feature-on-pixel-9-pro-xl.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/i-unlocked-android-auto-developer-settings-to-fix/",
+          "author": "Ben Khalesi",
+          "description": "Android Auto has a cheat code, and it changes everything",
+          "link": "https://www.androidpolice.com/i-unlocked-android-auto-developer-settings-to-fix/",
+          "publishedOn": "2026-11-18T20:00:10.000Z",
+          "wordCount": 5065,
+          "title": "I unlocked Android Auto developer settings to fix display and battery problems",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/a-silver-car-under-the-android-auto-logo-framed-by-two-red-curly-brackets.png",
+            "length": "787",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/a-silver-car-under-the-android-auto-logo-framed-by-two-red-curly-brackets.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/amazon-pre-black-friday-samsung-galaxy-tab-s12-plus-deal/",
+          "author": "Patrick Farmer",
+          "description": "That free cash could really come in handy during Black Friday.",
+          "link": "https://www.androidpolice.com/amazon-pre-black-friday-samsung-galaxy-tab-s12-plus-deal/",
+          "publishedOn": "2026-11-18T19:29:40.000Z",
+          "wordCount": 4334,
+          "title": "Amazon wants to give you $200 to buy the new Galaxy Tab S12 Plus",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-tab-s12-plus-book.JPG",
+            "length": "2401",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-tab-s12-plus-book.JPG"
+        },
+        {
+          "id": "https://www.androidpolice.com/harman-kardon-onyx-studio-8-100-deal/",
+          "author": "Timi Cantisano",
+          "description": "It's now just $100",
+          "link": "https://www.androidpolice.com/harman-kardon-onyx-studio-8-100-deal/",
+          "publishedOn": "2026-11-18T19:18:08.000Z",
+          "wordCount": 4225,
+          "title": "This Harman Kardon speaker tunes itself to any room and it's down 80%",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-5-1.png",
+            "length": "2686",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/copy-of-16_9-5-1.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/galaxy-s26-ultra-privacy-display-upgrade-one-ui-9-5/",
+          "author": "Sanuj Bhatia",
+          "description": "Privacy Display just got even better",
+          "link": "https://www.androidpolice.com/galaxy-s26-ultra-privacy-display-upgrade-one-ui-9-5/",
+          "publishedOn": "2026-11-18T19:12:36.000Z",
+          "wordCount": 4664,
+          "title": "Galaxy S26 Ultra's Privacy Display gets a big upgrade with One UI 9.5",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/04/samsung-galaxy-s26-ultra-6.jpg",
+            "length": "2203",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/04/samsung-galaxy-s26-ultra-6.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/i-quit-excel-for-google-sheets/",
+          "author": "Ben Khalesi",
+          "description": "Still paying for Excel to keep a budget?",
+          "link": "https://www.androidpolice.com/i-quit-excel-for-google-sheets/",
+          "publishedOn": "2026-11-18T18:00:11.000Z",
+          "wordCount": 4797,
+          "title": "Before you pay Microsoft $100 again, check if free Google Sheets covers your spreadsheets",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/google-sheets-bill-tracker-with-payment-balances-surrounded-by-floating-cash.jpg",
+            "length": "193",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/google-sheets-bill-tracker-with-payment-balances-surrounded-by-floating-cash.jpg"
+        },
+        {
           "id": "https://www.androidpolice.com/one-ui-9-5-could-finally-fix-samsung-most-inconsistent-feature/",
           "author": "Jade Bryan Jardinico",
           "description": "Samsung devices could gain Gemini-like agentic capabilities",
@@ -9692,6 +10452,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/microsoft-is-killing-off-to-do-and-some-people-dont-like-whats-replacing-it/",
+          "author": "Simon Batt",
+          "description": "Add \"Move to another app\" to your Microsoft To Do list.",
+          "link": "https://www.xda-developers.com/microsoft-is-killing-off-to-do-and-some-people-dont-like-whats-replacing-it/",
+          "publishedOn": "2026-11-19T05:14:40.000Z",
+          "wordCount": 4289,
+          "title": "Microsoft is killing off To Do, and some people don’t like what’s replacing it",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/power-off-options-in-windows.jpg",
+            "length": "5055",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/power-off-options-in-windows.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/your-windows-11-arm-tablet-has-an-expiration-date-and-its-sooner-than-you-think/",
+          "author": "Joe Rice-Jones",
+          "description": "Your Windows-on-Arm devices come with a best-by date",
+          "link": "https://www.xda-developers.com/your-windows-11-arm-tablet-has-an-expiration-date-and-its-sooner-than-you-think/",
+          "publishedOn": "2026-11-19T01:00:20.000Z",
+          "wordCount": 6108,
+          "title": "Your Windows 11 Arm tablet has an expiration date, and it's sooner than you think",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/surface-pro-11-5g-9.jpg",
+            "length": "1181",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/surface-pro-11-5g-9.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/stopped-using-ai-browsers-replaced-them-with-this-claude-setup/",
+          "author": "Nolen Jonker",
+          "description": "The best AI browser I've used isn't a browser",
+          "link": "https://www.xda-developers.com/stopped-using-ai-browsers-replaced-them-with-this-claude-setup/",
+          "publishedOn": "2026-11-19T00:00:21.000Z",
+          "wordCount": 5917,
+          "title": "I stopped using AI browsers and replaced them with this Claude setup",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/built-in-browser-in-claude-desktop-app-on-pc.jpeg",
+            "length": "3291",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/built-in-browser-in-claude-desktop-app-on-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/stopped-music-streaming-month-found-how-difficult-owning-music-become/",
+          "author": "Anurag Singh",
+          "description": "And there are albums/songs you'd never be able to own (legally).",
+          "link": "https://www.xda-developers.com/stopped-music-streaming-month-found-how-difficult-owning-music-become/",
+          "publishedOn": "2026-11-18T23:00:21.000Z",
+          "wordCount": 5378,
+          "title": "I stopped using music streaming for a month, and found out how difficult owning music has become",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/1794970619124.jpg",
+            "length": "2823",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/1794970619124.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/samsungs-flat-odyssey-g5-monitor-drops-to-just-13999-the-lowest-price-weve-seen/",
+          "author": "XDA Deals Desk",
+          "description": "A flat panel for a second or main display",
+          "link": "https://www.xda-developers.com/samsungs-flat-odyssey-g5-monitor-drops-to-just-13999-the-lowest-price-weve-seen/",
+          "publishedOn": "2026-11-18T22:54:01.000Z",
+          "wordCount": 4133,
+          "title": "The Samsung Odyssey G5 monitor drops to just $139.99, and is a solid budget screen",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/05/samsung-odyssey-oled-g5-edited.jpg",
+            "length": "2651",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/05/samsung-odyssey-oled-g5-edited.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-vibe-coded-replaced-only-paid-app-on-my-phone/",
+          "author": "Tanveer Singh",
+          "description": "I used Claude to create a fully-functional Splitwise clone",
+          "link": "https://www.xda-developers.com/i-vibe-coded-replaced-only-paid-app-on-my-phone/",
+          "publishedOn": "2026-11-18T22:30:21.000Z",
+          "wordCount": 5673,
+          "title": "I vibe-coded a replacement for the only paid app on my phone, and I'm never paying $5 a month again",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-vibe-coded-app-phone-splitwise-replacement.png",
+            "length": "12978",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-vibe-coded-app-phone-splitwise-replacement.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/cpus-finally-too-old-for-modern-games/",
+          "author": "Tanveer Singh",
+          "description": "All good things come to an end, and these CPUs finally have",
+          "link": "https://www.xda-developers.com/cpus-finally-too-old-for-modern-games/",
+          "publishedOn": "2026-11-18T21:31:21.000Z",
+          "wordCount": 5788,
+          "title": "4 CPUs that are finally too old for modern games in 2026",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/ryzen-7-5700x-gaming-pc-monitor.jpg",
+            "length": "1145",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/ryzen-7-5700x-gaming-pc-monitor.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/aocs-156-inch-portable-fhd-monitor-drops-to-just-5948-in-an-early-black-friday-deal/",
+          "author": "XDA Deals Desk",
+          "description": "USB-C connectivity and a built-in kickstand",
+          "link": "https://www.xda-developers.com/aocs-156-inch-portable-fhd-monitor-drops-to-just-5948-in-an-early-black-friday-deal/",
+          "publishedOn": "2026-11-18T21:29:27.000Z",
+          "wordCount": 4170,
+          "title": "This popular portable monitor drops to under $60 in an early Black Friday deal",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/copy-of-169-4.png",
+            "length": "1985",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/copy-of-169-4.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/open-source-replacements-used-to-mean-settling-for-less-but-the-ones-i-switched-to-are-better/",
+          "author": "Nolen Jonker",
+          "description": "Paid apps have some catching up to do",
+          "link": "https://www.xda-developers.com/open-source-replacements-used-to-mean-settling-for-less-but-the-ones-i-switched-to-are-better/",
+          "publishedOn": "2026-11-18T21:01:22.000Z",
+          "wordCount": 6784,
+          "title": "Open-source replacements used to mean settling for less, but the ones I switched to this year are just better",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/figcraft-dev-mode-on-desktop-pc.jpeg",
+            "length": "2718",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/figcraft-dev-mode-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/amazons-fire-tv-stick-4k-plus-drops-to-just-2999-and-its-a-steal-for-4k-streaming/",
+          "author": "XDA Deals Desk",
+          "description": "Wi-Fi 6, Dolby Vision, and a steep discount",
+          "link": "https://www.xda-developers.com/amazons-fire-tv-stick-4k-plus-drops-to-just-2999-and-its-a-steal-for-4k-streaming/",
+          "publishedOn": "2026-11-18T20:50:51.000Z",
+          "wordCount": 4184,
+          "title": "Amazon's Fire TV Stick 4K Plus drops to just $29.99, and it's a steal for 4K streaming",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/05/amazon-fire-tv-stick-4k-plus-edited.jpg",
+            "length": "419",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/05/amazon-fire-tv-stick-4k-plus-edited.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/someone-used-claude-code-remake-top-gun-canyon-frontier-llms-beat-maverick/",
           "author": "Simon Batt",
