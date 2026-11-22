@@ -2,10 +2,282 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-21T06:16:58.852Z</updated>
+    <updated>2026-11-22T05:49:11.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GTA 6 could arrive on PC sooner than expected, thanks to a developer behind an unofficial Switch 2 Zelda: Ocarina of Time remake port]]></title>
+        <id>https://www.xda-developers.com/gta-6-arrive-pc-soon-developer-unofficial-switch-2-zelda-ocarina-of-time-remake-port/</id>
+        <link href="https://www.xda-developers.com/gta-6-arrive-pc-soon-developer-unofficial-switch-2-zelda-ocarina-of-time-remake-port/"/>
+        <updated>2026-11-22T01:42:18.000Z</updated>
+        <summary type="html"><![CDATA[The project is still in the early stages and the game doesn't currently even boot.]]></summary>
+        <author>
+            <name>Patrick O'Rourke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows trained me into habits that I never have to think about on Linux]]></title>
+        <id>https://www.xda-developers.com/windows-trained-me-into-habits-that-i-never-have-to-think-about-on-linux/</id>
+        <link href="https://www.xda-developers.com/windows-trained-me-into-habits-that-i-never-have-to-think-about-on-linux/"/>
+        <updated>2026-11-22T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[I didn't recognise the hoops I was jumping through until they weren't there anymore.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I replaced Lovable, Replit, and Claude Design with a free open-source app builder, and it's better in every way]]></title>
+        <id>https://www.xda-developers.com/replacing-lovable-replit-claude-design-with-free-open-source-app-builder/</id>
+        <link href="https://www.xda-developers.com/replacing-lovable-replit-claude-design-with-free-open-source-app-builder/"/>
+        <updated>2026-11-22T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Reverse-engineer anything]]></summary>
+        <author>
+            <name>Nolen Jonker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to reduce Google Maps battery drain on Android]]></title>
+        <id>https://www.androidpolice.com/reduce-google-maps-battery-drain-with-these-tweaks/</id>
+        <link href="https://www.androidpolice.com/reduce-google-maps-battery-drain-with-these-tweaks/"/>
+        <updated>2026-11-22T00:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Navigation shouldn't cost battery life]]></summary>
+        <author>
+            <name>AP Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I don't have a PlayStation 5, but the best GTA game has been on my PC for decades]]></title>
+        <id>https://www.xda-developers.com/dont-have-playstation-5-but-the-best-gta-game-has-been-on-pc-decades/</id>
+        <link href="https://www.xda-developers.com/dont-have-playstation-5-but-the-best-gta-game-has-been-on-pc-decades/"/>
+        <updated>2026-11-21T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[GTA VI may have the biggest, most detailed world gaming has to offer. But the most fun game in the series doesn't need any of that.]]></summary>
+        <author>
+            <name>João Carrasqueira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I moved to open-source software, and I trust my tools more than ever]]></title>
+        <id>https://www.xda-developers.com/i-moved-open-source-software-trust-tools-more-than-ever/</id>
+        <link href="https://www.xda-developers.com/i-moved-open-source-software-trust-tools-more-than-ever/"/>
+        <updated>2026-11-21T22:30:20.000Z</updated>
+        <summary type="html"><![CDATA[No one entity owns it, and that's why I love it.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I used an old laptop as a home server for a year, and 4 surprises stood out]]></title>
+        <id>https://www.xda-developers.com/used-old-laptop-as-home-server-for-a-year-4-surprises-stood-out/</id>
+        <link href="https://www.xda-developers.com/used-old-laptop-as-home-server-for-a-year-4-surprises-stood-out/"/>
+        <updated>2026-11-21T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Cheap to start, costly to ignore.]]></summary>
+        <author>
+            <name>Shekhar Vaidya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This simple Samsung shortcut helps me reclaim 5GB of storage every month]]></title>
+        <id>https://www.androidpolice.com/simple-samsung-shortcut-reclaim-5gb-storage-every-month/</id>
+        <link href="https://www.androidpolice.com/simple-samsung-shortcut-reclaim-5gb-storage-every-month/"/>
+        <updated>2026-11-21T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[You can save even more storage using the same shortcut]]></summary>
+        <author>
+            <name>Rahul Naskar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The memory crunch has me rethinking every PC build I plan for 2026]]></title>
+        <id>https://www.xda-developers.com/the-memory-crunch-has-me-rethinking-every-pc-build-for-2026/</id>
+        <link href="https://www.xda-developers.com/the-memory-crunch-has-me-rethinking-every-pc-build-for-2026/"/>
+        <updated>2026-11-21T21:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Black Friday isn't going to solve things, either]]></summary>
+        <author>
+            <name>Joe Rice-Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried dozens of free alternatives to Adobe Acrobat, and only one does everything I paid for]]></title>
+        <id>https://www.xda-developers.com/tried-dozens-free-adobe-acrobat-alternatives-only-one-does-everything-i-paid-for/</id>
+        <link href="https://www.xda-developers.com/tried-dozens-free-adobe-acrobat-alternatives-only-one-does-everything-i-paid-for/"/>
+        <updated>2026-11-21T21:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Free PDF software has finally caught up]]></summary>
+        <author>
+            <name>Nolen Jonker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini app rolls out very slick camera redesign on Android]]></title>
+        <id>https://9to5google.com/?p=739420</id>
+        <link href="https://9to5google.com/2026/11/21/gemini-camera-redesign/"/>
+        <updated>2026-11-21T20:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Google has thoroughly redesigned Gemini for Android’s in-app camera that lets you quickly add an image to prompts.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget the figurines: 4 useful 3D prints that are actually worth gifting]]></title>
+        <id>https://www.xda-developers.com/best-3d-printed-items-worth-gifting/</id>
+        <link href="https://www.xda-developers.com/best-3d-printed-items-worth-gifting/"/>
+        <updated>2026-11-21T20:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Never hurts to lead the way with a functional present.]]></summary>
+        <author>
+            <name>Chandraveer Mathur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A ten-year-old car running Android Auto beats most new cars' built-in infotainment systems, and it isn't close]]></title>
+        <id>https://www.xda-developers.com/old-car-running-android-auto-beats-new-car-infotainment/</id>
+        <link href="https://www.xda-developers.com/old-car-running-android-auto-beats-new-car-infotainment/"/>
+        <updated>2026-11-21T20:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Newer built-in systems still can't compete with Android Auto and a spare phone]]></summary>
+        <author>
+            <name>Tanveer Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I skipped LastPass and 1Password for Enpass because it stores zero vaults on company servers]]></title>
+        <id>https://www.androidpolice.com/skipped-lastpass-1password-for-enpass-stores-zero-vaults-on-company-servers/</id>
+        <link href="https://www.androidpolice.com/skipped-lastpass-1password-for-enpass-stores-zero-vaults-on-company-servers/"/>
+        <updated>2026-11-21T20:00:10.000Z</updated>
+        <summary type="html"><![CDATA[This invisible Android password manager crushes the competition]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stopped lugging my vacuum up the stairs after trying Narwal's V50 Cube cordless]]></title>
+        <id>https://www.androidpolice.com/v50-cube-cordness-dry-vacuum-review/</id>
+        <link href="https://www.androidpolice.com/v50-cube-cordness-dry-vacuum-review/"/>
+        <updated>2026-11-21T18:00:10.000Z</updated>
+        <summary type="html"><![CDATA[It can do a lot, but still needs a few improvements]]></summary>
+        <author>
+            <name>Sara Gitkos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Photos keeps pictures I hide in Secure Folder; MacroDroid reminds me to delete them]]></title>
+        <id>https://www.androidpolice.com/free-macrodroid-automation-stops-google-photos-from-exposing-my-sensitive-media/</id>
+        <link href="https://www.androidpolice.com/free-macrodroid-automation-stops-google-photos-from-exposing-my-sensitive-media/"/>
+        <updated>2026-11-21T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Google Photos didn't get the memo about my hidden media]]></summary>
+        <author>
+            <name>Jamaluddeen Adamu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy Z Fold 8 features: What you can do on a foldable]]></title>
+        <id>https://9to5google.com/?p=734800</id>
+        <link href="https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/"/>
+        <updated>2026-11-21T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – which makes it a perfect gift. You might be surprised by what it can do.
+more…]]></summary>
+        <author>
+            <name>Sponsored Post</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I let Gemini build 5 widgets for my Pixel home screen; the results surprised me]]></title>
+        <id>https://www.androidpolice.com/i-tried-google-pixel-create-my-widget/</id>
+        <link href="https://www.androidpolice.com/i-tried-google-pixel-create-my-widget/"/>
+        <updated>2026-11-21T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Gemini made my home screen more useful]]></summary>
+        <author>
+            <name>Sanuj Bhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I reviewed the Xteink X4 Pro, and its worst problem has been fixed by a $20 accessory]]></title>
+        <id>https://www.androidpolice.com/xteink-x4-pro-and-base-stand-review/</id>
+        <link href="https://www.androidpolice.com/xteink-x4-pro-and-base-stand-review/"/>
+        <updated>2026-11-21T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[The Xteink X4 Pro's terrible charger has been fixed by one accessory, making it a must-buy.]]></summary>
+        <author>
+            <name>Mark Jansen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back up Google Maps Timeline now or lose years of location history]]></title>
+        <id>https://www.androidpolice.com/back-up-google-maps-timeline-location-history/</id>
+        <link href="https://www.androidpolice.com/back-up-google-maps-timeline-location-history/"/>
+        <updated>2026-11-21T15:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Your Google Maps Timeline needs your attention]]></summary>
+        <author>
+            <name>Victor Opata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I asked Gemini and Claude to build a no-code subscription tracker]]></title>
+        <id>https://www.androidpolice.com/had-gemini-claude-build-tracker-app-only-one-made-android-home-screen/</id>
+        <link href="https://www.androidpolice.com/had-gemini-claude-build-tracker-app-only-one-made-android-home-screen/"/>
+        <updated>2026-11-21T13:45:10.000Z</updated>
+        <summary type="html"><![CDATA[I gave Gemini and Claude the same prompt to build a no-code subscription tracker. Both worked at first, but only one survived a small change.]]></summary>
+        <author>
+            <name>Haroun Adamu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker’s 13-in-1 dock with a pop-out travel hub is $50 off]]></title>
+        <id>https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/</id>
+        <link href="https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/"/>
+        <updated>2026-11-21T13:39:52.000Z</updated>
+        <summary type="html"><![CDATA[Anker's Nano Docking Station is 33% off ahead of Black Friday, matching its lowest price on Amazon.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save $142 on the TCL NXTPAPER 11 Plus this Black Friday]]></title>
+        <id>https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/</id>
+        <link href="https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/"/>
+        <updated>2026-11-21T13:07:21.000Z</updated>
+        <summary type="html"><![CDATA[TCL's paper-like 11.5-inch tablet is 38% off on Amazon for Prime members, with a stylus and flip case in the box.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing needs to make these changes before I buy another one of its phones]]></title>
+        <id>https://www.androidpolice.com/nothing-phone-4-os-5-rumors-leaks/</id>
+        <link href="https://www.androidpolice.com/nothing-phone-4-os-5-rumors-leaks/"/>
+        <updated>2026-11-21T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Nothing is giving me absolutely nothing to be excited about, from the delayed flagship to the lackluster software support.]]></summary>
+        <author>
+            <name>Marvin Velasco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonos Beam (Gen 2) soundbar drops to a record-low $339]]></title>
+        <id>https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/</id>
+        <link href="https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/"/>
+        <updated>2026-11-21T12:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Save $160 on Sonos's compact Dolby Atmos soundbar, now $10 below its previous best price on Amazon.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heads up! Galaxy Watch 7 is 40% off for Black Friday]]></title>
+        <id>https://www.androidauthority.com/galaxy-watch-7-black-friday-deal-3737771/</id>
+        <link href="https://www.androidauthority.com/galaxy-watch-7-black-friday-deal-3737771/"/>
+        <updated>2026-11-21T11:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Save $100 on Samsung's 40mm Galaxy Watch 7 in Green, its best price on Amazon since last holiday season.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming]]></title>
+        <id>https://www.androidauthority.com/sylvox-black-friday-sale-2026-3737509/</id>
+        <link href="https://www.androidauthority.com/sylvox-black-friday-sale-2026-3737509/"/>
+        <updated>2026-11-21T09:37:40.000Z</updated>
+        <summary type="html"><![CDATA[Get big discounts on some of the best weatherproof 4K TVs for patios, pools, and decks.]]></summary>
+        <author>
+            <name>Ankit Banerjee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plex is killing off TheTVDB metadata support, and people aren’t happy]]></title>
         <id>https://www.xda-developers.com/plex-is-killing-off-thetvdb-metadata-support-and-people-arent-happy/</id>
@@ -13,6 +285,17 @@
         <updated>2026-11-21T04:00:11.000Z</updated>
         <author>
             <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]]]></title>
+        <id>https://9to5google.com/?p=739409</id>
+        <link href="https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/"/>
+        <updated>2026-11-21T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
         </author>
     </entry>
     <entry>
@@ -15065,248 +15348,6 @@ more…]]></summary>
 more…]]></summary>
         <author>
             <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Wallet rolling out notifications feed, support for more digital passports [U]]]></title>
-        <id>https://9to5google.com/?p=734232</id>
-        <link href="https://9to5google.com/2026/10/23/google-wallet-notifications-passports/"/>
-        <updated>2026-10-23T15:58:00.000Z</updated>
-        <summary type="html"><![CDATA[After the stacked card list redesign, Google Wallet for Android is gaining a notifications feed and support for more passports.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring’s 2026 Doorbell at $45, more]]></title>
-        <id>https://9to5google.com/?p=734429</id>
-        <link href="https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/"/>
-        <updated>2026-10-23T15:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Alongside the ongoing 50% price drop on the new new Amazon Fire TV Stick 4K and the LG 55-inch OLED evo AI C6 4K Smart TV at $1,000 off the launch price, today’s 9to5Toys Lunch Break is headlined by Pixel Watch 5 at up to $150 off, Google’s Pixel 11 Pro Fold at up to $420 off, and Lenovo’s latest Tab Plus Gen 2 hitting a new $256 all-time low. We also have Amazon’s latest Ring smart doorbells now starting down at $45 (Up to 55% off), loads of charging and accessory discounts, and more waiting down below. 
-more…]]></summary>
-        <author>
-            <name>Justin Kahn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I needed a dashcam while out running. Meta glasses turned out to be the answer]]></title>
-        <id>https://9to5google.com/?p=734393</id>
-        <link href="https://9to5google.com/2026/10/23/i-needed-a-dashcam-while-out-running-meta-glasses-turned-out-to-be-the-answer/"/>
-        <updated>2026-10-23T15:45:44.000Z</updated>
-        <summary type="html"><![CDATA[I already love to use all of Meta’s AI glasses when I leave the house, and now I’ve got a new reason to love the camera that comes on (almost) every pair.
-more…]]></summary>
-        <author>
-            <name>Nicholas Sutrich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone Duo’s software restricts an already-small display; Galaxy Z Fold 8 doesn’t]]></title>
-        <id>https://9to5google.com/?p=734418</id>
-        <link href="https://9to5google.com/2026/10/23/iphone-duo-software-restricts-small-display-galaxy-z-fold-8-doesnt/"/>
-        <updated>2026-10-23T15:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Apple’s take on a wide foldable isn’t being received without some criticism as it makes its way into the hands of users. The biggest limitation might not even be the hardware.
-more…]]></summary>
-        <author>
-            <name>Andrew Romero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnePlus starts rolling out stable Android 17 updates early, marking the end of OxygenOS]]></title>
-        <id>https://9to5google.com/?p=734412</id>
-        <link href="https://9to5google.com/2026/10/23/oneplus-stable-android-17-rollout-begins/"/>
-        <updated>2026-10-23T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[OnePlus is now rolling out stable Android 17 updates to OnePlus 15 and OnePlus Pad 4, marking the end of OxygenOS as these devices are just the first to transition to ColorOS.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can score a Pixel Watch 5 with LTE for $100 off right now]]></title>
-        <id>https://9to5google.com/?p=734413</id>
-        <link href="https://9to5google.com/2026/10/23/pixel-watch-5-lte-discount/"/>
-        <updated>2026-10-23T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Good deals in tech are becoming a bit harder to find, but a solid offer on a Pixel Watch 5 with LTE has popped up, bringing $100 off.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Illumos is actually interesting..]]></title>
-        <id>https://www.youtube.com/watch?v=Q5UQbADnRtI</id>
-        <link href="https://www.youtube.com/watch?v=Q5UQbADnRtI"/>
-        <updated>2026-10-23T13:00:10.000Z</updated>
-        <author>
-            <name>Zei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung is releasing a new foldable next week, and it just leaked]]></title>
-        <id>https://9to5google.com/?p=734406</id>
-        <link href="https://9to5google.com/2026/10/23/samsung-galaxy-w27-foldable-leak/"/>
-        <updated>2026-10-23T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Samsung has a bunch of new foldables in store for next year, but also one more coming out this year, and it’s coming out in just a few days according to a new leak.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung confirms a list of Galaxy phones and tablets getting Android 17 updates]]></title>
-        <id>https://9to5google.com/?p=734040</id>
-        <link href="https://9to5google.com/2026/10/23/samsung-galaxy-android-17-update-list-confirmed/"/>
-        <updated>2026-10-23T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Samsung has confirmed a list of Galaxy devices that are set to get its Android 17-based One UI 9 update in at least one region, which tells us what to expect globally in the coming months.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Oppo Find X10 Pro Max was exciting until I found out about the price]]></title>
-        <id>https://9to5google.com/?p=734322</id>
-        <link href="https://9to5google.com/2026/10/23/oppo-find-x10-pro-max-price-reactions/"/>
-        <updated>2026-10-23T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[RAMageddon sucks folks. Over the past few weeks I’ve been using the Oppo Find X10 Pro Max, a phone I’ve been pretty enthralled by, but its price tag really killed the hype on this one.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Beta Client Update: October 22nd]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244201</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244201"/>
-        <updated>2026-10-23T00:35:45.000Z</updated>
-        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
-
-Remote Play
-
-Big revamp of HDR support:
-
-Added an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.
-
-In addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.
-
-HDR is enabled again on Steam Deck OLED.
-
-HDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)]]></summary>
-        <author>
-            <name>steam RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Beta Client Update: October 22nd]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244201</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244201"/>
-        <updated>2026-10-23T00:35:45.000Z</updated>
-        <summary type="html"><![CDATA[We have just shipped an updated Steam Client to the Preview/Beta channel.
-
-Remote Play
-
-Big revamp of HDR support:
-
-Added an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.
-
-In addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.
-
-HDR is enabled again on Steam Deck OLED.
-
-HDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)]]></summary>
-        <author>
-            <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Client Beta - October 22nd]]></title>
-        <id>https://store.steampowered.com/news/group/4397053/view/712290127331726184</id>
-        <link href="https://store.steampowered.com/news/group/4397053/view/712290127331726184"/>
-        <updated>2026-10-23T00:34:33.000Z</updated>
-        <summary type="html"><![CDATA[The Steam Client Beta has been updated with the following changes:
-
-Remote Play
-
-Big revamp of HDR support:
-
-Added an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.
-
-Added a brightness slider to the streaming overlay.
-
-In addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.
-
-HDR is enabled again on Steam Deck OLED.
-
-HDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)]]></summary>
-        <author>
-            <name>steam RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade]]></title>
-        <id>https://9to5google.com/?p=734397</id>
-        <link href="https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/"/>
-        <updated>2026-10-22T22:05:06.000Z</updated>
-        <summary type="html"><![CDATA[YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds, including moving Subscriptions out of the bottom bar.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung reiterates that Galaxy Z Fold 8 is a hit, and that iPhone Duo puts a spotlight on it]]></title>
-        <id>https://9to5google.com/?p=734388</id>
-        <link href="https://9to5google.com/2026/10/22/galaxy-z-fold-8-hit-iphone-duo-boost/"/>
-        <updated>2026-10-22T21:05:00.000Z</updated>
-        <summary type="html"><![CDATA[In a post in its UK Newsroom, Samsung reiterates that the Galaxy Z Fold 8 series has been a huge hit, including in Europe.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google explains how to fix time zones on Android amid changes in Canada]]></title>
-        <id>https://9to5google.com/?p=734387</id>
-        <link href="https://9to5google.com/2026/10/22/google-explains-how-to-fix-time-zones-on-android-amid-changes-in-canada/"/>
-        <updated>2026-10-22T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[As Canada makes changes around Daylight Savings, Google is explaining how to deal wiith the time zone change on your Android phone.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Galaxy S24, S25 owners say Samsung’s latest update is wrecking battery life]]></title>
-        <id>https://9to5google.com/?p=734377</id>
-        <link href="https://9to5google.com/2026/10/22/samsung-galaxy-s24-battery-life-one-ui-9/"/>
-        <updated>2026-10-22T19:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Samsung’s latest Android 17-based One UI 9 update seems to be causing headaches for some Galaxy S24 and S25 owners, as battery life has gotten considerably worse following the “upgrade.”
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini app expands Google Maps Personal Intelligence, replacing Deep Think]]></title>
-        <id>https://9to5google.com/?p=734380</id>
-        <link href="https://9to5google.com/2026/10/22/gemini-personal-intelligence-maps/"/>
-        <updated>2026-10-22T19:28:41.000Z</updated>
-        <summary type="html"><![CDATA[Besides coming to Android Auto this week, Personal Intelligence in the Gemini app is also expanding its Google Maps integration.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today’s Android app deals and freebies: Pixel Golf, Lantern Mail, Through the Darkest of Times, more]]></title>
-        <id>https://9to5toys.com/2026/10/22/todays-highlight-google-play-deals-34/</id>
-        <link href="https://9to5toys.com/2026/10/22/todays-highlight-google-play-deals-34/"/>
-        <updated>2026-10-22T18:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Today’s best Google Play app and game deals are ready, including Pixel Golf, Lantern Mail, Through the Darkest of Times, Ryan World – Challenge, WindWings: Galaxy Attack, 1942 Pacific Front Premium, Save the Puppies Premium, and more. Just be sure to check out Google’s latest Pixel 11 Pro Fold at up to $419 off, this brand new condition Galaxy S26 Ultra model at $420 off, and the ongoing FREE gift card offers on the new Galaxy Tab S12 while you still can. 
-more…]]></summary>
-        <author>
-            <name>9to5Toys</name>
         </author>
     </entry>
 </feed>

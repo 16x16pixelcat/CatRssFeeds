@@ -385,26 +385,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://clan.fastly.steamstatic.com/images/27766192/1c92bdb017fb48adb602d4e3e1ddffd9301bcd8a.png"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nRemote Play\n\nBig revamp of HDR support:\n\nAdded an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.\n\nIn addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.\n\nHDR is enabled again on Steam Deck OLED.\n\nHDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
-          "publishedOn": "2026-10-23T00:35:45.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 22nd",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/group/4397053/view/712290127331726184",
-          "author": null,
-          "description": "The Steam Client Beta has been updated with the following changes:\n\nRemote Play\n\nBig revamp of HDR support:\n\nAdded an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.\n\nAdded a brightness slider to the streaming overlay.\n\nIn addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.\n\nHDR is enabled again on Steam Deck OLED.\n\nHDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)",
-          "link": "https://store.steampowered.com/news/group/4397053/view/712290127331726184",
-          "publishedOn": "2026-10-23T00:34:33.000Z",
-          "wordCount": 393,
-          "title": "Steam Client Beta - October 22nd",
-          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
         }
       ]
     },
@@ -501,16 +481,6 @@
           "publishedOn": "2026-10-23T22:04:14.000Z",
           "wordCount": 389,
           "title": "SteamOS 3.9.5 Beta",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
-          "author": null,
-          "description": "We have just shipped an updated Steam Client to the Preview/Beta channel.\n\nRemote Play\n\nBig revamp of HDR support:\n\nAdded an advanced client setting for HDR, with options for Automatic (enabled when HDR content is enabled), On (always on, allowing increased brightness for SDR content), and Off.\n\nIn addition to supporting HDR in games and on Windows desktop, HDR capture is now supported when using pipewire on desktop Linux and streaming from macOS.\n\nHDR is enabled again on Steam Deck OLED.\n\nHDR is enabled on Android phones running Android 15 and newer, when using the beta Steam Link app (https://play.google.com/apps/testing/com.valvesoftware.steamlink)",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244201",
-          "publishedOn": "2026-10-23T00:35:45.000Z",
-          "wordCount": 392,
-          "title": "Steam Beta Client Update: October 22nd",
           "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
         }
       ]
@@ -642,16 +612,6 @@
           "wordCount": null,
           "title": "So I Tried Ricing Windows and Linux..",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Q5UQbADnRtI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Q5UQbADnRtI",
-          "publishedOn": "2026-10-23T13:00:10.000Z",
-          "wordCount": null,
-          "title": "Illumos is actually interesting..",
-          "imageUrl": null
         }
       ]
     },
@@ -724,6 +684,36 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=739420",
+          "author": "Abner Li",
+          "description": "Google has thoroughly redesigned Gemini for Android’s in-app camera that lets you quickly add an image to prompts.\nmore…",
+          "link": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
+          "publishedOn": "2026-11-21T20:52:52.000Z",
+          "wordCount": 3651,
+          "title": "Gemini app rolls out very slick camera redesign on Android",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-4.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=734800",
+          "author": "Sponsored Post",
+          "description": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – which makes it a perfect gift. You might be surprised by what it can do.\nmore…",
+          "link": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+          "publishedOn": "2026-11-21T17:00:00.000Z",
+          "wordCount": 4250,
+          "title": "Galaxy Z Fold 8 features: What you can do on a foldable",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-lavender-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739409",
+          "author": "Ben Schoon",
+          "description": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far.\nmore…",
+          "link": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
+          "publishedOn": "2026-11-21T02:45:00.000Z",
+          "wordCount": 3309,
+          "title": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-20.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=739336",
           "author": "Will Sattelberg",
@@ -4793,156 +4783,6 @@
           "wordCount": 3401,
           "title": "Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch",
           "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734232",
-          "author": "Abner Li",
-          "description": "After the stacked card list redesign, Google Wallet for Android is gaining a notifications feed and support for more passports.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/google-wallet-notifications-passports/",
-          "publishedOn": "2026-10-23T15:58:00.000Z",
-          "wordCount": 3512,
-          "title": "Google Wallet rolling out notifications feed, support for more digital passports [U]",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/03/Id-pass-Google-Wallet-how-to-1.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734429",
-          "author": "Justin Kahn",
-          "description": "Alongside the ongoing 50% price drop on the new new Amazon Fire TV Stick 4K and the LG 55-inch OLED evo AI C6 4K Smart TV at $1,000 off the launch price, today’s 9to5Toys Lunch Break is headlined by Pixel Watch 5 at up to $150 off, Google’s Pixel 11 Pro Fold at up to $420 off, and Lenovo’s latest Tab Plus Gen 2 hitting a new $256 all-time low. We also have Amazon’s latest Ring smart doorbells now starting down at $45 (Up to 55% off), loads of charging and accessory discounts, and more waiting down below. \nmore…",
-          "link": "https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/",
-          "publishedOn": "2026-10-23T15:54:03.000Z",
-          "wordCount": 5415,
-          "title": "Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring’s 2026 Doorbell at $45, more",
-          "imageUrl": null
-        },
-        {
-          "id": "https://9to5google.com/?p=734393",
-          "author": "Nicholas Sutrich",
-          "description": "I already love to use all of Meta’s AI glasses when I leave the house, and now I’ve got a new reason to love the camera that comes on (almost) every pair.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/i-needed-a-dashcam-while-out-running-meta-glasses-turned-out-to-be-the-answer/",
-          "publishedOn": "2026-10-23T15:45:44.000Z",
-          "wordCount": 3552,
-          "title": "I needed a dashcam while out running. Meta glasses turned out to be the answer",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/meta-nova-glasses-camera-01.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734418",
-          "author": "Andrew Romero",
-          "description": "Apple’s take on a wide foldable isn’t being received without some criticism as it makes its way into the hands of users. The biggest limitation might not even be the hardware.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/iphone-duo-software-restricts-small-display-galaxy-z-fold-8-doesnt/",
-          "publishedOn": "2026-10-23T15:13:53.000Z",
-          "wordCount": 3182,
-          "title": "iPhone Duo’s software restricts an already-small display; Galaxy Z Fold 8 doesn’t",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iPhone-Duo-9to5mac-2.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734412",
-          "author": "Ben Schoon",
-          "description": "OnePlus is now rolling out stable Android 17 updates to OnePlus 15 and OnePlus Pad 4, marking the end of OxygenOS as these devices are just the first to transition to ColorOS.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/oneplus-stable-android-17-rollout-begins/",
-          "publishedOn": "2026-10-23T14:15:00.000Z",
-          "wordCount": 3042,
-          "title": "OnePlus starts rolling out stable Android 17 updates early, marking the end of OxygenOS",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/oneplus-15-review-02.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734413",
-          "author": "Ben Schoon",
-          "description": "Good deals in tech are becoming a bit harder to find, but a solid offer on a Pixel Watch 5 with LTE has popped up, bringing $100 off.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/pixel-watch-5-lte-discount/",
-          "publishedOn": "2026-10-23T13:35:00.000Z",
-          "wordCount": 2936,
-          "title": "You can score a Pixel Watch 5 with LTE for $100 off right now",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-and-Pixel-11.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734406",
-          "author": "Ben Schoon",
-          "description": "Samsung has a bunch of new foldables in store for next year, but also one more coming out this year, and it’s coming out in just a few days according to a new leak.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/samsung-galaxy-w27-foldable-leak/",
-          "publishedOn": "2026-10-23T12:15:00.000Z",
-          "wordCount": 3212,
-          "title": "Samsung is releasing a new foldable next week, and it just leaked",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-6-2.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734040",
-          "author": "Ben Schoon",
-          "description": "Samsung has confirmed a list of Galaxy devices that are set to get its Android 17-based One UI 9 update in at least one region, which tells us what to expect globally in the coming months.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/samsung-galaxy-android-17-update-list-confirmed/",
-          "publishedOn": "2026-10-23T11:15:00.000Z",
-          "wordCount": 3081,
-          "title": "Samsung confirms a list of Galaxy phones and tablets getting Android 17 updates",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/samsung-galaxy-tab-s10-fe-s23-flip-6.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734322",
-          "author": "Ben Schoon",
-          "description": "RAMageddon sucks folks. Over the past few weeks I’ve been using the Oppo Find X10 Pro Max, a phone I’ve been pretty enthralled by, but its price tag really killed the hype on this one.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/oppo-find-x10-pro-max-price-reactions/",
-          "publishedOn": "2026-10-23T10:05:00.000Z",
-          "wordCount": 3777,
-          "title": "The Oppo Find X10 Pro Max was exciting until I found out about the price",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-4.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734397",
-          "author": "Abner Li",
-          "description": "YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds, including moving Subscriptions out of the bottom bar.\nmore…",
-          "link": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/",
-          "publishedOn": "2026-10-22T22:05:06.000Z",
-          "wordCount": 3653,
-          "title": "YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/YouTube-Subscriptions-move-cover.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734388",
-          "author": "Ben Schoon",
-          "description": "In a post in its UK Newsroom, Samsung reiterates that the Galaxy Z Fold 8 series has been a huge hit, including in Europe.\nmore…",
-          "link": "https://9to5google.com/2026/10/22/galaxy-z-fold-8-hit-iphone-duo-boost/",
-          "publishedOn": "2026-10-22T21:05:00.000Z",
-          "wordCount": 2920,
-          "title": "Samsung reiterates that Galaxy Z Fold 8 is a hit, and that iPhone Duo puts a spotlight on it",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-42.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734387",
-          "author": "Ben Schoon",
-          "description": "As Canada makes changes around Daylight Savings, Google is explaining how to deal wiith the time zone change on your Android phone.\nmore…",
-          "link": "https://9to5google.com/2026/10/22/google-explains-how-to-fix-time-zones-on-android-amid-changes-in-canada/",
-          "publishedOn": "2026-10-22T20:45:00.000Z",
-          "wordCount": 2998,
-          "title": "Google explains how to fix time zones on Android amid changes in Canada",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-8.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734377",
-          "author": "Ben Schoon",
-          "description": "Samsung’s latest Android 17-based One UI 9 update seems to be causing headaches for some Galaxy S24 and S25 owners, as battery life has gotten considerably worse following the “upgrade.”\nmore…",
-          "link": "https://9to5google.com/2026/10/22/samsung-galaxy-s24-battery-life-one-ui-9/",
-          "publishedOn": "2026-10-22T19:40:00.000Z",
-          "wordCount": 2974,
-          "title": "Some Galaxy S24, S25 owners say Samsung’s latest update is wrecking battery life",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/02/S24-and-S25-Ultra-battery-stats.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734380",
-          "author": "Abner Li",
-          "description": "Besides coming to Android Auto this week, Personal Intelligence in the Gemini app is also expanding its Google Maps integration.\nmore…",
-          "link": "https://9to5google.com/2026/10/22/gemini-personal-intelligence-maps/",
-          "publishedOn": "2026-10-22T19:28:41.000Z",
-          "wordCount": 3465,
-          "title": "Gemini app expands Google Maps Personal Intelligence, replacing Deep Think",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-5.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5toys.com/2026/10/22/todays-highlight-google-play-deals-34/",
-          "author": "9to5Toys",
-          "description": "Today’s best Google Play app and game deals are ready, including Pixel Golf, Lantern Mail, Through the Darkest of Times, Ryan World – Challenge, WindWings: Galaxy Attack, 1942 Pacific Front Premium, Save the Puppies Premium, and more. Just be sure to check out Google’s latest Pixel 11 Pro Fold at up to $419 off, this brand new condition Galaxy S26 Ultra model at $420 off, and the ongoing FREE gift card offers on the new Galaxy Tab S12 while you still can. \nmore…",
-          "link": "https://9to5toys.com/2026/10/22/todays-highlight-google-play-deals-34/",
-          "publishedOn": "2026-10-22T18:46:17.000Z",
-          "wordCount": 3485,
-          "title": "Today’s Android app deals and freebies: Pixel Golf, Lantern Mail, Through the Darkest of Times, more",
-          "imageUrl": null
         }
       ]
     },
@@ -4968,6 +4808,56 @@
       "feedUrl": "https://www.androidauthority.com/feed/",
       "siteUrl": "https://www.androidauthority.com/",
       "articles": [
+        {
+          "id": "https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/",
+          "author": "Matt Horne",
+          "description": "Anker's Nano Docking Station is 33% off ahead of Black Friday, matching its lowest price on Amazon.",
+          "link": "https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/",
+          "publishedOn": "2026-11-21T13:39:52.000Z",
+          "wordCount": 1582,
+          "title": "Anker’s 13-in-1 dock with a pop-out travel hub is $50 off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/Anker-Nano-Laptop-Docking-Station-Press-Image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/",
+          "author": "Matt Horne",
+          "description": "TCL's paper-like 11.5-inch tablet is 38% off on Amazon for Prime members, with a stylus and flip case in the box.",
+          "link": "https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/",
+          "publishedOn": "2026-11-21T13:07:21.000Z",
+          "wordCount": 1652,
+          "title": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/06/TCL-Nxtpaper-11-Plus-review-image-9.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/",
+          "author": "Matt Horne",
+          "description": "Save $160 on Sonos's compact Dolby Atmos soundbar, now $10 below its previous best price on Amazon.",
+          "link": "https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/",
+          "publishedOn": "2026-11-21T12:38:15.000Z",
+          "wordCount": 1593,
+          "title": "Sonos Beam (Gen 2) soundbar drops to a record-low $339",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/03/Sonos-Beam-Gen-2-Promo-Image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/galaxy-watch-7-black-friday-deal-3737771/",
+          "author": "Matt Horne",
+          "description": "Save $100 on Samsung's 40mm Galaxy Watch 7 in Green, its best price on Amazon since last holiday season.",
+          "link": "https://www.androidauthority.com/galaxy-watch-7-black-friday-deal-3737771/",
+          "publishedOn": "2026-11-21T11:57:20.000Z",
+          "wordCount": 1654,
+          "title": "Heads up! Galaxy Watch 7 is 40% off for Black Friday",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Watch-7-simple-ultra-face-on-wrist.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/sylvox-black-friday-sale-2026-3737509/",
+          "author": "Ankit Banerjee",
+          "description": "Get big discounts on some of the best weatherproof 4K TVs for patios, pools, and decks.",
+          "link": "https://www.androidauthority.com/sylvox-black-friday-sale-2026-3737509/",
+          "publishedOn": "2026-11-21T09:37:40.000Z",
+          "wordCount": 2965,
+          "title": "Sylvox Black Friday sale: Best outdoor TVs for covered patios, full-sun pools, and gaming",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/sylvox-featured.jpg"
+        },
         {
           "id": "https://www.androidauthority.com/unihertz-teases-new-titan-2-elite-colorway-3737949/",
           "author": "Ryan McNeal",
@@ -10276,6 +10166,156 @@
       "siteUrl": "https://www.androidpolice.com",
       "articles": [
         {
+          "id": "https://www.androidpolice.com/reduce-google-maps-battery-drain-with-these-tweaks/",
+          "author": "AP Staff",
+          "description": "Navigation shouldn't cost battery life",
+          "link": "https://www.androidpolice.com/reduce-google-maps-battery-drain-with-these-tweaks/",
+          "publishedOn": "2026-11-22T00:00:10.000Z",
+          "wordCount": 5361,
+          "title": "How to reduce Google Maps battery drain on Android",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/pixel-phone-showing-battery-usage-menu.jpg",
+            "length": "2511",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/pixel-phone-showing-battery-usage-menu.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/simple-samsung-shortcut-reclaim-5gb-storage-every-month/",
+          "author": "Rahul Naskar",
+          "description": "You can save even more storage using the same shortcut",
+          "link": "https://www.androidpolice.com/simple-samsung-shortcut-reclaim-5gb-storage-every-month/",
+          "publishedOn": "2026-11-21T22:00:10.000Z",
+          "wordCount": 5430,
+          "title": "This simple Samsung shortcut helps me reclaim 5GB of storage every month",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-s26-fe-on-surface.jpg",
+            "length": "448",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-s26-fe-on-surface.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/skipped-lastpass-1password-for-enpass-stores-zero-vaults-on-company-servers/",
+          "author": "Parth Shah",
+          "description": "This invisible Android password manager crushes the competition",
+          "link": "https://www.androidpolice.com/skipped-lastpass-1password-for-enpass-stores-zero-vaults-on-company-servers/",
+          "publishedOn": "2026-11-21T20:00:10.000Z",
+          "wordCount": 4958,
+          "title": "I skipped LastPass and 1Password for Enpass because it stores zero vaults on company servers",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/the-enpass-logo-surrounded-by-icons-of-a-key-lock-and-password-field-on-a-blue-security-themed-background.png",
+            "length": "444",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/the-enpass-logo-surrounded-by-icons-of-a-key-lock-and-password-field-on-a-blue-security-themed-background.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/v50-cube-cordness-dry-vacuum-review/",
+          "author": "Sara Gitkos",
+          "description": "It can do a lot, but still needs a few improvements",
+          "link": "https://www.androidpolice.com/v50-cube-cordness-dry-vacuum-review/",
+          "publishedOn": "2026-11-21T18:00:10.000Z",
+          "wordCount": 7777,
+          "title": "I stopped lugging my vacuum up the stairs after trying Narwal's V50 Cube cordless",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/v50-cube-cordless-dry-vacuum-hardwood.jpg",
+            "length": "1060",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/v50-cube-cordless-dry-vacuum-hardwood.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/free-macrodroid-automation-stops-google-photos-from-exposing-my-sensitive-media/",
+          "author": "Jamaluddeen Adamu",
+          "description": "Google Photos didn't get the memo about my hidden media",
+          "link": "https://www.androidpolice.com/free-macrodroid-automation-stops-google-photos-from-exposing-my-sensitive-media/",
+          "publishedOn": "2026-11-21T17:00:11.000Z",
+          "wordCount": 4912,
+          "title": "Google Photos keeps pictures I hide in Secure Folder; MacroDroid reminds me to delete them",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/google-photos-and-snapgate-icons-with-photo-thumbnails-a-folder-and-backup-toggle-switches.png",
+            "length": "275",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/google-photos-and-snapgate-icons-with-photo-thumbnails-a-folder-and-backup-toggle-switches.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/i-tried-google-pixel-create-my-widget/",
+          "author": "Sanuj Bhatia",
+          "description": "Gemini made my home screen more useful",
+          "link": "https://www.androidpolice.com/i-tried-google-pixel-create-my-widget/",
+          "publishedOn": "2026-11-21T16:00:10.000Z",
+          "wordCount": 5290,
+          "title": "I let Gemini build 5 widgets for my Pixel home screen; the results surprised me",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/create-my-widget-hands-on-8.jpg",
+            "length": "2624885",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/create-my-widget-hands-on-8.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/xteink-x4-pro-and-base-stand-review/",
+          "author": "Mark Jansen",
+          "description": "The Xteink X4 Pro's terrible charger has been fixed by one accessory, making it a must-buy.",
+          "link": "https://www.androidpolice.com/xteink-x4-pro-and-base-stand-review/",
+          "publishedOn": "2026-11-21T16:00:10.000Z",
+          "wordCount": 5738,
+          "title": "I reviewed the Xteink X4 Pro, and its worst problem has been fixed by a $20 accessory",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/xteink-x4-pro-with-base-stand-by-books-1.jpg",
+            "length": "1228",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/xteink-x4-pro-with-base-stand-by-books-1.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/back-up-google-maps-timeline-location-history/",
+          "author": "Victor Opata",
+          "description": "Your Google Maps Timeline needs your attention",
+          "link": "https://www.androidpolice.com/back-up-google-maps-timeline-location-history/",
+          "publishedOn": "2026-11-21T15:30:10.000Z",
+          "wordCount": 6892,
+          "title": "Back up Google Maps Timeline now or lose years of location history",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/pxl_20260629_155621230-mp.jpg",
+            "length": "1262",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/pxl_20260629_155621230-mp.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/had-gemini-claude-build-tracker-app-only-one-made-android-home-screen/",
+          "author": "Haroun Adamu",
+          "description": "I gave Gemini and Claude the same prompt to build a no-code subscription tracker. Both worked at first, but only one survived a small change.",
+          "link": "https://www.androidpolice.com/had-gemini-claude-build-tracker-app-only-one-made-android-home-screen/",
+          "publishedOn": "2026-11-21T13:45:10.000Z",
+          "wordCount": 5366,
+          "title": "I asked Gemini and Claude to build a no-code subscription tracker",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/switched-from-gemini-to-claude.jpg",
+            "length": "470",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/switched-from-gemini-to-claude.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/nothing-phone-4-os-5-rumors-leaks/",
+          "author": "Marvin Velasco",
+          "description": "Nothing is giving me absolutely nothing to be excited about, from the delayed flagship to the lackluster software support.",
+          "link": "https://www.androidpolice.com/nothing-phone-4-os-5-rumors-leaks/",
+          "publishedOn": "2026-11-21T13:00:10.000Z",
+          "wordCount": 5247,
+          "title": "Nothing needs to make these changes before I buy another one of its phones",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/nothing-phone-3-back-table.JPG",
+            "length": "2914",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/nothing-phone-3-back-table.JPG"
+        },
+        {
           "id": "https://www.androidpolice.com/android-17-rolling-out-to-more-motorola-phones-full-list/",
           "author": "Jade Bryan Jardinico",
           "description": "Motorola confirms Android 17 for more Razr, Edge, and Moto devices",
@@ -12082,6 +12122,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/gta-6-arrive-pc-soon-developer-unofficial-switch-2-zelda-ocarina-of-time-remake-port/",
+          "author": "Patrick O'Rourke",
+          "description": "The project is still in the early stages and the game doesn't currently even boot.",
+          "link": "https://www.xda-developers.com/gta-6-arrive-pc-soon-developer-unofficial-switch-2-zelda-ocarina-of-time-remake-port/",
+          "publishedOn": "2026-11-22T01:42:18.000Z",
+          "wordCount": 4505,
+          "title": "GTA 6 could arrive on PC sooner than expected, thanks to a developer behind an unofficial Switch 2 Zelda: Ocarina of Time remake port",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gta-6-lucia-jason-1.jpg",
+            "length": "677",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gta-6-lucia-jason-1.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/windows-trained-me-into-habits-that-i-never-have-to-think-about-on-linux/",
+          "author": "Simon Batt",
+          "description": "I didn't recognise the hoops I was jumping through until they weren't there anymore.",
+          "link": "https://www.xda-developers.com/windows-trained-me-into-habits-that-i-never-have-to-think-about-on-linux/",
+          "publishedOn": "2026-11-22T01:00:20.000Z",
+          "wordCount": 4932,
+          "title": "Windows trained me into habits that I never have to think about on Linux",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/unigetui-on-windows-and-linux.jpg",
+            "length": "19225",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/unigetui-on-windows-and-linux.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/replacing-lovable-replit-claude-design-with-free-open-source-app-builder/",
+          "author": "Nolen Jonker",
+          "description": "Reverse-engineer anything",
+          "link": "https://www.xda-developers.com/replacing-lovable-replit-claude-design-with-free-open-source-app-builder/",
+          "publishedOn": "2026-11-22T00:00:20.000Z",
+          "wordCount": 5796,
+          "title": "I replaced Lovable, Replit, and Claude Design with a free open-source app builder, and it's better in every way",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/building-app-with-craft-anything-on-desktop-pc.jpeg",
+            "length": "2777",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/building-app-with-craft-anything-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/dont-have-playstation-5-but-the-best-gta-game-has-been-on-pc-decades/",
+          "author": "João Carrasqueira",
+          "description": "GTA VI may have the biggest, most detailed world gaming has to offer. But the most fun game in the series doesn't need any of that.",
+          "link": "https://www.xda-developers.com/dont-have-playstation-5-but-the-best-gta-game-has-been-on-pc-decades/",
+          "publishedOn": "2026-11-21T23:00:20.000Z",
+          "wordCount": 6180,
+          "title": "I don't have a PlayStation 5, but the best GTA game has been on my PC for decades",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gta2-on-pc.jpg",
+            "length": "20602",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/gta2-on-pc.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-moved-open-source-software-trust-tools-more-than-ever/",
+          "author": "Simon Batt",
+          "description": "No one entity owns it, and that's why I love it.",
+          "link": "https://www.xda-developers.com/i-moved-open-source-software-trust-tools-more-than-ever/",
+          "publishedOn": "2026-11-21T22:30:20.000Z",
+          "wordCount": 4747,
+          "title": "I moved to open-source software, and I trust my tools more than ever",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/tux-linux-featured.jpg",
+            "length": "3015",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/tux-linux-featured.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/used-old-laptop-as-home-server-for-a-year-4-surprises-stood-out/",
+          "author": "Shekhar Vaidya",
+          "description": "Cheap to start, costly to ignore.",
+          "link": "https://www.xda-developers.com/used-old-laptop-as-home-server-for-a-year-4-surprises-stood-out/",
+          "publishedOn": "2026-11-21T22:00:20.000Z",
+          "wordCount": 5779,
+          "title": "I used an old laptop as a home server for a year, and 4 surprises stood out",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/dell-latitude-running-debian-xfce.jpeg",
+            "length": "741",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/dell-latitude-running-debian-xfce.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/the-memory-crunch-has-me-rethinking-every-pc-build-for-2026/",
+          "author": "Joe Rice-Jones",
+          "description": "Black Friday isn't going to solve things, either",
+          "link": "https://www.xda-developers.com/the-memory-crunch-has-me-rethinking-every-pc-build-for-2026/",
+          "publishedOn": "2026-11-21T21:30:20.000Z",
+          "wordCount": 7892,
+          "title": "The memory crunch has me rethinking every PC build I plan for 2026",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/am5-motherboard-and-processor-with-cpu-cooler-water-pump-in-gaming-pc.jpg",
+            "length": "2753",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/am5-motherboard-and-processor-with-cpu-cooler-water-pump-in-gaming-pc.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/tried-dozens-free-adobe-acrobat-alternatives-only-one-does-everything-i-paid-for/",
+          "author": "Nolen Jonker",
+          "description": "Free PDF software has finally caught up",
+          "link": "https://www.xda-developers.com/tried-dozens-free-adobe-acrobat-alternatives-only-one-does-everything-i-paid-for/",
+          "publishedOn": "2026-11-21T21:00:20.000Z",
+          "wordCount": 6423,
+          "title": "I tried dozens of free alternatives to Adobe Acrobat, and only one does everything I paid for",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/editing-pd-in-pdfcraft-on-desktop-pc.jpeg",
+            "length": "2883",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/editing-pd-in-pdfcraft-on-desktop-pc.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/best-3d-printed-items-worth-gifting/",
+          "author": "Chandraveer Mathur",
+          "description": "Never hurts to lead the way with a functional present.",
+          "link": "https://www.xda-developers.com/best-3d-printed-items-worth-gifting/",
+          "publishedOn": "2026-11-21T20:30:20.000Z",
+          "wordCount": 5781,
+          "title": "Forget the figurines: 4 useful 3D prints that are actually worth gifting",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/side-profile-of-geared-phone-stand.JPG",
+            "length": "11959",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/side-profile-of-geared-phone-stand.JPG"
+        },
+        {
+          "id": "https://www.xda-developers.com/old-car-running-android-auto-beats-new-car-infotainment/",
+          "author": "Tanveer Singh",
+          "description": "Newer built-in systems still can't compete with Android Auto and a spare phone",
+          "link": "https://www.xda-developers.com/old-car-running-android-auto-beats-new-car-infotainment/",
+          "publishedOn": "2026-11-21T20:00:20.000Z",
+          "wordCount": 6042,
+          "title": "A ten-year-old car running Android Auto beats most new cars' built-in infotainment systems, and it isn't close",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/old-car-infotainment-screen.jpg",
+            "length": "446",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/old-car-infotainment-screen.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/plex-is-killing-off-thetvdb-metadata-support-and-people-arent-happy/",
           "author": "Simon Batt",
