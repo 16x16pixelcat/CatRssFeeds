@@ -2,10 +2,306 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://16x16pixelcat.github.io/CatRssFeeds/index.html</id>
     <title>CatRssFeeds</title>
-    <updated>2026-11-22T05:49:11.825Z</updated>
+    <updated>2026-11-23T06:36:28.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://16x16pixelcat.github.io/CatRssFeeds/index.html"/>
     <link rel="self" href="https://16x16pixelcat.github.io/CatRssFeeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google explains the 6GB RAM and 10GB storage demands for its new 3D emoji]]></title>
+        <id>https://www.androidauthority.com/google-3d-emoji-storage-ram-requirements-explained-3738000/</id>
+        <link href="https://www.androidauthority.com/google-3d-emoji-storage-ram-requirements-explained-3738000/"/>
+        <updated>2026-11-23T06:03:26.000Z</updated>
+        <summary type="html"><![CDATA[The numbers make more sense now.]]></summary>
+        <author>
+            <name>Hillary Keverenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GrapheneOS just built its own RCS messaging app that makes Google Messages unnecessary]]></title>
+        <id>https://www.androidauthority.com/grapheneos-rcs-messaging-app-google-messages-3738003/</id>
+        <link href="https://www.androidauthority.com/grapheneos-rcs-messaging-app-google-messages-3738003/"/>
+        <updated>2026-11-23T05:40:10.000Z</updated>
+        <summary type="html"><![CDATA[It's a proof-of-concept app right now, but the eventual goal is a standalone implementation for supported carriers.]]></summary>
+        <author>
+            <name>Adamya Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You, too, can build this ESP32 portrait with eyes that follow you around the room]]></title>
+        <id>https://www.xda-developers.com/you-too-can-build-this-esp32-portrait-with-eyes-that-follow-you-around-the-room/</id>
+        <link href="https://www.xda-developers.com/you-too-can-build-this-esp32-portrait-with-eyes-that-follow-you-around-the-room/"/>
+        <updated>2026-11-23T05:11:46.000Z</updated>
+        <summary type="html"><![CDATA[For pictures that stare back.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube is cooking up 7 new app icons, and the retro designs are a treat]]></title>
+        <id>https://www.androidauthority.com/youtube-new-app-icons-3737984/</id>
+        <link href="https://www.androidauthority.com/youtube-new-app-icons-3737984/"/>
+        <updated>2026-11-23T03:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Remember the old YouTube TV icon? It could soon return to your home screen.]]></summary>
+        <author>
+            <name>Adamya Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s RDMA over USB4 will make running local AI models on multiple Windows 11 machines a lot easier]]></title>
+        <id>https://www.xda-developers.com/microsofts-rdma-over-usb4-will-make-running-local-ai-models-on-windows-11-a-lot-easier/</id>
+        <link href="https://www.xda-developers.com/microsofts-rdma-over-usb4-will-make-running-local-ai-models-on-windows-11-a-lot-easier/"/>
+        <updated>2026-11-23T01:11:23.000Z</updated>
+        <summary type="html"><![CDATA[No more need for a special adapter.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running local LLMs in a Proxmox LXC is closer to bare metal than you’d think]]></title>
+        <id>https://www.xda-developers.com/running-local-llms-in-a-proxmox-lxc-is-closer-to-bare-metal-than-youd-think/</id>
+        <link href="https://www.xda-developers.com/running-local-llms-in-a-proxmox-lxc-is-closer-to-bare-metal-than-youd-think/"/>
+        <updated>2026-11-23T01:01:21.000Z</updated>
+        <summary type="html"><![CDATA[And comes with a host of benefits that you might not have thought of]]></summary>
+        <author>
+            <name>Joe Rice-Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone used Claude Code to build an hourglass that blocks distracting apps, and that's just one of 5 wild projects]]></title>
+        <id>https://www.xda-developers.com/someone-used-claude-code-to-build-hourglass-one-of-five-projects/</id>
+        <link href="https://www.xda-developers.com/someone-used-claude-code-to-build-hourglass-one-of-five-projects/"/>
+        <updated>2026-11-23T00:30:20.000Z</updated>
+        <summary type="html"><![CDATA[You're seriously underestimating what Claude Code can do]]></summary>
+        <author>
+            <name>Mahnoor Faisal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker troubleshooting got easier once I handed the logs to Claude Code]]></title>
+        <id>https://www.xda-developers.com/docker-troubleshooting-got-easier-once-i-handed-the-logs-to-claude-code/</id>
+        <link href="https://www.xda-developers.com/docker-troubleshooting-got-easier-once-i-handed-the-logs-to-claude-code/"/>
+        <updated>2026-11-23T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[My Docker containers have a new troubleshooting partner, and it's surprisingly good at spotting trouble.]]></summary>
+        <author>
+            <name>Yash Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Google Maps' social features]]></title>
+        <id>https://www.androidpolice.com/why-google-maps-is-my-social-planner-now-not-my-navigator/</id>
+        <link href="https://www.androidpolice.com/why-google-maps-is-my-social-planner-now-not-my-navigator/"/>
+        <updated>2026-11-23T00:00:10.000Z</updated>
+        <summary type="html"><![CDATA[It works better that way]]></summary>
+        <author>
+            <name>Jon Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My record player streams to every speaker in the house now, thanks to a Raspberry Pi hidden behind the turntable]]></title>
+        <id>https://www.xda-developers.com/my-record-player-streams-to-every-speaker-thanks-to-pi-hidden-behind-turntable/</id>
+        <link href="https://www.xda-developers.com/my-record-player-streams-to-every-speaker-thanks-to-pi-hidden-behind-turntable/"/>
+        <updated>2026-11-22T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Streaming legacy vinyl media throughout my home with modern technology is cool.]]></summary>
+        <author>
+            <name>Brian Burgess</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After 13 years of using it, KaOS strips out KDE Plasma due to concerns over Systemd]]></title>
+        <id>https://www.xda-developers.com/after-13-years-of-using-it-kaos-strips-out-kde-plasma-due-to-concerns-over-systemd/</id>
+        <link href="https://www.xda-developers.com/after-13-years-of-using-it-kaos-strips-out-kde-plasma-due-to-concerns-over-systemd/"/>
+        <updated>2026-11-22T22:52:04.000Z</updated>
+        <summary type="html"><![CDATA[The move was brewing since February.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built the same website twice with Claude Code, and one free design skill made all the difference]]></title>
+        <id>https://www.xda-developers.com/built-the-same-website-twice-with-claude-code-one-free-design-skill-made-all-the-difference/</id>
+        <link href="https://www.xda-developers.com/built-the-same-website-twice-with-claude-code-one-free-design-skill-made-all-the-difference/"/>
+        <updated>2026-11-22T22:31:21.000Z</updated>
+        <summary type="html"><![CDATA[A tale of two websites (and one very useful skill)]]></summary>
+        <author>
+            <name>Mahnoor Faisal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CachyOS’s November release paves the way for playing EAC-covered games on Linux]]></title>
+        <id>https://www.xda-developers.com/cachyoss-november-release-paves-the-way-for-playing-eac-covered-games-on-linux/</id>
+        <link href="https://www.xda-developers.com/cachyoss-november-release-paves-the-way-for-playing-eac-covered-games-on-linux/"/>
+        <updated>2026-11-22T22:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Plus, some shiny new UIs for some of its key features.]]></summary>
+        <author>
+            <name>Simon Batt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I asked Claude Code, Codex, and Google Antigravity to build a complex website, but only one was ready to go live]]></title>
+        <id>https://www.xda-developers.com/asked-claude-code-codex-google-antigravity-build-website-only-one-ready/</id>
+        <link href="https://www.xda-developers.com/asked-claude-code-codex-google-antigravity-build-website-only-one-ready/"/>
+        <updated>2026-11-22T22:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Only one passed my real-world checklist]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I used Gemini to create an Android app that my family uses; they love it]]></title>
+        <id>https://www.androidpolice.com/used-gemini-to-create-android-app-that-my-family-uses-they-love-it/</id>
+        <link href="https://www.androidpolice.com/used-gemini-to-create-android-app-that-my-family-uses-they-love-it/"/>
+        <updated>2026-11-22T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[From a simple prompt to reality]]></summary>
+        <author>
+            <name>Parth Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’]]></title>
+        <id>https://9to5google.com/?p=739433</id>
+        <link href="https://9to5google.com/2026/11/22/pixel-weather-report/"/>
+        <updated>2026-11-22T21:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks.
+more…]]></summary>
+        <author>
+            <name>Abner Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I found a way to get Pixel updates without waiting for Google]]></title>
+        <id>https://www.androidpolice.com/way-to-manually-install-pixel-updates/</id>
+        <link href="https://www.androidpolice.com/way-to-manually-install-pixel-updates/"/>
+        <updated>2026-11-22T20:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Update your Pixel without waiting for an OTA]]></summary>
+        <author>
+            <name>Sanuj Bhatia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I let Ask Maps, Gemini, and ChatGPT plan my weekend trip]]></title>
+        <id>https://www.androidpolice.com/let-google-maps-gemini-chatgpt-plan-weekend-trip-trust-maps-least/</id>
+        <link href="https://www.androidpolice.com/let-google-maps-gemini-chatgpt-plan-weekend-trip-trust-maps-least/"/>
+        <updated>2026-11-22T18:45:10.000Z</updated>
+        <summary type="html"><![CDATA[I asked Google Maps' Ask Maps, Gemini, and ChatGPT to plan the same Chicago weekend. Ask Maps looked best but got most of the details wrong.]]></summary>
+        <author>
+            <name>Haroun Adamu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One UI 9.5 is here and I'm already loving these features]]></title>
+        <id>https://www.androidpolice.com/one-ui-9-5-features-you-should-try/</id>
+        <link href="https://www.androidpolice.com/one-ui-9-5-features-you-should-try/"/>
+        <updated>2026-11-22T18:00:11.000Z</updated>
+        <summary type="html"><![CDATA[My S26 feels new again]]></summary>
+        <author>
+            <name>AP Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kindle Click changed the way I use my Paperwhite (and got me back on the treadmill)]]></title>
+        <id>https://www.androidpolice.com/kindle-click-changed-way-i-use-paperwhite-back-on-the-treadmill/</id>
+        <link href="https://www.androidpolice.com/kindle-click-changed-way-i-use-paperwhite-back-on-the-treadmill/"/>
+        <updated>2026-11-22T17:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Friction melts away while cooking or biking thanks to a light wrist-strap remote that pairs in seconds]]></summary>
+        <author>
+            <name>Jesse Hollington</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I stopped losing my wireless Android Auto connection mid-drive with these fixes]]></title>
+        <id>https://www.androidpolice.com/stopped-losing-wireless-android-auto-connection-fixes/</id>
+        <link href="https://www.androidpolice.com/stopped-losing-wireless-android-auto-connection-fixes/"/>
+        <updated>2026-11-22T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Here's how I fixed wireless Android Auto drops]]></summary>
+        <author>
+            <name>Anu Joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?]]></title>
+        <id>https://9to5google.com/?p=737255</id>
+        <link href="https://9to5google.com/2026/11/22/samsung-galaxy-watch-ultra-2-vs-watch-9-when-is-it-right-to-spend-more/"/>
+        <updated>2026-11-22T14:26:51.000Z</updated>
+        <summary type="html"><![CDATA[The Samsung Galaxy Watch Ultra 2 is worth spending more on if you want longer battery life, a brighter outdoor display, and specialized features for trail running and diving. The Galaxy Watch 9 is the better fit if you want Samsung’s latest everyday health tools in a smaller, lighter watch.
+Both, however, are fantastic smartwatches with limitless potential. They share a Snapdragon Wear Elite processor and many of Samsung’s newest wellness features, so deciding between them is really about figuring out your priorities when it comes to buying a wearable this holiday season. We’re here to help you figure that out.
+more…]]></summary>
+        <author>
+            <name>Sponsored Post</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Google Home app is better than Nest alone ever was, mostly]]></title>
+        <id>https://9to5google.com/?p=739186</id>
+        <link href="https://9to5google.com/2026/11/22/google-home-app-better-than-nest/"/>
+        <updated>2026-11-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Nest app is officially dead, but it’s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever could have been.
+9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of key stories from around the web by Daniel Bader. Sign up here to get Weekender delivered to your inbox every Sunday along with ‘Inbox’ on Tuesday and Thursday. You can find past issues here.
+Sign up below to access the web version.
+more…]]></summary>
+        <author>
+            <name>Ben Schoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waterfox does everything Firefox can, but with even less bloat]]></title>
+        <id>https://www.androidpolice.com/waterfox-features-privacy-less-ai-firefox-android-browser/</id>
+        <link href="https://www.androidpolice.com/waterfox-features-privacy-less-ai-firefox-android-browser/"/>
+        <updated>2026-11-22T13:45:10.000Z</updated>
+        <summary type="html"><![CDATA[I installed Waterfox as an alternative to Firefox. I'm now using Waterfox as my full-time Android browser.]]></summary>
+        <author>
+            <name>Marvin Velasco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday]]></title>
+        <id>https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/</id>
+        <link href="https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/"/>
+        <updated>2026-11-22T13:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Save $90 on TCL's 12.2-inch paper-like tablet, now $20 below the previous best price on Amazon.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google's early Android 17 QPR2 release is your sign to switch to the Pixel]]></title>
+        <id>https://www.androidpolice.com/googles-early-android-17-qpr2-release-is-your-sign-to-switch-to-the-pixel/</id>
+        <link href="https://www.androidpolice.com/googles-early-android-17-qpr2-release-is-your-sign-to-switch-to-the-pixel/"/>
+        <updated>2026-11-22T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Pixels get over 200 security fixes, foldable window handles, and rear light alerts while other phones wait months]]></summary>
+        <author>
+            <name>Justice Ekaeze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a Google Home holiday mode that follows my presence and TV use instead of simple schedules]]></title>
+        <id>https://www.androidpolice.com/i-built-a-google-home-holiday-mode-that-follows-my-presence-and-tv-use-instead-of-simple-schedules/</id>
+        <link href="https://www.androidpolice.com/i-built-a-google-home-holiday-mode-that-follows-my-presence-and-tv-use-instead-of-simple-schedules/"/>
+        <updated>2026-11-22T12:00:10.000Z</updated>
+        <summary type="html"><![CDATA[A 10-minute Google Home workflow syncs Hue scenes, a smart plug tree light, and a speaker to greet your arrival]]></summary>
+        <author>
+            <name>Dhruv Bhutani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off]]></title>
+        <id>https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/</id>
+        <link href="https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/"/>
+        <updated>2026-11-22T11:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Samsung's 5.1.2-channel Q-Series soundbar with a wireless subwoofer is 36% off on Amazon ahead of Black Friday.]]></summary>
+        <author>
+            <name>Matt Horne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I got Samsung’s best multitasking feature on my Pixel for free]]></title>
+        <id>https://www.androidauthority.com/how-i-got-samsungs-best-multitasking-feature-on-my-pixel-for-free-3736624/</id>
+        <link href="https://www.androidauthority.com/how-i-got-samsungs-best-multitasking-feature-on-my-pixel-for-free-3736624/"/>
+        <updated>2026-11-22T10:30:21.000Z</updated>
+        <summary type="html"><![CDATA[It keeps my muscle memory intact when I switch to my Pixel.]]></summary>
+        <author>
+            <name>Yash Wate</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GTA 6 could arrive on PC sooner than expected, thanks to a developer behind an unofficial Switch 2 Zelda: Ocarina of Time remake port]]></title>
         <id>https://www.xda-developers.com/gta-6-arrive-pc-soon-developer-unofficial-switch-2-zelda-ocarina-of-time-remake-port/</id>
@@ -15081,273 +15377,6 @@ more…]]></summary>
 more…]]></summary>
         <author>
             <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This clever USB-C cable doubles as a stand for your phone [Gallery]]]></title>
-        <id>https://9to5google.com/?p=734374</id>
-        <link href="https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/"/>
-        <updated>2026-10-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[One of my favorite things about the rise of magnetic wireless charging has been the prevalence of chargers that hold my phone upright on my nightstand. But, when travelling, that tends to be a bit more cumbersome, or at least a little more expensive. The folks over at Statik have come up with a clever solution, a USB-C cable that has a kickstand for your phone with no added bulk.
-more…]]></summary>
-        <author>
-            <name>Ben Schoon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 3.9]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244963</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244963"/>
-        <updated>2026-10-23T22:04:26.000Z</updated>
-        <summary type="html"><![CDATA[SteamOS 3.9.5 has just been released for all users with the following changes
-
-These notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release
-
-SteamOS 3.9
-General
-
-Updated Arch Linux base
-
-Updated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3
-
-For more information, see
-https://kde.org/announcements/plasma/6/6.7.0/
-https://kde.org/announcements/plasma/6/6.6.0/
-https://kde.org/announcements/plasma/6/6.5.0/
-
-
-Improved support for Steam Frame wireless adapter
-
-Improved idle power consumption on Steam Deck when no audio is playing
-
-Fixed a bug causing hidden WiFi networks to fail to connect on the first attempt
-
-Fixed Steam Remote Play not working on Steam Machine when booting with no external display connected
-…]]></summary>
-        <author>
-            <name>steam RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 3.9]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244963</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244963"/>
-        <updated>2026-10-23T22:04:26.000Z</updated>
-        <summary type="html"><![CDATA[SteamOS 3.9.5 has just been released for all users with the following changes
-
-These notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release
-
-SteamOS 3.9
-General
-
-Updated Arch Linux base
-
-Updated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3
-
-For more information, see
-https://kde.org/announcements/plasma/6/6.7.0/
-https://kde.org/announcements/plasma/6/6.6.0/
-https://kde.org/announcements/plasma/6/6.5.0/
-
-
-Improved support for Steam Frame wireless adapter
-
-Improved idle power consumption on Steam Deck when no audio is playing
-
-Fixed a bug causing hidden WiFi networks to fail to connect on the first attempt
-
-Fixed Steam Remote Play not working on Steam Machine when booting with no external display connected
-…]]></summary>
-        <author>
-            <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 3.9.5 Beta]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244961</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244961"/>
-        <updated>2026-10-23T22:04:14.000Z</updated>
-        <summary type="html"><![CDATA[This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-
-These notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below
-
-New in SteamOS 3.9.5
-General
-
-Security and stability updates
-
-Improved idle power consumption on Steam Deck when no audio is playing
-
-Developer
-
- Actually reintroduced support for Android binder IPC for real this time
-
-
-SteamOS 3.9
-General
-
-Updated Arch Linux base
-
-Updated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3
-
-For more information, see
-https://kde.org/announcements/plasma/6/6.7.0/
-https://kde.org/announcements/plasma/6/6.6.0/
-https://kde.org/announce…]]></summary>
-        <author>
-            <name>steam RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 3.9.5 Beta]]></title>
-        <id>https://store.steampowered.com/news/app/1675200/view/694275728822244961</id>
-        <link href="https://store.steampowered.com/news/app/1675200/view/694275728822244961"/>
-        <updated>2026-10-23T22:04:14.000Z</updated>
-        <summary type="html"><![CDATA[This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.
-
-These notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below
-
-New in SteamOS 3.9.5
-General
-
-Security and stability updates
-
-Improved idle power consumption on Steam Deck when no audio is playing
-
-Developer
-
- Actually reintroduced support for Android binder IPC for real this time
-
-
-SteamOS 3.9
-General
-
-Updated Arch Linux base
-
-Updated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3
-
-For more information, see
-https://kde.org/announcements/plasma/6/6.7.0/
-https://kde.org/announcements/plasma/6/6.6.0/
-https://kde.org/announce…]]></summary>
-        <author>
-            <name>1675200 RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini for Android rolls out side panel and settings redesign]]></title>
-        <id>https://9to5google.com/?p=733865</id>
-        <link href="https://9to5google.com/2026/10/23/gemini-settings-redesign-android/"/>
-        <updated>2026-10-23T22:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Following the Spark-to-Task update, the Gemini app has now rolled out redesigns of the side panel and settings on Android.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, & more]]></title>
-        <id>https://9to5google.com/?p=734525</id>
-        <link href="https://9to5google.com/2026/10/23/google-health-5-11-release-notes/"/>
-        <updated>2026-10-23T21:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Google Health 5.11 is rolling out this week as a rather big update for Fitbit trackers and the Pixel Watch.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Messages rolling out Enhanced Protection mode against spam and scams]]></title>
-        <id>https://9to5google.com/?p=734448</id>
-        <link href="https://9to5google.com/2026/10/23/google-messages-enhanced-protection/"/>
-        <updated>2026-10-23T20:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Following the announcement earlier this month, Google Messages for Android is rolling out an Enhanced Protection mode to counter spam and scams.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixelated 122: Seven years late, same foldable problems]]></title>
-        <id>https://9to5google.com/?p=734459</id>
-        <link href="https://9to5google.com/2026/10/23/pixelated-122-seven-years-late-same-foldable-problems/"/>
-        <updated>2026-10-23T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Pixelated episode 122. This week, Abner, Damien, and Will discuss the first slate of iPhone Duo reviews, as Apple dives headfirst into a crowded foldable field for thee very first time. What should Android OEMs learn from the iPhone Duo, and what did Apple fail to catch up to the competition on? As always, there’s plenty to discuss.
-Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode.
-Sponsored by Proton Unlimited: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link. Thanks to Proton Unlimited for sponsoring the podcast.
-
-
-
-
-Subscribe
-YouTube Podcasts
-Pocket Casts
-Spotify
-Amazon Music
-Apple Podcasts
-Overcast
-more…]]></summary>
-        <author>
-            <name>Will Sattelberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini Notebook now available as Connected App for deeper integration]]></title>
-        <id>https://9to5google.com/?p=734515</id>
-        <link href="https://9to5google.com/2026/10/23/gemini-notebook-connected-app/"/>
-        <updated>2026-10-23T20:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Gemini Notebooks are already available in the Gemini app side panel, but Google is now adding deeper Connected App integration.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam's Personal Calendar Full Release]]></title>
-        <id>https://store.steampowered.com/news/app/593110/view/710037059469839718</id>
-        <link href="https://store.steampowered.com/news/app/593110/view/710037059469839718"/>
-        <updated>2026-10-23T20:10:32.000Z</updated>
-        <summary type="html"><![CDATA[With today's Steam update, the Personal Calendar feature officially graduates from Steam Labs and is considered a full feature of the Steam Store. You can find it right on your Steam store homepage, or by visiting https://store.steampowered.com/personalcalendar
-
-About the Personal Calendar
-The Steam Personal Calendar is another way to see recommended games for you, showing both recently released and upcoming games filtered down to the the set of games we think you are most likely to be interested in. It uses your recently played games to find people with similar playtime profiles to you, and then looks at the games those players have been adding to their wishlist or playing.
-
-Based on games you play a lot: The system focuses on your playtime for games that you play the most. So, a few minu…]]></summary>
-        <author>
-            <name>steam RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more]]></title>
-        <id>https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/</id>
-        <link href="https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/"/>
-        <updated>2026-10-23T19:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Friday’s best Google Play app and game deals are ready, including DREDGE, Slaps And Beans, Argo’s Choice: Offline Game, The Ancestral Legacy, Ticket to Ride, Thronefall, Demon Castle Story, Lumino City, and more. Just be sure to dive into Pixel Watch 5 at up to $150 off, the most affordable Galaxy Z Fold 8 at over $400 off, and a new all-time low on Lenovo’s latest Tab Plus Gen 2. The apps await below. 
-more…]]></summary>
-        <author>
-            <name>9to5Toys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google will target ads based on Gmail, Photos data if Personal Intelligence is enabled]]></title>
-        <id>https://9to5google.com/?p=734508</id>
-        <link href="https://9to5google.com/2026/10/23/google-will-target-ads-based-on-gmail-photos-data-if-personal-intelligence-is-enabled/"/>
-        <updated>2026-10-23T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re an Android user, you’ve probably trusted Google with mountains of your own personal data over the last couple of decades. Now, a new privacy policy update suggests that the company is finally dipping into that data to target personalized ads, and you can’t opt out with disabling Personal Intelligence.
-more…]]></summary>
-        <author>
-            <name>Will Sattelberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch]]></title>
-        <id>https://9to5google.com/?p=734460</id>
-        <link href="https://9to5google.com/2026/10/23/google-health-expanded-activity-detection/"/>
-        <updated>2026-10-23T18:36:47.000Z</updated>
-        <summary type="html"><![CDATA[With the Fitbit Edge announcement, Google Health previewed improved automatic activity tracking, and it’s now beginning to roll out with version 5.11 of the app.
-more…]]></summary>
-        <author>
-            <name>Abner Li</name>
         </author>
     </entry>
 </feed>

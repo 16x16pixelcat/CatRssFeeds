@@ -350,41 +350,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://clan.fastly.steamstatic.com/images/39049601/e9958efd92776a01b08d19e70fe26d30a7196fb1.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
-          "author": null,
-          "description": "SteamOS 3.9.5 has just been released for all users with the following changes\n\nThese notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announcements/plasma/6/6.5.0/\n\n\nImproved support for Steam Frame wireless adapter\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nFixed a bug causing hidden WiFi networks to fail to connect on the first attempt\n\nFixed Steam Remote Play not working on Steam Machine when booting with no external display connected\n…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
-          "publishedOn": "2026-10-23T22:04:26.000Z",
-          "wordCount": 388,
-          "title": "SteamOS 3.9",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
-          "author": null,
-          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.5\nGeneral\n\nSecurity and stability updates\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nDeveloper\n\n Actually reintroduced support for Android binder IPC for real this time\n\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announce…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
-          "publishedOn": "2026-10-23T22:04:14.000Z",
-          "wordCount": 389,
-          "title": "SteamOS 3.9.5 Beta",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/593110/view/710037059469839718",
-          "author": null,
-          "description": "With today's Steam update, the Personal Calendar feature officially graduates from Steam Labs and is considered a full feature of the Steam Store. You can find it right on your Steam store homepage, or by visiting https://store.steampowered.com/personalcalendar\n\nAbout the Personal Calendar\nThe Steam Personal Calendar is another way to see recommended games for you, showing both recently released and upcoming games filtered down to the the set of games we think you are most likely to be interested in. It uses your recently played games to find people with similar playtime profiles to you, and then looks at the games those players have been adding to their wishlist or playing.\n\nBased on games you play a lot: The system focuses on your playtime for games that you play the most. So, a few minu…",
-          "link": "https://store.steampowered.com/news/app/593110/view/710037059469839718",
-          "publishedOn": "2026-10-23T20:10:32.000Z",
-          "wordCount": 391,
-          "title": "Steam's Personal Calendar Full Release",
-          "enclosure": {
-            "url": "https://clan.fastly.steamstatic.com/images/27766192/1c92bdb017fb48adb602d4e3e1ddffd9301bcd8a.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://clan.fastly.steamstatic.com/images/27766192/1c92bdb017fb48adb602d4e3e1ddffd9301bcd8a.png"
         }
       ]
     },
@@ -461,26 +426,6 @@
           "publishedOn": "2026-10-26T23:51:35.000Z",
           "wordCount": 392,
           "title": "Steam Beta Client Update: October 26th",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
-          "author": null,
-          "description": "SteamOS 3.9.5 has just been released for all users with the following changes\n\nThese notes contain all changes since the previous SteamOS 3.8 stable release. See here for changes since the previous SteamOS 3.9.4 beta release\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announcements/plasma/6/6.5.0/\n\n\nImproved support for Steam Frame wireless adapter\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nFixed a bug causing hidden WiFi networks to fail to connect on the first attempt\n\nFixed Steam Remote Play not working on Steam Machine when booting with no external display connected\n…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244963",
-          "publishedOn": "2026-10-23T22:04:26.000Z",
-          "wordCount": 388,
-          "title": "SteamOS 3.9",
-          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
-          "author": null,
-          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.8 release, with the changes added since the previous 3.9 preview releases noted below\n\nNew in SteamOS 3.9.5\nGeneral\n\nSecurity and stability updates\n\nImproved idle power consumption on Steam Deck when no audio is playing\n\nDeveloper\n\n Actually reintroduced support for Android binder IPC for real this time\n\n\nSteamOS 3.9\nGeneral\n\nUpdated Arch Linux base\n\nUpdated Desktop Mode from Plasma 6.4.3 to Plasma 6.7.3\n\nFor more information, see\nhttps://kde.org/announcements/plasma/6/6.7.0/\nhttps://kde.org/announcements/plasma/6/6.6.0/\nhttps://kde.org/announce…",
-          "link": "https://store.steampowered.com/news/app/1675200/view/694275728822244961",
-          "publishedOn": "2026-10-23T22:04:14.000Z",
-          "wordCount": 389,
-          "title": "SteamOS 3.9.5 Beta",
           "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
         }
       ]
@@ -684,6 +629,36 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=739433",
+          "author": "Abner Li",
+          "description": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks.\nmore…",
+          "link": "https://9to5google.com/2026/11/22/pixel-weather-report/",
+          "publishedOn": "2026-11-22T21:12:41.000Z",
+          "wordCount": 3524,
+          "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Weather-App.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737255",
+          "author": "Sponsored Post",
+          "description": "The Samsung Galaxy Watch Ultra 2 is worth spending more on if you want longer battery life, a brighter outdoor display, and specialized features for trail running and diving. The Galaxy Watch 9 is the better fit if you want Samsung’s latest everyday health tools in a smaller, lighter watch.\nBoth, however, are fantastic smartwatches with limitless potential. They share a Snapdragon Wear Elite processor and many of Samsung’s newest wellness features, so deciding between them is really about figuring out your priorities when it comes to buying a wearable this holiday season. We’re here to help you figure that out.\nmore…",
+          "link": "https://9to5google.com/2026/11/22/samsung-galaxy-watch-ultra-2-vs-watch-9-when-is-it-right-to-spend-more/",
+          "publishedOn": "2026-11-22T14:26:51.000Z",
+          "wordCount": 3762,
+          "title": "Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Watch-9-and-Watch-Ultra-2-v1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739186",
+          "author": "Ben Schoon",
+          "description": "The Nest app is officially dead, but it’s worth taking a step back and remembering that, while there are some rough edges, the Google Home app is a better smart home experience than Nest alone ever could have been.\n9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of key stories from around the web by Daniel Bader. Sign up here to get Weekender delivered to your inbox every Sunday along with ‘Inbox’ on Tuesday and Thursday. You can find past issues here.\nSign up below to access the web version.\nmore…",
+          "link": "https://9to5google.com/2026/11/22/google-home-app-better-than-nest/",
+          "publishedOn": "2026-11-22T14:00:00.000Z",
+          "wordCount": 4057,
+          "title": "The Google Home app is better than Nest alone ever was, mostly",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-app-android-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=739420",
           "author": "Abner Li",
@@ -4693,96 +4668,6 @@
           "wordCount": 3963,
           "title": "What tech is making you happy?",
           "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Edge-vs-Fitbit-Air-3.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734374",
-          "author": "Ben Schoon",
-          "description": "One of my favorite things about the rise of magnetic wireless charging has been the prevalence of chargers that hold my phone upright on my nightstand. But, when travelling, that tends to be a bit more cumbersome, or at least a little more expensive. The folks over at Statik have come up with a clever solution, a USB-C cable that has a kickstand for your phone with no added bulk.\nmore…",
-          "link": "https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/",
-          "publishedOn": "2026-10-24T13:30:00.000Z",
-          "wordCount": 3759,
-          "title": "This clever USB-C cable doubles as a stand for your phone [Gallery]",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/statik-powerstand-7.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=733865",
-          "author": "Abner Li",
-          "description": "Following the Spark-to-Task update, the Gemini app has now rolled out redesigns of the side panel and settings on Android.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
-          "publishedOn": "2026-10-23T22:02:00.000Z",
-          "wordCount": 3560,
-          "title": "Gemini for Android rolls out side panel and settings redesign",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734525",
-          "author": "Abner Li",
-          "description": "Google Health 5.11 is rolling out this week as a rather big update for Fitbit trackers and the Pixel Watch.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/google-health-5-11-release-notes/",
-          "publishedOn": "2026-10-23T21:00:10.000Z",
-          "wordCount": 3234,
-          "title": "Google Health 5.11 rolling out with Fitbit Air Health Guardian, improved sleep tracking, & more",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-fitbit-air-hands-on-13.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734448",
-          "author": "Abner Li",
-          "description": "Following the announcement earlier this month, Google Messages for Android is rolling out an Enhanced Protection mode to counter spam and scams.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/google-messages-enhanced-protection/",
-          "publishedOn": "2026-10-23T20:47:00.000Z",
-          "wordCount": 3666,
-          "title": "Google Messages rolling out Enhanced Protection mode against spam and scams",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-3.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734459",
-          "author": "Will Sattelberg",
-          "description": "Welcome to Pixelated episode 122. This week, Abner, Damien, and Will discuss the first slate of iPhone Duo reviews, as Apple dives headfirst into a crowded foldable field for thee very first time. What should Android OEMs learn from the iPhone Duo, and what did Apple fail to catch up to the competition on? As always, there’s plenty to discuss.\nEnjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode.\nSponsored by Proton Unlimited: Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link. Thanks to Proton Unlimited for sponsoring the podcast.\n\n\n\n\nSubscribe\nYouTube Podcasts\nPocket Casts\nSpotify\nAmazon Music\nApple Podcasts\nOvercast\nmore…",
-          "link": "https://9to5google.com/2026/10/23/pixelated-122-seven-years-late-same-foldable-problems/",
-          "publishedOn": "2026-10-23T20:30:00.000Z",
-          "wordCount": 3002,
-          "title": "Pixelated 122: Seven years late, same foldable problems",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734515",
-          "author": "Abner Li",
-          "description": "Gemini Notebooks are already available in the Gemini app side panel, but Google is now adding deeper Connected App integration.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/gemini-notebook-connected-app/",
-          "publishedOn": "2026-10-23T20:21:15.000Z",
-          "wordCount": 3380,
-          "title": "Gemini Notebook now available as Connected App for deeper integration",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/",
-          "author": "9to5Toys",
-          "description": "Friday’s best Google Play app and game deals are ready, including DREDGE, Slaps And Beans, Argo’s Choice: Offline Game, The Ancestral Legacy, Ticket to Ride, Thronefall, Demon Castle Story, Lumino City, and more. Just be sure to dive into Pixel Watch 5 at up to $150 off, the most affordable Galaxy Z Fold 8 at over $400 off, and a new all-time low on Lenovo’s latest Tab Plus Gen 2. The apps await below. \nmore…",
-          "link": "https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/",
-          "publishedOn": "2026-10-23T19:55:20.000Z",
-          "wordCount": 3651,
-          "title": "Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more",
-          "imageUrl": null
-        },
-        {
-          "id": "https://9to5google.com/?p=734508",
-          "author": "Will Sattelberg",
-          "description": "If you’re an Android user, you’ve probably trusted Google with mountains of your own personal data over the last couple of decades. Now, a new privacy policy update suggests that the company is finally dipping into that data to target personalized ads, and you can’t opt out with disabling Personal Intelligence.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/google-will-target-ads-based-on-gmail-photos-data-if-personal-intelligence-is-enabled/",
-          "publishedOn": "2026-10-23T19:45:00.000Z",
-          "wordCount": 3354,
-          "title": "Google will target ads based on Gmail, Photos data if Personal Intelligence is enabled",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734460",
-          "author": "Abner Li",
-          "description": "With the Fitbit Edge announcement, Google Health previewed improved automatic activity tracking, and it’s now beginning to roll out with version 5.11 of the app.\nmore…",
-          "link": "https://9to5google.com/2026/10/23/google-health-expanded-activity-detection/",
-          "publishedOn": "2026-10-23T18:36:47.000Z",
-          "wordCount": 3401,
-          "title": "Google Health 5.11 rolling out expanded 100+ activity detection to Fitbit Air, Pixel Watch",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?quality=82&strip=all&resize=1200,628"
         }
       ]
     },
@@ -4808,6 +4693,66 @@
       "feedUrl": "https://www.androidauthority.com/feed/",
       "siteUrl": "https://www.androidauthority.com/",
       "articles": [
+        {
+          "id": "https://www.androidauthority.com/google-3d-emoji-storage-ram-requirements-explained-3738000/",
+          "author": "Hillary Keverenge",
+          "description": "The numbers make more sense now.",
+          "link": "https://www.androidauthority.com/google-3d-emoji-storage-ram-requirements-explained-3738000/",
+          "publishedOn": "2026-11-23T06:03:26.000Z",
+          "wordCount": null,
+          "title": "Google explains the 6GB RAM and 10GB storage demands for its new 3D emoji",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/grapheneos-rcs-messaging-app-google-messages-3738003/",
+          "author": "Adamya Sharma",
+          "description": "It's a proof-of-concept app right now, but the eventual goal is a standalone implementation for supported carriers.",
+          "link": "https://www.androidauthority.com/grapheneos-rcs-messaging-app-google-messages-3738003/",
+          "publishedOn": "2026-11-23T05:40:10.000Z",
+          "wordCount": null,
+          "title": "GrapheneOS just built its own RCS messaging app that makes Google Messages unnecessary",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/youtube-new-app-icons-3737984/",
+          "author": "Adamya Sharma",
+          "description": "Remember the old YouTube TV icon? It could soon return to your home screen.",
+          "link": "https://www.androidauthority.com/youtube-new-app-icons-3737984/",
+          "publishedOn": "2026-11-23T03:48:49.000Z",
+          "wordCount": null,
+          "title": "YouTube is cooking up 7 new app icons, and the retro designs are a treat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/",
+          "author": "Matt Horne",
+          "description": "Save $90 on TCL's 12.2-inch paper-like tablet, now $20 below the previous best price on Amazon.",
+          "link": "https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/",
+          "publishedOn": "2026-11-22T13:25:47.000Z",
+          "wordCount": null,
+          "title": "TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/",
+          "author": "Matt Horne",
+          "description": "Samsung's 5.1.2-channel Q-Series soundbar with a wireless subwoofer is 36% off on Amazon ahead of Black Friday.",
+          "link": "https://www.androidauthority.com/samsung-hw-q800h-soundbar-deal-3737816/",
+          "publishedOn": "2026-11-22T11:54:10.000Z",
+          "wordCount": null,
+          "title": "Samsung’s 2026 HW-Q800H soundbar and subwoofer are $400 off",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.androidauthority.com/how-i-got-samsungs-best-multitasking-feature-on-my-pixel-for-free-3736624/",
+          "author": "Yash Wate",
+          "description": "It keeps my muscle memory intact when I switch to my Pixel.",
+          "link": "https://www.androidauthority.com/how-i-got-samsungs-best-multitasking-feature-on-my-pixel-for-free-3736624/",
+          "publishedOn": "2026-11-22T10:30:21.000Z",
+          "wordCount": null,
+          "title": "How I got Samsung’s best multitasking feature on my Pixel for free",
+          "imageUrl": null
+        },
         {
           "id": "https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/",
           "author": "Matt Horne",
@@ -10166,6 +10111,156 @@
       "siteUrl": "https://www.androidpolice.com",
       "articles": [
         {
+          "id": "https://www.androidpolice.com/why-google-maps-is-my-social-planner-now-not-my-navigator/",
+          "author": "Jon Gilbert",
+          "description": "It works better that way",
+          "link": "https://www.androidpolice.com/why-google-maps-is-my-social-planner-now-not-my-navigator/",
+          "publishedOn": "2026-11-23T00:00:10.000Z",
+          "wordCount": 4966,
+          "title": "How to use Google Maps' social features",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/google-maps-home-screen-shortcut-wide-map.jpg",
+            "length": "1193",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/google-maps-home-screen-shortcut-wide-map.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/used-gemini-to-create-android-app-that-my-family-uses-they-love-it/",
+          "author": "Parth Shah",
+          "description": "From a simple prompt to reality",
+          "link": "https://www.androidpolice.com/used-gemini-to-create-android-app-that-my-family-uses-they-love-it/",
+          "publishedOn": "2026-11-22T22:00:10.000Z",
+          "wordCount": 5079,
+          "title": "I used Gemini to create an Android app that my family uses; they love it",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/used-gemini-to-create-android-app-family-loves-it-1.jpg",
+            "length": "1430",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/used-gemini-to-create-android-app-family-loves-it-1.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/way-to-manually-install-pixel-updates/",
+          "author": "Sanuj Bhatia",
+          "description": "Update your Pixel without waiting for an OTA",
+          "link": "https://www.androidpolice.com/way-to-manually-install-pixel-updates/",
+          "publishedOn": "2026-11-22T20:00:10.000Z",
+          "wordCount": 5219,
+          "title": "I found a way to get Pixel updates without waiting for Google",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/pixel-ota-update.jpg",
+            "length": "2465",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/pixel-ota-update.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/let-google-maps-gemini-chatgpt-plan-weekend-trip-trust-maps-least/",
+          "author": "Haroun Adamu",
+          "description": "I asked Google Maps' Ask Maps, Gemini, and ChatGPT to plan the same Chicago weekend. Ask Maps looked best but got most of the details wrong.",
+          "link": "https://www.androidpolice.com/let-google-maps-gemini-chatgpt-plan-weekend-trip-trust-maps-least/",
+          "publishedOn": "2026-11-22T18:45:10.000Z",
+          "wordCount": 5263,
+          "title": "I let Ask Maps, Gemini, and ChatGPT plan my weekend trip",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/car-driving-along-a-coastal-road-with-google-maps-ask-maps-feature.png",
+            "length": "3828",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/car-driving-along-a-coastal-road-with-google-maps-ask-maps-feature.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/one-ui-9-5-features-you-should-try/",
+          "author": "AP Staff",
+          "description": "My S26 feels new again",
+          "link": "https://www.androidpolice.com/one-ui-9-5-features-you-should-try/",
+          "publishedOn": "2026-11-22T18:00:11.000Z",
+          "wordCount": 5742,
+          "title": "One UI 9.5 is here and I'm already loving these features",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/galaxy-s26-in-hand-running-one-ui-9-5.jpg",
+            "length": "607",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/galaxy-s26-in-hand-running-one-ui-9-5.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/kindle-click-changed-way-i-use-paperwhite-back-on-the-treadmill/",
+          "author": "Jesse Hollington",
+          "description": "Friction melts away while cooking or biking thanks to a light wrist-strap remote that pairs in seconds",
+          "link": "https://www.androidpolice.com/kindle-click-changed-way-i-use-paperwhite-back-on-the-treadmill/",
+          "publishedOn": "2026-11-22T17:00:10.000Z",
+          "wordCount": 5447,
+          "title": "The Kindle Click changed the way I use my Paperwhite (and got me back on the treadmill)",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/kindle-click-on-paperwhite-signature-2024-1.jpg",
+            "length": "329",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/kindle-click-on-paperwhite-signature-2024-1.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/stopped-losing-wireless-android-auto-connection-fixes/",
+          "author": "Anu Joy",
+          "description": "Here's how I fixed wireless Android Auto drops",
+          "link": "https://www.androidpolice.com/stopped-losing-wireless-android-auto-connection-fixes/",
+          "publishedOn": "2026-11-22T16:00:10.000Z",
+          "wordCount": 4943,
+          "title": "I stopped losing my wireless Android Auto connection mid-drive with these fixes",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/driver-using-android-auto-navigation-on-a-car-dashboard.png",
+            "length": "1977",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/driver-using-android-auto-navigation-on-a-car-dashboard.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/waterfox-features-privacy-less-ai-firefox-android-browser/",
+          "author": "Marvin Velasco",
+          "description": "I installed Waterfox as an alternative to Firefox. I'm now using Waterfox as my full-time Android browser.",
+          "link": "https://www.androidpolice.com/waterfox-features-privacy-less-ai-firefox-android-browser/",
+          "publishedOn": "2026-11-22T13:45:10.000Z",
+          "wordCount": 6089,
+          "title": "Waterfox does everything Firefox can, but with even less bloat",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/waterfox-android-app-on-google-play-on-nothing-phone.jpeg",
+            "length": "701",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/waterfox-android-app-on-google-play-on-nothing-phone.jpeg"
+        },
+        {
+          "id": "https://www.androidpolice.com/googles-early-android-17-qpr2-release-is-your-sign-to-switch-to-the-pixel/",
+          "author": "Justice Ekaeze",
+          "description": "Pixels get over 200 security fixes, foldable window handles, and rear light alerts while other phones wait months",
+          "link": "https://www.androidpolice.com/googles-early-android-17-qpr2-release-is-your-sign-to-switch-to-the-pixel/",
+          "publishedOn": "2026-11-22T13:00:10.000Z",
+          "wordCount": 5962,
+          "title": "Google's early Android 17 QPR2 release is your sign to switch to the Pixel",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/quick-settings-tool-and-shortcuts-on-google-pixel-9-pro-xl-smartphone-running-on-android-17.jpg",
+            "length": "1164",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/quick-settings-tool-and-shortcuts-on-google-pixel-9-pro-xl-smartphone-running-on-android-17.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/i-built-a-google-home-holiday-mode-that-follows-my-presence-and-tv-use-instead-of-simple-schedules/",
+          "author": "Dhruv Bhutani",
+          "description": "A 10-minute Google Home workflow syncs Hue scenes, a smart plug tree light, and a speaker to greet your arrival",
+          "link": "https://www.androidpolice.com/i-built-a-google-home-holiday-mode-that-follows-my-presence-and-tv-use-instead-of-simple-schedules/",
+          "publishedOn": "2026-11-22T12:00:10.000Z",
+          "wordCount": 5876,
+          "title": "I built a Google Home holiday mode that follows my presence and TV use instead of simple schedules",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/start-playing-christmas-music.jpeg",
+            "length": "1559",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/start-playing-christmas-music.jpeg"
+        },
+        {
           "id": "https://www.androidpolice.com/reduce-google-maps-battery-drain-with-these-tweaks/",
           "author": "AP Staff",
           "description": "Navigation shouldn't cost battery life",
@@ -12122,6 +12217,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/you-too-can-build-this-esp32-portrait-with-eyes-that-follow-you-around-the-room/",
+          "author": "Simon Batt",
+          "description": "For pictures that stare back.",
+          "link": "https://www.xda-developers.com/you-too-can-build-this-esp32-portrait-with-eyes-that-follow-you-around-the-room/",
+          "publishedOn": "2026-11-23T05:11:46.000Z",
+          "wordCount": 4189,
+          "title": "You, too, can build this ESP32 portrait with eyes that follow you around the room",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/esp32-eyes-portrait-featured.jpg",
+            "length": "1452",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/esp32-eyes-portrait-featured.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/microsofts-rdma-over-usb4-will-make-running-local-ai-models-on-windows-11-a-lot-easier/",
+          "author": "Simon Batt",
+          "description": "No more need for a special adapter.",
+          "link": "https://www.xda-developers.com/microsofts-rdma-over-usb4-will-make-running-local-ai-models-on-windows-11-a-lot-easier/",
+          "publishedOn": "2026-11-23T01:11:23.000Z",
+          "wordCount": 4504,
+          "title": "Microsoft’s RDMA over USB4 will make running local AI models on multiple Windows 11 machines a lot easier",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-clean-desktop-hero.jpeg",
+            "length": "676",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-clean-desktop-hero.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/running-local-llms-in-a-proxmox-lxc-is-closer-to-bare-metal-than-youd-think/",
+          "author": "Joe Rice-Jones",
+          "description": "And comes with a host of benefits that you might not have thought of",
+          "link": "https://www.xda-developers.com/running-local-llms-in-a-proxmox-lxc-is-closer-to-bare-metal-than-youd-think/",
+          "publishedOn": "2026-11-23T01:01:21.000Z",
+          "wordCount": 6233,
+          "title": "Running local LLMs in a Proxmox LXC is closer to bare metal than you’d think",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/proxmox-local-llm-lxc.jpg",
+            "length": "6700",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/proxmox-local-llm-lxc.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/someone-used-claude-code-to-build-hourglass-one-of-five-projects/",
+          "author": "Mahnoor Faisal",
+          "description": "You're seriously underestimating what Claude Code can do",
+          "link": "https://www.xda-developers.com/someone-used-claude-code-to-build-hourglass-one-of-five-projects/",
+          "publishedOn": "2026-11-23T00:30:20.000Z",
+          "wordCount": 10573,
+          "title": "Someone used Claude Code to build an hourglass that blocks distracting apps, and that's just one of 5 wild projects",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop-showing-the-r-claudeai-subreddit-on-reddit-beside-an-iced-drink-and-flowers.jpeg",
+            "length": "964",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/laptop-showing-the-r-claudeai-subreddit-on-reddit-beside-an-iced-drink-and-flowers.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/docker-troubleshooting-got-easier-once-i-handed-the-logs-to-claude-code/",
+          "author": "Yash Patel",
+          "description": "My Docker containers have a new troubleshooting partner, and it's surprisingly good at spotting trouble.",
+          "link": "https://www.xda-developers.com/docker-troubleshooting-got-easier-once-i-handed-the-logs-to-claude-code/",
+          "publishedOn": "2026-11-23T00:00:20.000Z",
+          "wordCount": 5386,
+          "title": "Docker troubleshooting got easier once I handed the logs to Claude Code",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_6563.jpeg",
+            "length": "2832",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/img_6563.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/my-record-player-streams-to-every-speaker-thanks-to-pi-hidden-behind-turntable/",
+          "author": "Brian Burgess",
+          "description": "Streaming legacy vinyl media throughout my home with modern technology is cool.",
+          "link": "https://www.xda-developers.com/my-record-player-streams-to-every-speaker-thanks-to-pi-hidden-behind-turntable/",
+          "publishedOn": "2026-11-22T23:00:20.000Z",
+          "wordCount": 5552,
+          "title": "My record player streams to every speaker in the house now, thanks to a Raspberry Pi hidden behind the turntable",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/record-player-connected-to-focusrite-audio-box-and-raspberry-pi-to-stream-album.JPEG",
+            "length": "354",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/record-player-connected-to-focusrite-audio-box-and-raspberry-pi-to-stream-album.JPEG"
+        },
+        {
+          "id": "https://www.xda-developers.com/after-13-years-of-using-it-kaos-strips-out-kde-plasma-due-to-concerns-over-systemd/",
+          "author": "Simon Batt",
+          "description": "The move was brewing since February.",
+          "link": "https://www.xda-developers.com/after-13-years-of-using-it-kaos-strips-out-kde-plasma-due-to-concerns-over-systemd/",
+          "publishedOn": "2026-11-22T22:52:04.000Z",
+          "wordCount": 4264,
+          "title": "After 13 years of using it, KaOS strips out KDE Plasma due to concerns over Systemd",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/02/kaos-logo-featured-purple.jpg",
+            "length": "1118",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/02/kaos-logo-featured-purple.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/built-the-same-website-twice-with-claude-code-one-free-design-skill-made-all-the-difference/",
+          "author": "Mahnoor Faisal",
+          "description": "A tale of two websites (and one very useful skill)",
+          "link": "https://www.xda-developers.com/built-the-same-website-twice-with-claude-code-one-free-design-skill-made-all-the-difference/",
+          "publishedOn": "2026-11-22T22:31:21.000Z",
+          "wordCount": 8574,
+          "title": "I built the same website twice with Claude Code, and one free design skill made all the difference",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/pell-street-books-website-generated-using-claude-code.jpeg",
+            "length": "1108",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/pell-street-books-website-generated-using-claude-code.jpeg"
+        },
+        {
+          "id": "https://www.xda-developers.com/cachyoss-november-release-paves-the-way-for-playing-eac-covered-games-on-linux/",
+          "author": "Simon Batt",
+          "description": "Plus, some shiny new UIs for some of its key features.",
+          "link": "https://www.xda-developers.com/cachyoss-november-release-paves-the-way-for-playing-eac-covered-games-on-linux/",
+          "publishedOn": "2026-11-22T22:00:40.000Z",
+          "wordCount": 4192,
+          "title": "CachyOS’s November release paves the way for playing EAC-covered games on Linux",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/img_4838.png",
+            "length": "10075",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/img_4838.png"
+        },
+        {
+          "id": "https://www.xda-developers.com/asked-claude-code-codex-google-antigravity-build-website-only-one-ready/",
+          "author": "Parth Shah",
+          "description": "Only one passed my real-world checklist",
+          "link": "https://www.xda-developers.com/asked-claude-code-codex-google-antigravity-build-website-only-one-ready/",
+          "publishedOn": "2026-11-22T22:00:21.000Z",
+          "wordCount": 6683,
+          "title": "I asked Claude Code, Codex, and Google Antigravity to build a complex website, but only one was ready to go live",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-code-vs-codex-vs-antigravity-on-complex-website.jpg",
+            "length": "2026",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-code-vs-codex-vs-antigravity-on-complex-website.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/gta-6-arrive-pc-soon-developer-unofficial-switch-2-zelda-ocarina-of-time-remake-port/",
           "author": "Patrick O'Rourke",
