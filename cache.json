@@ -12,6 +12,26 @@
       "siteUrl": "https://store.steampowered.com/news/collection/steam/",
       "articles": [
         {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694278903563288585",
+          "author": null,
+          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.9 release, with the changes added since the previous 3.9 beta releases noted below\n\nNew in SteamOS 3.9.7\nGeneral\n\nFixed a rare rendering corruption error that would result in white rectangles appearing on the screen in specific situations\n\nFixed a 3.9 regression with Steam Deck backlight adjustment behavior\n\nUpdate timezone definitions\n\nSecurity and stability updates\n\nSteamOS 3.9.6\nGeneral\n\nImproved frame timing when using the framerate limiter with VRR.\n\nImproved frame timing when using the framerate limiter without VRR. A capped game whose framerate is a multiple of the limit no longer drops below it, e.g. a 30 FPS game with a 60 FPS limit at 120 Hz running at 24 FPS.\n\nReduced missed frames on fixed refresh caused by slow wakeups from deep CPU idle states.\n\nFixed a black screen in RPG Maker games using Fullscreen++, such as Waste Walkers.\n\nFixed games running below the refresh rate on 240 Hz and higher displays.\n\nFixed Steam Remote Play showing a green screen on NVIDIA GPUs.\n\nFixed left click getting stuck after a two-finger tap on the touchscreen.\n\nFixed SDR content looking oversaturated on HDR10 output on displays that are not wide gamut.\n\nFixed gamemode and other LD_PRELOAD libraries breaking when launched through gamescope.\n\nFixed several rare crashes and memory errors on shutdown and when clients exit.\n\nDesktop Mode\n\nFixed a regression where scripts couldn't be added using \"Add to Steam\"",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694278903563288585",
+          "publishedOn": "2026-11-25T04:21:02.000Z",
+          "wordCount": 389,
+          "title": "SteamOS 3.9.7 Beta",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
+        {
+          "id": "https://store.steampowered.com/news/group/4397053/view/713418568234960322",
+          "author": null,
+          "description": "The Steam Client Beta has been updated with the following changes:\n\nGeneral\n\nFixed a Steamworks SDK regression causing a crash for games calling IsP2PPacketAvailable with a null pointer\n\nFixed issue where a Steam Workshop item would sometimes pick the wrong version if the user was on the default game branch. \n\nLibrary\n\nEditing a review for a game in your library will now properly clear the \"Early Access\" flag from the review\n\nThe \"Attach PC Specs to this review\" checkbox now accurately reflects whether PC specs were already attached to an existing review when editing it\n\nRemote Play\n\nFix several VR streaming crashes",
+          "link": "https://store.steampowered.com/news/group/4397053/view/713418568234960322",
+          "publishedOn": "2026-11-25T01:27:00.000Z",
+          "wordCount": 393,
+          "title": "Steam Client Beta - November 24th",
+          "imageUrl": "https://store.akamai.steamstatic.com/public/shared/images/news/social_share_default.jpg"
+        },
+        {
           "id": "https://store.steampowered.com/news/app/593110/view/678515036155545443",
           "author": null,
           "description": "In our last Community Market update we released a beta with new item pages, listings, and search to make better use of game-provided item data. Today we're launching a brand new Market Home page and a handful of improvements centered on tracking items and managing your listings.\nAll of these updates are available to everyone starting today. Here's what's new:\n\nA New Market Home Page\nWe've rebuilt the Market Home to load faster and present you with the most relevant items from your games. Instead of the Popular Items section, which was a small and static slice of millions of items, Trending Items will give you a glimpse into what’s new in the games you’re currently playing.\nThe game links move up to the top spot and are now personalized, so rather than a flat and unchanging list, you get qu…",
@@ -350,36 +370,6 @@
           "wordCount": 392,
           "title": "Steam Beta Client Update: October 26th",
           "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/app/593110/view/686394429475394171",
-          "author": null,
-          "description": "Steam Scream is back for a fifth year of terrifying everyone... with amazing deals on spooky games! From now through November 2nd at 10 a.m. PT you can make your way through the Steam Store to find horrors of all kinds: psychological, slasher, silly, you name it.\nFill up your trick-or-treat bucket Steam library with your favorite scary games, and we bet you'll want to keep playing them well past the horror of the Halloween holiday itself.\nJoin us now for Steam Scream V... if you dare. (You totally should dare, to be clear.)",
-          "link": "https://store.steampowered.com/news/app/593110/view/686394429475394171",
-          "publishedOn": "2026-10-26T17:40:10.000Z",
-          "wordCount": 396,
-          "title": "BOO! Steam Scream FIVE is ready to freak you out",
-          "enclosure": {
-            "url": "https://clan.fastly.steamstatic.com/images/27766192/51bfdeba1d7ff01af42f05fe72c44f90991e723e.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://clan.fastly.steamstatic.com/images/27766192/51bfdeba1d7ff01af42f05fe72c44f90991e723e.jpg"
-        },
-        {
-          "id": "https://store.steampowered.com/news/group/39049601/view/713414124781961848",
-          "author": null,
-          "description": "These are the 50 games with the most-played demos during the week of Steam Next Fest: October 2026 Edition.",
-          "link": "https://store.steampowered.com/news/group/39049601/view/713414124781961848",
-          "publishedOn": "2026-10-26T16:41:22.000Z",
-          "wordCount": 395,
-          "title": "Most-played demos of Steam Next Fest: October 2026 Edition",
-          "enclosure": {
-            "url": "https://clan.fastly.steamstatic.com/images/39049601/e9958efd92776a01b08d19e70fe26d30a7196fb1.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://clan.fastly.steamstatic.com/images/39049601/e9958efd92776a01b08d19e70fe26d30a7196fb1.jpg"
         }
       ]
     },
@@ -388,6 +378,16 @@
       "feedUrl": "https://store.steampowered.com/feeds/news/app/1675200/?cc=JO&l=english",
       "siteUrl": "https://store.steampowered.com/news/app/1675200/",
       "articles": [
+        {
+          "id": "https://store.steampowered.com/news/app/1675200/view/694278903563288585",
+          "author": null,
+          "description": "This update is for the SteamOS Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel.\n\nThese notes contain all changes since the current stable SteamOS 3.9 release, with the changes added since the previous 3.9 beta releases noted below\n\nNew in SteamOS 3.9.7\nGeneral\n\nFixed a rare rendering corruption error that would result in white rectangles appearing on the screen in specific situations\n\nFixed a 3.9 regression with Steam Deck backlight adjustment behavior\n\nUpdate timezone definitions\n\nSecurity and stability updates\n\nSteamOS 3.9.6\nGeneral\n\nImproved frame timing when using the framerate limiter with VRR.\n\nImproved frame timing when using the framerate limiter without VRR. A capped game whose framerate is a multiple of the limit no longer drops below it, e.g. a 30 FPS game with a 60 FPS limit at 120 Hz running at 24 FPS.\n\nReduced missed frames on fixed refresh caused by slow wakeups from deep CPU idle states.\n\nFixed a black screen in RPG Maker games using Fullscreen++, such as Waste Walkers.\n\nFixed games running below the refresh rate on 240 Hz and higher displays.\n\nFixed Steam Remote Play showing a green screen on NVIDIA GPUs.\n\nFixed left click getting stuck after a two-finger tap on the touchscreen.\n\nFixed SDR content looking oversaturated on HDR10 output on displays that are not wide gamut.\n\nFixed gamemode and other LD_PRELOAD libraries breaking when launched through gamescope.\n\nFixed several rare crashes and memory errors on shutdown and when clients exit.\n\nDesktop Mode\n\nFixed a regression where scripts couldn't be added using \"Add to Steam\"",
+          "link": "https://store.steampowered.com/news/app/1675200/view/694278903563288585",
+          "publishedOn": "2026-11-25T04:21:02.000Z",
+          "wordCount": 389,
+          "title": "SteamOS 3.9.7 Beta",
+          "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg"
+        },
         {
           "id": "https://store.steampowered.com/news/app/1675200/view/687522235410285838",
           "author": null,
@@ -651,16 +651,6 @@
           "wordCount": null,
           "title": "بكرة بيكون اعظم يوم في التاريخ!!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7-pSFfOzziI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7-pSFfOzziI",
-          "publishedOn": "2026-10-26T18:07:35.000Z",
-          "wordCount": null,
-          "title": "تسللنا لأشهر عرض ازياء في العالم بهوية مزورة وطقم تعبان",
-          "imageUrl": null
         }
       ]
     },
@@ -669,6 +659,226 @@
       "feedUrl": "https://9to5google.com/feed/",
       "siteUrl": "https://9to5google.com/",
       "articles": [
+        {
+          "id": "https://9to5google.com/?p=740032",
+          "author": "Nicholas Sutrich",
+          "description": "Motorola and Best Buy websites are now showing an early December shipping date, despite at least one customer already receiving tracking info.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/motorola-signature-27-delivery-dates-slip-ahead-of-launch-as-it-expands-to-more-regions/",
+          "publishedOn": "2026-11-24T23:54:33.000Z",
+          "wordCount": 3286,
+          "title": "Motorola Signature 27 delivery dates slip ahead of launch as it expands to more regions",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-hands-on.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=740098",
+          "author": "Abner Li",
+          "description": "Last week, Google announced that Gemini tasks (previously called Spark) is now available to free users in the US, along with an integration in Google Messages. In testing, I’ve found this instance of Gemini to be proactive and feel more like an assistant than the Gemini app does.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/google-messages-gemini-tasks/",
+          "publishedOn": "2026-11-24T22:11:31.000Z",
+          "wordCount": 3598,
+          "title": "Google Messages replacing old Gemini with new ‘tasks’ chat, and it’s very proactive",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737886",
+          "author": "Abner Li",
+          "description": "Google is rolling out new privacy settings for the Gemini app that will let you “keep your history while independently controlling generative AI model training.”\nmore…",
+          "link": "https://9to5google.com/2026/11/24/gemini-history-ai-training/",
+          "publishedOn": "2026-11-24T21:11:00.000Z",
+          "wordCount": 3755,
+          "title": "New Gemini setting lets you keep chat history, but turn off AI training [U]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-5.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5toys.com/2026/11/24/today-google-play-deals-grand-theft-auto/",
+          "author": "9to5Toys",
+          "description": "Day 6 of the giant Amazon Black Friday sale is soaring now with even lower prices on the 45mm Pixel Watch 5, the most affordable Pixel 11 model, and a host of Fitbit options, but it’s time for some Google Play action. We have deals on GTA: San Andreas – Definitive, Retro Zoo CEO, Dead Cells, Human Fall Flat, Prune, Terraria, Rush Rally 3, Monster Siege Tactics: RPG, and more. Just be sure to scope even lower prices on the new Amazon Android Alexa Tablets from $130 and Samsung’s 2026 Galaxy Buds 4 Pro at $80 off too. \nmore…",
+          "link": "https://9to5toys.com/2026/11/24/today-google-play-deals-grand-theft-auto/",
+          "publishedOn": "2026-11-24T19:41:26.000Z",
+          "wordCount": 3286,
+          "title": "Today’s Android app deals and freebies: Grand Theft Auto San Andreas 50% off, Dead Cells, Prune, more",
+          "imageUrl": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-59d8c3.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739259",
+          "author": "Ben Schoon",
+          "description": "Sony’s iconic Walkman headphones are back in the USB-C MDR-3R and, after quickly selling out on launch day, they’ve now been restocked. And, after using them, I can see why they sold out so quickly. \nmore…",
+          "link": "https://9to5google.com/2026/11/24/sony-walkman-mdr-3r-usb-c-headphones-hands-on/",
+          "publishedOn": "2026-11-24T18:41:11.000Z",
+          "wordCount": 3779,
+          "title": "Hands-on: Sony’s Walkman-revival USB-C headphones are back in stock and worth a look",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/sony-mdr-3r-4.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739997",
+          "author": "Ben Schoon",
+          "description": "Google Maps has a pretty consistent style, but a new option appears to be in the works with a darker “high-visibility” setting.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/google-maps-new-colors-high-visibility/",
+          "publishedOn": "2026-11-24T18:40:00.000Z",
+          "wordCount": 3587,
+          "title": "Google Maps might change its colors again, but it’s optional this time [Gallery]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Google-Maps.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739849",
+          "author": "Ben Schoon",
+          "description": "Kagi is best known as a paid alternative to Google Search, but the company is now introducing its own email service that offers an alternative to Gmail.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/kagi-the-paid-google-search-alternative-now-has-a-gmail-rival-too/",
+          "publishedOn": "2026-11-24T18:30:00.000Z",
+          "wordCount": 3071,
+          "title": "Kagi, the paid Google Search alternative, now has a Gmail rival too",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/kagi-mail-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739933",
+          "author": "Nicholas Sutrich",
+          "description": "This Amazon Ember TV Black Friday deal takes up to 40% off the company’s own TV brand, making it ideal for a secondary set.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/amazon-tv-black-friday-sale-2026/",
+          "publishedOn": "2026-11-24T17:26:59.000Z",
+          "wordCount": 3845,
+          "title": "This $199 Amazon TV is an easy choice for your guest bedroom",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/amazon-ember-tv-4-series-official-lifestyle-01.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739937",
+          "author": "Justin Kahn",
+          "description": "We are heading into Day 6 of the giant Amazon from $326. Those deals join a series of discounts on Fitbit models from $70, but on the Samsung side of things we have the latest Galaxy Buds 4 Pro at $80 off alongside the ongoing $350 price drops on Galaxy Z Fold 8 sitting next to the first deal on Amazon’s new Bee Frontier AI at $52, and Dell’s massive Black Friday sale – $550 MacBook Neo alternative, Alienware gaming deals, and more up to $1,000 off. Everything awaits below. \nmore…",
+          "link": "https://9to5google.com/2026/11/24/black-friday-deals-pixel-11-watch-5-galaxy-buds-4-pro/",
+          "publishedOn": "2026-11-24T16:53:33.000Z",
+          "wordCount": 6046,
+          "title": "Black Friday deals: Pixel 11 $692, Pixel Watch 5 even lower, Galaxy Buds 4 Pro $80 off, Dell PCs $1,000 off, more",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/9to5Google-Nov-24.webp?resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739926",
+          "author": "Andrew Romero",
+          "description": "The variety of gaming handhelds from Lenovo is about to get larger. Leaked details suggest the Lenovo Legion Go Beam will run Android instead of SteamOS on a high-refresh display.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/lenovo-legion-go-beam-leak/",
+          "publishedOn": "2026-11-24T16:51:09.000Z",
+          "wordCount": 3312,
+          "title": "Lenovo Legion Go Beam leaks with Android instead of SteamOS",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Legion-Go-Beam-leak-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=737654",
+          "author": "Damien Wilde",
+          "description": "If you’re looking for a decent replacement for an older phone or a backup, and the Pixel 10 looks eerily similar to the Pixel 11, is it still worth it? Well, of course it is, but let’s get into why in this deep dive.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/yes-the-pixel-10-is-still-a-great-buy-video/",
+          "publishedOn": "2026-11-24T16:45:00.000Z",
+          "wordCount": 5000,
+          "title": "Yes, the Pixel 10 is still a great buy [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-blue-in-hand-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739924",
+          "author": "Ben Schoon",
+          "description": "Black Friday’s streaming deals are here, with Disney+ and Hulu dropping to just $4.99/month for a whole year if you sign up right now, and other deals available on other services.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/disney-hulu-bundle-black-friday-deal/",
+          "publishedOn": "2026-11-24T16:20:00.000Z",
+          "wordCount": 3161,
+          "title": "Disney+ and Hulu drops to $4.99/month for a year as Black Friday’s best streaming deals go live",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/disney_plus_1.jpeg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739907",
+          "author": "Andrew Romero",
+          "description": "Users are seeing the option to mute a video appear in the YouTube app on Android, but it isn’t showing up for everyone.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/youtube-tests-mute-button-on-mobile/",
+          "publishedOn": "2026-11-24T15:55:37.000Z",
+          "wordCount": 3333,
+          "title": "YouTube appears to be quietly testing a new mute button in its video UI",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/youtube-android.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739902",
+          "author": "Ben Schoon",
+          "description": "Wyze is today launching the Window Bird Cam, a new $70 camera that has a bird feeder and can identify bird species, keep a log, and more.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/wyze-window-bird-cam-launch/",
+          "publishedOn": "2026-11-24T15:45:00.000Z",
+          "wordCount": 3066,
+          "title": "Wyze’s new window camera has a bird feeder and can identify species, more for $70 [Video]",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/wyze-window-bird-cam.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739868",
+          "author": "Nicholas Sutrich",
+          "description": "The Coros Vertix 4 sports sapphire glass and a titanium bezel, including a built-in flashlight for the first time ever.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/the-coros-vertix-4-begs-to-be-taken-on-an-expedition-with-30-day-battery-life-and-a-flashlight/",
+          "publishedOn": "2026-11-24T15:30:36.000Z",
+          "wordCount": 3901,
+          "title": "The Coros Vertix 4 begs to be taken on an expedition with 30-day battery life and a flashlight",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/coros-vertix-4-official-lifestyle-03.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739889",
+          "author": "Ben Schoon",
+          "description": "According to a new report, Motorola’s next Razr flip phone is getting some major upgrades and a big schedule change, with Motorola Razr (2027) launching early next year.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/motorola-razr-2027-upgrades-launch/",
+          "publishedOn": "2026-11-24T15:22:50.000Z",
+          "wordCount": 3211,
+          "title": "Motorola Razr (2027) reportedly gets big upgrades and an early January launch",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/motorola-razr-2025-3.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739876",
+          "author": "Ben Schoon",
+          "description": "Following its debut on the Galaxy Watch 9 earlier this year, Samsung is finally rolling out Wear OS 7 to older Galaxy Watch models with its One UI 9 Watch update.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/samsung-galaxy-watch-wear-os-7-rollout/",
+          "publishedOn": "2026-11-24T14:55:00.000Z",
+          "wordCount": 3587,
+          "title": "Samsung officially starts rolling out Wear OS 7 to these older Galaxy Watch models",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Galaxy-Watch-8-Classic-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739853",
+          "author": "Ben Schoon",
+          "description": "Frontier AI models that have yet to be released by OpenAI and Anthropic are reportedly reaching the point where employees believe they cannot be safely released or controlled, employees reportedly say.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/openai-anthropic-new-models-safety-concerns-report/",
+          "publishedOn": "2026-11-24T14:40:00.000Z",
+          "wordCount": 3012,
+          "title": "New OpenAI and Anthropic models sound alarms on safety and control, report",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/claude-chatgpt-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739798",
+          "author": "Nicholas Sutrich",
+          "description": "The Honor Magic 9 Pro Max launch ushers the company into the world of cinema with an ARRI camera partnership and cutting-edge specs.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/the-honor-magic-9-pro-max-is-making-its-global-debut-today-with-huge-preorder-bonuses/",
+          "publishedOn": "2026-11-24T14:36:24.000Z",
+          "wordCount": 3504,
+          "title": "The Honor Magic 9 Pro Max is making its global debut today with huge preorder bonuses",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/honor-magic-9-pro-max-official-render-green.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739808",
+          "author": "Damien Wilde",
+          "description": "Okay, so here’s the deal (literally): last year’s Moto G Stylus (2025) is on sale right now on Amazon for just $199, and if you desperately need a digital writing tool with your phone, it’s a good buy.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/the-moto-g-stylus-2025-at-200-is-great-only-if-a-pen-is-a-must/",
+          "publishedOn": "2026-11-24T13:19:09.000Z",
+          "wordCount": 3138,
+          "title": "The Moto G Stylus (2025) at $200 is great only if a pen is a must",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2025/04/Moto-G-Stylus-1.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "id": "https://9to5google.com/?p=739709",
+          "author": "Daniel Bader",
+          "description": "Good morning. Today I’m deciding whether the final Avengers: Doomsday trailer passes the “people just standing around” test, trying the new Material 3 Expressive Claude app on my Android devices, and stocking up on discounted XTEINK e-readers for Christmas gifts.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/nvidia-proves-its-too-big-to-fail/",
+          "publishedOn": "2026-11-24T12:00:00.000Z",
+          "wordCount": 5308,
+          "title": "Nvidia proves it’s too big to fail",
+          "imageUrl": null
+        },
+        {
+          "id": "https://9to5google.com/?p=739693",
+          "author": "Ben Schoon",
+          "description": "Alongside a teaser for the new Ear (note) recorder, Nothing CEO Carl Pei has confirmed the company’s plans for a big 2027 in terms of smartphone releases, as well as a focus on the US market.\nmore…",
+          "link": "https://9to5google.com/2026/11/24/nothing-smartphones-focus-2027/",
+          "publishedOn": "2026-11-24T12:00:00.000Z",
+          "wordCount": 3090,
+          "title": "Nothing confirms ‘aggressive’ smartphone release schedule for 2027 with US focus",
+          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-31.jpg?quality=82&strip=all&resize=1200,628"
+        },
         {
           "id": "https://9to5google.com/?p=735429",
           "author": "Abner Li",
@@ -4828,156 +5038,6 @@
           "wordCount": 3762,
           "title": "Even your abuelita will love Even Realities’ new smart glasses styles",
           "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/even-realities-g2-brown-2-colorway-with-chain.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734540",
-          "author": "Ben Schoon",
-          "description": "Apple has just released a new iPad Mini with an OLED display and it looks great, but I’ve spent the past few months with Android’s equivalent in the Redmagic Astra 2, and it’s well worth your attention.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/android-ipad-mini-oled-redmagic-astra-2-review/",
-          "publishedOn": "2026-10-26T19:30:00.000Z",
-          "wordCount": 4206,
-          "title": "I’ve been using Android’s iPad Mini OLED for months, and it’s the better tiny tablet",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/redmagic-astra-2-7.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734624",
-          "author": "Abner Li",
-          "description": "Following the other big interface updates this month, Google is rolling out a small ‘plus’ redesign to Gemini Live on Android that lets you more easily add photos and files.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
-          "publishedOn": "2026-10-26T19:00:50.000Z",
-          "wordCount": 3399,
-          "title": "Gemini Live redesign makes it easier to add context to chats",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-2.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5toys.com/2026/10/26/todays-highlight-google-play-deals-36/",
-          "author": "9to5Toys",
-          "description": "Today’s best Google Play app and game deals are ready, including This War of Mine, Siralim Ultimate, The Last Warlord, Anodyne, 20 Minutes Till Dawn:Premium, TLOTS: Gold Edition, and more. On your way down, scope out the new all-time low available in Lenovo’s early Black Friday  sale on its new 4K Yoga Tab Gen 2 stylus/keyboard bundle as well as Nothing’s ultra-affordable CMF Buds Neo down at just $20, and these TCL Android tablets up to 35% off. The apps await below. \nmore…",
-          "link": "https://9to5toys.com/2026/10/26/todays-highlight-google-play-deals-36/",
-          "publishedOn": "2026-10-26T18:45:36.000Z",
-          "wordCount": 2880,
-          "title": "Monday’s Android app deals and freebies: War of Mine, Siralim Ultimate, 20 Minutes Till Dawn, more",
-          "imageUrl": null
-        },
-        {
-          "id": "https://9to5google.com/?p=734608",
-          "author": "Ben Schoon",
-          "description": "After briefly ending the promo earlier this month, Motorola has dropped Moto Tag 2 back to $19.99.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/moto-tag-2-brings-its-uwb-and-android-find-hub-integration-back-to-20/",
-          "publishedOn": "2026-10-26T18:15:00.000Z",
-          "wordCount": 3146,
-          "title": "Moto Tag 2 brings its UWB and Android Find Hub integration back to $20",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/moto-tag-2-.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734592",
-          "author": "Andrew Romero",
-          "description": "A metal mesh band might not be right for every watch or wearable, but I can’t say I don’t love using it on the Fitbit Air.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/fitbit-air-metal-mesh-band-hands-on/",
-          "publishedOn": "2026-10-26T17:59:20.000Z",
-          "wordCount": 3880,
-          "title": "Google’s new Metal Mesh Fitbit Air band is more versatile than you think",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Air-Metal-Mesh-band-3.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734589",
-          "author": "Ben Schoon",
-          "description": "Instagram is launching “Features” as its first real dive into long-form video content in what could be a real rival to YouTube, though Instagram is, for now, missing an alternative to YouTube’s ad share setup for creators.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/instagram-features-long-form-video-test/",
-          "publishedOn": "2026-10-26T17:25:00.000Z",
-          "wordCount": 3048,
-          "title": "Instagram tests ‘Features’ long-form videos, but missing YouTube’s ad share for now",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2023/09/instagram-04.webp?resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734443",
-          "author": "Ben Schoon",
-          "description": "When Google announced the Fitbit Edge, my assumption was that it would be a great in-between for the Pixel Watch and Fitbit Air. In a way, that’s true, but this isn’t the product I thought it was – it’s just a new, slightly better Fitbit that leaves me wanting more.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/google-fitbit-edge-review/",
-          "publishedOn": "2026-10-26T17:00:00.000Z",
-          "wordCount": 5204,
-          "title": "Fitbit Edge Review: Too much and too little at the same time",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-4_53a7c8.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734570",
-          "author": "Andrew Romero",
-          "description": "Even Realities today announced that a new software version will be rolling out to the G2 smart glasses, complete with a personal knowledge base that, thankfully, only remembers what you tell it.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
-          "publishedOn": "2026-10-26T16:41:26.000Z",
-          "wordCount": 3212,
-          "title": "Major Even Realities G2 smart glasses update adds Conversate ‘Pro Mode,’ Knowledge Base",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734580",
-          "author": "Ben Schoon",
-          "description": "Not long after the Oppo Find X10 series launched globally, we’re already hearing details about the company’s Ultra model which is set to pack more impressive cameras – and that’s a pretty tall order.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/oppo-find-x10-ultra-camera-rumors/",
-          "publishedOn": "2026-10-26T16:30:00.000Z",
-          "wordCount": 3102,
-          "title": "Oppo Find X10 Ultra is in the works, and I can’t wait to try its upgraded cameras",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/oppo-find-x10-pro-max-9.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734578",
-          "author": "Justin Kahn",
-          "description": "Alongside one of the lowest prices to date on Google Nest Learning Thermostat (4th gen) (or as much as $92 off open-box units), today’s 9to5Toys Lunch Break is headlined by Lenovo’s early Black Friday deal with $160 off its all-new 4K Yoga Tab Gen 2 stylus/keyboard bundle (all-time low). We also have Nothing’s ultra-affordable CMF Buds Neo down at just $20, the first discounts on the new Nothing CMF speakers starting at $49 Amazon all-time lows, TCL Android tablets up to 35% off at Amazon from $150, and the Anker 2026 Halloween sale now live at up to 42% off. Head below for a closer look. \nmore…",
-          "link": "https://9to5google.com/2026/10/26/deals-yoga-tab-gen-2-google-nest-thermostat-buds-neo/",
-          "publishedOn": "2026-10-26T15:43:18.000Z",
-          "wordCount": 5086,
-          "title": "Deals: Lenovo Yoga Tab Gen 2 $160 off, Nest Thermostat up to $92 off, CMF Buds Neo $20, TCL Android tabs from $150, more",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-26.png?resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734565",
-          "author": "Nicholas Sutrich",
-          "description": "T-Mobile is launching T-Mix, a new trio of plans that come with your choice of 16 popular services bundled in, like Netflix, Apple TV, Xbox Game Pass, YouTube Premium, and more.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/t-mobiles-new-plans-give-away-youtube-premium-xbox-game-pass-and-14-more-for-free/",
-          "publishedOn": "2026-10-26T15:30:26.000Z",
-          "wordCount": 3100,
-          "title": "T-Mobile’s new plans give away YouTube Premium, Xbox Game Pass, and 14 more for free",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/t-mobile-website-honor-magic-v6.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734545",
-          "author": "Ben Schoon",
-          "description": "Apple’s first foldable is running into a problem. iPhone Duo screens are breaking, but is this a case of a flawed design like Samsung’s original Galaxy Fold, user error, or a bit of both?\nmore…",
-          "link": "https://9to5google.com/2026/10/26/iphone-duo-broken-screens-galaxy-fold/",
-          "publishedOn": "2026-10-26T14:45:00.000Z",
-          "wordCount": 3970,
-          "title": "iPhone Duo screens are breaking, but is it a Galaxy Fold moment?",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/iphone-duo-broken-displays.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734546",
-          "author": "Nicholas Sutrich",
-          "description": "It’s time to upgrade my old Nest Thermostat to the latest 4th-gen model, and the bundle even includes a fancy new Nest Temperature Sensor (2nd gen), all for a new low price of $219!\nmore…",
-          "link": "https://9to5google.com/2026/10/26/nest-learning-thermostat-deal-lowest-price-ever/",
-          "publishedOn": "2026-10-26T14:40:00.000Z",
-          "wordCount": 3866,
-          "title": "Google’s latest Nest Learning Thermostat is a steal with new limited-time deal",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2024/08/nest-learning-thermostat-14-3.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734542",
-          "author": "Ben Schoon",
-          "description": "As RAMageddon rages on, brands are making tough choices including price hikes and refocused lineups. According to a new report, Samsung plans to cut production for millions of entry-level and mid-range Galaxy phones.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/samsung-report-production-cuts-mid-range-galaxy-phones/",
-          "publishedOn": "2026-10-26T13:55:00.000Z",
-          "wordCount": 2948,
-          "title": "Samsung reportedly slashes production plans for millions of Galaxy phones",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-a17-6.jpg?quality=82&strip=all&resize=1200,628"
-        },
-        {
-          "id": "https://9to5google.com/?p=734531",
-          "author": "Andrew Romero",
-          "description": "Google announced an expansion of its 3D meeting booths, giving military families access to Google Beam in over 20 locations.\nmore…",
-          "link": "https://9to5google.com/2026/10/26/google-beam-expands-access-to-military-families/",
-          "publishedOn": "2026-10-26T13:00:00.000Z",
-          "wordCount": 3026,
-          "title": "Google Beam 3D meeting booths will expand access for military families",
-          "imageUrl": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Beam-military-5.jpg?quality=82&strip=all&resize=1200,628"
         }
       ]
     },
@@ -5003,6 +5063,556 @@
       "feedUrl": "https://www.androidauthority.com/feed/",
       "siteUrl": "https://www.androidauthority.com/",
       "articles": [
+        {
+          "id": "https://www.androidauthority.com/oneplus-nord-7-leak-3739177/",
+          "author": "Akshay Gangwar",
+          "description": "Is it a simple light bar, or something more like the Pixel HiLight feature? Guess we'll have to wait and see.",
+          "link": "https://www.androidauthority.com/oneplus-nord-7-leak-3739177/",
+          "publishedOn": "2026-11-25T07:28:49.000Z",
+          "wordCount": 1909,
+          "title": "OnePlus Nord 7 leaks with an RGB light strip and a downgraded display",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/04/OnePlus-Nord-6-charging.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-messages-gemini-tasks-3739189/",
+          "author": "Shimul Sood",
+          "description": "Finally, someone who texts you first and brings good news.",
+          "link": "https://www.androidauthority.com/google-messages-gemini-tasks-3739189/",
+          "publishedOn": "2026-11-25T06:58:17.000Z",
+          "wordCount": 1789,
+          "title": "Google Messages gets Gemini Tasks integration for delivery updates, price alerts, and more",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-app-icon-logo-pixel-11-pro-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/motorola-signature-27-shipping-delays-3739165/",
+          "author": "Hillary Keverenge",
+          "description": "A good problem to have for a $1,600 smartphone.",
+          "link": "https://www.androidauthority.com/motorola-signature-27-shipping-delays-3739165/",
+          "publishedOn": "2026-11-25T06:11:27.000Z",
+          "wordCount": 1717,
+          "title": "Motorola Signature 27 demand pushes US delivery dates into December",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/motorola-signature-27-city-streets-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/t-mobile-black-friday-2026-deals-3739162/",
+          "author": "Adamya Sharma",
+          "description": "T-Mobile's Black Friday deals also include a free Razr Fold or Razr Plus with trade-ins or a new line.",
+          "link": "https://www.androidauthority.com/t-mobile-black-friday-2026-deals-3739162/",
+          "publishedOn": "2026-11-25T04:46:44.000Z",
+          "wordCount": 2625,
+          "title": "T-Mobile announces Black Friday 2026 deals: Free Pixel 11 Pro, Galaxy S26 Plus, and more",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/06/Stock-photo-of-the-T-Mobile-logo-scaled-e1759329153159.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/huawei-us-guilty-verdict-3739157/",
+          "author": "Adamya Sharma",
+          "description": "HUAWEI's latest guilty verdict could spell trouble for its smartphones well beyond the US.",
+          "link": "https://www.androidauthority.com/huawei-us-guilty-verdict-3739157/",
+          "publishedOn": "2026-11-25T04:02:04.000Z",
+          "wordCount": 2095,
+          "title": "HUAWEI found guilty of conspiracy to steal trade secrets in the US",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/03/huawei-logo-stock-photo-2-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-home-nest-camera-migration-3739151/",
+          "author": "Adamya Sharma",
+          "description": "No, Google Home's limited Nest camera controls aren't a bug.",
+          "link": "https://www.androidauthority.com/google-home-nest-camera-migration-3739151/",
+          "publishedOn": "2026-11-25T03:28:28.000Z",
+          "wordCount": 1984,
+          "title": "Google explains why your Nest camera is missing some features in the Home app",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/android-auto-app-layout-3739081/",
+          "author": "Stephen Schenck",
+          "description": "Android Auto 18.2 shows new side navigation in Spotify, YouTube Music, and more.",
+          "link": "https://www.androidauthority.com/android-auto-app-layout-3739081/",
+          "publishedOn": "2026-11-24T22:22:44.000Z",
+          "wordCount": 2405,
+          "title": "Android Auto is rolling out a new app navigation layout perfect for wide displays",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/10/android-auto-launcher-home-screen-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-photos-galaxy-save-as-copy-bug-3739074/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "We've reproduced the issue on a Galaxy S23 FE.",
+          "link": "https://www.androidauthority.com/google-photos-galaxy-save-as-copy-bug-3739074/",
+          "publishedOn": "2026-11-24T22:21:36.000Z",
+          "wordCount": 2236,
+          "title": "Google Photos is forcing some Galaxy users to save every minor edit as a copy",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/04/Gogole-photos-logo-on-smartphone-next-to-other-devices-and-picture-frame-Stock-photo-6.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/anbernic-rg-dds-showcase-trailer-3739100/",
+          "author": "Ryan McNeal",
+          "description": "Anbernic’s new RG DDS showcase quietly leaves emulator names off the screen.",
+          "link": "https://www.androidauthority.com/anbernic-rg-dds-showcase-trailer-3739100/",
+          "publishedOn": "2026-11-24T22:11:15.000Z",
+          "wordCount": 1697,
+          "title": "Anbernic’s latest RG DDS showcase avoids naming emulators after controversy",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/ANBERNIC-RG-DDS-YouTube-Still.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/vibe-coded-kindle-weather-stations-3739077/",
+          "author": "Chandra Steele",
+          "description": "Kindles are getting new life after being discontinued.",
+          "link": "https://www.androidauthority.com/vibe-coded-kindle-weather-stations-3739077/",
+          "publishedOn": "2026-11-24T21:39:29.000Z",
+          "wordCount": 1821,
+          "title": "Tinkerers are turning old Kindles into DIY weather stations with a little help from AI",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/11/Assorted-Kindle-models-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/beats-studio-buds-plus-black-friday-deal-3739072/",
+          "author": "Matt Horne",
+          "description": "Save $80 on Beats' noise canceling earbuds with Apple and Android features, in every color.",
+          "link": "https://www.androidauthority.com/beats-studio-buds-plus-black-friday-deal-3739072/",
+          "publishedOn": "2026-11-24T21:30:03.000Z",
+          "wordCount": 1760,
+          "title": "Beats Studio Buds Plus are 47% off, matching their lowest price",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/05/Beats-Studio-Buds-Plus-earbuds-case-full-close-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/android-auto-google-maps-black-screen-3739042/",
+          "author": "Ryan McNeal",
+          "description": "Drivers are stuck staring at a black screen instead of Google Maps.",
+          "link": "https://www.androidauthority.com/android-auto-google-maps-black-screen-3739042/",
+          "publishedOn": "2026-11-24T20:52:12.000Z",
+          "wordCount": 1906,
+          "title": "Android Auto bug is turning Google Maps into a black screen",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/10/Android-Auto-2024.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-messages-threaded-replies-apple-imessage-3738989/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "Threaded replies will likely work across individual and group chats.",
+          "link": "https://www.androidauthority.com/google-messages-threaded-replies-apple-imessage-3738989/",
+          "publishedOn": "2026-11-24T19:37:31.000Z",
+          "wordCount": 2662,
+          "title": "Google Messages is preparing iMessage-style threaded replies to make chats easier to follow",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-messages-logo-pixel-11-pro-close-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/lenovo-legion-go-beam-3738970/",
+          "author": "Stephen Schenck",
+          "description": "It doesn't look like this will be a Windows handheld, after all.",
+          "link": "https://www.androidauthority.com/lenovo-legion-go-beam-3738970/",
+          "publishedOn": "2026-11-24T19:28:25.000Z",
+          "wordCount": 2162,
+          "title": "Lenovo Legion Go Beam gaming handheld leaks with Android support and PC streaming",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/lenovo-legion-go-beam-wl-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/chromecast-google-tv-hd-first-2026-update-3739022/",
+          "author": "Hillary Keverenge",
+          "description": "It's a much smaller download than its 4K sibling's.",
+          "link": "https://www.androidauthority.com/chromecast-google-tv-hd-first-2026-update-3739022/",
+          "publishedOn": "2026-11-24T19:22:48.000Z",
+          "wordCount": 1533,
+          "title": "Chromecast with Google TV HD gets its first security update of the year",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/05/Chromecast-with-Google-TV-remote-on-hand-stock-photo-2.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/apple-watch-se-3-cellular-record-low-deal-3738940/",
+          "author": "Matt Horne",
+          "description": "Save $70 on the 44mm Apple Watch SE 3 with 5G, its lowest price yet ahead of Black Friday.",
+          "link": "https://www.androidauthority.com/apple-watch-se-3-cellular-record-low-deal-3738940/",
+          "publishedOn": "2026-11-24T19:15:49.000Z",
+          "wordCount": 1754,
+          "title": "Cellular Apple Watch SE 3 hits a new low at $259",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/Apple-Watch-SE-3-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/us-trade-in-values-increasing-3738967/",
+          "author": "Ryan McNeal",
+          "description": "Old phones are fetching higher trade-in payouts than last year.",
+          "link": "https://www.androidauthority.com/us-trade-in-values-increasing-3738967/",
+          "publishedOn": "2026-11-24T18:32:20.000Z",
+          "wordCount": 1700,
+          "title": "Your old smartphone is likely worth more now as a trade-in than it was last year",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/08/Android-camera-phones-H2-2025.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/oneplus-one-android-16-update-3738957/",
+          "author": "Hillary Keverenge",
+          "description": "Android 17 is already next on the developer's agenda.",
+          "link": "https://www.androidauthority.com/oneplus-one-android-16-update-3738957/",
+          "publishedOn": "2026-11-24T18:12:13.000Z",
+          "wordCount": 1802,
+          "title": "The 12-year-old OnePlus One is now running Android 16 thanks to LineageOS",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/02/OnePlus-One-Back-on-Chair.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/google-home-duplicate-devices-bug-3738934/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "Some devices are showing up as both lights and outlets.",
+          "link": "https://www.androidauthority.com/google-home-duplicate-devices-bug-3738934/",
+          "publishedOn": "2026-11-24T17:47:00.000Z",
+          "wordCount": 1988,
+          "title": "Google Home bug is cluttering device lists with redundant tiles",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/12/google-home-app-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/best-black-friday-phone-deals-3738947/",
+          "author": "Matt Horne",
+          "description": "Save up to $500 on top smartphones from the biggest Android manufacturers with these Black Friday smartphone deals.",
+          "link": "https://www.androidauthority.com/best-black-friday-phone-deals-3738947/",
+          "publishedOn": "2026-11-24T17:11:55.000Z",
+          "wordCount": 5111,
+          "title": "Best Black Friday phone deals on Samsung, Google, Nothing, and more",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/pixel-11-vs-s26-ultra-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/alienware-34-gaming-monitor-deal-3738937/",
+          "author": "Matt Horne",
+          "description": "The Alienware 34 AW3426DWM is 33% off on Amazon, a new low for this 240Hz ultrawide this Black Friday season.",
+          "link": "https://www.androidauthority.com/alienware-34-gaming-monitor-deal-3738937/",
+          "publishedOn": "2026-11-24T16:55:40.000Z",
+          "wordCount": 1704,
+          "title": "Alienware’s 34-inch curved gaming monitor drops $130 to a record low",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Alienware-34-Gaming-Monitor-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/motorola-razr-2027-possible-launch-date-3738927/",
+          "author": "Ryan McNeal",
+          "description": "The Motorola Razr 2027 series could make its debut during CES.",
+          "link": "https://www.androidauthority.com/motorola-razr-2027-possible-launch-date-3738927/",
+          "publishedOn": "2026-11-24T16:32:51.000Z",
+          "wordCount": 2206,
+          "title": "Motorola Razr 2027 leak suggests a January launch is in the cards",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/motorola-razr-plus-2026-flowers-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/mangmi-air-x-pro-specs-display-processor-3738916/",
+          "author": "Chethan Rao",
+          "description": "Take a better look at Mangmi’s upcoming Android gaming handheld.",
+          "link": "https://www.androidauthority.com/mangmi-air-x-pro-specs-display-processor-3738916/",
+          "publishedOn": "2026-11-24T16:20:56.000Z",
+          "wordCount": 1748,
+          "title": "Mangmi shows off the Air X Pro with Snapdragon 865 and a 5.5-inch 1080p screen",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/mangmi-air-x-pro.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/honor-wide-foldable-march-2027-launch-creaseless-display-3738885/",
+          "author": "Karandeep Singh Oberoi",
+          "description": "HONOR’s answer to the iPhone Duo and the Z Fold 8 comes next year.",
+          "link": "https://www.androidauthority.com/honor-wide-foldable-march-2027-launch-creaseless-display-3738885/",
+          "publishedOn": "2026-11-24T15:30:11.000Z",
+          "wordCount": 1987,
+          "title": "HONOR’s first wide foldable is tipped for a March 2027 launch with a seamless new hinge",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/Oppo-Find-N6-Side-on-no-crease.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/hyperx-cloud-jet-black-friday-deal-3738910/",
+          "author": "Matt Horne",
+          "description": "HyperX's dual wireless gaming headset is down to $29.99 on Amazon, its lowest price yet.",
+          "link": "https://www.androidauthority.com/hyperx-cloud-jet-black-friday-deal-3738910/",
+          "publishedOn": "2026-11-24T15:26:41.000Z",
+          "wordCount": 1707,
+          "title": "Save 63% on the HyperX Cloud Jet ahead of Black Friday",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/HyperX-Cloud-Jet-Press-Image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/cmf-buds-2a-deal-3738909/",
+          "author": "Matt Horne",
+          "description": "Nothing's budget sub-brand has its entry-level ANC earbuds at 38% off, a new low ahead of Black Friday.",
+          "link": "https://www.androidauthority.com/cmf-buds-2a-deal-3738909/",
+          "publishedOn": "2026-11-24T15:07:18.000Z",
+          "wordCount": 1728,
+          "title": "CMF Buds 2a noise canceling earbuds drop to a record-low $17.89",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/CMF-Buds-2a-White-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/jbl-tune-510bt-deal-3738908/",
+          "author": "Matt Horne",
+          "description": "Save $30 on JBL's foldable wireless headphones in Black, now at their lowest price ever on Amazon.",
+          "link": "https://www.androidauthority.com/jbl-tune-510bt-deal-3738908/",
+          "publishedOn": "2026-11-24T14:50:46.000Z",
+          "wordCount": 1726,
+          "title": "JBL Tune 510BT headphones are 60% off in a record-low deal",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2021/11/JBL-Tune-510BT-Wireless-Headphones.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/garmin-vivoactive-5-record-low-deal-3738907/",
+          "author": "Matt Horne",
+          "description": "The Orchid model is 49% off on Amazon, bringing Garmin's AMOLED fitness watch to its lowest price yet.",
+          "link": "https://www.androidauthority.com/garmin-vivoactive-5-record-low-deal-3738907/",
+          "publishedOn": "2026-11-24T14:42:00.000Z",
+          "wordCount": 1748,
+          "title": "Garmin Vivoactive 5 drops to a new low with $148 off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/09/Garmin-vivoactive-5-watch-face-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/apple-airtag-2-record-low-deal-3738906/",
+          "author": "Matt Horne",
+          "description": "Save 38% on Apple's latest tracker and keep tabs on your keys, bags, and more this Black Friday season.",
+          "link": "https://www.androidauthority.com/apple-airtag-2-record-low-deal-3738906/",
+          "publishedOn": "2026-11-24T14:38:58.000Z",
+          "wordCount": 1742,
+          "title": "Apple AirTag 2 hits a record-low $18 ahead of Black Friday",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/08/Apple-AirTag-2-beside-car-keys.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/huawei-watch-air-launched-3738764/",
+          "author": "Tushar Mehta",
+          "description": "And it runs with both Android and iOS, alongside Harmony OS phones.",
+          "link": "https://www.androidauthority.com/huawei-watch-air-launched-3738764/",
+          "publishedOn": "2026-11-24T14:14:37.000Z",
+          "wordCount": 2204,
+          "title": "HUAWEI’s new Watch Air is slimmer and lighter than any Pixel Watch or Galaxy Watch ever",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/huawei-watch-air-silver-and-gold.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/ugreen-nexode-air-100w-deal-3738526/",
+          "author": "Matt Horne",
+          "description": "Prime members can get UGREEN's Nexode Air 100W charger and cable for $34.19 this Black Friday season.",
+          "link": "https://www.androidauthority.com/ugreen-nexode-air-100w-deal-3738526/",
+          "publishedOn": "2026-11-24T14:13:51.000Z",
+          "wordCount": 1751,
+          "title": "Pack light with UGREEN’s tiny Nexode Air 100W charger at 32% off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/UGREEN-Nexode-Air-100W-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/sony-ult-field-5-deal-3738483/",
+          "author": "Matt Horne",
+          "description": "Sony's waterproof stereo speaker is 46% off on Amazon, with 25 hours of battery life and a floating design.",
+          "link": "https://www.androidauthority.com/sony-ult-field-5-deal-3738483/",
+          "publishedOn": "2026-11-24T13:56:52.000Z",
+          "wordCount": 1717,
+          "title": "Sony ULT Field 5 speaker matches its record low at $162 off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Sony-ULT-Field-5-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/youtube-music-library-pinning-3737993/",
+          "author": "Adamya Sharma",
+          "description": "Spotify users have enjoyed library pinning for a while, and it looks like YouTube Music is finally catching up.",
+          "link": "https://www.androidauthority.com/youtube-music-library-pinning-3737993/",
+          "publishedOn": "2026-11-24T13:54:36.000Z",
+          "wordCount": 2560,
+          "title": "YouTube Music could finally let you pin your favorite playlists and albums where they belong",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2020/05/YouTube-Music-on-smartphone-stock-photo-3.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/razer-huntsman-mini-black-friday-deal-3738484/",
+          "author": "Matt Horne",
+          "description": "The Razer Huntsman Mini in Black drops to $65.54 on Amazon, below the $69 it sat at for most of the fall.",
+          "link": "https://www.androidauthority.com/razer-huntsman-mini-black-friday-deal-3738484/",
+          "publishedOn": "2026-11-24T13:41:10.000Z",
+          "wordCount": 1711,
+          "title": "Razer’s Huntsman Mini 60% keyboard is half off at a new low",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/09/Razer-Huntsman-Mini-Keyboard-Press-Image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/beats-360-deal-3738558/",
+          "author": "Matt Horne",
+          "description": "Beats' new flagship headphones with swappable cushions are 29% off on Amazon, the first price cut since launch.",
+          "link": "https://www.androidauthority.com/beats-360-deal-3738558/",
+          "publishedOn": "2026-11-24T13:23:39.000Z",
+          "wordCount": 1716,
+          "title": "Beats 360 get their first discount with $101 off for Black Friday",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Beats-360-SoundGuys-2.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/huawei-launches-continuous-glucose-monitor-3738775/",
+          "author": "Hadlee Simons",
+          "description": "Expect a MARD value of 7.06%, up to 16 days of use, and (unfortunately) a China-only release.",
+          "link": "https://www.androidauthority.com/huawei-launches-continuous-glucose-monitor-3738775/",
+          "publishedOn": "2026-11-24T13:16:36.000Z",
+          "wordCount": 1951,
+          "title": "HUAWEI’s first continuous glucose monitor is here, costs just under $50",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/HUAWEI-Sense-G1-continuous-glucose-monitor-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/t-mobile-pixel-november-update-delay-3738808/",
+          "author": "Hillary Keverenge",
+          "description": "There are some encouraging signs, though.",
+          "link": "https://www.androidauthority.com/t-mobile-pixel-november-update-delay-3738808/",
+          "publishedOn": "2026-11-24T13:11:49.000Z",
+          "wordCount": 2019,
+          "title": "Pixel’s November update is still missing for some T-Mobile, Mint, and Tello users",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-11-pro-back-hand-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/how-does-google-assistant-shutdown-affect-smart-home-open-thread-3738831/",
+          "author": "Andy Walker",
+          "description": "How does Assistant’s demise and Gemini for Home’s rise affect you?",
+          "link": "https://www.androidauthority.com/how-does-google-assistant-shutdown-affect-smart-home-open-thread-3738831/",
+          "publishedOn": "2026-11-24T13:07:46.000Z",
+          "wordCount": 2881,
+          "title": "Poll: How does Google Assistant’s shutdown affect your future smart home plans?",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/03/gemini-google-assistant-smart-home-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/spotify-outage-login-issues-3738825/",
+          "author": "Aamir Siddiqui",
+          "description": "Many users thought their account got hacked or banned from the platform.",
+          "link": "https://www.androidauthority.com/spotify-outage-login-issues-3738825/",
+          "publishedOn": "2026-11-24T12:54:26.000Z",
+          "wordCount": 2310,
+          "title": "Spotify outage locks thousands of users out of accounts with widespread login failures (Updated)",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/logitech-g305-deal-3738559/",
+          "author": "Matt Horne",
+          "description": "Logitech's G305 Lightspeed wireless gaming mouse is 46% off on Amazon, its lowest price in six months.",
+          "link": "https://www.androidauthority.com/logitech-g305-deal-3738559/",
+          "publishedOn": "2026-11-24T12:40:46.000Z",
+          "wordCount": 1673,
+          "title": "Black Friday knocks the Logitech G305 gaming mouse under $27",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2020/07/Logitech-G305-Lightspeed-Wireless-Gaming-Mouse.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/lisen-starlight-retractable-car-charger-deal-3738560/",
+          "author": "Matt Horne",
+          "description": "Save $16 on the LISEN 4-in-1 Starlight car charger, with a retractable USB-C cable and a built-in star projector.",
+          "link": "https://www.androidauthority.com/lisen-starlight-retractable-car-charger-deal-3738560/",
+          "publishedOn": "2026-11-24T12:40:13.000Z",
+          "wordCount": 1720,
+          "title": "Road trip ready: LISEN’s 75W retractable car charger is 41% off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/LISEN-4-In-1-Starlight-Retractable-Car-Charger-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/sony-wf-1000xm6-deal-3738585/",
+          "author": "Matt Horne",
+          "description": "Sony's flagship noise canceling earbuds are 25% off on Amazon, the lowest price they've ever been.",
+          "link": "https://www.androidauthority.com/sony-wf-1000xm6-deal-3738585/",
+          "publishedOn": "2026-11-24T12:17:05.000Z",
+          "wordCount": 1679,
+          "title": "Sony WF-1000XM6 earbuds hit a record low with $82 off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/02/WF-1000XM6-Black-3.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/ugreen-nexode-200w-charger-deal-3738525/",
+          "author": "Matt Horne",
+          "description": "Prime members can save 40% on UGREEN's four-port Nexode 200W charger ahead of Black Friday.",
+          "link": "https://www.androidauthority.com/ugreen-nexode-200w-charger-deal-3738525/",
+          "publishedOn": "2026-11-24T11:53:41.000Z",
+          "wordCount": 1726,
+          "title": "UGREEN’s 200W Nexode charger drops to $59.99 for Prime members",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/06/UGREEN-Nexode-100W-GaN-USB-C-Charger-Press-Image.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/android-scroll-to-top-feature-canary-2611-apk-teardown-3738735/",
+          "author": "Aamir Siddiqui",
+          "description": "Google hasn't added a way to trigger it yet, but you can almost guess what gesture it would adopt for this shortcut.",
+          "link": "https://www.androidauthority.com/android-scroll-to-top-feature-canary-2611-apk-teardown-3738735/",
+          "publishedOn": "2026-11-24T11:50:40.000Z",
+          "wordCount": 3420,
+          "title": "Android Canary 2611 hides an iPhone-style scroll-to-top shortcut, and we got it working",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/09/iPhone-16-Pro-Max-Pixel-9-Pro-XL-Display.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/soundcore-liberty-5-pro-deal-2-3738586/",
+          "author": "Matt Horne",
+          "description": "Anker's call-focused flagship earbuds with a touchscreen case are 24% off on Amazon this Black Friday season.",
+          "link": "https://www.androidauthority.com/soundcore-liberty-5-pro-deal-2-3738586/",
+          "publishedOn": "2026-11-24T11:30:19.000Z",
+          "wordCount": 1699,
+          "title": "Soundcore Liberty 5 Pro earbuds drop to a record low $129.99",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/10/Soundcore-Liberty-5-Pro-SoundGuys-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/huawei-mate-x8-foldable-launched-3738728/",
+          "author": "Hadlee Simons",
+          "description": "HUAWEI might not have Google support, but the Mate X8 has hardware to duke it out with the best of them.",
+          "link": "https://www.androidauthority.com/huawei-mate-x8-foldable-launched-3738728/",
+          "publishedOn": "2026-11-24T11:20:46.000Z",
+          "wordCount": 2315,
+          "title": "HUAWEI Mate X8 launched with foldable hardware that embarrasses Samsung, Google",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/HUAWEI-Mate-X8-purple-variant.jpeg"
+        },
+        {
+          "id": "https://www.androidauthority.com/whatsapp-emoji-gif-sticker-picker-redesign-3738712/",
+          "author": "Tushar Mehta",
+          "description": "With a clearner interface that's easier to navigate.",
+          "link": "https://www.androidauthority.com/whatsapp-emoji-gif-sticker-picker-redesign-3738712/",
+          "publishedOn": "2026-11-24T11:04:42.000Z",
+          "wordCount": 2694,
+          "title": "WhatsApp is testing new redesigned emoji, GIF, and sticker pickers for Android",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2020/02/WhatsApp-by-Facebook-stock-photo-3.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/expensive-vs-cheap-phone-camera-2026-3735053/",
+          "author": "Robert Triggs",
+          "description": "Can the Pixel 10a go toe-to-toe with this year's best camera phone?",
+          "link": "https://www.androidauthority.com/expensive-vs-cheap-phone-camera-2026-3735053/",
+          "publishedOn": "2026-11-24T11:00:55.000Z",
+          "wordCount": 6649,
+          "title": "Expensive vs cheap phone camera: Can you really tell the difference?",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Affordable-vs-expensive-camera-phones-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/jbl-live-680nc-black-friday-deal-3738557/",
+          "author": "Matt Horne",
+          "description": "Save $81 on the JBL Live 680NC (2026) in Black, with adaptive ANC, LDAC, and up to 80 hours of battery life.",
+          "link": "https://www.androidauthority.com/jbl-live-680nc-black-friday-deal-3738557/",
+          "publishedOn": "2026-11-24T10:50:10.000Z",
+          "wordCount": 1740,
+          "title": "JBL Live 680NC headphones drop to a new low at 51% off",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/JBL-Live-680NC-Lifestyle-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/one-ui-9-5-lock-screen-how-to-customize-3738261/",
+          "author": "Pankil Shah",
+          "description": "My lock screen finally feels alive.",
+          "link": "https://www.androidauthority.com/one-ui-9-5-lock-screen-how-to-customize-3738261/",
+          "publishedOn": "2026-11-24T10:30:41.000Z",
+          "wordCount": 2864,
+          "title": "Samsung hid some of One UI 9.5’s coolest customization features: Here’s how to try them",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Samsung-phone-in-hand-showing-One-UI-9.5-lock-screen-edit-menu-scaled.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/sony-ult-tower-5-deal-3738482/",
+          "author": "Matt Horne",
+          "description": "Sony's 300W party speaker with XLR inputs is 34% off on Amazon, a new record low for this year's model.",
+          "link": "https://www.androidauthority.com/sony-ult-tower-5-deal-3738482/",
+          "publishedOn": "2026-11-24T10:19:50.000Z",
+          "wordCount": 1753,
+          "title": "Sony’s ULT Tower 5 gets $152 off in a Black Friday pick",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/Sony-ULT-Tower-5-Featured.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-galaxy-watch-wear-os-3-5-port-3738708/",
+          "author": "Hillary Keverenge",
+          "description": "Eight years later, there's potentially more life in this old watch.",
+          "link": "https://www.androidauthority.com/samsung-galaxy-watch-wear-os-3-5-port-3738708/",
+          "publishedOn": "2026-11-24T10:04:04.000Z",
+          "wordCount": 1644,
+          "title": "Samsung’s Tizen-based Galaxy Watch gets an unofficial Wear OS 3.5 port",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2018/08/Samsung-Galaxy-Watch-Review-9.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/plume-launcher-google-tv-chromecast-3737579/",
+          "author": "Andy Walker",
+          "description": "This 0.4MB launcher is my new Google TV software obsession.",
+          "link": "https://www.androidauthority.com/plume-launcher-google-tv-chromecast-3737579/",
+          "publishedOn": "2026-11-24T10:00:14.000Z",
+          "wordCount": 4164,
+          "title": "Plume is the lightweight Google TV launcher my aging Chromecast needed",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/plume-launcher-home-screen-feature-1.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-apple-iphone-18-pro-3735257/",
+          "author": "Shimul Sood",
+          "description": "The iPhone nearly ruined my loyalty.",
+          "link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-apple-iphone-18-pro-3735257/",
+          "publishedOn": "2026-11-24T09:30:28.000Z",
+          "wordCount": 5987,
+          "title": "The iPhone 18 Pro tempted me for weeks, but the Galaxy S26 Ultra wins where it counts",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/iPhone-18-Pro-vs-Samsung-Galaxy-S26-Ultra-side-by-side.jpg"
+        },
+        {
+          "id": "https://www.androidauthority.com/armflash-flash-games-android-3738669/",
+          "author": "Hadlee Simons",
+          "description": "ARMFlash brings over 200,000 Flash, HTML 5, Shockwave, Java, and PopCap titles to Android.",
+          "link": "https://www.androidauthority.com/armflash-flash-games-android-3738669/",
+          "publishedOn": "2026-11-24T09:02:49.000Z",
+          "wordCount": 1990,
+          "title": "Dev behind top PS3 emulator on Android releases ARMFlash, bringing tons of Flash games to Android",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/11/armflash-alien-hominid-scaled.jpg"
+        },
         {
           "id": "https://www.androidauthority.com/gboard-alternative-heliboard-how-to-install-3737967/",
           "author": "Dhruv Bhutani",
@@ -11111,6 +11721,156 @@
       "siteUrl": "https://www.androidpolice.com",
       "articles": [
         {
+          "id": "https://www.androidpolice.com/one-ui-9-update-brings-samsung-most-crucial-health-feature-to-galaxy-watch-8/",
+          "author": "Jade Bryan Jardinico",
+          "description": "Your Galaxy Watch can now tell whether you're ready for another workout",
+          "link": "https://www.androidpolice.com/one-ui-9-update-brings-samsung-most-crucial-health-feature-to-galaxy-watch-8/",
+          "publishedOn": "2026-11-25T06:19:44.000Z",
+          "wordCount": 5389,
+          "title": "One UI 9 update brings Samsung's most crucial health feature to the Galaxy Watch 8",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/galaxy-watch-8-classic-side-bezel.JPG",
+            "length": "3129",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/galaxy-watch-8-classic-side-bezel.JPG"
+        },
+        {
+          "id": "https://www.androidpolice.com/motorola-razr-2027-leak-shows-it-could-put-samsung-galaxy-z-flip-8-to-shame/",
+          "author": "Jade Bryan Jardinico",
+          "description": "A monster battery in a compact foldable form factor",
+          "link": "https://www.androidpolice.com/motorola-razr-2027-leak-shows-it-could-put-samsung-galaxy-z-flip-8-to-shame/",
+          "publishedOn": "2026-11-25T03:53:00.000Z",
+          "wordCount": 5400,
+          "title": "Motorola’s Razr 2027 leak shows it could put Samsung’s Galaxy Z Flip 8 to shame",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/motorola-razr-2026-70-back-in-hand.JPG",
+            "length": "2510",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/05/motorola-razr-2026-70-back-in-hand.JPG"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-maps-is-still-missing-the-one-feature-i-keep-citymapper-installed-for/",
+          "author": "Jon Gilbert",
+          "description": "I won't uninstall Citymapper",
+          "link": "https://www.androidpolice.com/google-maps-is-still-missing-the-one-feature-i-keep-citymapper-installed-for/",
+          "publishedOn": "2026-11-25T00:00:10.000Z",
+          "wordCount": 5025,
+          "title": "Explanation of Citymapper's comprehensive public transport features",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/03/citymapper-hero-formatted.jpg",
+            "length": "278",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/03/citymapper-hero-formatted.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/gemini-chat-ai-training-opt-out/",
+          "author": "Timi Cantisano",
+          "description": "A quiet addition to Gemini",
+          "link": "https://www.androidpolice.com/gemini-chat-ai-training-opt-out/",
+          "publishedOn": "2026-11-24T22:57:42.000Z",
+          "wordCount": 4575,
+          "title": "Google's Gemini finally lets you keep your chats out of AI training",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-9-pro-xl-gemini-live-demo-4.jpg",
+            "length": "293",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-9-pro-xl-gemini-live-demo-4.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/samsung-wallet-cash-back-setup/",
+          "author": "Ben Khalesi",
+          "description": "Samsung Wallet gives new users 10% extra cash back for 7 days, here's how to qualify",
+          "link": "https://www.androidpolice.com/samsung-wallet-cash-back-setup/",
+          "publishedOn": "2026-11-24T22:39:10.000Z",
+          "wordCount": 4882,
+          "title": "You have 7 days to earn Samsung Wallet's Black Friday 50$ bonus without breaking its rules",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/a-person-holds-an-open-wallet-with-a-physical-id-card-inside-while-the-other-hand-holds-a-samsung-wallet-app-icon.png",
+            "length": "1482",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/a-person-holds-an-open-wallet-with-a-physical-id-card-inside-while-the-other-hand-holds-a-samsung-wallet-app-icon.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-messages-new-threaded-replies-upgrade/",
+          "author": "Timi Cantisano",
+          "description": "To keep chats better organized",
+          "link": "https://www.androidpolice.com/google-messages-new-threaded-replies-upgrade/",
+          "publishedOn": "2026-11-24T21:36:46.000Z",
+          "wordCount": 4548,
+          "title": "Google Messages could finally get a threaded replies upgrade",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-messages-app-displayed-on-google-play-on-nothing-phone-1.jpeg",
+            "length": "447",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-messages-app-displayed-on-google-play-on-nothing-phone-1.jpeg"
+        },
+        {
+          "id": "https://www.androidpolice.com/google-should-leave-a-legacy-assistant-in-place/",
+          "author": "Mark Jansen",
+          "description": "Google Assistant still has its fans, but Google is ignoring them. Why?",
+          "link": "https://www.androidpolice.com/google-should-leave-a-legacy-assistant-in-place/",
+          "publishedOn": "2026-11-24T21:10:10.000Z",
+          "wordCount": 5084,
+          "title": "The people want it, so why won't Google let Google Assistant keep working?",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-assistant-on-pixel-3a-xl.jpg",
+            "length": "1111",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/google-assistant-on-pixel-3a-xl.jpg"
+        },
+        {
+          "id": "https://www.androidpolice.com/i-stopped-typing-my-pin-at-home-extend-unlock-saves-time/",
+          "author": "Rahul Naskar",
+          "description": "Android's best productivity feature is available on most Android phones",
+          "link": "https://www.androidpolice.com/i-stopped-typing-my-pin-at-home-extend-unlock-saves-time/",
+          "publishedOn": "2026-11-24T20:00:10.000Z",
+          "wordCount": 4970,
+          "title": "I stopped typing my PIN at home; the hidden Extend Unlock Android setting saves time every day",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/smiling-woman-on-a-couch-using-a-smartphone-with-icons-illustrating-android-s-extend-unlock-feature.png",
+            "length": "1890",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/smiling-woman-on-a-couch-using-a-smartphone-with-icons-illustrating-android-s-extend-unlock-feature.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/get-an-xbox-wireless-controller-50/",
+          "author": "Timi Cantisano",
+          "description": "The Black Friday deal you can't ignore",
+          "link": "https://www.androidpolice.com/get-an-xbox-wireless-controller-50/",
+          "publishedOn": "2026-11-24T19:59:13.000Z",
+          "wordCount": 4380,
+          "title": "Xbox Wireless Controller plus $50 gift card now $78 at Newegg",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/copy-of-169-15.png",
+            "length": "1903",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/copy-of-169-15.png"
+        },
+        {
+          "id": "https://www.androidpolice.com/black-friday-samsung-galaxy-s26-fe-deal-amazon-sale/",
+          "author": "Patrick Farmer",
+          "description": "The Google Pixel 10a has some real competition this Black Friday",
+          "link": "https://www.androidpolice.com/black-friday-samsung-galaxy-s26-fe-deal-amazon-sale/",
+          "publishedOn": "2026-11-24T17:37:50.000Z",
+          "wordCount": 4496,
+          "title": "The Samsung Galaxy S26 FE finally drops to the price it should've had at launch",
+          "enclosure": {
+            "url": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-s26-fe-ladi.jpg",
+            "length": "185",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/samsung-galaxy-s26-fe-ladi.jpg"
+        },
+        {
           "id": "https://www.androidpolice.com/google-finally-fixed-most-frustrating-thing-about-screenless-fitbit-air/",
           "author": "Jade Bryan Jardinico",
           "description": "I stop guessing whether my Fitbit or Pixel Watch actually started tracking my workout",
@@ -13367,6 +14127,156 @@
       "feedUrl": "https://www.xda-developers.com/feed/",
       "siteUrl": "https://www.xda-developers.com",
       "articles": [
+        {
+          "id": "https://www.xda-developers.com/someone-used-claude-code-to-make-a-kolibrios-compatible-os-that-runs-off-an-esp32-p4/",
+          "author": "Simon Batt",
+          "description": "You can download it for your own microcontroller, too.",
+          "link": "https://www.xda-developers.com/someone-used-claude-code-to-make-a-kolibrios-compatible-os-that-runs-off-an-esp32-p4/",
+          "publishedOn": "2026-11-25T06:49:37.000Z",
+          "wordCount": 4163,
+          "title": "Someone used Claude Code to make a KolibriOS-compatible OS that runs off an ESP32-P4",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zigbee-air-scanner-esp32-p4-2.jpg",
+            "length": "2913",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/zigbee-air-scanner-esp32-p4-2.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/claudes-new-feature-can-turn-your-favorite-artifacts-into-standalone-windows-and-macos-apps/",
+          "author": "Simon Batt",
+          "description": "There are some caveats, though.",
+          "link": "https://www.xda-developers.com/claudes-new-feature-can-turn-your-favorite-artifacts-into-standalone-windows-and-macos-apps/",
+          "publishedOn": "2026-11-25T05:47:29.000Z",
+          "wordCount": 4188,
+          "title": "Claude’s new feature turns your favorite artifacts into standalone Windows and macOS apps",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-code-proxmox.jpg",
+            "length": "16586",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/claude-code-proxmox.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/pop-os-2604-lts-fixes-the-biggest-problem-with-making-your-desktop-look-good/",
+          "author": "Simon Batt",
+          "description": "It even has a cute name.",
+          "link": "https://www.xda-developers.com/pop-os-2604-lts-fixes-the-biggest-problem-with-making-your-desktop-look-good/",
+          "publishedOn": "2026-11-25T03:27:45.000Z",
+          "wordCount": 4152,
+          "title": "Pop!_OS 26.04 LTS fixes the biggest problem with making your desktop look good on COSMIC",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/pop-os-2-1.jpg",
+            "length": "4605",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/04/pop-os-2-1.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/this-1gbps-tp-link-usb-to-ethernet-adapter-with-switch-support-drops-to-just-929/",
+          "author": "XDA Deals Desk",
+          "description": "A cheap way to get a wired connection",
+          "link": "https://www.xda-developers.com/this-1gbps-tp-link-usb-to-ethernet-adapter-with-switch-support-drops-to-just-929/",
+          "publishedOn": "2026-11-25T01:32:50.000Z",
+          "wordCount": 4113,
+          "title": "This TP-Link 1Gbps USB-C to Ethernet Adapter is under $10 now",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/tp-link-usb-c-to-ethernet.jpg",
+            "length": "50",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/tp-link-usb-c-to-ethernet.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/i-ran-one-windows-command-and-it-showed-me-every-wi-fi-password-ive-used/",
+          "author": "Samarveer Singh",
+          "description": "Windows really needs to learn when to forget",
+          "link": "https://www.xda-developers.com/i-ran-one-windows-command-and-it-showed-me-every-wi-fi-password-ive-used/",
+          "publishedOn": "2026-11-25T01:00:20.000Z",
+          "wordCount": 5735,
+          "title": "I ran one Windows command and it showed me every Wi-Fi password I've used since 2019",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/wlan-netsh-command-running-on-oled-laptop-windows-11.jpg",
+            "length": "2348",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/wlan-netsh-command-running-on-oled-laptop-windows-11.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/gave-my-android-phone-three-automatic-rules-it-stopped-interrupting-me-at-the-wrong-time/",
+          "author": "Parth Shah",
+          "description": "I automated away my biggest distractions",
+          "link": "https://www.xda-developers.com/gave-my-android-phone-three-automatic-rules-it-stopped-interrupting-me-at-the-wrong-time/",
+          "publishedOn": "2026-11-25T00:00:20.000Z",
+          "wordCount": 4665,
+          "title": "I gave my Android phone three automatic rules, and it stopped interrupting me at the wrong time",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/improve-samsung-phone-battery-life-1.jpg",
+            "length": "3603",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/improve-samsung-phone-battery-life-1.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/corsairs-vengeance-ddr5-16gb-ram-drops-to-just-22999-for-black-friday/",
+          "author": "XDA Deals Desk",
+          "description": "Matches the lowest price we've seen",
+          "link": "https://www.xda-developers.com/corsairs-vengeance-ddr5-16gb-ram-drops-to-just-22999-for-black-friday/",
+          "publishedOn": "2026-11-24T23:39:58.000Z",
+          "wordCount": 4012,
+          "title": "Corsair's Vengeance DDR5 16GB RAM is at its lowest price yet",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2024/07/corsair-vengeance-rgb-white-ram-in-pc.jpg",
+            "length": "476",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2024/07/corsair-vengeance-rgb-white-ram-in-pc.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/decompilation-projects-have-quietly-brought-more-classic-games-to-pc-than-any-official-remaster-program/",
+          "author": "Ty Sherback",
+          "description": "Fan decompilations have done more for classic IPs than publishers have",
+          "link": "https://www.xda-developers.com/decompilation-projects-have-quietly-brought-more-classic-games-to-pc-than-any-official-remaster-program/",
+          "publishedOn": "2026-11-24T23:00:20.000Z",
+          "wordCount": 5739,
+          "title": "Decompilation projects have quietly brought more classic games to PC than any official remaster program",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/img_4657.jpg",
+            "length": "1613",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/img_4657.jpg"
+        },
+        {
+          "id": "https://www.xda-developers.com/apps-that-give-your-google-pixel-features-it-shouldve-had-all-along/",
+          "author": "Brian Burgess",
+          "description": "These apps finally gave my Pixel what it should have had from the beginning.",
+          "link": "https://www.xda-developers.com/apps-that-give-your-google-pixel-features-it-shouldve-had-all-along/",
+          "publishedOn": "2026-11-24T22:30:20.000Z",
+          "wordCount": 4780,
+          "title": "4 apps that give your Google Pixel features it should've had all along",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/essential-app-menu-options-for-customizing-pixel.JPEG",
+            "length": "190",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/essential-app-menu-options-for-customizing-pixel.JPEG"
+        },
+        {
+          "id": "https://www.xda-developers.com/asuss-rog-swift-27-inch-1440p-gaming-monitor-with-a-280hz-refresh-rate-drops-to-just-379/",
+          "author": "XDA Deals Desk",
+          "description": "A 280Hz screen, an in-cart coupon, and a free gift",
+          "link": "https://www.xda-developers.com/asuss-rog-swift-27-inch-1440p-gaming-monitor-with-a-280hz-refresh-rate-drops-to-just-379/",
+          "publishedOn": "2026-11-24T22:20:21.000Z",
+          "wordCount": 4356,
+          "title": "ASUS's ROG Swift Monitor with a 280Hz refresh rate drops to just $379",
+          "enclosure": {
+            "url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/asus-s-rog-swift-27-inch-1440p-edited.jpg",
+            "length": "457",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/11/asus-s-rog-swift-27-inch-1440p-edited.jpg"
+        },
         {
           "id": "https://www.xda-developers.com/this-3d-printable-giant-esp32-model-is-great-for-education-or-making-your-workspace-look-cool/",
           "author": "Simon Batt",
